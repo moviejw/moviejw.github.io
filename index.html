@@ -1,5 +1,35 @@
-<html>
-	<body>
-		sibal! github desktop mandun saram juckara!
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card Data</title>
+  <script>
+    
+    async function fetchCardData() {
+      try {
+        const response = await fetch('https://moviejw.github.io/data/cards.json');
+        const data = await response.json();
+        displayCards(data.cards);
+      } catch (error) {
+        console.error('Error fetching the card data:', error);
+      }
+    }
+
+    function displayCards(cards) {
+      const cardContainer = document.getElementById('card-container');
+      cards.forEach(card => {
+        const cardElement = document.createElement('div');
+        cardElement.innerHTML = `<h2>${card.name}</h2><p>${card.description}</p>`;
+        cardContainer.appendChild(cardElement);
+      });
+    }
+
+    window.onload = fetchCardData;
+  </script>
+</head>
+<body>
+  <h1>Card Data</h1>
+  <div id="card-container"></div>
+</body>
 </html>

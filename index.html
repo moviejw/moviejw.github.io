@@ -150,7 +150,7 @@
         '"': '&quot;',
         "'": '&#039;'
         };
-        return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+        return text.replace(new RegExp("[&<>\'\"']", 'g'), function(m) { return map[m]; });
     }
   </script>
 </head>

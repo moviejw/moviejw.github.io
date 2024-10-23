@@ -83,18 +83,39 @@
 
     // 카드 세부 정보를 표시하는 함수
     async function loadCardDetails(fileName, input) {
-      try {
-        const response2 = await fetch(`https://moviejw.github.io/discord/${fileName}`);
-        const cardData = await response2.json();
-        //document.getElementById('korean-name').textContent = cardData.message;
-        document.getElementById('english-name').textContent = input;
-        document.getElementById('card-description').textContent = cardData.messages[0].content; 
-        document.getElementById('main').style.display = 'none';
-        document.getElementById('result').style.display = 'block';
-      } catch (error) {
-        console.error('Error loading card details:', error);
+  try {
+    const response2 = await fetch(`https://moviejw.github.io/discord/${fileName}`);
+    const cardData = await response2.json();
+
+    // 'result' 영역을 초기화
+    document.getElementById('english-name').textContent = input;
+    let messageContent = '';
+
+    let previousAuthor = ''; // 이전 메시지 작성자의 이름을 저장
+
+    cardData.messages.forEach(message => {
+      const author = message.author.name;
+      const content = message.content;
+
+      // 새로운 작성자의 메시지가 나오면 줄바꿈 추가
+      if (author !== previousAuthor) {
+        if (previousAuthor !== '') {
+          messageContent += '<br><br>'; // 줄바꿈 두 번
+        }
+        previousAuthor = author;
       }
-    }
+
+      // 메시지 작성자의 이름과 내용 추가
+      messageContent += `<strong>${author}:</strong> ${content}<br>`;
+    });
+
+    document.getElementById('card-description').innerHTML = messageContent;
+    document.getElementById('main').style.display = 'none';
+    document.getElementById('result').style.display = 'block';
+  } catch (error) {
+    console.error('Error loading card details:', error);
+  }
+}
 
     // 입력 처리 함수
     function handleSearch() {
@@ -122,14 +143,14 @@
 
   <!-- 메인 화면 -->
   <div id="main">
-    <h1>Downfall Discussion</h1>
+    <h1>다운폴 일일토론</h1>
     <input type="text" id="search-input" placeholder="카드명을 입력하세요" onkeypress="handleKeyPress(event)">
     <button onclick="handleSearch()">확인</button>
   </div>
 
   <!-- 결과 화면 -->
   <div id="result">
-    <h1>Card Details</h1>
+    <h1>카드 상세</h1>
     <div class="card-info">
       <strong>한국어명:</strong> <span id="korean-name"></span>
     </div>
@@ -137,7 +158,7 @@
       <strong>영어명:</strong> <span id="english-name"></span>
     </div>
     <div class="card-info">
-      <strong>설명:</strong> <span id="card-description"></span>
+      <strong>토론:</strong> <span id="card-description"></span>
     </div>
     <button onclick="goToMain()">메인으로 돌아가기</button>
   </div>

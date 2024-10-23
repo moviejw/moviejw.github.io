@@ -84,7 +84,7 @@
     // 카드 세부 정보를 표시하는 함수
     async function loadCardDetails(fileName, input) {
       try {
-        const response2 = await fetch(`https://moviejw.github.io/cards/${fileName}`);
+        const response2 = await fetch(`https://moviejw.github.io/discord/${fileName}`);
         const cardData = await response2.json();
         //document.getElementById('korean-name').textContent = cardData.message;
         document.getElementById('english-name').textContent = input;

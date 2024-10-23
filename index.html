@@ -95,7 +95,7 @@
 
     cardData.messages.forEach(message => {
       const author = message.author.name;
-      const content = message.content;
+      let content = message.content;
 
       if (content === "") return;
 

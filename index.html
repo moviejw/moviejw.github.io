@@ -99,6 +99,8 @@
 
       if (content === "") return;
 
+      content = escapeHtml(content);
+
       // 새로운 작성자의 메시지가 나오면 줄바꿈 추가
       if (author !== previousAuthor) {
         if (previousAuthor !== '') {

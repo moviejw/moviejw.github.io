@@ -1,0 +1,1039 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1104140923459346502",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "The Nest (event) - Daily Discussion 5 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:11:26.0411141+09:00",
+  "messages": [
+    {
+      "id": "1104140927066447913",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:21:50.959+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104140929117474857",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:21:51.448+09:00",
+      "timestampEdited": "2023-05-07T05:22:21.788+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nMind Bloom (event): 4\nXanatos' Icy Charm (Hexaghost relic): 3\nTricky's Bolster-Rod (relic): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104140930308644976",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:21:51.732+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 188/798",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#465042",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/LE35kfNU8KQwvGk0rLswcjhP87HsDDb-kSrakQV9JmI/https/slay.ocean.lol/extraimages/events/thenest.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/LE35kfNU8KQwvGk0rLswcjhP87HsDDb-kSrakQV9JmI/https/slay.ocean.lol/extraimages/events/thenest.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "The Nest",
+          "url": null,
+          "timestamp": null,
+          "description": "Event / Act ? / All / Downfall\n```ansi\n\u001B[2;37m[Return Statue \u001B[0;2m(requires Broken Wing Statue)\u001B[2;37m] \u001B[2;31mLose Broken Wing Statue. \u001B[2;32mGain \u001B[0;2mRitual Dagger+ \u001B[2;32mwith 20 damage \u001B[0;2mand a \u001B[2;32mCultist Potion.\n``````ansi\n\u001B[2;37m[Steal\u001B[2;37m] \u001B[2;32mObtain \u001B[0;2mRitual Dagger. \u001B[2;31mLose 6 HP.\n``````ansi\n\u001B[2;37m[Accept\u001B[2;37m] \u001B[2;32mGain Cultist Potion.\n``````ansi\n\u001B[2;37m[Continue\u001B[2;37m] \n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LE35kfNU8KQwvGk0rLswcjhP87HsDDb-kSrakQV9JmI/https/slay.ocean.lol/extraimages/events/thenest.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141104749748304",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:22:33.322+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the already upgraded dagger with extra damage really accelerates you fast",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141290830057612",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:23:17.687+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cultist pot is alright, but a 20 damage start dagger means you kill things faster, and makes it easier to kill things faster later too",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141387508760666",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:23:40.737+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the chance of actually getting wing statue and taking it here though is low",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141391287828601",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:23:41.638+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think you only see this one in act 2",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141447952863402",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:23:55.148+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so ritual dagger pick alone is pretty ymmv",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141455829774518",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:23:57.026+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "especially since sharpened fragment is so good to sacrifice the statue for",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141477745016913",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:02.251+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "since that starts as a strike",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141521084764261",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:12.584+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<ritual dagger>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141526096945172",
+      "type": "Reply",
+      "timestamp": "2023-05-06T05:24:13.779+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ritual Dagger",
+          "url": "https://slay-the-spire.fandom.com/wiki/Ritual_Dagger",
+          "timestamp": null,
+          "description": "Special Attack / 1 :e_colorless: / Colorless / Slay the Spire\n\nDeal 15 damage.\nIf **Fatal**, permanently increase this card's damage by 3 (5).\n**Exhaust**.",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WU3H3ekOPC1NYCVy56hgnnXuh1HgNGZtprT99MNlXWY/https/slay.ocean.lol/slay%2520the%2520spire/cards/ritualdagger.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1104141521084764261",
+        "channelId": "1104140923459346502",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1104141539975909528",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:17.088+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh no",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141558401466509",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:21.481+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's 15",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141606178799687",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:32.872+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i nver get the free 20 dmg dagger",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141650265112678",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:43.383+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i vaguely recall something scaling but starting as a strike",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141678635401258",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:50.147+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "because im crystal shiv pilled",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141687313399938",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:52.216+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<cultist strike>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141693034442884",
+      "type": "Reply",
+      "timestamp": "2023-05-06T05:24:53.58+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cultist Strike",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_automaton: / The Automaton / Downfall\n\nDeal 6 (9) damage.\n**Encode.**\n**Compile** - Increase this card's damage by 1 permanently.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/myzgFW30icNMSrd2MvrVtHIfPHfIe3Z-wJIP8llz2tY/https/slay.ocean.lol/downfall/cards/bronze-chosenstrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1104141687313399938",
+        "channelId": "1104140923459346502",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1104141709429985400",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:24:57.489+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh that's it",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141734390272000",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:25:03.44+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sencheese:",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141772176773263",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:25:12.449+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "virgin cultist dagger vc chad cultist strike",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141772562632724",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:25:12.541+09:00",
+      "timestampEdited": "2023-05-06T05:25:16.397+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah too bad there's no interaction between the cultists and cultist strike",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104141967920738386",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:25:59.118+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CAW CAW",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104142034727608420",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:26:15.046+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but yeah it's like",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104142060988145664",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:26:21.307+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you need to take events early in act 2",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104142118290718843",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:26:34.969+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and roll this quickly instead of just running into cultist/chosen",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104142175521996963",
+      "type": "Default",
+      "timestamp": "2023-05-06T05:26:48.614+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "to actually get the upgraded dagger",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104161398700912680",
+      "type": "Default",
+      "timestamp": "2023-05-06T06:43:11.777+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To start with sharpened fragment from the wing statue event is an incredibly strong relic, and pairs incredibly well with the ninja relics, so it's fairly likely that you don't take the broken wing statue in most runs. The ritual dagger+ with a head start is really good, but it's a tough sell to just hope you run into this event later, rather than taking the immediate benefit of sharpened fragment.\n\nWhen you run into this without having a broken wing statue, both choices are reasonable, the cultist potion is a good solution to damage scaling for book of stabbing/gremlin leader and most of the act 2 bosses (I'm fairly certain this is an act 2 exclusive event, it definitely is in traditional mode). The ritual dagger is nice if you have runic pyramid or other ways to line it up on the right turn, or just really need better front-loaded damage solutions.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104189009917378580",
+      "type": "Default",
+      "timestamp": "2023-05-06T08:32:54.804+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah unfortunately taking the statue isn't very good",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104189093228859432",
+      "type": "Default",
+      "timestamp": "2023-05-06T08:33:14.667+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is there a way to program it so you always get this event if you take the statue?",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104189125516599326",
+      "type": "Default",
+      "timestamp": "2023-05-06T08:33:22.365+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think that would be OP",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104189159897313310",
+      "type": "Default",
+      "timestamp": "2023-05-06T08:33:30.562+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But I also don't know if that's possible",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104189296447082597",
+      "type": "Default",
+      "timestamp": "2023-05-06T08:34:03.118+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wonder what devs will do for chosen meeting birds",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104256009523961886",
+      "type": "Default",
+      "timestamp": "2023-05-06T12:59:08.755+09:00",
+      "timestampEdited": "2023-05-06T13:02:58.916+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "free cultist potion. Not the best event but also not the worst. cultist pot is really only used on bosses but it can be worth saving one if your deck does not have enough scaling to beat one comfortably",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1104256141267058829",
+      "type": "Default",
+      "timestamp": "2023-05-06T12:59:40.165+09:00",
+      "timestampEdited": "2023-05-06T13:00:10.069+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't usually take ritual dagger because its not very strong because of the downfall power creep; it can be okay with guardian, gremlins and snecko though",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 36
+}

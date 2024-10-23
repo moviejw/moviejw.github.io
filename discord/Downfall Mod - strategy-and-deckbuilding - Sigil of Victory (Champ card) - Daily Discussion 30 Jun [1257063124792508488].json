@@ -1,0 +1,926 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1257063124792508488",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Sigil of Victory (Champ card) - Daily Discussion 30 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:29:28.905466+09:00",
+  "messages": [
+    {
+      "id": "1257063125807534163",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:00:04.296+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257063127275667457",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:00:04.646+09:00",
+      "timestampEdited": "2024-07-02T05:00:15.598+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nFor The Leader! (Gremlins card): 1\nTomb of Lord Red Mask (event): 3\nCleanse (Automaton card): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257063128978559018",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:00:05.052+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 587/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sigil of Victory",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aswordsigil",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_champ: / The Champ / Downfall\n\nTrigger your current **Stance**'s Skill Bonus 4 (6) times.\n**Exhaust**.",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/cIzmec0eYaJ-H2mGeXZU-nO7muWYGAOkqCe92ESlhk8/https/slay.ocean.lol/downfall/cards/champ-swordsigil.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/cIzmec0eYaJ-H2mGeXZU-nO7muWYGAOkqCe92ESlhk8/https/slay.ocean.lol/downfall/cards/champ-swordsigil.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257063777833189547",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:02:39.751+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mediocre with Defensive stance. Goes crazy with Berserker stance.",
+      "author": {
+        "id": "538148895868321807",
+        "name": "cany0udance",
+        "discriminator": "0000",
+        "nickname": "Cany0udance",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/538148895868321807/181acc6c6096be7d868014f022210220.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257069929920729180",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:27:06.523+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a noob trap and does not help with the pivot at all",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257072129774714931",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:35:51.009+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s just 8(12) vigor which is only useful for earlygame and often you might not draw it with a 2 hit in berserker",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257072307822788699",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:36:33.459+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12(18) counter which is numerically high but eh, counter is not a real strat",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257072423761870970",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:37:01.101+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like in *theory* you can capitalize on it with <parry> … and only parry",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257072425879998598",
+      "type": "Reply",
+      "timestamp": "2024-07-01T05:37:01.606+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Parry",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aparry",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_champ: / The Champ / Downfall\n\nGain 6 **Block** :p_block:.\nGain 10 (16) **Counter** :p_counter:.\nIf your **Counter** :p_counter: is used this turn, Gain Riposte.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cjCxPkVVRBlrvh_pDxqc8_iCpr9BFTKQTCpesFSo7Qg/https/slay.ocean.lol/downfall/cards/champ-parry.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257072423761870970",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257072722836459530",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:38:12.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "8(12) Vigor stays relevant even in Act 3. Helps in the 3 Jaw Worm + Darklings fight if you have AoE, and Vigor stacks nicely with Vulnerable",
+      "author": {
+        "id": "538148895868321807",
+        "name": "cany0udance",
+        "discriminator": "0000",
+        "nickname": "Cany0udance",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/538148895868321807/181acc6c6096be7d868014f022210220.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257072907574579251",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:38:56.451+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also it exhausts which is a great bonus",
+      "author": {
+        "id": "538148895868321807",
+        "name": "cany0udance",
+        "discriminator": "0000",
+        "nickname": "Cany0udance",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/538148895868321807/181acc6c6096be7d868014f022210220.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257073749983760475",
+      "type": "Default",
+      "timestamp": "2024-07-01T05:42:17.297+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card seems held back a lot by the fact that Champ doesn’t have enough draw to use 0 cost cards well",
+      "author": {
+        "id": "538148895868321807",
+        "name": "cany0udance",
+        "discriminator": "0000",
+        "nickname": "Cany0udance",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/538148895868321807/181acc6c6096be7d868014f022210220.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257081498117603419",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:13:04.596+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "counter is very much a real stat want. Is thorns not a real stat? many of champs best cards come with counter and its very significant.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257081826221228132",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:14:22.822+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sigil of victory does very well with ultimate stance; granting a ton of stats for just 0 energy. It can also be worthwhile in a deck focused on the ohko everything strategy since this offers 8 vigor for 0. This card does acutally work with the style powers; but unfortunately those 2 cards are terrible!",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257082123446255697",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:15:33.686+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its also helpful for sigil be a 0 cost skill to find off <arena preparation>",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257082125266456646",
+      "type": "Reply",
+      "timestamp": "2024-07-01T06:15:34.12+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Arena Preparation",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aarenapreparation",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_champ: / The Champ / Downfall\n\nGain 2 random Skills.\nThey gain **Retain**.\n**Exhaust**.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Zf5kC4ru4E9RNLWO7thfIBfOsXYB4icFrun1F79Se3Y/https/slay.ocean.lol/downfall/cards/champ-arenapreparation.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257082123446255697",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257082325339213834",
+      "type": "Reply",
+      "timestamp": "2024-07-01T06:16:21.821+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thorns can do real things because of enemies having multihits",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257081498117603419",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257082640402481174",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:17:36.938+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "counter is very capable of doing \"real things\" when it has crazy over stated cards like <bring it on>",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257082642499895358",
+      "type": "Reply",
+      "timestamp": "2024-07-01T06:17:37.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bring It On",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3abringiton",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_champ: / The Champ / Downfall\n\nGain 8 (10) **Block** :p_block:.\nGain 8 (10) **Counter** :p_counter:.\n:finisher:   **Finisher**",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1JJfi4cxYuMStLfLospI1SZBHz12amAzcexyQbWk0Zs/https/slay.ocean.lol/downfall/cards/champ-bringiton.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257082640402481174",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257082704747434106",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:17:52.279+09:00",
+      "timestampEdited": "2024-07-01T06:18:04.871+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "16 block common that does 11 damage, good lord",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257082996062818324",
+      "type": "Reply",
+      "timestamp": "2024-07-01T06:19:01.734+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If BiO lost its counter I would not bat an eye",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257082640402481174",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257083646750359592",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:21:36.87+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I still don't get why people undervalue free damage so much. You get counter from doing things you want to be doing anyways; simply playing cards. Champ would get far worse without these free damage to benefit from; having to get hit is not a big drawback, newsflash in slay the spire the enemies attack you!",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257083821116100729",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:22:18.442+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like you shouldn't really be trying to make a \"counter\" deck, you just reap the rewards of having free damage built into your character.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257084033196883979",
+      "type": "Default",
+      "timestamp": "2024-07-01T06:23:09.006+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "champ having free damage is what gives him such a big advantage; even with his somewhat lacking scaling options you can just overpower so many things in the game.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257085853755248672",
+      "type": "Reply",
+      "timestamp": "2024-07-01T06:30:23.061+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "people undervalue free damage this much because Champ is one of the last characters that NEEDS free damage",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1257083646750359592",
+        "channelId": "1257063124792508488",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1257106569200537623",
+      "type": "Default",
+      "timestamp": "2024-07-01T07:52:42.008+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its a flat amount of damage that happens exactly once with two scaling options one of which is defensive style (LOL) and the other is gladiator form (lol)",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257106635080601822",
+      "type": "Default",
+      "timestamp": "2024-07-01T07:52:57.715+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vigor happens twice.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257106768761458710",
+      "type": "Default",
+      "timestamp": "2024-07-01T07:53:29.587+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and besides, champ works on one shotting enemies for 60% of the run, so chip means nothing",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257106850990526464",
+      "type": "Default",
+      "timestamp": "2024-07-01T07:53:49.192+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and in the last 40%, the chip means nothing because it's non scaleable",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257143866470174810",
+      "type": "Default",
+      "timestamp": "2024-07-01T10:20:54.37+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its not that i'm saying counter is better then vigor, just that its far from useless or even underpowered",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1257145133917540502",
+      "type": "Default",
+      "timestamp": "2024-07-01T10:25:56.553+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This plays very well within the early game vigor stacking burst damage strategy. You get 10 (14) vigor for 0 energy (since this is itself a 0 cost skill and will trigger the skill bonus as well, assuming you have procs left), and that damage can easily be multiplied even further through multihits and AOE cards. It's part of the whole \"champ numbers\" strategy that deals ludicrously efficient amounts of burst damage to delete short and medium length fights. You really want to pair it with those attacks that multiply the value of vigor, as well as ways to consistently get into berserker stance (getting counter from defensive is really not ideal compared to vigor, but it does at least still have high numbers).\n\nIn theory, you could pair this with gladiator form in the later stages of the game to have it quickly scale up your vigor, but that's fairly reliant on draw order. This mainly will just serve as a way to crush the first 2.5 acts of the game. Champ isn't exactly lacking for tools to destroy the early game, but this is one of the better ones due to just how efficient it is, how easy it is multiply it's effectiveness, and exhausting out of the way for longer fights. Could pair this with runic pyramid to make it easier to land it as a combo with AOE/multihits/stacking even more vigor. Pen nib can be used to amplify the damage even further. The upgrade shouldn't generally be necessary, getting 4 more vigor out of this is pretty solid, but you would prefer a more permanent upgrade for a late game scaling card, or at least something that isn't single use.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 31
+}

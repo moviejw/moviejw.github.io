@@ -1,0 +1,2090 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1109933670887858306",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Stasis Field (Guardian card) - Daily Discussion 21 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:09:51.4779605+09:00",
+  "messages": [
+    {
+      "id": "1109933672003551313",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:00:08.976+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109933673224081509",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:00:09.267+09:00",
+      "timestampEdited": "2023-05-23T05:00:28.479+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nEmerald (Guardian card): 1\nBranch (Automaton card): 1\nTricky's Bolster-Rod (relic): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109933675216379946",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:00:09.742+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 214/784",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3984D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/iZ3QME8J1jsUlMl2HVWhu7jgfLd9t5w6Cm26LSdh1-Y/https/slay.ocean.lol/downfall/cards/guardian-stasisfield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/iZ3QME8J1jsUlMl2HVWhu7jgfLd9t5w6Cm26LSdh1-Y/https/slay.ocean.lol/downfall/cards/guardian-stasisfield.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Stasis Field",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Skill / 1 :energy_guardian: / The Guardian / Downfall\n\nGain 6 (8) **Block** :p_block:.\nPlace this into Stasis\nWhen this leaves Stasis, gain 6 (8) **Block** :p_block:.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iZ3QME8J1jsUlMl2HVWhu7jgfLd9t5w6Cm26LSdh1-Y/https/slay.ocean.lol/downfall/cards/guardian-stasisfield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109934216818470992",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:02:18.87+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this with <bottled anomaly> is op",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109934229367824656",
+      "type": "Reply",
+      "timestamp": "2023-05-22T05:02:21.862+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bottled Anomaly",
+          "url": null,
+          "timestamp": null,
+          "description": "Shop Relic / All / Downfall\n\nUpon pickup, choose a card. At the start of each combat, remove it from your draw pile. At the start of turn 3, add it into your hand. It costs 0.\n*Swirling and swirling and finally breaking.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ERbsrxz9Gy71lITfPYSaHLTYRoi0tH4DXHd3W6dJGko/https/slay.ocean.lol/downfall/relics/bottledanomaly.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1109934216818470992",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1109934317293015080",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:02:42.825+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "at the cost of 1 stasis slot you get 12(16) block per turn",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109934319461482537",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:02:43.342+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I very much enjoy this card. It's so good, even with the general stasis nerf.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109945332810403911",
+      "type": "Default",
+      "timestamp": "2023-05-22T05:46:29.129+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty damn good block card",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109954636925915216",
+      "type": "Default",
+      "timestamp": "2023-05-22T06:23:27.403+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any accelerate makes this card very strong",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109954740881727498",
+      "type": "Default",
+      "timestamp": "2023-05-22T06:23:52.188+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as well as scaling some dexterity",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109954911812194425",
+      "type": "Default",
+      "timestamp": "2023-05-22T06:24:32.941+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a piece of a complete block system",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109955750274551881",
+      "type": "Default",
+      "timestamp": "2023-05-22T06:27:52.846+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12(16) block every other turn is pretty good",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109961679367843905",
+      "type": "Default",
+      "timestamp": "2023-05-22T06:51:26.452+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A fantastic mitigation tool that can become part of a block engine with enough accelerate. This can feel like having some strange variant of horn cleat that keeps proccing every other turn, that also scales with your dexterity. Can be a bit of a stasis slot hog, so prioritize grabbing time capacitor, stasis strike, or cryo chamber to give yourself more room. It really shines in the lategame, but is still quite good even as a neow bonus in act 1. Pairs very nicely with stasis engine, letter opener, ink bottle, and floating orbs. You definitely want to grab emerald and debuff removal cards as well to scale your dexterity with this. The upgrade is very strong, since you will be playing this every other turn at a minimum, and you get +4 block every time it leaves stasis and you replay it for 0. \n\nIf I'm honest, this card makes very little sense to me. It so incredibly strong on it's own, and can become completely broken with a bit of support, which can come from several different places. It almost definitely should be nerfed, because I can't imagine a situation where I'm not thrilled to add this to my deck. Sure, there are a decent number of rares like that in the base game, but most of those are single use exhaust cards. I think the upgrade should probably only be a +1 considering that it applies twice, or you could lower the base block value down to 5 like a defend.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109972348477653052",
+      "type": "Default",
+      "timestamp": "2023-05-22T07:33:50.166+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It was already nerfed with the general stasis nerf, where putting stasised 0-cost cards resets the timer to as if it was at full cost.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1109988134265036892",
+      "type": "Default",
+      "timestamp": "2023-05-22T08:36:33.791+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's been how stasis works as long as I've played guardian",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110000295959867453",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:24:53.365+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just confuse to 0 cost ez",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110000361823027301",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:25:09.068+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "though i don’t pick guardian much on snecko",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110001250520539217",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:28:40.95+09:00",
+      "timestampEdited": "2023-05-22T09:29:12.211+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I recall cards that say \"Place this into stasis\" only being in there for 1 turn after already going through stasis before, regardless of what the original cost was. Likewise with cards that were placed into Stasis through <Rebound>.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1109988134265036892",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110001391994404975",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:29:14.68+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rebound",
+          "url": "https://slay-the-spire.fandom.com/wiki/Rebound",
+          "timestamp": null,
+          "description": "Common Attack / 1 :blue_energy: / The Defect / Slay the Spire\n\nDeal 9 (12) damage.\nPut the next card you play this turn on top of your draw pile.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Bdcmby8ej57L8o0Nt50G2LQzEoM9Yz0XcApfm9YVIeg/https/slay.ocean.lol/slay%2520the%2520spire/cards/rebound.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110001250520539217",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110001410134773760",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:29:19.005+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Er.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110001858224865341",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:05.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Reroute>",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110001867968221285",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:31:08.161+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Reroute",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_guardian: / The Guardian / Downfall\n\nDeal 9 (12) damage.\nPlace the next card you play this turn into **Stasis.**\n[ **Socket** ]",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/SoR08lkcJK0uJLE9RAlZECTmbh3lZt_h9N4Dh_DViRc/https/slay.ocean.lol/downfall/cards/guardian-reroute.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110001858224865341",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110001915326107789",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:19.452+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that may have been a different effect causing that",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110001963480928266",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:30.933+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every time?",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002041172004945",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:49.456+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh i think i know",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002053419388928",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:52.376+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't know what that \"other effect\" could possibly have been.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002082892755047",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:31:59.403+09:00",
+      "timestampEdited": "2023-05-22T09:33:01.159+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when you put a stasis'd card back into stasis without playing it, it goes in for 1 turn",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002140329549906",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:32:13.097+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but when you use reroute, that plays the card, un-discounting it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002184059375756",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:32:23.523+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same goes for cards that put themselves into stasis",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002257908482079",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:32:41.13+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i _wish_ they went back in for 0, then <fierce bash> would finally be good lol",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002265009422396",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:32:42.823+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fierce Bash",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Attack / 3 :energy_guardian: / The Guardian / Downfall\n\nDeal 18 (24) damage.\nPlace this into **Stasis.**\n**Tick** - Increase this card's damage by 2.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vK2aqefl9JEKyDt2-jxlVIlcBjlrDraHUfFfhbO-LYs/https/slay.ocean.lol/downfall/cards/guardian-fiercebash.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002257908482079",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110002365173608478",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:06.704+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s good when you confuse it to 0, just get snecko eye",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002379509743616",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:10.122+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":awaken:",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002403769593907",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:15.906+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just get Madness",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002410996383837",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:17.629+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ez",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002441811935252",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:24.976+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I seriously do remember playing Stasis Field every turn because it would be 1 turn each time I played it.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002492617523220",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:33:37.089+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "did you perhaps have <time sifter>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002501098418177",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:33:39.111+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Time Sifter",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_guardian: / The Guardian / Downfall\n\n (**Innate**.)\nAt the start of your turn, **Accelerate.**",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2KDwjindx9pPZKkxMVhUz6wBuBYCSL0GKtmvYFkSLxM/https/slay.ocean.lol/downfall/cards/guardian-timesifter.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002492617523220",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110002612922744864",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:34:05.772+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm i don’t remember stasis interaction with muddle though",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002640164765716",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:34:12.267+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or maybe mummified hand, which does not un-discount for some reason",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002676302884894",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:34:20.883+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "muddle un-discounts on playing",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002713330208839",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:34:29.711+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a little inconsistent. some discounts work and some don't",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002759882788916",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:34:40.81+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not all the time, no.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002501098418177",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110002834973409331",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:34:58.713+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stuff like muddled <guardian tick gain block> goes for the same",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002846973296660",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:35:01.574+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shield Charger",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 2 :energy_guardian: / The Guardian / Downfall\n\nPlace this into **Stasis.**\n**Tick** - **Brace** 4 (6) and gain 10 (12) **Block** :p_block:.\n**Volatile.**",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eVXilgj7aWC4iQpcLFKn697F4BKiJHlDq-vDAXOiLEc/https/slay.ocean.lol/downfall/cards/guardian-shieldcharger.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<guardian tick gain block> = shield charger, 76% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002834973409331",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110002878443171920",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:35:09.077+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "instead of 2",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002920398798989",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:35:19.08+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002982243799060",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:35:33.825+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and i *think* stasising a 0 cost muddled without play just let you keep it",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110002990561099896",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:35:35.808+09:00",
+      "timestampEdited": "2023-05-22T09:35:50.589+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Didn't it used to not turn back to normal?",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002676302884894",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110003030402801736",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:35:45.307+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but it’s been a while since i played snecko with guardian",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003047964364861",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:35:49.494+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes it used to not turn back",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003122971095081",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:36:07.377+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i might be wrong about snecko muddle",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003234367615006",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:36:33.936+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not feeling up to testing it rn tho",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003407315537920",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:37:15.17+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Muddle got recently changed to reset after the turn is over (or after you play the card), unlike Confusion.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003703420821554",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:38:25.767+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s been that way as long as i’ve played snecko iirc",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110003959474700318",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:39:26.815+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How long have you been playing Snecko?",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110004265201700864",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:40:39.706+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Carbon the Wanderer we need an expert on arriving from alternate universes",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "269245758752948224",
+          "name": "carbon_wanderer",
+          "discriminator": "0000",
+          "nickname": "Carbon the Wanderer",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1110004832133185576",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:42:54.873+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe you had it <bottled anomaly>'d?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110002441811935252",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110004840429535343",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:42:56.851+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bottled Anomaly",
+          "url": null,
+          "timestamp": null,
+          "description": "Shop Relic / All / Downfall\n\nUpon pickup, choose a card. At the start of each combat, remove it from your draw pile. At the start of turn 3, add it into your hand. It costs 0.\n*Swirling and swirling and finally breaking.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ERbsrxz9Gy71lITfPYSaHLTYRoi0tH4DXHd3W6dJGko/https/slay.ocean.lol/downfall/relics/bottledanomaly.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110004832133185576",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110004976673107968",
+      "type": "Default",
+      "timestamp": "2023-05-22T09:43:29.334+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I got that even less than the Time Sifter.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1110005030469238844",
+      "type": "Reply",
+      "timestamp": "2023-05-22T09:43:42.16+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have no idea on this one",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110004265201700864",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110016556571836417",
+      "type": "Reply",
+      "timestamp": "2023-05-22T10:29:30.197+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably around 5-6 months since first play, i think i heard of downfall like 7 months ago or something",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1110003959474700318",
+        "channelId": "1109933670887858306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1110017189987241994",
+      "type": "Default",
+      "timestamp": "2023-05-22T10:32:01.215+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's nothing in the patch notes about a recent stasis or muddle behavioral change",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 63
+}

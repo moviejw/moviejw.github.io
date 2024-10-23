@@ -1,0 +1,1005 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1106309960587018321",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Specter's Wail (Hexaghost card) - Daily Discussion 11 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:10:54.2040219+09:00",
+  "messages": [
+    {
+      "id": "1106309962940035146",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:00:49.41+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106309964135403742",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:00:49.695+09:00",
+      "timestampEdited": "2023-05-13T05:00:45.044+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRain of Dice (Snecko card): 2\n??? Dexterity (Snecko card): 3\nLoaded Die (Snecko relic): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106309966236766388",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:00:50.196+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 204/784",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/nSnak4-7QQhLmSFLWX7EZ7qLBZ5MXilzWeSgcaDYJ48/https/slay.ocean.lol/downfall/cards/hexamod-specterswail.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/nSnak4-7QQhLmSFLWX7EZ7qLBZ5MXilzWeSgcaDYJ48/https/slay.ocean.lol/downfall/cards/hexamod-specterswail.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Specter's Wail",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. **Afterlife.**\nDeal 8 (11) damage to ALL enemies.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nSnak4-7QQhLmSFLWX7EZ7qLBZ5MXilzWeSgcaDYJ48/https/slay.ocean.lol/downfall/cards/hexamod-specterswail.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106310068577771570",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:01:14.596+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hexa's version of <cleave> with afterlife",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106310073275392030",
+      "type": "Reply",
+      "timestamp": "2023-05-12T05:01:15.716+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cleave",
+          "url": "https://slay-the-spire.fandom.com/wiki/Cleave",
+          "timestamp": null,
+          "description": "Common Attack / 1 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 8 (11) damage to ALL enemies.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZVtR-_ZmRm9SAXQzDtjq3QW-zL6ddd7q1YVMvZDyTDg/https/slay.ocean.lol/slay%2520the%2520spire/cards/cleave.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106310068577771570",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106310105789644830",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:01:23.468+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "works well enough as an aoe attack",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106311609476972575",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:07:21.975+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's great. aoe damage for free, very good damage at that, and you don't want AoE cards in long fights most of the time anyway.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106311693073658018",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:07:41.906+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yup, I take this a lot",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106311817095028776",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:08:11.475+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One of hexaghost best options against sentries, especially considering the artifact can mess up soulburn",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106311957780369498",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:08:45.017+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It can hurt your deck in the late game a little bit, just because if you have reshuffle mechanics it can hit this",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106312001078173776",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:08:55.34+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still, a relatively minor complaint",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106312891289845780",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:12:27.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bad hexaghost card challenge",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313690770309140",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:15:38.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Second Seal",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313837726146712",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:16:13.231+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "here and now and devil dance (or whatever the retract one is) are both pretty bad",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313885570580641",
+      "type": "Reply",
+      "timestamp": "2023-05-12T05:16:24.638+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah those are right",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106313837726146712",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106313897230749919",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:16:27.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and tbh new <rewind> isn't that good either",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313902029013075",
+      "type": "Reply",
+      "timestamp": "2023-05-12T05:16:28.562+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rewind",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_hexa: / The Hexaghost / Downfall\n\n**Retract.**\n**Fetch** a (2) card (cards) from your discard pile.\n**Exhaust**.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Zzg7CYzUHjzRe90xs7U6mGjEhr5id1AoP6_0fw4_qJg/https/slay.ocean.lol/downfall/cards/hexamod-rewind.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106313897230749919",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106313948573208687",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:16:39.659+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "only time I used <here and now> was when I wasn't hexa",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313954516541592",
+      "type": "Reply",
+      "timestamp": "2023-05-12T05:16:41.076+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Here and Now",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\nYou no longer Advance at the end of turn.\nAt the start of your turn, gain :energy_hexa: .",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5-E52sNTgnO8xdT0z__fi-EA4ZxZxDl8kGPIOrYEFkw/https/slay.ocean.lol/downfall/cards/hexamod-ghostofspirepresent.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106313948573208687",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106313984862326804",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:16:48.311+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and therefore it was a [[caffeinated]]",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106313991078297723",
+      "type": "Reply",
+      "timestamp": "2023-05-12T05:16:49.793+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Caffeinated",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 :colorless_energy: / The Adventurer / The Adventurer\n\n​~~- **Unnate.** -~~\nAt the start of your turn, gain :colorless_energy:.",
+          "color": "#38A7AF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_WuZtmAm_Csbv0M7BF1dpcWGDw-mPUT63D4jyMqa5Zs/https/slay.ocean.lol/the%2520adventurer/cards/fishing-concentrated.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106313984862326804",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106314224424198184",
+      "type": "Default",
+      "timestamp": "2023-05-12T05:17:45.427+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "here and now would be better if it was card draw instead of energy. Hexa doesn't really have much energy problems.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106353813474005124",
+      "type": "Default",
+      "timestamp": "2023-05-12T07:55:04.192+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think rewind is pretty great",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106354023486980117",
+      "type": "Default",
+      "timestamp": "2023-05-12T07:55:54.263+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a double hologram is worth retracting, one of the cards you grab can easily be one with advance anyways",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106354034752901250",
+      "type": "Default",
+      "timestamp": "2023-05-12T07:55:56.949+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rewind is a bit of card manipulation",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106391737074724874",
+      "type": "Default",
+      "timestamp": "2023-05-12T10:25:45.883+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Three snecko options for tomorrow huh.\n\nAnyways, specter's wail, like most afterlife cards is fantastic. This exhausting itself if great in longer fights, where you don't need the burst damage. The AOE is very valuable for some of the hardest fights in act 1 and 2, though will probably want to supplement this with at least 1 more AOE card. Upgrade is great, since it will deal 3 more damage to every enemy. Really good in the early game when you only have 3 energy, as lets you play more cards per turn. It has some competition with ghost lash, phantom fireball, backtrack smack, and other very solid front-loaded damage commons. It does have an edge due to being AOE, and I will almost always be happy to include 1 of these. It's probably a little bit too powerful, but that's mostly because afterlife is such a powerful mechanic. Having your damage commons exhaust themselves in longer fights and getting to play free cards is just incredibly strong. It is weird that this does the same damage as cleave while costing 1 energy less. It feels like this should line up more with consecrates 5 (8).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106392035386196031",
+      "type": "Default",
+      "timestamp": "2023-05-12T10:26:57.006+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I guess it's because if you play it for free it exhausts itself, and if you don't exhaust it it costs 1?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106392073252384798",
+      "type": "Default",
+      "timestamp": "2023-05-12T10:27:06.034+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would say making it 6(9) would work better",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1106419686561824858",
+      "type": "Reply",
+      "timestamp": "2023-05-12T12:16:49.56+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't like it tbh",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1106353813474005124",
+        "channelId": "1106309960587018321",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1106429649489235968",
+      "type": "Default",
+      "timestamp": "2023-05-12T12:56:24.907+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@d/dx(6x^70) But exhausting itself is an upside the vast majority of the time. I can count the number of times I've actually paid for and cast afterlife cards on Hexaghost with one hand, they effectively all cost 0 in my mind.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 30
+}

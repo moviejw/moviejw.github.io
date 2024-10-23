@@ -1,0 +1,76 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1051576130978717766",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "relic idea",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:27:20.7572525+09:00",
+  "messages": [
+    {
+      "id": "1051577814635257957",
+      "type": "21",
+      "timestamp": "2022-12-12T04:14:48.38+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1051576130978717766",
+        "channelId": "960646043689713705",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1051577816497524737",
+      "type": "Default",
+      "timestamp": "2022-12-12T04:14:48.824+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "j",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

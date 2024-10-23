@@ -1,0 +1,705 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1225173184513310803",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Armorer's Tincture (potion) - Daily Discussion 3 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:38:17.4898179+09:00",
+  "messages": [
+    {
+      "id": "1225173186291830834",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:00:50.229+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225173187336339506",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:00:50.478+09:00",
+      "timestampEdited": "2024-04-05T05:00:21.632+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRepurpose (Slime Boss card): 0\nLast Stand (Champ card): 6\nFlash Strike (Champ card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225173189122981939",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:00:50.904+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 499/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Armorer's Tincture",
+          "url": "https://slay.ocean.lol/w/downfall/guardian%3ablockoncardusepotion",
+          "timestamp": null,
+          "description": "Uncommon Potion / All / Downfall\n\nGain 4 **Block** :p_block: each time you play a card this turn.",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/GG7i7jIxrbOA60PCPTvriez6r3UphjXMoHJtkm4HR7s/https/slay.ocean.lol/downfall/potions/guardian-blockoncardusepotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/GG7i7jIxrbOA60PCPTvriez6r3UphjXMoHJtkm4HR7s/https/slay.ocean.lol/downfall/potions/guardian-blockoncardusepotion.png",
+              "width": 64,
+              "height": 64
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225174315889332295",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:05:19.546+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As potions go, this one tends to save you a lot of health in a pinch. It rarely does more than 1.5 times a block potion though. Use it in short fights since it offers no scaling.",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225174547687280851",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:06:14.811+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you're buying it in a shop you're probably better off buying a common potion",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175007722868887",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:04.492+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this potion CAN do a lot",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175063184281700",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:17.715+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "worst case you play 3 cards and get 12 block",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175088270282864",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:23.696+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which is a block potion",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175146822635530",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:37.656+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "best case you get 60+ block",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175179131617300",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:45.359+09:00",
+      "timestampEdited": "2024-04-04T06:34:10.537+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Helps for Act 2 elites most times",
+      "author": {
+        "id": "756268356952260650",
+        "name": "csclark05",
+        "discriminator": "0000",
+        "nickname": "csclark",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756268356952260650/b1aea285f904164462bea1a4d1e7ca8c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175186186440816",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:08:47.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Technically there are worse cases than that",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175295183687711",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:09:13.028+09:00",
+      "timestampEdited": "2024-04-04T05:09:20.934+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean, if you're only playing one card yeah, but that's not happening too often",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175545533169734",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:10:12.716+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1 card is rare, 2 cards on the turn you really need block isn't that rare",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175722310762668",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:10:54.863+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Especially chars like ic or collector with their starting cards",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175746486603866",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:11:00.627+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you're playing 2 attacks and one is a 2 cost the enemy is usually going to die",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225175817567473716",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:11:17.574+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's fair for ic but not for collector because of reserve",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225176086246195390",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:12:21.632+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tell that to nob",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225179561319202956",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:26:10.154+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you are collector you shouldn't be going for an early act 1 elite without good cards or potions",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225179872050282526",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:27:24.238+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the first elite is literally the hardest part of a collector run, whether or not you have 8 block from you are mine into strike doesn't matter because you need something better than that or you're going to eat the big hit and die in the next room",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225186670769475614",
+      "type": "Default",
+      "timestamp": "2024-04-04T05:54:25.179+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very strong potion, this usually comes in clutch to block for 12, 16, or even more on crucial turns. Comparing it to block potions guaranteed 12, this comes out very well, though it is uncommon rather than common. Blocking is a really valuable thing for potions to do, since they cost can be deployed at any time in any fight without spending any energy, and preventing chip damage/big hits is critical to letting you take on challenging fights like elites throughout the run safely. Early on in the run (mostly act 1) more proactive potions like fire potion, explosive potion, and attack potion do tend to be more valuable, as most fights are races where dealing damage is more important than blocking, but block potions like this one tend to do very well later in the run as a tool to avoid having a disastrous turn where you are getting attacked for 30+ damage and have drawn little or no block.\n\nDepending on your character and tendecy to take 0 cost cards and energy generation, this potion can get very strong. Anyone who likes to spam cards and can generate cheap resources (gremlins, slime boss, guardian, snecko, silent) can usually get 20 or more block from this somewhat consistently. When you are still at 3 energy, you will still usually get 12, though if you are filling up on 2 and 3 cost cards (not advisable early game), you might only get 8. You can also use armorers tincture as a way to generate block during an infinite, though that is not usually relevant in downfall where you don't have to worry about beat of death or time warp. If my deck has even a few 0 cost cards in it or some spam potential, I would strongly consider buying this from a shop, especially if my block was somewhat inconsistent, or I was heading into a difficult elite fight. Pretty much always happy to get it as a random drop.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225190631828095026",
+      "type": "Default",
+      "timestamp": "2024-04-04T06:10:09.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really strong, this with <calipers> can win runs though.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225190633820524654",
+      "type": "Reply",
+      "timestamp": "2024-04-04T06:10:10.044+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Calipers",
+          "url": "https://slay-the-spire.fandom.com/wiki/Calipers",
+          "timestamp": null,
+          "description": "Rare Relic / All / Slay the Spire\n\nAt the start of your turn, lose 15 **Block** :p_block: rather than all of your **Block** :p_block:.\n*\"Mechanical precision leads to greatness\" - The Architect*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Sy_6c4hyKVVjkb8wX5q3WtX5oRMXFycy0UTvtD6MMtA/https/slay.ocean.lol/slay%2520the%2520spire/relics/calipers.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1225190631828095026",
+        "channelId": "1225173184513310803",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1225191592034435213",
+      "type": "Default",
+      "timestamp": "2024-04-04T06:13:58.5+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The lack of a time eater or beat of death means card spam is widely unpunished, and characters have on average spammier decks, so this potion does extremely well in downfall mode. For base game characters it's not at full power, but this is more often than not better than a block potion. And if it isn't, then really you're just playing it wrong. You wouldn't play a low damage multi-hit into spikers then call the card bad, so don't play a potion based around playing a lot of cards in one turn on a turn you play 2 cards (unless it's necessary for survival)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225192465133473814",
+      "type": "Default",
+      "timestamp": "2024-04-04T06:17:26.663+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "block pot's big brother",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1225192510880743485",
+      "type": "Default",
+      "timestamp": "2024-04-04T06:17:37.57+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "has bailed me out of tough turns many times",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 25
+}

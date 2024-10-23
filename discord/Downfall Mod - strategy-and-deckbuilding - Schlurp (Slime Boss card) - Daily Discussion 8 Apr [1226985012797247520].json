@@ -1,0 +1,562 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1226985012797247520",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Schlurp (Slime Boss card) - Daily Discussion 8 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:37:50.5489413+09:00",
+  "messages": [
+    {
+      "id": "1226985014495940688",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:00:23.735+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226985015259435058",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:00:23.917+09:00",
+      "timestampEdited": "2024-04-10T05:00:33.476+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nShield Throw (Champ card): 6\nRecklessness (Slime Boss card): 2\nRed Slaver (Collectible card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226985017402724414",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:00:24.428+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 504/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Schlurp",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3aschlurp",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_slime: / The Slime Boss / Downfall\n\nApply 7 **Goop** :p_goop:.\nGain 1 (2) Lick (Licks).",
+          "color": "#006B0C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/OD4xjywjIMmqXJwG1TwekC5riV-2BhnvThx-Vx7Br58/https/slay.ocean.lol/downfall/cards/slimebound-schlurp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/OD4xjywjIMmqXJwG1TwekC5riV-2BhnvThx-Vx7Br58/https/slay.ocean.lol/downfall/cards/slimebound-schlurp.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986715495927808",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:07:09.285+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a good source of damage and a way to allow you to take just deserts before you have your licks set up, but (and this is a big problem with slime boss) it's a skill",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986775520739449",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:07:23.596+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so untakeable unless you want gremlin nob to have 9 strength",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986916084322395",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:07:57.109+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It also lets you activate goop armor 3 times, so yeah.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986955364106380",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:08:06.474+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, and it works with spreading slime.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986976440352838",
+      "type": "Default",
+      "timestamp": "2024-04-09T05:08:11.499+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<spreading slime>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1226986978197770272",
+      "type": "Reply",
+      "timestamp": "2024-04-09T05:08:11.918+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spreading Slime",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3aacidtongue",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 :energy_slime: / The Slime Boss / Downfall\n\nEffects that apply **Goop** :p_goop: apply 2 (3) more.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/C7uOqqrz-qtggUdP2Wk81sSuB7b8Oa01W_y7wstDNok/https/slay.ocean.lol/downfall/cards/slimebound-acidtongue.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1226986976440352838",
+        "channelId": "1226985012797247520",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1227075859911806976",
+      "type": "Default",
+      "timestamp": "2024-04-09T11:01:22.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "quite fine to take after risk of nob gone",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227075941185097818",
+      "type": "Default",
+      "timestamp": "2024-04-09T11:01:42.347+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "being a deal 11(15) with some utility",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227078797170442304",
+      "type": "Default",
+      "timestamp": "2024-04-09T11:13:03.267+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A pretty reasonable tool to use if you want to stack goop up, or apply it multiple times. Quite potent with spreading slime and slimy skull, as it gives you 2(3) applications of goop for just 1 energy and 1 card. Can proc letter opener all on it's own, and gives you 2(3) charges towards ink bottle. The damage on it's own is pretty respectable too at 11(15), and it can be very useful to proc consume multiple times in a turn (goop armor), or to build up goop for slime slap, douse in slime, leeching strike, and vicious tackle. It's also a very useful tool to remove artifact from enemies, though slime boss doesn't necessarily have big debuffs like talk to the hand it really wants to apply.\n\nIt is unfortunately tricky to take this early on before you have some of those major relic/card synergies. This card does quite poorly into both tri-sentries and gremlin nob (very good into lagavulin though), and is only really offering pure damage early on in the run. It's naturally going to have to compete with other damage commons (including tackles) that can do the same job without angering gremlin nob, some of which are even more efficient at bursting down enemies. I do think that if you find yourself moving towards goop spam in late act 1/early act 2, this is a solid synergy pickup, but I can't recommend taking it blindly early in the run. It's in a pretty good place balance wise, it definitely has decks where it shines, but it's not OP or anything.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227099434655944735",
+      "type": "Default",
+      "timestamp": "2024-04-09T12:35:03.627+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card inst bad vs nob because 11 damage for 1 will just help you kill him",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227099874785366108",
+      "type": "Default",
+      "timestamp": "2024-04-09T12:36:48.562+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is simply a really high value damage common, its only real drawback is that it says \"skill\" instead of attack. Giving you 2 licks on upgrade also helps this stay relevant later in the game since you can proc goop related effects up to 3 times off one card.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227100029135749160",
+      "type": "Default",
+      "timestamp": "2024-04-09T12:37:25.362+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you can also do 11 damage for 1 by adding an attack to your deck",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227100642267365376",
+      "type": "Default",
+      "timestamp": "2024-04-09T12:39:51.544+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not that concerned with taking skills in act 1 as slime boss since you have good frontload to make it past nob and even if you take 30 damage thats not even necessarily game over since you heal back 8 each fight and can get healing cards. Schlurp in particular is also really strong into lagavuliun",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227100895028838511",
+      "type": "Default",
+      "timestamp": "2024-04-09T12:40:51.807+09:00",
+      "timestampEdited": "2024-04-09T12:41:40.552+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bruiser slime is another skill I take in act 1, since it does damage vs nob anyways and its simply a really high value card. Its sort of like a much stronger deadly poison (it deals 5 damage a turn and 10 upfront when you play it, really strong stuff)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227348332163104811",
+      "type": "Default",
+      "timestamp": "2024-04-10T05:04:05.417+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would say something else but the main things have been said already",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1227348460517326949",
+      "type": "Default",
+      "timestamp": "2024-04-10T05:04:36.019+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Only other things would be that this card playes well into byrds and bad into chosen for obvious reasons",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

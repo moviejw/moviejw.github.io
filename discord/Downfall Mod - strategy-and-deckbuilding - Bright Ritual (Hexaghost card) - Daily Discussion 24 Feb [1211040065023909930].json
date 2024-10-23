@@ -1,0 +1,531 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1211040065023909930",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Bright Ritual (Hexaghost card) - Daily Discussion 24 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:42:16.3382469+09:00",
+  "messages": [
+    {
+      "id": "1211040066923790377",
+      "type": "Default",
+      "timestamp": "2024-02-25T05:00:51.991+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211040068274229250",
+      "type": "Default",
+      "timestamp": "2024-02-25T05:00:52.313+09:00",
+      "timestampEdited": "2024-02-26T05:00:31.441+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nFlurry of Strikes (Champ card): 1\nInflict Agony (Collector card): 9\nSchlurp (Slime Boss card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211040071034339392",
+      "type": "Default",
+      "timestamp": "2024-02-25T05:00:52.971+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 460/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bright Ritual",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aspectraladrenaline",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\nGain :energy_hexa: and draw 1 card for each Ignited Ghostflame, then **Extinguish** them.\n**Exhaust**.",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/alRwELsqgs_Wcjw-wNVjtRsPjBcaM6BrdwzpvMiSsVk/https/slay.ocean.lol/downfall/cards/hexamod-spectraladrenaline.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/alRwELsqgs_Wcjw-wNVjtRsPjBcaM6BrdwzpvMiSsVk/https/slay.ocean.lol/downfall/cards/hexamod-spectraladrenaline.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211040318196285582",
+      "type": "Default",
+      "timestamp": "2024-02-25T05:01:51.899+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hexa's version of Fission",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211041919967436892",
+      "type": "Default",
+      "timestamp": "2024-02-25T05:08:13.791+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's worse with the inferno changes (if you have all 6 ignited gain 2 intensity)",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211058826233651241",
+      "type": "Default",
+      "timestamp": "2024-02-25T06:15:24.559+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "upgrade is bait maybe",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211058880294158368",
+      "type": "Default",
+      "timestamp": "2024-02-25T06:15:37.448+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "kind of antisynergistic with the wheel",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211058917556355122",
+      "type": "Default",
+      "timestamp": "2024-02-25T06:15:46.332+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good for afterlife spam though",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211059025651957770",
+      "type": "Default",
+      "timestamp": "2024-02-25T06:16:12.104+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can use unupgraded version to get inferno and the energy / draw allowing you to keep doing the wheel",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211059088121798767",
+      "type": "Default",
+      "timestamp": "2024-02-25T06:16:26.998+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good for hallways",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211120706516025435",
+      "type": "Default",
+      "timestamp": "2024-02-25T10:21:17.968+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not a huge fan of this card, as going around the wheel is often an important part of hexaghosts plan. The most obvious application is to use it as a finisher to end short/medium length fights (tri-slavers, triple cultist, reptomancer) as fast as possible before the drawback of extinguishing the flames would matter. The thing is, hexaghost already has useful tools for those kinds of fights that don't have this kind of drawback (afterlife cards, sword of night and other strong frontloaded cards).\n\nIf you aren't planning on using intensity very much to scale, this can be a strong source of acceleration. However, hexaghost doesn't have that many other forms of scaling in my experience with them (some strength scaling, especially if you can catch up the bolstering flame). On top of that, there are a reasonable number of cards that care about how many ghostflames are currently lit that have anti-synergy with this (step through, charged barrage, divider). If card draw is what you are really after (and energy gain isn't that necessary for hexaghost due to afterlife), then you also have options like haunted hand and fast forward that don't have the drawback of bright ritual. \n\nAll that being said, drawing potentially 5 cards and gaining 5 energy is enormously powerful, so do keep an eye out for when you can find a good home for this. Runic Pyramid is one of your better options to get rid of some of the inconsistency and let you use it as a \"finisher\" more easily to avoid the drawback.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211156443856900096",
+      "type": "Default",
+      "timestamp": "2024-02-25T12:43:18.414+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When I play hexaghost i'm always wanting to draw more cards. If I don't have a fast forward or step though  I almost always pick this up.",
+      "author": {
+        "id": "645742232372117505",
+        "name": "bruteforce77_1745",
+        "discriminator": "0000",
+        "nickname": "BruteForce77",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/645742232372117505/afff4165b3a866ef4d7db66163907b17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211325912767795221",
+      "type": "Default",
+      "timestamp": "2024-02-25T23:56:42.951+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like bright ritual a lot, it's the main reason why I ignore inferno ghostflame in most of the runs",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211326166812856420",
+      "type": "Default",
+      "timestamp": "2024-02-25T23:57:43.52+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It can easily become stronger than adrenaline, giving you another turn worth of resources",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211326304775831602",
+      "type": "Default",
+      "timestamp": "2024-02-25T23:58:16.413+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<doomsday>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211326307024244816",
+      "type": "Reply",
+      "timestamp": "2024-02-25T23:58:16.949+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Doomsday",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aapocalypticarmor",
+          "timestamp": null,
+          "description": "Rare Power / 0 :energy_hexa: / The Hexaghost / Downfall\n\nThe next time all (at) 6 (least)  (5) Ghostflames are Ignited, take an extra turn.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uoeSboi7G5QoEtOxNqB1dxsEYbQ1cB0ccoNglXxrqjE/https/slay.ocean.lol/downfall/cards/hexamod-apocalypticarmor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211326304775831602",
+        "channelId": "1211040065023909930",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211326765264273459",
+      "type": "Default",
+      "timestamp": "2024-02-26T00:00:06.202+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oftentimes bright ritual can be a better value than Doomsday in terms of draw and energy but the fact that upgraded Doomsday can stack with BR makes both cards even better",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211327156978843750",
+      "type": "Default",
+      "timestamp": "2024-02-26T00:01:39.594+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In terms of cards that extinguish ghostflames BR is in my opinion the best one",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 18
+}

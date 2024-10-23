@@ -1,0 +1,1931 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1179892120228741150",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Hexaghost Block Stuff I thought up",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:47:41.6691332+09:00",
+  "messages": [
+    {
+      "id": "1179892123265405051",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:10:03.522+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ghost shield - applies weak to all enemies instead of blur\nshield of night - 0 cost 6 (9) block and can only be used on an ignited ghostflame, extinguishes ignited ghostflame, works like spectral spark so it can be the second card, basically conditional good instincts but it's common and has ghostflame synergy\nnightmare guise - both versions use dex twice\ncatch up - grants 5 (8) block\ndevil's dance - always costs 1, retract is now the upgrade\nextra crispy - gain block whenever you apply soulburn still innate on upgrade for searing synergy AND olexa's shield synergy. with ghostflame wall it grants next turn block like self forming clay\nfloatwork - whenever you advance or retract gain 1 (2) temp dex, works with end of turn advance, costs 0\nheat shield - halves soulburn instead of removing it on upgrade, always costs 0\nincorporeal - now has ethereal for nightmare visions synergy and so you can just let it exhaust if you don't need it\nrain of embers - applies weak again to distinguish it from incineration which otherwise has near identical numbers, x cost doesn't mean much on a character where the only instance of energy generation is bright ritual which isn't super splashable and you can only have one copy before you start asking for trouble\nrewind - hologram reprint + retract\nburning question - 1 cost, spot weakness costs 1, consistency change\npoltergeist - whenever you play an afterlife card, draw a card",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179893529271611544",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:15:38.74+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<speedrunning>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179893531754647602",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:15:39.332+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Speedrunning",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aghostofspirefuture",
+          "timestamp": null,
+          "description": "Uncommon Power / 0 :energy_hexa: / The Hexaghost / Downfall\n\n (**Innate**.)\nWhenever you Advance, gain 2 temporary :p_temp: **Strength** :p_strength:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DWkCp53GIQK9cy8ZNmPfQ3xRWAFTERoe03iqBhYBukM/https/slay.ocean.lol/downfall/cards/hexamod-ghostofspirefuture.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179893529271611544",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179893568836468817",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:15:48.173+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "floatwork and speedrunning synergy?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179893619952472125",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:16:00.36+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe just glue the floatwork rework onto speedrunning upgrade instead of innate?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179893779713511484",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:16:38.45+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "speedrunning just needs to work on end of turn and it's a perfectly fine inflame clone with some potential on top",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179897694144180345",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:32:11.723+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In regards to extra crispy:\n\nI think giving a character \"gain block for doing thing it is already going to do\" is really boring. It's why the only actually interesting power that reads \"gain block for doing X\" is shadow cloak, because it is actually situational and doesn't just instantly slot into any deck ever.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179892123265405051",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179897968640413818",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:33:17.168+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it as strong? Not at all, but these powers are extremely centralizing and boring, so I don't think it is right to add a second one to a character. It will just make it more centralizing and more boring.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179897969592520745",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:33:17.395+09:00",
+      "timestampEdited": "2023-12-01T06:33:35.378+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "extra crispy is a non card right now, and it makes charged barrage, toasty, incineration, haunting echo, volcano visage etc give block",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179898021799002253",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:33:29.842+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<extra crispy>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179898024126845000",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:33:30.397+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Extra Crispy",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aextracrispy",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\n (**Innate**.)\nCards and Ghostflames apply 2 more **Soulburn** :p_soulburn:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5UVw70mz_XOR1IMa2Kuwe29vFs0GWP7Nsqz82CXWqV4/https/slay.ocean.lol/downfall/cards/hexamod-extracrispy.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179898021799002253",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179898273918619678",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:34:29.952+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A) no, it's not really. It's a slightly weak card\nB) yes, and making about 1/3 of your attacks give block is boring and leads to everything being iron wave",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179897969592520745",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179898543020978236",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:35:34.111+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's meant to be tth soulburn edition",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179898676966068414",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:36:06.046+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think that one's interesting",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179898721182425198",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:36:16.588+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes and ttth is boring",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179898543020978236",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179898946089398272",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:37:10.21+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think that's only the case because watcher is OP",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1179899021884674089",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:37:28.281+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's not nearly as good as tth, and it plays well into the characters small but consistent block which is meant to be built up to big numbers",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179899022589300807",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:37:28.449+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you want to add a second block on condition met power, make it a condition that isn't as easily met that you actually need to work towards, not just get for existing.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179899459518332938",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:39:12.621+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I said nothing about the strength of the card, as I don't know what numbers it would have. I said the design is boring, and I don't even exactly see \"small but consistent block which is meant to be built up to big numbers\" as a theme in hexa at all.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179899021884674089",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179899573246885990",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:39:39.736+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a theme for gremlins and to some extent silent. They play nothing like hexa.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179899595833233439",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:39:45.121+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spirit brand, floatwork, blur from ghost shield, radiant flame, the bolster flame, it's a theme",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179899656193441792",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:39:59.512+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4+4+4+4 etc, retain it over a turn",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179899843221667990",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:40:44.103+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spirit brand is the poster child of small but consistent and adds up",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179900330876616764",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:42:40.369+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "knockoff metalicize, plated armor, blur (I do agree) and bolster flame (meant to make powers easier to play)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179900491023527968",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:43:18.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Watcher has a lot more small block but I wouldn't consider that a thing it is known for.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179900613115527178",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:43:47.66+09:00",
+      "timestampEdited": "2023-12-01T06:43:58.215+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cards like catch up and forked flame, and intensity buffing the block is meant to show that the bolster flame is meant to be spammed many times as a possible block plan",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179900762269159504",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:44:23.221+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's the idea that these small amounts of block are meant to add up",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179900977508266105",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:45:14.538+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alright and the same thing can be said about any character with a conditional block power, with dexterity, etc.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179901387333713970",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:46:52.248+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would not call that prominent enough to be a theme",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179901765269852230",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:48:22.355+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's a reason why ghost shield was given blur initially, because there are enough cards and mechanics on the character that give a small amount of block very consistently",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179902962601054279",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:53:07.821+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Downfall characters and arguments that they have \"gain small amounts of block that add up to a lot as a theme\"\n\nSlime - has goop shield, and commanding leeching slime as well as exhuming sampling lick. Many small sources of block that are easy to be used multiple times in a turn\n\nGuardian - has access to potentially unlimited dexterity, and stasis can work similarly to draw/energy to play more cards at cheap cost.\n\nHexa - what you said\n\nChamp - Doesn't really apply\n\nAuto - Has blur, has many small block encode cards that are played a lot due to the nature of encode/functions\n\nGremlins - ward spam\n\nSnecko - Has access to infinite draw, dexterity, and energy cheat (muddle)\n\nCollector - doesn't really apply",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903231476895884",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:54:11.926+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think on slime boss sampling lick was more or less overlooked",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903257850691625",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:54:18.214+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so 6/8 downfall villains (6/9 if you count all downfall characters) have a pretty good argument for small amounts of block adding up to larger amounts of block being a theme for the character. The only one you could convince me otherwise on is slime, which I was stretching a bit.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903440252584006",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:55:01.702+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and guardian more focuses on big block, I would call 10 block per turn a big block, there's cards like shield charger, spheric shield, and body crash all focus on this idea of blocking big",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903494786928680",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:55:14.704+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't see that as much as a theme for hexa, but more as a theme for slay the spire characters. I would argue all 4 base characters all have that as a theme as well.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903552664121456",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:55:28.503+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snecko is every character and honestly half baked, I don't see that on snecko as a gimmick at all",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903740447309824",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:56:13.274+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "automaton is more about iron wave and condensed cards through functions than specifically small amounts of block, the main card is safeguard which isn't small at all either",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179903782054797313",
+      "type": "Reply",
+      "timestamp": "2023-12-01T06:56:23.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snecko's entire gimmick is playing a lot of cards for cheap. That includes block cards.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179903552664121456",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179903918843633726",
+      "type": "Default",
+      "timestamp": "2023-12-01T06:56:55.807+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's how the meta shook out but I believe it was meant to be about off class synergies",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179904733012562011",
+      "type": "Reply",
+      "timestamp": "2023-12-01T07:00:09.92+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "an iron wave of a lot of small instances of block or blur. You have fragment, delayed guard, blockchain, summon orb, format, branch, safeguard (yes I consider that and branch low enough to count, however if you don't then that's fine I still think there is enough)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179903740447309824",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179904935429689434",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:00:58.18+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I only really consider fragment and format to apply there.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179905216389320846",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:02:05.166+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Delayed guard isn't small, blockchain is more following with the idea of functions being custom cards, summon orb is just super big, branch is another one of those functions are custom cards adapt to the situation cards, and safeguard is pretty big.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179905427996168212",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:02:55.617+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is this conversation important at all? it seems completely irrelevant to whether these ideas are good or not",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179905439287222303",
+      "type": "Reply",
+      "timestamp": "2023-12-01T07:02:58.309+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "summon orb is 4(6) block",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179905216389320846",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179905675539775488",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:03:54.636+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "conditional block powers aren't necessarily small, but a part of whatever package the condition is too. I wouldn't call fnp about small block but about exhausting cards, on hexaghost there's enough instances of it plus the blur from ghost shield being a thing on top of spirit brand, floatwork, etc tell me it's meant to be a package",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179905765188841553",
+      "type": "Reply",
+      "timestamp": "2023-12-01T07:04:16.01+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's definitely gotten a bit off topic, but it is about whether these cards (specifically the extra crispy rework proposal) is a good idea.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179905427996168212",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179906207109103727",
+      "type": "Reply",
+      "timestamp": "2023-12-01T07:06:01.372+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't see how ghost shield is for small amount of block spam, but blockchain isn't. It should be both are for supporting many instances of small block, or neither.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179905216389320846",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179906463385268325",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:07:02.473+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "functions encompass many things and blur is just one of them, the character is meant to be about custom cards so there's tons of effects in there",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179906688803930122",
+      "type": "Default",
+      "timestamp": "2023-12-01T07:07:56.217+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's a reason why ghost shield was given blur initially, there's floatwork, there's the spirit brand, there's the bolstering flame, there's radiant flame",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179982457748062310",
+      "type": "Reply",
+      "timestamp": "2023-12-01T12:09:00.941+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me on my way to draft <after image> and get block for something I was already doing",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1179899022589300807",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179982459958468668",
+      "type": "Reply",
+      "timestamp": "2023-12-01T12:09:01.468+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "After Image",
+          "url": "https://slay-the-spire.fandom.com/wiki/After_Image",
+          "timestamp": null,
+          "description": "Rare Power / 1 :green_energy: / The Silent / Slay the Spire\n\n (**Innate**.)\nWhenever you play a card, gain 1 **Block** :p_block:.",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IPYJqb0h9ZdnVMcNNvm-2cc0eim-SO-RRsOKeTSOCvI/https/slay.ocean.lol/slay%2520the%2520spire/cards/afterimage.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179982457748062310",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179982689131044935",
+      "type": "Default",
+      "timestamp": "2023-12-01T12:09:56.107+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cheap to play and on a character that starts with extra cards in the opening turn",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179982822761566318",
+      "type": "Default",
+      "timestamp": "2023-12-01T12:10:27.967+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<feel no pain> could also be deemed a boring card as per your ruling",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179982825072644167",
+      "type": "Reply",
+      "timestamp": "2023-12-01T12:10:28.518+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Feel No Pain",
+          "url": "https://slay-the-spire.fandom.com/wiki/Feel_No_Pain",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :red_energy: / The Ironclad / Slay the Spire\n\nWhenever a card is **Exhaust**ed,\ngain 3 (4) **Block** :p_block:.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sSKk1BYi9omZcng5VU7eEFEgOl6KO7IdqR1pPPn6TBw/https/slay.ocean.lol/slay%2520the%2520spire/cards/feelnopain.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179982822761566318",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1179982883214073899",
+      "type": "Default",
+      "timestamp": "2023-12-01T12:10:42.38+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't know I just enjoy these card designs",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180033561336741888",
+      "type": "Default",
+      "timestamp": "2023-12-01T15:32:04.986+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I enjoy them too.",
+      "author": {
+        "id": "679680827831222310",
+        "name": "alexandrapharmic",
+        "discriminator": "0000",
+        "nickname": "Alexandra, Basic Card Hater",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561235067031642",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:28:52.207+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "extra crispy could be made into an attack with innate on upgrade to mirror tth",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561276536094910",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:29:02.094+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<talk to the hand>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561280277426316",
+      "type": "Reply",
+      "timestamp": "2023-12-03T02:29:02.986+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Talk to the Hand",
+          "url": "https://slay-the-spire.fandom.com/wiki/Talk_to_the_Hand",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :purple_energy: / The Watcher / Slay the Spire\n\nDeal 5 (7) damage.\nWhenever you attack this enemy, gain 2 (3) **Block** :p_block:.\n**Exhaust**.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/MAfOJdAx2A70S02qkbS23j7AfwOYPtBOQ41pK6OB3-g/https/slay.ocean.lol/slay%2520the%2520spire/cards/talktothehand.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1180561276536094910",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1180561435315675186",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:29:39.95+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this but without the upgrade to 3 it becomes innate on upgrade to compliment the searing flame by being an attack and the fact that the searing flame applies soulburn",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561622880751686",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:30:24.669+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and it makes aoe application via <flames from beyond>, <firestarter>, and <volcano visage> not as abusable for block",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561626802442420",
+      "type": "Reply",
+      "timestamp": "2023-12-03T02:30:25.604+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flames from Beyond",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aflamesfrombeyond",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. **Afterlife.**\nApply 18 (24) **Soulburn** :p_soulburn: to ALL enemies.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KulSUNyhLzoIs29ttc5XZ2UOTzyAuJeipw6i5Cc_8O8/https/slay.ocean.lol/downfall/cards/hexamod-flamesfrombeyond.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Firestarter",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3afirestarter",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 6 (8) damage and apply 6 (8) **Soulburn** :p_soulburn: to ALL enemies.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M6mp14PW9iqmqsp8KJ8LhNNDAMTjmjAZJKmxlIR_Kmo/https/slay.ocean.lol/downfall/cards/hexamod-firestarter.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Volcano Visage",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3avolcanovisage",
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\nWhenever you Ignite a Ghostflame, apply 4 (6) **Soulburn** :p_soulburn: to ALL enemies.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uHcZy5ptY2oROUp33-WWgviotpXg_VnO2FbMa9vFNJo/https/slay.ocean.lol/downfall/cards/hexamod-volcanovisage.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1180561622880751686",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1180561726710755338",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:30:49.424+09:00",
+      "timestampEdited": "2023-12-03T02:31:07.5+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<thermal transfer> is also kind of this idea, so it's basically a mini thermal transfer whenever you apply soulburn",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1180561728946307172",
+      "type": "Reply",
+      "timestamp": "2023-12-03T02:30:49.957+09:00",
+      "timestampEdited": "2023-12-03T02:31:07.929+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thermal Transfer",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3athermaltransfer",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 7 (10) damage.\nIf the enemy has Soulburn, gain 6 (8) **Block** :p_block:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F2F3N_ug2SwU5iLPy_yI648GA05b4pPdlWLexu3qUvc/https/slay.ocean.lol/downfall/cards/hexamod-thermaltransfer.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1180561726710755338",
+        "channelId": "1179892120228741150",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1180561963663769701",
+      "type": "Default",
+      "timestamp": "2023-12-03T02:31:45.918+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and not to mention that the searing ghostflames are attacks, so getting block on those over the crushing ghostflames which are skills (aka blocking card) is interesting too",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 65
+}

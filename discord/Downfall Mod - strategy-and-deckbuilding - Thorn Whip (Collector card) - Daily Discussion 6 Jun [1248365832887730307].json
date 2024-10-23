@@ -1,0 +1,830 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1248365832887730307",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Thorn Whip (Collector card) - Daily Discussion 6 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:31:48.2540278+09:00",
+  "messages": [
+    {
+      "id": "1248365833974059059",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:00:08.335+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248365834515120199",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:00:08.464+09:00",
+      "timestampEdited": "2024-06-08T05:00:19.365+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nShort Fuse (Hermit card): 5\nMystic (Collectible card): 0\nDanger Noodle (Snecko card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248365836721455215",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:00:08.99+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 563/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thorn Whip",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3athornwhip",
+          "timestamp": null,
+          "description": "Rare Attack / 1 :energy_collector: / The Collector / Downfall\n\nDeal 6 (8) damage and apply 3 (4) **Bruise** :p_bruise: to ALL enemies.\nGain a Shiv.",
+          "color": "#26664D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/NY93ZsjRy36wuqF5L3vIiZTphEKEe33uMCqcaK8XhJg/https/slay.ocean.lol/downfall/cards/collector-thornwhip.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/NY93ZsjRy36wuqF5L3vIiZTphEKEe33uMCqcaK8XhJg/https/slay.ocean.lol/downfall/cards/collector-thornwhip.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367215288385566",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:05:37.666+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this character does not have a lot of aoe",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367339133599894",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:06:07.193+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a cheap one that applies an additional debuff for black bindings and wildfire",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367404753358972",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:06:22.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "effectively a 1 cost 16 too",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367617547309078",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:07:13.572+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "really nice to see act 1, strips sentry artifact, big attack into nob, decent into laga",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367734312665179",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:07:41.411+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not good late though, but collector has an absurdly OP late game anyways",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248367859864830065",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:08:11.345+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like, the entire collector gameplan is winning act 1 so you can steamroll act 2 and 3",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248369221084119060",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:13:35.885+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Makes me wonder why no other downfall character utilizes bruise (obviously aside from Hermit)",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248369969205346494",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:16:34.251+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also I love how many of Collector cards are just DnD spells",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248370047139971143",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:16:52.832+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<scorching ray> comes to mind",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248370049446576189",
+      "type": "Reply",
+      "timestamp": "2024-06-07T05:16:53.382+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Scorching Ray",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3ascorchingray",
+          "timestamp": null,
+          "description": "Common Attack / 3 :energy_collector: / The Collector / Downfall\n\nDeal 8 damage to a random enemy 3 (4) times.",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h5K0EqBzyguFusKvx9lXktZ51oMYrjb5pK9CovSGLws/https/slay.ocean.lol/downfall/cards/collector-scorchingray.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1248370047139971143",
+        "channelId": "1248365832887730307",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1248370503912263801",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:18:41.735+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<heat metal>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248370506030256170",
+      "type": "Reply",
+      "timestamp": "2024-06-07T05:18:42.24+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heat Metal",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aheatmetal",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 4 (5) damage.\nApply 4 (5) **Soulburn** :p_soulburn:.\nApply 1 (2) **Vulnerable** :p_vulnerable:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/f6cHEm2DloHghOzf0IetDccdhXB5vuGY1QT2xZXyeTA/https/slay.ocean.lol/downfall/cards/hexamod-heatmetal.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1248370503912263801",
+        "channelId": "1248365832887730307",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1248370568298893333",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:18:57.086+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<vicious mockery>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248370570878517311",
+      "type": "Reply",
+      "timestamp": "2024-06-07T05:18:57.701+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Vicious Mockery",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aviciousmockery",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_champ: / The Champ / Downfall\n\nGain 5 (6) **Vigor** :p_vigor:.\nApply 1 (2) **Weak** :p_weak:.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XTSgbzCY_wpMbVSHM4YtNeNnJRnaqpOsN0rzMAjrdIU/https/slay.ocean.lol/downfall/cards/champ-viciousmockery.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1248370568298893333",
+        "channelId": "1248365832887730307",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1248371478756458618",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:22:34.156+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AoE attack that applies bruise and also hits twice because it creates a shiv for some reason",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248371488743100487",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:22:36.537+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "very strong",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248371503058124900",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:22:39.95+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and the bruise is very funny",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248372204568055839",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:25:27.203+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i overall find the \"variety of debuffs\" things on this character to be a big mistake",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248372224927469568",
+      "type": "Default",
+      "timestamp": "2024-06-07T05:25:32.057+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wayyyy too much complexity",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248388818139091006",
+      "type": "Default",
+      "timestamp": "2024-06-07T06:31:28.187+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pretty solid AOE tool for collector, the shiv gives it some nice flexibility as well to follow up on specific enemies with the bruise, and make it a bit better in single enemy fights. Worth noting that collector has very few AOE cards, with whirling flame at uncommon being the big one, as heat wave (uncommon) just doesn't do that much aoe damage, and raging call (uncommon) can be lost, and is rather expensive to get going at 2 energy. Finger of death+ is cute, but pretty impractical, as AOE really needs to be frontloaded to be effective at solving multi-enemy fights. If you are headed into act 2 and haven't yet found a good option, taking thorn whip is pretty solid to cover the hallways, and especially elites of that act.\n\nIt does really want to be paired with some cheap attacks like roast, jaded jabs, or heat wave so that you can capitalize on the bruise, because the base damage is lower than cleave otherwise. Given that collector also has reserves a way to stockpile energy and use tons of it on a single turn, It's usually pretty easy to get good value from the bruise here. There are certainly more exciting collector rares, especially as engine/scaling pieces, but this is very functional as a frontloading/AOE solution, even if it's not that flashy. Collector often crushes the lategame with ease, so taking a few cards like this to lock up your early game is perfectly acceptable to get you there safely.\n\nIt pairs nicely with calls, as you get two separate attacks for 1 energy, also pairing naturally with ninja relics and others like pen nib, ink bottle, and nunchaku. The upgrade is a +2 to the AOE and 1 more bruise, and given that you can follow up with the shiv, that's at least a +3 in single enemy fights. Upping the AOE damag is pretty important to help clear gremlin leader/slavers so I would prioritize it early in the run. I don't think this card is amazing or anything, but it does help cover a key weakness in collectors strategy, and is solid frontloaded damage.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248418388955627581",
+      "type": "Default",
+      "timestamp": "2024-06-07T08:28:58.419+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao powercrept <pistol whip> on a different character",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1248418391111503923",
+      "type": "Reply",
+      "timestamp": "2024-06-07T08:28:58.933+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pistol Whip",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3apistolwhip",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDeal 6 (8) damage.\nApply 3 (5) **Bruise** :p_bruise:.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/giQQycwVY2N7w1MotfULzauzEEwQ7dxxhHRz_axaBFk/https/slay.ocean.lol/downfall/cards/hermit-pistolwhip.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1248418388955627581",
+        "channelId": "1248365832887730307",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1248418824525713470",
+      "type": "Reply",
+      "timestamp": "2024-06-07T08:30:42.267+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's rare though",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1248418388955627581",
+        "channelId": "1248365832887730307",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 26
+}

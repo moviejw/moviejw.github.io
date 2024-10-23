@@ -1,0 +1,684 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1286778927934738462",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Naughty Spirit (Hexaghost card) - Daily Discussion 20 Sep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:15:03.1064496+09:00",
+  "messages": [
+    {
+      "id": "1286778929402744834",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:00:03.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286778931328057487",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:00:04.425+09:00",
+      "timestampEdited": "2024-09-22T05:00:13.475+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nWildfire (Collector card): 5\nLead By Example (Slime Boss card): 3\nPatsy (Gremlins card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286778934536437791",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:00:05.19+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 669/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Naughty Spirit",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3anaughtyspirit",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_hexa: / The Hexaghost / Downfall\n\nApply 6 (9) **Soulburn** :p_soulburn:.\nIf the current Ghostflame is **Ignited,** return this card to your hand. **Retract.**",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3r-igtdJfKsftWXVYA-TROlGjgDV-rFpJ0mTXRQdAzo/https/slay.ocean.lol/downfall/cards/hexamod-naughtyspirit.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3r-igtdJfKsftWXVYA-TROlGjgDV-rFpJ0mTXRQdAzo/https/slay.ocean.lol/downfall/cards/hexamod-naughtyspirit.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286781094154469387",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:08:40.083+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THE current best enabler of <Mark of the Ether>. Yes, even better than <Unlimited Power>. A really powerful option to enable Ghostflames, even with the Retract, because it by itself allows you to move around the wheel while saving a full energy on both movements and your second skill for your Crushing Ghostflames. Becomes even more powerful when paired with <Time Warp> to allow the you to both save even more energy and draw on your Searing Ghostflames, while also dealing a TON of damage as long as you can keep chaining tokens that turn.\nAside from Time Warp, pairs very well with <Nightmare Strike> <Nightmare Guise> (and the very obvious <Runic Pyramid>) to have a ton of tokens to fuel a very long combo turn, and with <Here and Now> to better enable going counterclockwise fully without forcing the player to not ignite the last Ghostflame that turn to get a little bit extra damage.\nTHE card to make the counterclockwise run work too. Enabled easier with <Devil's Dance> to keep fueling the combo longer. In fact, it can be the sole Retract card in your entire deck and justify taking Devil's Dance. It doesn't matter if you are moving away from the Inferno if you eventually just reach it again and still get a Hexaburn off, which in turn makes your Ghostflames better, which makes Naughty Spirit better, etc.\nAlso, the numbers on this card are just really high. Those are big numbers.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286781126492422175",
+      "type": "Reply",
+      "timestamp": "2024-09-21T05:08:47.793+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mark of the Ether",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aunbrokensoul",
+          "timestamp": null,
+          "description": "Boss Relic / The Hexaghost / Downfall\n\nReplaces Spirit Brand.\nWhenever you Ignite a Ghostflame , gain 4 **Block** :p_block:.\n*-# Let’s see if we can do... better.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8obbBCR1mLuc41AsvFzjS3_Lq_g4zyu0AMl-Lehsan0/https/slay.ocean.lol/downfall/relics/unbrokensoul.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Unlimited Power",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aunlimitedpower",
+          "timestamp": null,
+          "description": "Rare Skill / 4 (3) :energy_hexa: / The Hexaghost / Downfall\n\n**Ignite** all Ghostflames in order.\n**Exhaust**.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kVuEYsdWzbkQMeUWhdIXQeDf8Fq7IjWfQDyUAZ6WwDY/https/slay.ocean.lol/downfall/cards/hexamod-unlimitedpower.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Time Warp",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3atimewarp",
+          "timestamp": null,
+          "description": "Rare Attack / 0 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 5 (7) damage.\nWhenever you Advance or Retract, return this from the discard pile.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HPYs_jBt9U1PKDxU7Y-OlR7ha7BsC6EEfuteX75wZV8/https/slay.ocean.lol/downfall/cards/hexamod-timewarp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Nightmare Strike",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3anightmarestrike",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. Afterlife.\nDeal 3 damage.\nGain a Shadow Strike. (+.)",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RmcewY-j_7Lk4cygr8nrs2HtwuDHJNBBzVhA5ux3Wmc/https/slay.ocean.lol/downfall/cards/hexamod-nightmarestrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Nightmare Guise",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3anightmareguise",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. Afterlife.\nGain 2 **Block** :p_block:.\nGain a Shadow Guise. (+.)",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TfjrUXMftb_RbrNYjTIX-8VPcWN9n12njpKhZovmrjo/https/slay.ocean.lol/downfall/cards/hexamod-nightmareguise.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Runic Pyramid",
+          "url": "https://slay-the-spire.fandom.com/wiki/Runic_Pyramid",
+          "timestamp": null,
+          "description": "Boss Relic / All / Slay the Spire\n\nAt the end of your turn, you no longer discard your hand.\n*-# The runes are indecipherable.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QkQcILtm1jp3qG-V1dAXJKT29GsDu655PfUjtVVuyNw/https/slay.ocean.lol/slay%2520the%2520spire/relics/runicpyramid.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Here and Now",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3ahereandnow",
+          "timestamp": null,
+          "description": "Rare Power / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\nAt the start of your turn, gain :energy_hexa: .\nAt the end of your turn, **Extinguish** the current Ghostflame.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1vX9FkpivB9Xf9TX41bPb9LHMg4EksjBFIIvWlZo6Dw/https/slay.ocean.lol/downfall/cards/hexamod-hereandnow.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Devil's Dance",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3adevilsdance",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 (1) :energy_hexa: / The Hexaghost / Downfall\n\nWhenever you **Retract,** draw a card.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LS2ruyuTIgFRmQPgd4dFGBT3-g7j7k5hxJjKYwkHjLc/https/slay.ocean.lol/downfall/cards/hexamod-devilsdance.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1286781094154469387",
+        "channelId": "1286778927934738462",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1286787175610056736",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:32:50.015+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely very powerful as a way to retract multiple times in one turn, and to apply large amounts of soulburn. As a 0 cost skill, also very cheaply works as your second skill for crushing ghostflames, and can potentially let you make a lot of backwards progress along the wheel in one turn. Very strong with time warp to help light up searing ghostflames as you move along and because naughty spirit enables so much movement around the wheel. 6 (9) is a lot of soulburn to apply for 0 energy, especially considering how easy it is to get this back for additional plays. The upgrade is quite good considering how possible it is to play this several times in one turn for added value (it probably should only be a +2 for balance, like time warp). Enables devils dance easily with the amount of retract this can provide in one turn for long chains. Can get a lot of triggers from into shadow with this as well. Doesn't necessarily fit in well with more traditional decks that want to move forward on the wheel, since so much of the power of this is tied up in recurring it and playing it multiple times, unlike other retract cards that have powerful, one shot effects that just delay you a little bit. \n\nNot great in act 1, since the soulburn is delayed in shorter fights, and blocked by sentries initially. Skill for nob, but does deal good damage as long as you apply soulburn on turn 1. Very useful in the rest of the run for the synergies it enables, as well as providing cheap output (especially relevant if you get stuck on 3 energy going into act 2). Soulburn gets a bit better in the mid and late game where fights are going to last a long time because of larger health pools anyways, and naughty spirit can help cheaply remove artifact charges too. Being a spammable skill lets you trigger ink bottle and letter opener more often.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286787589419962391",
+      "type": "Reply",
+      "timestamp": "2024-09-21T05:34:28.675+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Soulburn gets a bit better in the mid and late game\" I just want to point out some of Hexa's most dangerous matchups are in Act 3 and because of the faults of Soulburn as damage.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "303064746129752074",
+          "name": "kiku_katsumi",
+          "discriminator": "0000",
+          "nickname": "Kiku",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1286787175610056736",
+        "channelId": "1286778927934738462",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1286787690276065290",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:34:52.721+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reptomancer, Giant Head, Transient, Ironclad 3, etc",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286787768890167389",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:35:11.464+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also bad as damage into Gremlin Leader because of the 2 turn thing.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286787965527265341",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:35:58.346+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would probably bump Naughty Spirit down to 4 (6) myself.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1286792282669977622",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:53:07.633+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4(6) would prob be correct bc you realistically play naughty spirit at least 2-3 times on draw",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "303064746129752074",
+              "name": "kiku_katsumi",
+              "discriminator": "0000",
+              "nickname": "Kiku",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1286792447229300838",
+      "type": "Default",
+      "timestamp": "2024-09-21T05:53:46.867+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "more in a fully enabling setup",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1287257547082043464",
+      "type": "Default",
+      "timestamp": "2024-09-22T12:41:55.313+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I suppose I was thinking more generally about dealing with larger health pools and fights where things might go on for 6 turns, but it is definitely true that soulburn has several tough matchups due to other reasons in act 3. Reptomancer needs to be answered before it gets it's turn 2, giant head's slow doesn't increase the damage at all (see also orbs for defect) transient needs more consistent damage applications during each individual turn, and Ironclad 3 needs you to remove it's armor, while soulburn is loss of life instead. I do think that soulburn can also struggle in the early game due to fights being very short, especially if you are struggling to get it applied on turn 1.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290844223892885576",
+      "type": "Default",
+      "timestamp": "2024-10-02T10:14:05.702+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all asc 45 + 31\na20 47 + 39 \nfor reference",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290844306214490182",
+      "type": "Default",
+      "timestamp": "2024-10-02T10:14:25.329+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I thought it'd be higher since I find it strong too",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290865180959313990",
+      "type": "Reply",
+      "timestamp": "2024-10-02T11:37:22.256+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Complexity/ comprehension issue probably. It's top ten card",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "286117651728695296",
+          "name": "mwalls",
+          "discriminator": "0000",
+          "nickname": "Mwalls",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "782757800677212181",
+              "name": "Contributor",
+              "color": "#9B59B6",
+              "position": 13
+            },
+            {
+              "id": "959248034678579283",
+              "name": "Beta Tester",
+              "color": null,
+              "position": 10
+            },
+            {
+              "id": "978375869313720390",
+              "name": "Translator",
+              "color": "#546E7A",
+              "position": 8
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1290844306214490182",
+        "channelId": "1286778927934738462",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 16
+}

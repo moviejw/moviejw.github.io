@@ -1,0 +1,506 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1258512792953032886",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Trash to Treasure (Snecko card) - Daily Discussion 4 Jul",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:28:57.1624966+09:00",
+  "messages": [
+    {
+      "id": "1258512793548619838",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:00:32.019+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258512794869956684",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:00:32.334+09:00",
+      "timestampEdited": "2024-07-06T05:00:43.608+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nBaalor's Lordly Plate (Guardian relic): 4\nUnlimited Rolls (Snecko card): 2\nDagger Dance (Gremlins card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258512797353115669",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:00:32.926+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 591/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Trash to Treasure",
+          "url": "https://slay.ocean.lol/w/downfall/sneckomod%3atrashtotreasure",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_snek: / The Snecko / Downfall\n\n**Snekproof.**\n**Exhaust** a card.\nGain :energy_snek: equal to its cost.\n​~~- **Exhaust**. -~~",
+          "color": "#60A4BD",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/iOTJ_o24yHSWQPt4rUu5nT7KgQsZgScwhOna6qW_cjc/https/slay.ocean.lol/downfall/cards/sneckomod-trashtotreasure.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/iOTJ_o24yHSWQPt4rUu5nT7KgQsZgScwhOna6qW_cjc/https/slay.ocean.lol/downfall/cards/sneckomod-trashtotreasure.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516106084356267",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:13:41.789+09:00",
+      "timestampEdited": "2024-07-05T05:14:33.155+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card is pretty good with exotic form x muddle strats, the only time you'll have the high cost low value cards to exhaust, and the draw to replace the 2 cards used up in this. Outside of exotic form this looks horrible, you are spending 2 draw to exhaust a high cost card. So you probably wouldn't be able to spend all your energy that turn.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516305070264444",
+      "type": "Reply",
+      "timestamp": "2024-07-05T05:14:29.231+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when upgraded you can also use it as 0 cost exhaust a card",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1258516106084356267",
+        "channelId": "1258512792953032886",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1258516631378989208",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:15:47.029+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "recycle but it doesent exhaust, recycle but it doesent exhaust",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516729559126108",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:16:10.437+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "super duper broken card thats used in almost every winning run and the ones where its not used are the runs that never find it!",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516746806100031",
+      "type": "Reply",
+      "timestamp": "2024-07-05T05:16:14.549+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<recycle>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1258516631378989208",
+        "channelId": "1258512792953032886",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1258516749289001132",
+      "type": "Reply",
+      "timestamp": "2024-07-05T05:16:15.141+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Recycle",
+          "url": "https://slay-the-spire.fandom.com/wiki/Recycle",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :blue_energy: / The Defect / Slay the Spire\n\n**Exhaust** a card.\nGain :blue_energy: equal to its cost.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ykViet0FsmYEod8OXtp13392PbVUaz1sIStyXR3FB-8/https/slay.ocean.lol/slay%2520the%2520spire/cards/recycle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1258516746806100031",
+        "channelId": "1258512792953032886",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1258516766674522132",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:16:19.286+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516811566157946",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:16:29.989+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trash to treasure+ is LITERALLY recycle+ but snekproof",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258516933431791637",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:16:59.044+09:00",
+      "timestampEdited": "2024-07-05T05:17:06.966+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yep and it does not exhaust when its upgraded and its on a character that can make everything cost 3 easily",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258517228861521944",
+      "type": "Default",
+      "timestamp": "2024-07-05T05:18:09.48+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the snekproof is acutally really good here since it it lets you pair this card with muddle.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1258518878590472225",
+      "type": "Reply",
+      "timestamp": "2024-07-05T05:24:42.806+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "recycle doesn't exhaust though",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "826258620513648660",
+          "name": "ahoodedman",
+          "discriminator": "0000",
+          "nickname": "ahoodedman",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1258516631378989208",
+        "channelId": "1258512792953032886",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1258541300710510592",
+      "type": "Default",
+      "timestamp": "2024-07-05T06:53:48.656+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's recycle+ with the added benefit of snekproof to avoid bad muddles (you do want to upgrade this to remove it's exhaust though). To be fair, defect can set up infinites a lot more reliably with recycle than snecko can, but this card is excellent, the only thing you really need to support it is plenty of card draw. It benefits from having muddle to have more high cost cards it can exhaust, but it's not totally necessary. Snecko can usually find good card draw between exotic form, snake rake, rotation, and master eye. Trash to treasure can just give you such a strong burst of energy that it lets you set up your scaling and frontload very cleanly, making it a great acceleration tool. Very strong with snecko eye of course. I think if you have even 1 or 2 good sources of card draw in your deck, it should be correct to take this, and you're likely enough to find them that taking this blind isn't unreasonable.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

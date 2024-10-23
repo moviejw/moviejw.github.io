@@ -1,0 +1,823 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1251265119648874698",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Backstep (Champ card) - Daily Discussion 14 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:30:56.7679888+09:00",
+  "messages": [
+    {
+      "id": "1251265120894586890",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:00:52.203+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265121716666368",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:00:52.399+09:00",
+      "timestampEdited": "2024-06-16T05:00:02.215+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nLiving Wall (Slime Boss card): 2\n??? 1-Cost (Snecko card): 0\nGhostly Presence (Hermit card): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265123281010761",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:00:52.772+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 571/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Backstep",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3abackstep",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_champ: / The Champ / Downfall\n\nEnter **Defensive.**\nGain 6 (9) **Block** :p_block:, increased by **Vigor** :p_vigor:.",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/BGDAFSLet-gybU-ueu5tiI5g6FfB0b8p6lqB-vU5Cxw/https/slay.ocean.lol/downfall/cards/champ-backstep.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/BGDAFSLet-gybU-ueu5tiI5g6FfB0b8p6lqB-vU5Cxw/https/slay.ocean.lol/downfall/cards/champ-backstep.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265251521855488",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:01:23.347+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao <endure> but infinitely better",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265254567182370",
+      "type": "Reply",
+      "timestamp": "2024-06-15T05:01:24.073+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Endure",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aendure",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_champ: / The Champ / Downfall\n\nGain 8 (10) **Block** :p_block:.\nThis card's **Block** :p_block: is increased by **Strength** :p_strength:​~~-  instead of **Dexterity** :p_dexterity: -~~ .",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/987qMpS20nQGbXKxAqT69rCWRveuqos958v2-bfJfuQ/https/slay.ocean.lol/downfall/cards/champ-endure.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1251265251521855488",
+        "channelId": "1251265119648874698",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1251265375417663508",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:01:52.886+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "endure is a really cool card concept that gets utterly demolished by backstep.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265437488910396",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:02:07.685+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love doubling the damage of my shield throw!!!!!",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265656955863052",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:03:00.01+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Backstep is more splashable, puts you in a stance (incredible for consistency) and even without all of that, just does more for less work.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265695640064040",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:03:09.233+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you could probably increase this card to uncommon its pretty crazy",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265772559532053",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:03:27.572+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does watcher have any wrath / calm in common?",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251265811105058856",
+      "type": "Reply",
+      "timestamp": "2024-06-15T05:03:36.762+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<crescendo>\n<tranquility>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1251265772559532053",
+        "channelId": "1251265119648874698",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1251265813898461270",
+      "type": "Reply",
+      "timestamp": "2024-06-15T05:03:37.428+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Crescendo",
+          "url": "https://slay-the-spire.fandom.com/wiki/Crescendo",
+          "timestamp": null,
+          "description": "Common Skill / 1 (0) :purple_energy: / The Watcher / Slay the Spire\n\n**Retain**.\nEnter Wrath.\n**Exhaust**.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/d1oD3y0NC8hc1R5RK_sLfH_g4JVh_8RPezXDWyqU2aQ/https/slay.ocean.lol/slay%2520the%2520spire/cards/crescendo.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tranquility",
+          "url": "https://slay-the-spire.fandom.com/wiki/Tranquility",
+          "timestamp": null,
+          "description": "Common Skill / 1 (0) :purple_energy: / The Watcher / Slay the Spire\n\n**Retain**.\nEnter Calm.\n**Exhaust**.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hui7zxnwhb5rkC46Qv2Wpdh-4r59OmfN5im6MFzFHVw/https/slay.ocean.lol/slay%2520the%2520spire/cards/clearthemind.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1251265811105058856",
+        "channelId": "1251265119648874698",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1251266286118502400",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:05:30.014+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card just does so much for 1 energy. Decent frontloaded block that also is infinitely scaling block that is also good utility.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251266462543515678",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:06:12.077+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "backstep is basically a free 2 picks, some decks might even take 3",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251266523356598362",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:06:26.576+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and vigor stacking is one of the better champ strategies, and this card is a key part in it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251266580201869312",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:06:40.129+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "only reason you might not take 2 is if you’re running 2+jigs and have too much defensive stance already",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251266720195412078",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:07:13.506+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but it folds into basically every champ strat except strikes very well",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267098769096805",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:08:43.765+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah even without insane amounts of vigor, using this with low vigor it's still a really good card. Yes I would like 8 block and defensive stance entry that scales into the end game.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267251945082910",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:09:20.285+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one of the few ways champ can beat act 4 is with <gladiator form>, and this card scales exceptionally well with it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267254365196360",
+      "type": "Reply",
+      "timestamp": "2024-06-15T05:09:20.862+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gladiator Form",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3agladiatorform",
+          "timestamp": null,
+          "description": "Rare Power / 3 :energy_champ: / The Champ / Downfall\n\nAt the start of each turn, gain 1 (2) **Vigor** :p_vigor: for every 3 **Vigor** :p_vigor: spent last turn. Then do the same for **Counter** :p_counter:.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tDhjGd4u73mogUue9l25zUOrxK_CaBLNVmapIwT2LUQ/https/slay.ocean.lol/downfall/cards/champ-gladiatorform.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1251267251945082910",
+        "channelId": "1251265119648874698",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1251267493989847130",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:10:17.993+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then pair those with <shield throw> and you have the trifecta of beating act 4. Is it perfect? No, but really champ doesn't have anything else that works even remotely consistently.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267496061702215",
+      "type": "Reply",
+      "timestamp": "2024-06-15T05:10:18.487+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shield Throw",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3ashieldthrow",
+          "timestamp": null,
+          "description": "Rare Attack / 1 (0) :energy_champ: / The Champ / Downfall\n\nDeal damage equal to your **Block** :p_block:, twice.\nGain 2 **Frail** :p_frail:.\nDefensive **Combo:** Don't gain **Frail** :p_frail:.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mw5oz20BQbC4YhzKl7i3dXLBFvF1NCBVOTmjNPsyxOI/https/slay.ocean.lol/downfall/cards/champ-shieldthrow.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1251267493989847130",
+        "channelId": "1251265119648874698",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1251267771400982559",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:11:24.133+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gladiator form is sus",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267848110604440",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:11:42.422+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you need two upgraded copies to win off of it, I consider it a meme strat",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251267867920306277",
+      "type": "Default",
+      "timestamp": "2024-06-15T05:11:47.145+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shield throw could be 2(1) and exhaust and I'd still consider it an alright card, it is very reminiscent of the time when champ had very little strategy, but just a bunch of individually overpowered cards.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1251330718823350323",
+      "type": "Default",
+      "timestamp": "2024-06-15T09:21:31.968+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Outstanding frontloaded block card, that naturally scales with something champ is very good at pretty inherently. It also has some solid utility to help you re-enter a stance, and is all around one of your better block options. This can easily feel like a non-exhausting genetic algorithm with the right support, blocking for huge amounts on key turns. As soon as you're past gremlin nob (and possibly even before considering champs strong act 1) I would be very happy to take this in most decks aggressively. Gladiator form is a notable synergy piece here, to help get the bonus block more consistenly (usually not that much of a problem for strong vigor stacking decks, but helpful). Probably too powerful right now, definitely feels overtuned, and a prime example of champ numbers feeling too high sometimes.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 26
+}

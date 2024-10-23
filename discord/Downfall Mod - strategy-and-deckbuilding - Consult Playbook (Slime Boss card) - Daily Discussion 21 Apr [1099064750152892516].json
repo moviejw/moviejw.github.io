@@ -1,0 +1,5487 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1099064750152892516",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Consult Playbook (Slime Boss card) - Daily Discussion 21 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:12:42.4241312+09:00",
+  "messages": [
+    {
+      "id": "1099064752359096351",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:10:56.598+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099064753206333574",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:10:56.8+09:00",
+      "timestampEdited": "2023-04-23T05:12:06.764+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRecover (Guardian card): 6\nGlop Chop (Slime Boss card): 2\nFull Release (Automaton card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099064755865538731",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:10:57.434+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 174/798",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#006B0C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Ecd_P4Pw1Q1O03XH60oa8JsA2v9qOOQ8HFSMLTv1iSA/https/slay.ocean.lol/downfall/cards/slimebound-checktheplaybook.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Ecd_P4Pw1Q1O03XH60oa8JsA2v9qOOQ8HFSMLTv1iSA/https/slay.ocean.lol/downfall/cards/slimebound-checktheplaybook.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Consult Playbook",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Skill / 2 (1) :e_slime: / The Slime Boss / Downfall\n\nGain 4 random \"Tackle\" cards. They cost 1 less this combat.\n**Exhaust**.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ecd_P4Pw1Q1O03XH60oa8JsA2v9qOOQ8HFSMLTv1iSA/https/slay.ocean.lol/downfall/cards/slimebound-checktheplaybook.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065156945846293",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:12:33.059+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty high value",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065213589917746",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:12:46.564+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tackle decks kinda suck tho unfortunately",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065337565151282",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:13:16.122+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably easiest to take, in slime boss, on a goop-heavy deck that drafted too few attacks",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065388026834944",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:13:28.153+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<consult playbook event>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065392950947950",
+      "type": "Reply",
+      "timestamp": "2023-04-22T05:13:29.327+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Art of Slime War",
+          "url": null,
+          "timestamp": null,
+          "description": "Event / Act ? / All / Downfall\n```ansi\n\u001B[2;37m[Read\u001B[2;37m] \u001B[2;32mRemove all \u001B[0;2mStrikes. \u001B[2;32mReceive 3 Upgraded \u001B[0;2mTackles.\n``````ansi\n\u001B[2;37m[Take\u001B[2;37m] \u001B[2;32mObtain Consult Playbook. \u001B[2;31mTrigger a trap.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n``````ansi\n\u001B[2;37m[Dive \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mBecome Cursed - Icky.\n``````ansi\n\u001B[2;37m[Be Patient \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mTake 35% \u001B[2;34m(45%) \u001B[2;31mof your max HP as damage.\n``````ansi\n\u001B[2;37m[Grab and Run \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mLose 10% \u001B[2;34m(15%) \u001B[2;31mof your Max HP.\n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/it_0aDqNy1ENmRcUNFY257HjBZ7QDhl7M-dVOJ_qEg4/https/slay.ocean.lol/extraimages/events/theartofslimewar.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "footer": {
+            "text": "<consult playbook event> = the art of slime war, 59% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099065388026834944",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099065594059444377",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:14:17.275+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Probably not worth to take from this event, it’s not as powerful as <golden idol> in basegame events",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065597955932231",
+      "type": "Reply",
+      "timestamp": "2023-04-22T05:14:18.204+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Golden Idol",
+          "url": "https://slay-the-spire.fandom.com/wiki/Golden_Idol?embnum=0",
+          "timestamp": null,
+          "description": "Special Relic / All / Slay the Spire\n\nEnemies drop 25% more Gold :p_gold:.\n*Made of solid gold, you feel richer just holding it.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPV6crWDXFNTd7ZnbM7kIUV1rMJmkBpuk-VvZNftYOU/https/slay.ocean.lol/slay%2520the%2520spire/relics/goldenidol.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099065594059444377",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099065620693254164",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:14:23.625+09:00",
+      "timestampEdited": "2023-04-22T05:15:44.937+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<golden idol event slay the spire>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099065625038565437",
+      "type": "Reply",
+      "timestamp": "2023-04-22T05:14:24.661+09:00",
+      "timestampEdited": "2023-04-22T05:15:46.247+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Golden Idol",
+          "url": "https://slay-the-spire.fandom.com/wiki/Golden_Idol?embnum=0",
+          "timestamp": null,
+          "description": "Event / Act 1 / All / Slay the Spire\n```ansi\n\u001B[2;37m[Take\u001B[2;37m] \u001B[2;32mObtain Golden Idol. \u001B[2;31mTrigger a trap.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n``````ansi\n\u001B[2;37m[Outrun \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mBecome Cursed - Injury.\n``````ansi\n\u001B[2;37m[Smash \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mTake damage equal to 25% \u001B[2;34m(35%) \u001B[2;31mof your max HP.\n``````ansi\n\u001B[2;37m[Hide \u001B[0;2m(trap triggered)\u001B[2;37m] \u001B[2;31mLose 8% \u001B[2;34m(10%) \u001B[2;31mMax HP.\n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pZwDPQ31vcPq_F1nR5oJ88ALspgW2PDirsM9GAwyhhA/https/slay.ocean.lol/extraimages/events/goldenidol.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099065620693254164",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099066047958614177",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:16:05.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you even take worse penalties lol",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099066078447030313",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:16:12.762+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Might also be good act 1 I guess",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099066185254965278",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:16:38.227+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tackles should be able to carry through elites on most chars",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099068253155893370",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:24:51.253+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in fairness Icky is a slightly less offensive curse than Injury",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099068406763900999",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:25:27.876+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but yeah the Art of Slime War event is doodoo garbage",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099068516847599656",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:25:54.122+09:00",
+      "timestampEdited": "2023-04-22T05:26:22.531+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unless you're playing one of two ironclad packages (self-harm and Blocked)",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099068855692832768",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:27:14.909+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "even then you just have better options already",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099069380446400645",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:29:20.02+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you managed to remove 0 strikes so far ig",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099072853833425066",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:43:08.14+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like the playbook tackles should just cost 0",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099072944937914508",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:43:29.861+09:00",
+      "timestampEdited": "2023-04-22T05:43:45.22+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "making them cost more than that makes it inconsistent with the card's already high cost",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099073259523293186",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:44:44.864+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/669242017427226638/782759732023918592/1002245898715275336",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099073532731854939",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:45:50.002+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you always link to the \"no consult playbook\" you posted for my a14 slime boss run?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099073558119981086",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:45:56.055+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or do you link to different ones",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099073611005952050",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:46:08.664+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats the one",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099073620686422046",
+      "type": "Default",
+      "timestamp": "2023-04-22T05:46:10.972+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "origin story",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099077294359851059",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:00:46.844+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very unusual card. I find that it's best use is providing additional burst damage in the early/mid game, especially without actually adding strike+ type cards to your deck. 1 copy of consult playbook can function like 4 standard burst damage commons, though you do need to draw it in a timely fashion. The upgrade is really important to get ASAP, so that you have more energy to play the generated tackles (Most tackles cost 2). 1 copy of roll through can also help you take less damage while using this.\n\nAs you get into the later stages of the run, it falls off fairly hard, as you don't necessarily want to fill your deck with random tackles during important/long boss and elite fights. You do always have the option of just not playing it, or only playing it when the fight is nearly over to get that little bit of extra burst. Tackles also aren't really a well supported synergy package, so you will usually be more focused on goop/slime minions at that point in the run. This could be a very valuable card in a tackle archetype to increase the density of tackles in your deck, but there just isn't much of a payoff for doing that with slime bosses current set of powers.\n\nIt does really well against the act 1 elites, providing tons of cheap burst damage to close out those fights, and will also do well into the hallway fights during the early game. Having 4 energy helps immensely, as it helps you play more of the generated tackles on the same turn you used consult playbook. I would probably buy this from a shop in act 1, but would rarely want to take it as a card reward from an act boss, since your deck probably has enough frontloaded damage by the end of act 1. Runic pyramid can also help you keep the tackles to use later, when you have the energy and block to play them effectively. Also solid with the ninja relics, pen nib, and nunchaku, as it makes lots of cheap attacks for the fight. The beta art is really charming.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099083884370595860",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:26:58.025+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For the record, this can generate four 1 cost tackles (that includes the starter card), and four 2 cost tackles. Opening tackles is particularly nice as it's 1 cost (0 with playbook) , and can help all the other tackles deal even more damage with the vulnerable. Spear tackle is great as a 1 cost that becomes a 0 cost and draws 2 cards, flame tackles is theoretically good since it increases the damage of other tackles, and hungry tackle can let you cheaply recycle a lick and hopefully draw a card. I would say that you are relatively happy with 3 of the 8 tackles this can generate. Vicious, combo, forward and the starter card are all not great, and I doubt that flame tackle will be enough scaling to be relevant. \n\nAs for tackle support in slime boss, roll through helps you avoid their drawback, flame tackle and recklessness increase their damage. You also have the shop relic protective gear to negate the drawback. That's a really small amount of support, and none of it really helps these frontloaded damage cards transition more gracefully into the late game, they just let them deal more front-loaded damage or take away the self damage. I would prefer to see something that let them draw cards, or reduced their costs. Notably they don't have a single piece of support at rare, while goop/licks have 5, and potency gets 2 rare pieces of support. Some kind of rare power that lets tackles be more useful in the late game would help their viability (and therefore consult playbooks viability) significantly.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099085686180679810",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:34:07.61+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<tackle draw>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099085690039443466",
+      "type": "Reply",
+      "timestamp": "2023-04-22T06:34:08.53+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spear Tackle",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_slime: / The Slime Boss / Downfall\n\nDeal 11 (13) damage.\nTake 3 damage.\nDraw 2 (3) cards.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1zecXsFScItuSrnZVWdDR_z23XKHlQkbX6l6-R4_N1o/https/slay.ocean.lol/downfall/cards/slimebound-combotackle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<tackle draw> = spear tackle, 77% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099085686180679810",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099085776035258429",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:34:29.033+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<relic tackle shop>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099085780716097556",
+      "type": "Reply",
+      "timestamp": "2023-04-22T06:34:30.149+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Protective Gear",
+          "url": null,
+          "timestamp": null,
+          "description": "Shop Relic / The Slime Boss / Downfall\n\nReduce the damage you take from **Tackles** by 3.\n*The best defense is a good offense.*",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eIzFPk-zHz5TuzD0j7LLkjQaGmjO-FvATqg9PCbjBQc/https/slay.ocean.lol/downfall/relics/selfdamagepreventrelic.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "<relic tackle shop> = protective gear, 80% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099085776035258429",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099085942469447742",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:35:08.714+09:00",
+      "timestampEdited": "2023-04-22T06:35:16.229+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you get two of those with PG that's a clean infinite",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099086074850054256",
+      "type": "Default",
+      "timestamp": "2023-04-22T06:35:40.276+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<duplication form>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099086080105517137",
+      "type": "Reply",
+      "timestamp": "2023-04-22T06:35:41.529+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Duplicated Form",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 3 :e_slime: / The Slime Boss / Downfall\n\n (Gain :e_slime: each turn.)\nThe first card each turn that targets enemies is played twice.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/moMZOuzePSOM10C_kmOaXHo1Boyr40FVWf7suNa3mAk/https/slay.ocean.lol/downfall/cards/slimebound-duplicatedform.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<duplication form> = duplicated form, 32% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099086074850054256",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099098466497601616",
+      "type": "Default",
+      "timestamp": "2023-04-22T07:24:54.675+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Funny card",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099100104633356298",
+      "type": "Default",
+      "timestamp": "2023-04-22T07:31:25.237+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't like the event for this card I feel like I never take either option",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099100939887067187",
+      "type": "Default",
+      "timestamp": "2023-04-22T07:34:44.377+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ive never taken this card, am not a tackle enjoyer",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099113727879553124",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:25:33.272+09:00",
+      "timestampEdited": "2023-04-22T08:25:50.037+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I occasionally take the strike to tackle one if I haven't removed any strikes yet, but otherwise this event is a skip",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099114052904570900",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:26:50.764+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly I forgot there was a trap for taking the book, I usually skip it even though I thought it was free",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099114453699670147",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:28:26.321+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "icky isn't horrible, taking 35 (45 on A15+) damage is a genuinely baffling decision, that is SO MUCH",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099114589905485864",
+      "type": "Reply",
+      "timestamp": "2023-04-22T08:28:58.795+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you might be able to stomach losing half your health if you have leech life or reaper",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099114453699670147",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099114621002055731",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:29:06.209+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "strikes for tackle + is pretty good when you still have 4 strikes left (its like fine if you have 3). Its worth noting that if you transform the tackles you don't get slime boss cards.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099114680779292792",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:29:20.461+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unless your playing slime boss of course",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099114917090558044",
+      "type": "Reply",
+      "timestamp": "2023-04-22T08:30:16.802+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and the max hp on a character with easy access to healing",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099114453699670147",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099115005397442631",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:30:37.856+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "normally I'm trading away my strikes so I dont' get to take the book that much ( I don't think its really worth a curse anyways most of the time )",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099115564057772062",
+      "type": "Default",
+      "timestamp": "2023-04-22T08:32:51.051+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and consult playbook on slimeboss itself is pretty good. With 4 random tackles you probably are going to want to play at least 2 of them making it a lot of damage in one card. With tackles being a pretty strong play style its fairly easy to take at pretty much all stages of the game.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099135760789143632",
+      "type": "Reply",
+      "timestamp": "2023-04-22T09:53:06.327+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just straight up disagree with this, tackles fall off hard late game",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099115564057772062",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099135921527472157",
+      "type": "Default",
+      "timestamp": "2023-04-22T09:53:44.65+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And slime already has pretty good damage",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099137386643988530",
+      "type": "Default",
+      "timestamp": "2023-04-22T09:59:33.961+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah tackles are like, the weakest aspect of SB outside of act 1",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139122637045860",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:06:27.854+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tackles are apart of that good damage, its easy to scale them up with flaming tackle and recklessness and tackle decks are super consistent with spear tackle giving you so many cards (while its doing like 30 damage). Its pretty easy to mix tackles in with your standard goop stuff your just not supposed to have your deck have exclusively tackles in it (like you woudlnt play ironclad with only attacks)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139286294593566",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:07:06.873+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the way I see it spear tackle is one of slime bosses most powerful cards; so I'm leaning into using tackles all the time to maximize how strong it is.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139602746441850",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:08:22.321+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<recklessness> + is just an insanely strong card too",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139606861062225",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:08:23.302+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Recklessness",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :e_slime: / The Slime Boss / Downfall\n\nYour \"Tackle\" cards deal 6 (9) more damage to enemies, and 1 more damage to you.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/euA99gQ5nntiPi9O1CQWrkeRNBLcCwd8IXZBDAtzwgM/https/slay.ocean.lol/downfall/cards/slimebound-bestdefense.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099139602746441850",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099139713601912842",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:08:48.751+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+9 damage??? put that inflame away",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139798649802892",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:09:09.028+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this may have even been buffed at one point",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099139948772331611",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:09:44.82+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah but, ive never taken more than one tackle and i can still pump out huge damage",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099139122637045860",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099140028938076314",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:10:03.933+09:00",
+      "timestampEdited": "2023-04-22T10:10:08.717+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tackles are strong in a vacuum, but in the actual game, they just slow you down",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140217547522078",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:10:48.901+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well you don't need to use tackles to hit hard but that doesnt make them not valueble tools. Another valid way to win on slimeboss is to just get 3 leeching slimes, some potency and press E until the fight ends (basically defect frost orbs)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140228020699259",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:10:51.398+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spear tackle definitely doesn't",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140331800383579",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:11:16.141+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure Leeching spam works without Command",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099140217547522078",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099140419478110331",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:11:37.045+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spear tackle is the exeption, its weighed down by the fact its a tackle",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140592912568341",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:12:18.395+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "command helps and makes the deck not die to act 4 elites but you can still make a super defensive deck with leeching slimes even without any command",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140600265195531",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:12:20.148+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if it did less damage and had no self damage, it would be insane",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140643395207219",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:12:30.431+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099140592912568341",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099140867882762260",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:13:23.953+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "self damage is such a small problem though, slime boss has good block and built in recovery; theres even a card that just negates tackle self damage (roll through)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140973734412439",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:13:49.19+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "compare spear tackle to something like <hemokinesis>",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099140977475731486",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:13:50.082+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hemokinesis",
+          "url": "https://slay-the-spire.fandom.com/wiki/Hemokinesis?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_red: / The Ironclad / Slay the Spire\n\nLose 2 HP.\nDeal 15 (20) damage.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BxZNCes4K9Xe7eeSmjq7AhgdXMUdzhcTF-Az73JpjMs/https/slay.ocean.lol/slay%2520the%2520spire/cards/hemokinesis.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099140973734412439",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099141052264353792",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:14:07.913+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<spear tackle>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099141056454467634",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:14:08.912+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spear Tackle",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_slime: / The Slime Boss / Downfall\n\nDeal 11 (13) damage.\nTake 3 damage.\nDraw 2 (3) cards.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1zecXsFScItuSrnZVWdDR_z23XKHlQkbX6l6-R4_N1o/https/slay.ocean.lol/downfall/cards/slimebound-combotackle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099141052264353792",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099141097227296909",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:14:18.633+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its not a big issue, but its just annoying and slows you down just enough to be tiring to use",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "826258620513648660",
+          "name": "ahoodedman",
+          "discriminator": "0000",
+          "nickname": "ahoodedman",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1099140867882762260",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099141119922671676",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:14:24.044+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok god why does spear tackle do so much damage",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099141172372455424",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:14:36.549+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-4 damage for +2 draw and blockable self-damage",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099141270519164990",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:14:59.949+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ya unlike iron clad slime boss can outright prevent its self damage",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099141560223928421",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:16:09.02+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i mean, hemo is still amazing throughout all of the game",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099141952638820465",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:17:42.579+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it would be different if there was a card that synergized with tackle self damage, instead of negating it",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099142009949794304",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:17:56.243+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "theres a lot of tiresome things in slay the spire; things like frozen eye, runic dome, infinites making you click 50 times a fight. Being annoying to use doesn't make them bad strategies though.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099141097227296909",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099142316586967100",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:19:09.351+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "runic dome isn't annoying most of the time",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099142373675630692",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:19:22.962+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the times it is annoying are times when it's a pain in the dick though",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099142820868141116",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:21:09.581+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well, theres a difference between tiring strategies that improve consistency in the long run, compared to tiring strategies that are tiring for the sake of compensating for an overstat",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099142009949794304",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099143205708103720",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:22:41.334+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tackles are obtuse and, in my opinion, bad game design",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143424042606723",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:23:33.389+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if there was a card for ironclad that read \"the next time you would lose HP, dont\", that would be lame",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143468447711292",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:23:43.976+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Buffer>?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099143424042606723",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099143470578421842",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:23:44.484+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Buffer",
+          "url": null,
+          "timestamp": null,
+          "description": "Keyword / Downfall\n\nPrevent the next time you would lose HP.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099143468447711292",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099143533685911753",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:23:59.53+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for ironclad, since defect doesnt really have self damage",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1099143468447711292",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099143587188457482",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:24:12.286+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ironclad has nowhere near as much self damage as slime boss",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143590967513088",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:24:13.187+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if ironclad had buffer, that would be even worse",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143615579705374",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:24:19.055+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "of course a card like that would feel bad",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143759133941764",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:24:53.281+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tackle self damage being unavoidable would just be a retread of what ironclad can do though",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099143909281636383",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:25:29.079+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well, he has enough, and slime boss has no self damage synergy either",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "147832879294971905",
+          "name": "therealevab8684",
+          "discriminator": "0000",
+          "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1099143587188457482",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099143992043655169",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:25:48.811+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wdym by enough",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099144044879290538",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:26:01.408+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "enough for the card to be useful a reasonable amount of the time?",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099144351810076712",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:27:14.586+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "enough for the card to warrant existing, if there was an argument for it\nof course, maybe not a buffer-esque",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099144044879290538",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099144620425891921",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:28:18.629+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think there is. slime boss has several common tackles. ironclad has 0 self damage in common.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099144630056001536",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:28:20.925+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "more like a torii that \"negates\" damage but still procs",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099144790513295401",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:28:59.181+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and how many self damage rares does slime boss have?",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099144620425891921",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099144876265844736",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:29:19.626+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<? slimebound take damage>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099144881743593582",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:29:20.932+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Searched for \"slimebound take damage\"",
+          "url": "https://slay.ocean.lol/search?slimebound%20take%20damage?embnum=0",
+          "timestamp": null,
+          "description": "1: slime boss card **Tackle** - 81% sure\n2:  relic **Protective Gear** - 80% sure\n3: slime boss card **Spear Tackle** - 77% sure\n4: slime boss card **Forward Tackle** - 77% sure\n5: slime boss card **Opening Tackle** - 76% sure\n6: slime boss card **Hungry Tackle** - 76% sure\n7: slime boss card **Vicious Tackle** - 74% sure\n8: slime boss card **Combo Tackle** - 73% sure\n9: slime boss card **Flame Tackle** - 73% sure\n10: slime boss card **Roll Through** - 72% sure",
+          "color": "#DEC1BF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/35SmEcKpA9GJiCOqJmeQ5TZHy633xLQyQyEz3DZ0yr0/https/slay.ocean.lol/downfall/cards/slimebound-tackle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "Page 1/42"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099144876265844736",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099144917319688263",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:29:29.414+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~consult playbook?~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099144790513295401",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099144925242728538",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:29:31.303+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looks like just Playbook",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145028334538812",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:29:55.882+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<? ironclad rare lose HP>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145033501913108",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:29:57.114+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Searched for \"ironclad rare lose hp\"",
+          "url": "https://slay.ocean.lol/search?ironclad%20rare%20lose%20hp?embnum=0",
+          "timestamp": null,
+          "description": "1: ironclad card **Offering** - 77% sure\n2: ironclad card **Brutality** - 75% sure\n3: ironclad card **Rupture** - 44% sure\n4: ironclad card **Combust** - 41% sure\n5: ironclad card **Bloodletting** - 39% sure\n6: ironclad card **Hemokinesis** - 39% sure\n7:  relic **Runic Cube** - 39% sure\n8:  relic **Self-Forming Clay** - 36% sure\n9: ironclad card **Feed** - 34% sure\n10: ironclad card **Reaper** - 34% sure",
+          "color": "#DEC1BF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eKBuxTLwLFM-AKROg2ALhM4b6kHhKMC3Fpzzqimi7sA/https/slay.ocean.lol/slay%2520the%2520spire/cards/offering.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "Page 1/46"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099145028334538812",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099145104607952998",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:30:14.067+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ironclad has 2",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145184689782845",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:30:33.16+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "with special consideration for offering being a great card",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145372678508636",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:31:17.98+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "playbook isnt even a self damage card, its basically <infernal blade>++++",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145377334165596",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:31:19.09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Infernal Blade",
+          "url": "https://slay-the-spire.fandom.com/wiki/Infernal_Blade?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :e_red: / The Ironclad / Slay the Spire\n\nAdd a random Attack into your hand.\nIt costs 0 this turn.\n**Exhaust**.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nA5r63af76FFZLE4YpaRPqkJ62piEE0ylnKJoEv7Pb8/https/slay.ocean.lol/slay%2520the%2520spire/cards/infernalblade.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099145372678508636",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099145467754991636",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:31:40.648+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "slime boss used to have reformation which worked very well with tackles. Theres also duplicated form which synergies with all attacks",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099144790513295401",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099145548377890816",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:31:59.87+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it gives you cards that hurt you every time. it's totally a self-damage card by proxy",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099145994505027684",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:33:46.235+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "then i could technically say Berserk (get hit more=more damage taken), Feed (more max HP=more damage you can take), Reaper (heal=more health to lose), etc",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099145467754991636",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099146186469937252",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:34:32.003+09:00",
+      "timestampEdited": "2023-04-22T10:34:40.154+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feed and reaper do end up working in self damage decks so thats fine (slime can do the same with leech life and mass feed)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099146220817109074",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:34:40.192+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and mass feed",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099146624376262717",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:36:16.408+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feed and feed 2 slime boss addition end up working in anything though; they just benefit decks that hurt themselves more. Which is fine for there to be rare cards that are flexible.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099146692013600868",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:36:32.534+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it's fine that roll through exists. the point of Ironclad self damage cards is that you know you're going to take less damage by playing those cards then if you had saved the HP instead. the point of slime boss's tackles, however, is that the damage CAN be prevented, and it's supposed to be. that's why roll through exists and it's why there's no synergies for the self-damage instead",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147029097230516",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:37:52.901+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also, I like the dichotomy of tackles being high damage numbers at the cost of taking damage yourself. it makes combat fuel more exciting, in an adrenaline inducing way",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147114707165244",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:38:13.312+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel the opposite tbh",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099147029097230516",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099147213319454780",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:38:36.823+09:00",
+      "timestampEdited": "2023-04-22T10:38:54.615+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the self-damage isn't some tacked on balancing tool. it creates a very specific gameplay feel",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147583798128730",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:40:05.152+09:00",
+      "timestampEdited": "2023-04-22T10:42:51.014+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think its fine for slime boss to not have a rupture like card because if it did you would just be repeating ironclad's thing again. Slime boss already isnt the most creative boss; its like a mish mash of all 3 base characters. It should keep the originality it has then become more like existing characters.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147680938197002",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:40:28.312+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a well done mish mash though",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147739901735023",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:40:42.37+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ain nothin like good mash potatoes",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099147795895685200",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:40:55.72+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its a gameplay feel of \"gain x to use y with no z, use y with no x and gain z\" aka buff debuff mechanics, which I absolutely despise as a concept. I do not want to play an MMO minigame as half of my \"tackle deck\"",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099147213319454780",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099148102679658517",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:42:08.863+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mmo mini game?",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148228596871279",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:42:38.884+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like managing buffs and debuffs in a rudimentary, direct way",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148270170812427",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:42:48.796+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/669242017427226638/1099064750152892516/1099073259523293186",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148286457282672",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:42:52.679+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "instead of, yk, something like Hermit",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148327234318411",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:43:02.401+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you go to the message that the message I linked points to",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148376303468585",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:43:14.1+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you'll find a winning tackle deck above it",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148454283980980",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:43:32.692+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and from my experience with it:\nIt did not feel like an MMO minigame at all",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148526308569218",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:43:49.864+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it links to a meme",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099148691006312531",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:44:29.131+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099148526308569218",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099148718080524329",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:44:35.586+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's a winning tackle deck above the meme",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149333946974219",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:47:02.42+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "huh",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149534887686244",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:47:50.328+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what bosses did you have?",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149604068540476",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:48:06.822+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "slime boss all 4 acts if I'm not mistaken",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149703549034506",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:48:30.54+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i meant the specific bosses",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149722972868698",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:48:35.171+09:00",
+      "timestampEdited": "2023-04-22T10:48:40.013+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149772897669240",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:48:47.074+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I forgot which ones",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149807341285416",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:48:55.286+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as it was like 6 months ago",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099149909254492190",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:49:19.584+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099150045011529778",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:49:51.951+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel like that deck loses in act 2 against D2 and H2",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099150145150525440",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:50:15.826+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably shreds IC2 and W2, and S2 is iffy",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099150467755421696",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:51:32.741+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"probably shreds W2\"",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099150500089315408",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:51:40.45+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's like saying \"water is wet\"",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099150597724319865",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:52:03.728+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably wet",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099151060762894366",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:53:54.125+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ya never know",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1099150467755421696",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099151102122938479",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:54:03.986+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Slime boss has good block???",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099140867882762260",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099151182292844634",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:54:23.1+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<goop armor>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099151102122938479",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099151184935272538",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:54:23.73+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Goop Armor",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :e_slime: / The Slime Boss / Downfall\n\nGain 3 (4) **Block** :p_block: whenever you **Consume.**",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9G_GBMgMKXO6AfW2sqBC9aSpatrpOzwkXOvc-lfzcRs/https/slay.ocean.lol/downfall/cards/slimebound-spikyoutergoop.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099151182292844634",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099151225456447508",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:54:33.391+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and leeching slimes + potency + command",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099151416867700736",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:55:19.027+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "slime boss has Sampling Lick and Serve and Protect, i wouldnt say its Hexa level, but its better than Champ and Hermit",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099151102122938479",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099152382434222231",
+      "type": "Reply",
+      "timestamp": "2023-04-22T10:59:09.236+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A) *used to*\nB) they really didn't synergize well either\nC) duplicated form isn't bad, but it's now dealing 6 damage to you which is a pretty high amount and can really hurt your block",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099145467754991636",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099152441234165892",
+      "type": "20",
+      "timestamp": "2023-04-22T10:59:23.255+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Leeching Strike",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_slime: / The Slime Boss / Downfall\n\nDeal 5 (8) damage.\n**Consume** - Gain **Block** :p_block: equal to the enemy's **Goop** :p_goop:.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/UqhOhAt1xK7pzeaP-ybLy8o4TeMzb_1S_kVVJQYVlgQ/https/slay.ocean.lol/downfall/cards/slimebound-leechingtouch.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "[[gain block equal to goop]] = leeching strike, 76% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1099152439942324306",
+        "name": "i",
+        "user": {
+          "id": "147832879294971905",
+          "name": "therealevab8684",
+          "discriminator": "0000",
+          "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+        }
+      }
+    },
+    {
+      "id": "1099152491070881942",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:59:35.137+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this thing blocks for absurd amounts",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099152502940770385",
+      "type": "Default",
+      "timestamp": "2023-04-22T10:59:37.967+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as a common",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099153627995709480",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:04:06.201+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's 2 types of people:\nThe ones that rank every card above D\nAnd the ones that all but like 8 cards in D-F",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099153827640389633",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:04:53.8+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd probably be the first camp",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099153911421620325",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:05:13.775+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm in the first camp",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099153923425710160",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:05:16.637+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "except watcher",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154034482491402",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:05:43.115+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and then there's me, the only person to have an even number of ranks in their card tier list",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154102849638501",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:05:59.415+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like half of watcher's cards would be in A tier if it weren't for the infinite and how easy it is to fish for it",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154349604741191",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:06:58.246+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the most baffling part of watcher is probably rushdown",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154437760618536",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:07:19.264+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I considered it a top 10 card back when I used to play watcher",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154494996095178",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:07:32.91+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and I didn't even know there was an infinite",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154584498352170",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:07:54.249+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same actually. the extra draw when you're trying to actively do damage makes a lot of sense",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154737246515250",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:08:30.667+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It creates such an easy cycle of play. Go to calm, enter wrath. Draw 2 and gain 2 energy and murder things, then use the extra draw and energy to go back to calm. Repeat.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154849251197020",
+      "type": "Reply",
+      "timestamp": "2023-04-22T11:08:57.371+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all of watchers cards, with the exception of a few, are amazing. its just Red-Blue is so amazing it outclasses it",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099154102849638501",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099154944336085053",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:09:20.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<rushdown>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099154947767013519",
+      "type": "Reply",
+      "timestamp": "2023-04-22T11:09:20.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rushdown",
+          "url": "https://slay-the-spire.fandom.com/wiki/Rushdown?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 (0) :e_purple: / The Watcher / Slay the Spire\n\nWhenever you enter Wrath, draw 2 cards.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HrngmzEkWTnz0J12zb3dBa9r8mQOadtTktTRLjlhw9k/https/slay.ocean.lol/slay%2520the%2520spire/cards/adaptation.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1099154944336085053",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1099155037751611515",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:09:42.313+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would you take it if it was 1 draw?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155144966422528",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:07.875+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155185953153084",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:17.647+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155200616431626",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:21.143+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "draw is draw",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155230035283998",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:28.157+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*insert X is X meme*",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155283751739463",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:40.964+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "draw for doing what u were going to do anyway is amazing",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155303548854404",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:10:45.684+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "always",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155421677240371",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:11:13.848+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i would never take it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1099155564308729907",
+      "type": "Default",
+      "timestamp": "2023-04-22T11:11:47.854+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*robert downy jr.*\n\"he doesn't play watcher\"",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100843526213873766",
+      "type": "Reply",
+      "timestamp": "2023-04-27T02:59:09.333+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fossilized helix moment \uD83D\uDE26",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "681598100548485194",
+          "name": "laezerr",
+          "discriminator": "0000",
+          "nickname": "Lazer, Roughhouse Enjoyer",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1099143590967513088",
+        "channelId": "1099064750152892516",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 178
+}

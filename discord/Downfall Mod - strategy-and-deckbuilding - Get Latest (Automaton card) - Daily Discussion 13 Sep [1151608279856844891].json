@@ -1,0 +1,891 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1151608279856844891",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Get Latest (Automaton card) - Daily Discussion 13 Sep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:56:29.8971299+09:00",
+  "messages": [
+    {
+      "id": "1151608286752280688",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:00:11.409+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151608289474379826",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:00:12.058+09:00",
+      "timestampEdited": "2023-09-15T05:00:19.875+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRanwid (Collectible card): 5\nDarklings (Slime Boss event): 1\nFlames from Beyond (Hexaghost card): 6",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151608292800467086",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:00:12.851+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 329/936",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Get Latest",
+          "url": "https://slay.ocean.lol/w/Downfall/bronze%3AGetLatest",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_auto: / The Automaton / Downfall\n\nGain a random card with **Encode,** it costs 0 until played.\n**Exhaust**.",
+          "color": "#FFEF87",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/MCQz8wG31Fevo0TSOIGtiGHKyrjUhxI63c0nf8V53mQ/https/slay.ocean.lol/downfall/cards/bronze-getlatest.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/MCQz8wG31Fevo0TSOIGtiGHKyrjUhxI63c0nf8V53mQ/https/slay.ocean.lol/downfall/cards/bronze-getlatest.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151608732460011642",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:01:57.674+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for when you still need to make functions fast",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151608808536285206",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:02:15.812+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "honestly rather strange, I feel like I'd rather just have an encode card instead of this.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151608880422453329",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:02:32.951+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When upgraded it is fine, unupgraded it seems horrible",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151610017691213926",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:07:04.097+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's an odd one, this card",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151610067750223992",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:07:16.032+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like infernal blade/distraction/white noise",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151614965367717939",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:26:43.715+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and I think all of those cards are just weird and don't really deserve their place in their resepective character's card pool.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151615667808784466",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:29:31.19+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i had this card in a deck with assembly, and suffered so much",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151615747240493107",
+      "type": "Default",
+      "timestamp": "2023-09-14T05:29:50.128+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(from pandoras box)",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151627459033313391",
+      "type": "Default",
+      "timestamp": "2023-09-14T06:16:22.437+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Provided you don't try for infinite, I think this is a bit less bad than the other characters' equivalent since it basically always does something you want (move closer to a complete function). Still not great",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151627990975909989",
+      "type": "Default",
+      "timestamp": "2023-09-14T06:18:29.262+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly these all should've been discovery effects",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151639516097019997",
+      "type": "Default",
+      "timestamp": "2023-09-14T07:04:17.065+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah they're all boring and don't really amount to much.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151646488120791211",
+      "type": "Default",
+      "timestamp": "2023-09-14T07:31:59.325+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unless it happens to spit out a 2-3 cost card, they're all objectively worse than just sticking a copy of the desired card in your deck",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151646595729866913",
+      "type": "Default",
+      "timestamp": "2023-09-14T07:32:24.981+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's why I think they should at *least* let you pick between two cards",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151656159179186226",
+      "type": "Default",
+      "timestamp": "2023-09-14T08:10:25.085+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just think it's a boring card that is inconsistent.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151671675524501628",
+      "type": "Default",
+      "timestamp": "2023-09-14T09:12:04.47+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just think it's very mediocre",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151678830038233118",
+      "type": "Default",
+      "timestamp": "2023-09-14T09:40:30.239+09:00",
+      "timestampEdited": "2023-09-14T09:41:46.885+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's pretty awkward, and while the effect should be completely serviceable within automatons most typical play style (staple as many random functions together as fast as you can), there just aren't that many encode cards that cost more than 1 anyways, so you are rarely getting a discount, but are always getting a random result which often will be worse than just putting a specific encode card in your deck. If you upgrade it, then you are getting a discount most of the time, but you are still at the mercy of RNG, and you could have taken a more specifically helpful upgrade (like more damage/block on a specific encode card, or making a power stronger). I think taking this pre-upgraded is reasonable in a random functions go deck, but I would really prefer to not take this if it's unupgraded.\n\nIt's even a low impact skill that involves playing multiple cards, which gives it a bad matchup against gremlin nob, watcher 3, and the chosen. It heals Neow more than normal, and plays poorly with velvet choker. In all honesty, I would really prefer if this worked more like discovery, because then it would have an interesting niche of being a flexible encode card that lets you adjust your strategy on the fly. Infernal blade effects like this are always awkward because you have so little control over them, I think that all of them are usually pretty bad, especially in base game where you have to deal with time eater and the heart, who punish you more for playing 2 cards for 1 small effect. If that's too powerful for the base effect, the upgrade could be changed to be more like discovery where you get to pick from a group of cards.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151718706209116160",
+      "type": "Default",
+      "timestamp": "2023-09-14T12:18:57.459+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card gives you an encodeable card, since all cards that have that line of text on them are good this is pickable. Its not usually your first choice since even in \"random bullshit go\" decks you still want at least some semblance of a plan (like having 3 cultist strikes and just planning on making any 3 functions that have a cultist strike somewhere inside them). Most of this cards targets cost 1 already which makes this card most of the time just offer a random function for the same cost it normally would; there are a few 2 cost ones if you get lucky but also some 0 cost ones. An upgraded get latest solves that issue but its far from a high priority upgrade as automation has a ton of better choices that do more then saving a single energy; but it does make finding a natural get latest+ a much more appealing pick up.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151718947784249354",
+      "type": "Default",
+      "timestamp": "2023-09-14T12:19:55.055+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Overall this card should be trash but automation is so powerful that you can draft this anyways and still have it do something each fight just because making a function, any kind at all is worth while.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151831725010333736",
+      "type": "Default",
+      "timestamp": "2023-09-14T19:48:03.241+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "low rolling into a card with a bad compile error is a thing",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151831843612663838",
+      "type": "Default",
+      "timestamp": "2023-09-14T19:48:31.518+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "break, nullpointer or backtrace",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151892454417645628",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:49:22.26+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Null pointer at least gives you decent payoff right away",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151892535812313168",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:49:41.666+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On this topic",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151892670042619945",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:50:13.669+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wholeheartedly belive that null pointer should be excluded from <spaghetti code> card pool",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151892673951699044",
+      "type": "Reply",
+      "timestamp": "2023-09-14T23:50:14.601+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spaghetti Code",
+          "url": "https://slay.ocean.lol/w/Downfall/bronze%3ASpaghettiCode",
+          "timestamp": null,
+          "description": "Rare Skill / 2 (1) :energy_auto: / The Automaton / Downfall\n\nChoose 1 of 3 random cards to **Encode.** Repeat until you create a Function.\n**Exhaust**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GYcD3AeDrnATynET1QPmYfEacrBWvvjpDJtzvM0hp1c/https/slay.ocean.lol/downfall/cards/bronze-spaghetticode.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1151892670042619945",
+        "channelId": "1151608279856844891",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1151892760908013729",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:50:35.333+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's comically bad",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151892871851548764",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:51:01.784+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know there are ways of getting rid of the compile error but like come on",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151893223338418267",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:52:25.585+09:00",
+      "timestampEdited": "2023-09-14T23:53:28.786+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are exactly two that work with spaghetti code out of which <Overheat> is likely to be used up on a card that you encode right before null pointer",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1151893225779495012",
+      "type": "Reply",
+      "timestamp": "2023-09-14T23:52:26.167+09:00",
+      "timestampEdited": "2023-09-14T23:53:29.374+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Overheat",
+          "url": "https://slay.ocean.lol/w/Downfall/bronze%3AOverheat",
+          "timestamp": null,
+          "description": "Common Attack / 2 :energy_auto: / The Automaton / Downfall\n\nDeal 18 (24) damage.\nRemove the next Compile Error you would Encode.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bSPNG1BbveOFDjfxNNUZpkiGtjMTsTajzdk--hUmIL0/https/slay.ocean.lol/downfall/cards/bronze-overheat.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1151893223338418267",
+        "channelId": "1151608279856844891",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 31
+}

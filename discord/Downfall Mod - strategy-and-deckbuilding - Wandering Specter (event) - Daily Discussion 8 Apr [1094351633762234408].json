@@ -1,0 +1,2225 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1094351633762234408",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Wandering Specter (event) - Daily Discussion 8 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:46:14.717963+09:00",
+  "messages": [
+    {
+      "id": "1094351635116994651",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:02:41.882+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094351636429811752",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:02:42.195+09:00",
+      "timestampEdited": "2023-04-10T05:03:53.346+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nFlex (Gremlins card): 0\nGem Cannon (Guardian card): 3\nBurning Touch (Hexaghost card): 3",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094351638958981290",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:02:42.798+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 161/809",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#465042",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/b7AYWzSSQmvNpXeQS-oCHlQWksnAFsE29SPDnufJ4bA/https/oceanuwu.github.io/slaytabase/extraImages/events/wanderingspecter.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/b7AYWzSSQmvNpXeQS-oCHlQWksnAFsE29SPDnufJ4bA/https/oceanuwu.github.io/slaytabase/extraImages/events/wanderingspecter.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Wandering Specter",
+          "url": null,
+          "timestamp": null,
+          "description": "Event / Act ? / All / Downfall\n```ansi\n\u001B[2;37m[Left Box\u001B[2;37m] \u001B[2;32mObtain a Du-Vu Doll or Darkstone Periapt. \u001B[2;31mCursed Twice - Haunted.\n``````ansi\n\u001B[2;37m[Right Box\u001B[2;37m] \u001B[2;32mObtain \u001B[2;31mExtra \u001B[2;32mCursed Key \u001B[0;2mor \u001B[2;31mExtra \u001B[2;32mCursed Bell.\n``````ansi\n\u001B[2;37m[Chase Away \u001B[0;2m(no blue candle)\u001B[2;37m] \u001B[2;32mObtain Blue Candle. \u001B[2;31mLose 5 HP.\n``````ansi\n\u001B[2;37m[Chase Away \u001B[0;2m(have blue candle)\u001B[2;37m] Leave.\n``````ansi\n\u001B[2;37m[Trade for Power \u001B[0;2m(choose a box)\u001B[2;37m] \u001B[2;32mGain \u001B[0;2ma \u001B[2;32mrandom \u001B[2;33mRare \u001B[2;32mcard. \u001B[2;31mBecome Cursed - Random.\n``````ansi\n\u001B[2;37m[Trade for Life \u001B[0;2m(choose a box)\u001B[2;37m] \u001B[2;32mGain 5 Max HP. \u001B[2;31mBecome Cursed - Random.\n``````ansi\n\u001B[2;37m[Trade for Souls \u001B[0;2m(choose a box)\u001B[2;37m] \u001B[2;32mGain 100 Souls. \u001B[2;31mBecome Cursed - Random.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/b7AYWzSSQmvNpXeQS-oCHlQWksnAFsE29SPDnufJ4bA/https/oceanuwu.github.io/slaytabase/extraImages/events/wanderingspecter.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094351997525823630",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:04:08.287+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A really interesting event, I think it just has way too much impact",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352114341396530",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:04:36.138+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can get an energy relic from this. That is too much.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352159203667978",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:04:46.834+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you can also get extra cursed bell from this",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352182544965873",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:04:52.399+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel like this discussion already happened or something",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352184264622161",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:04:52.809+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which can be too much or too little",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352289696841820",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:05:17.946+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the variance between bell and key is too much tbh",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352354662424737",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:05:33.435+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There has never been a time where I was happy with bell when I got it",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352385981284563",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:05:40.902+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nor a time where I would want bell over key",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352446479933552",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:05:55.326+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty much just if you have omamori bell is ok",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352460421804063",
+      "type": "Reply",
+      "timestamp": "2023-04-09T05:05:58.65+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok I guess high roll is very unlikely",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094352354662424737",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094352597458100274",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:06:31.322+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well even then you still will get those relics, just from later chests/elites",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352767394521098",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:07:11.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's not like it materializes the relics. If you get shitty relics, you would've gotten those 3 relics from the next 3 placed you could've.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094352907379408897",
+      "type": "Default",
+      "timestamp": "2023-04-09T05:07:45.213+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So even with a high roll, it's still with a grain of salt",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094371130875322398",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:20:10.033+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it does give you them earlier though, which can boost your strength enough to take more fights and get even stronger",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094371251071488082",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:20:38.69+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's why I like the boss option so much. either way you're very likely to get accelerated forward by quite a bit",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094371279961858058",
+      "type": "Reply",
+      "timestamp": "2023-04-09T06:20:45.578+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "two curses of the bell are annoying as hell though",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094371130875322398",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094371299746386022",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:20:50.295+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "key is definitely way stronger tho",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094371314082533476",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:20:53.713+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that said, it is still a good option",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374154653929553",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:32:10.958+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like left box.",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374266243383346",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:32:37.563+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are some left box enjoyers in the server",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374433549979728",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:33:17.452+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Of course, I'm heavily biased as someone who thinks haunted is one of the best curses and as a curse build enjoyer du-vu doll will have so much value over time so often",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374539552637080",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:33:42.725+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who likes no box",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374599145312306",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:33:56.933+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that said, the other half of the gamba being periapt is ass but that's versus fucking du vu doll",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374758310744084",
+      "type": "Reply",
+      "timestamp": "2023-04-09T06:34:34.881+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no box good if you have highly specific draws",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094374539552637080",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094374821070118952",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:34:49.844+09:00",
+      "timestampEdited": "2023-04-09T06:35:36.005+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if a Clumsy would matter to you, two Haunted or soulbound injuries definitely will",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094374868855828542",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:35:01.237+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that said, I just don't build like that",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094375482516062329",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:37:27.545+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the worst Blue Candle does is nothing, after all",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094377521652453557",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:45:33.713+09:00",
+      "timestampEdited": "2023-04-09T06:45:41.321+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "with neow curses? blue candle is worse than useless as it chips you for clearing haunted, flawed and bewilderment",
+      "author": {
+        "id": "860930895775006720",
+        "name": "pepper0ni",
+        "discriminator": "0000",
+        "nickname": "Pepper0ni",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/860930895775006720/1375fb8a16a8d32c0c4957dece4e132c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094377642817503314",
+      "type": "Default",
+      "timestamp": "2023-04-09T06:46:02.601+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "clearing aged is nice but there's definitly room for blue candle to backfire",
+      "author": {
+        "id": "860930895775006720",
+        "name": "pepper0ni",
+        "discriminator": "0000",
+        "nickname": "Pepper0ni",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/860930895775006720/1375fb8a16a8d32c0c4957dece4e132c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094382936259842219",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:07:04.656+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you don't have to take the blue candle",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094383858406916250",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:10:44.513+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "to leave from the first option you do (unless you already have it)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094383979471310918",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:11:13.377+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Extra cursed key my beloved",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094383993228623962",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:11:16.657+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as in:\nyou can click chase away, then then the blue candle shows up you can skip it",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384024497160252",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:11:24.112+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fuck you extra cyrse bing bong",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384196081950883",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:12:05.021+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's sad that I would do this sometimes.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384316374597792",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:12:33.701+09:00",
+      "timestampEdited": "2023-04-09T07:12:45.303+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't see how <medical kit> and <blue candle> are the same rarity.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384320988336178",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:12:34.801+09:00",
+      "timestampEdited": "2023-04-09T07:12:46.675+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Medical Kit",
+          "url": "https://slay-the-spire.fandom.com/wiki/Medical_Kit?embnum=0",
+          "timestamp": null,
+          "description": "Shop Relic / All / Slay the Spire\n\n**Unplayable** **Status** cards can now be played. Whenever you play a **Status** card, **Exhaust** it.\n*\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NTet3UjuFY4e2uTcym8yB4Bi36xPd2dp3GSnIQnEcf0/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/relics/MedicalKit.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Blue Candle",
+          "url": "https://slay-the-spire.fandom.com/wiki/Blue_Candle?embnum=1",
+          "timestamp": null,
+          "description": "Uncommon Relic / All / Slay the Spire\n\n**Unplayable** **Curse** cards can now be played.\nWhenever you play a **Curse**, lose 1 HP and **Exhaust** it.\n*The flame ignites when shrouded in darkness.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mZX42vYczzJydCfinnAa94IFuuB5YUUcgJR0_Mkgjok/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/relics/BlueCandle.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094384316374597792",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094384407948832850",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:12:55.534+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh wait shit they aren't",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384432108023828",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:13:01.294+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ngl",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384523262828564",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:13:23.027+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This event might be a bit op because yknow, energy relic",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384658055188551",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:13:55.164+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And even the double curse downside doesnt matter too much since you can just not open chests",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384798002335796",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:14:28.53+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "medkit on IC is nasty. You proc fire breathing you proc evolve draw, then you exhaust it for free and proc exhaust powers and relics (charon's ashes, FNP, dark embrace)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094384976717414500",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:15:11.139+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it's for this reason that taking cursed key and extra cursed key together so damn good",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094384658055188551",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094385054031032531",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:15:29.572+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "With ECK CK is basically a free energy relic",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094385247531057182",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:16:15.706+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whereas with extra bell, it has negative synergy with normal bell just because so much of your deck is unremovable curses",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094385904472297482",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:18:52.333+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "medkit on IC and Auto is sicko mode",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094385907701907619",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:18:53.103+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait\ndo Extra Cursed Key and Cursed Key stack?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094385054031032531",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094385908981182695",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:18:53.408+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like if you have both of them, do you get 3 curses for opening a chest?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386228201259098",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:20:09.516+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wait",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386245897044008",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:20:13.735+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "With boss swap",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386268579836035",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:20:19.143+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+ ekc",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386297914785822",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:20:26.137+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+ 3 energy relics",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386371994595419",
+      "type": "Default",
+      "timestamp": "2023-04-09T07:20:43.799+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it possible to have8 energy per turn",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1094386493184807072",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:21:12.693+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah ig, not sure how you'd spend it but it is possible",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094386371994595419",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094386597669122219",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:21:37.604+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't see why they wouldn't",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094385907701907619",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094386622524575814",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:21:43.53+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<whirlwind>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094386493184807072",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094386625632555159",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:21:44.271+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Whirlwind",
+          "url": "https://slay-the-spire.fandom.com/wiki/Whirlwind?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Attack / X :e_red: / The Ironclad / Slay the Spire\n\nDeal 5 (8) damage to ALL enemies X times.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wckpg8acizJ8YGwR9_rVJX9krcne857YZ5e4AtZgPtM/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/cards/Red-Whirlwind.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1094386622524575814",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1094387203909636288",
+      "type": "Reply",
+      "timestamp": "2023-04-09T07:24:02.143+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im pretty sure it gives it to you automatically",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1094383993228623962",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1095472217539739841",
+      "type": "Reply",
+      "timestamp": "2023-04-12T07:15:29.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fun fact or more like unfun fact I guess if you have extra cursed key you cannot obtain cursed key",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1094385054031032531",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1095472339443011594",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:15:58.615+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As in it will not show up in the boss reward chest",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1095476805273669652",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:33:43.352+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1095476885934329897",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:34:02.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so the problem of \"would extra cursed key and cursed key downsides stack\" is rendered moot",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1095478074495225966",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:38:45.958+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does it work the other way around though?",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1095478104954253342",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:38:53.22+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You could boss-swap into cursed key first",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1095478401856458762",
+      "type": "Default",
+      "timestamp": "2023-04-12T07:40:04.007+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably not",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1095483964958969888",
+      "type": "Default",
+      "timestamp": "2023-04-12T08:02:10.354+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a little lame but I get why",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1185667338427715716",
+      "type": "Reply",
+      "timestamp": "2023-12-17T04:38:42.115+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wait why is bell bad vs key? Key gives potentially a dozen curses but bell only gives 2",
+      "author": {
+        "id": "463581721816727552",
+        "name": "shadytraveler",
+        "discriminator": "0000",
+        "nickname": "Shady Traveler",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/463581721816727552/00c7ffc0e335fe3ae84e63c8fd63955c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1094352385981284563",
+        "channelId": "1094351633762234408",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1185668024901058690",
+      "type": "Default",
+      "timestamp": "2023-12-17T04:41:25.783+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "back in ye olde days (april, this year) extra cursed key only gave curses when opening chests just like normal cursed key",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1185714608275730593",
+      "type": "Default",
+      "timestamp": "2023-12-17T07:46:32.125+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now it also gives curses on opening a boss chest, making it so much worse. Now neither option is close to good.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1185714611350142988",
+      "type": "Default",
+      "timestamp": "2023-12-17T07:46:32.858+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But as for before, I would consider trading an energy relic for just skipping the chests a worthy trade",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 73
+}

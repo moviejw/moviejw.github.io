@@ -1,0 +1,3011 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1290765217428672593",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Poltergeist (Hexaghost card) - Daily Discussion 1 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:19:39.6081458+09:00",
+  "messages": [
+    {
+      "id": "1290765220972593290",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:00:09.938+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290765222843514973",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:00:10.384+09:00",
+      "timestampEdited": "2024-10-03T05:00:44.318+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nPower from Beyond (Hexaghost card): 4\nReinforced Body (Champ card): 0\nFlail (Automaton card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290765224755859466",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:00:10.84+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 680/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poltergeist",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3apoltergeist",
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\nWhenever you play an **Ethereal** card, a random enemy loses 6 (8) HP.",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/4CRZJnwRNNpS8LS6kU1JFK6BQymnZ2Akb8AryniKT9g/https/slay.ocean.lol/downfall/cards/hexamod-poltergeist.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/4CRZJnwRNNpS8LS6kU1JFK6BQymnZ2Akb8AryniKT9g/https/slay.ocean.lol/downfall/cards/hexamod-poltergeist.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290766515389595679",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:05:18.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On the phone now but iirc it wasnt performing like a rare",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290766627931160679",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:05:45.383+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lemme check when I wake up",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290766933943255052",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:06:58.342+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's better than it used to be but still not that strong iirc",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290767014381617295",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:07:17.52+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good generic 1 cost power (1 cost power for bolstering) also counter for god of life.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290770011886977045",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:19:12.181+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sometimes you want a generic card like this as a cheap bolstering card that has good value",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290771623409877053",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:25:36.398+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like, if you're doing 18 (24) damage a turn, god of life is just gone.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290771963400159262",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:26:57.458+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The thing is that its effect is exploited at full afterlife decks, which I built by testing in a way that starts with this card",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772139590291536",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:27:39.465+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm guessing it, d be better as an uncommon",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772150982021251",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:27:42.181+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think this is an auxiliary card like 1000 cuts",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772321744850955",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:28:22.894+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since it's actually niche to have a deck like that in real play",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772544890212413",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:29:16.096+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would allow rare bright ritual or incorporeal",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772586212364349",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:29:25.948+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Resulting in this card being skipped frequently because it will mostly be inoptimal to pick",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772598245818410",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:29:28.817+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 problem uncommons",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772659004510279",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:29:43.303+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rares should probably be good on their own",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290772748498370620",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:30:04.64+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not necessarily but I get what you're saying",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290773951487807493",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:34:51.455+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this thing used to be terrible",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290773964687282299",
+      "type": "Default",
+      "timestamp": "2024-10-02T05:34:54.602+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now it ain't bad",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290800434339905576",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:20:05.459+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it may not be bad balance wise but its bad creativity-wise",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290800809377792071",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:21:34.875+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "effects like \"whenever you play an afterlife card, activate its afterlife effect an extra time\" really make things exciting, whereas this just flat damage for playing certain cards which is just boring",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290801173032337531",
+      "type": "Reply",
+      "timestamp": "2024-10-02T07:23:01.577+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We tried that it was insanely broken",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "484682433925611542",
+          "name": "dark_brick",
+          "discriminator": "0000",
+          "nickname": "Dark_Brick",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1290800809377792071",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290801278120628225",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:23:26.632+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~make it a 4 cost form card~~ there must be something better than this",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290801562792366111",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:24:34.503+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean it's fine",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290801658628149328",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:24:57.352+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quoth the Carbon:\n“Boring != bad”",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290801823107518556",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:25:36.567+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its not bad but it is boring",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290801926123815003",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:26:01.128+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel like you could get more creative",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1290802060559782022",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:26:33.18+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bolstering flame means that boring cards like this still serve a purpose",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290802361551290369",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:27:44.942+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's also not afterlife exclusive, seals, apparitions, and cards from other characters work",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290802480225062912",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:28:13.236+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Going from afterlife only to ethereal was a huge buff",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290802914293710859",
+      "type": "Default",
+      "timestamp": "2024-10-02T07:29:56.726+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not being 2c anymore was also quite impt",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290819812540420097",
+      "type": "Default",
+      "timestamp": "2024-10-02T08:37:05.582+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "By far the biggest thing that makes this card so much better than it was is how many afterlife cards were changed to be desirable to play. Before, it was correct to nearly always let all of them exhaust at the end of the turn to get free, full value. Now, you have a much more impactful choice, since allowing them to exhaust themselves only gives you partial value, and most of the afterlife card pool (especially certain key cards like sear, specter's wail, ghost shield, burning question, and hexaguard) often encourage you to play them for full value. Buffing the wheel also makes you want to play afterlife cards more often, since there are much better long term rewards for igniting all the flames, so you will naturally play afterlife cards more often to meet certain ghostflames requirements. It also helps that god of life was changed to be more meaningful in the final fight, and having a card like this that can help counteract the extra healing is useful. Making it work on any ethereal card is great to help broaden the pool of applicable cards to trigger this, and still feels very on theme for hexaghost. The cost reduction from 2 down to 1 is also much appreciated. In all honesty, it's shocking that poltergeist was able to be buffed this much without ended up as totally overpowered.\n\nIt feels a bit like spreading slime, a sort of sideways inflame that helps scale up your damage only on certain subset of cards. I'm usually happy with inflame when it's dealing at least 6+ damage a turn, and considering the active desire to have powers to trigger the bolstering ghostflame, you only really need to be able to play 1 ethereal card a turn for this to feel meaningful, though of course you'd like to trigger it more than that. You do have to consider that this is a rare, and thus has an opportunity cost that spreading slime and inflame don't. I still don't think I'm thrilled to take this from a boss reward, and I would need a very ethereal heavy deck to buy it at a store.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290821765366288466",
+      "type": "Default",
+      "timestamp": "2024-10-02T08:44:51.172+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "However, I do think I would usually take it from building up rare chance, and at least it's net positive most of the time when you pick it from a boss reward. I do think this could be moved down to uncommon if we want to free up space at rare, as the effect of conditional, linear damage scaling doesn't feel all that  rare worthy. Hexaghost can currently scale their damage up fairly well through strength or intensity as well, both of which are represented at uncommon and also only work with a specific subset of cards/interactions. Not a ton of relic synergies outside of the obvious ones (mummified hand, bird-faced urn, bolster rod). Gifts from beyond is a great support piece for it to get more damage every turn. Upgrade is solid, and worth pursuing as long as you can play 2 or more ethereal cards per turn to make it a +4 consistently.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290840527696302155",
+      "type": "Reply",
+      "timestamp": "2024-10-02T09:59:24.46+09:00",
+      "timestampEdited": "2024-10-02T10:00:11.712+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all asc 11 + 22\na20 35 + 38",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1290766515389595679",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290840670826795020",
+      "type": "Default",
+      "timestamp": "2024-10-02T09:59:58.585+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "seems fine?",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290867628503728148",
+      "type": "Reply",
+      "timestamp": "2024-10-02T11:47:05.796+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Spreading slime is a bit more meta than poltergeist since licks REALLY need the damage into god of life, where it's wayore important than equivalent strength.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "303064746129752074",
+          "name": "kiku_katsumi",
+          "discriminator": "0000",
+          "nickname": "Kiku",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1290819812540420097",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290871493114462281",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:02:27.191+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, it's funny how poltergeist went through three or so iterations before we came back to the original design lol. Poltergeist itself wasn't really buffed that much, but it's surroundings changed that the original concept became good again.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290871965560737854",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:04:19.831+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still double buff just counting on its own",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290871993926680656",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:04:26.594+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actually triple",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872017800925239",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:04:32.286+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "plus the pool qudra",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872053838118964",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:04:40.878+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "value cost target",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872100730437664",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:04:52.058+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait what was the old value",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872139343331471",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:01.264+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it was 6(9)",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872144628154418",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:02.524+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was mostly thinking of the cards exhaust twice idea and the other one",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872152660115467",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:04.439+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so value isnt buffed",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872230368116798",
+      "type": "Reply",
+      "timestamp": "2024-10-02T12:05:22.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hard to balance",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "370020173610090537",
+          "name": "blueguy_",
+          "discriminator": "0000",
+          "nickname": "Blue Guy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1290872144628154418",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290872312962355254",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:42.658+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We did it with into shadow anyways",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872341655457847",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:49.499+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "turns out even at current mechanic hexaguard and ghost shield are still op",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872363017179180",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:54.592+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So the idea is still there",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872381057011733",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:05:58.893+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just not like the old way where you can spam draft",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872441370841129",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:06:13.273+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so plus that effect it's very hard to balance them",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872457682485289",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:06:17.162+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Slime is definitely a more critical supportive card, especially because there are more ways to spam/recur multiple goop sources over a turn, and a few ways to multiply the value of goop or let it not get consumed on the first hit. If anything, I would say that's more evidence to put poltergeist down at uncommon. The major thing that makes it feel so much better than it used to is that the thing it asks you to do (spend energy playing your afterlife/ethereal cards) is much more rewarding than it used to be.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290872737073467462",
+      "type": "Reply",
+      "timestamp": "2024-10-02T12:07:23.774+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I noticed this yeah",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "286117651728695296",
+          "name": "mwalls",
+          "discriminator": "0000",
+          "nickname": "Mwalls",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "782757800677212181",
+              "name": "Contributor",
+              "color": "#9B59B6",
+              "position": 13
+            },
+            {
+              "id": "959248034678579283",
+              "name": "Beta Tester",
+              "color": null,
+              "position": 10
+            },
+            {
+              "id": "978375869313720390",
+              "name": "Translator",
+              "color": "#546E7A",
+              "position": 8
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1290872341655457847",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290872887972200458",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:07:59.751+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe both nerf 1 value",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873011263635476",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:08:29.146+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "forgot to collect data for like 2 weeks when I turned to other games",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873014560493630",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:08:29.932+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I also think nightmare cards are overperforming compared to watcher reality cards",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873047523524669",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:08:37.791+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we got 188k now",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873081254121552",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:08:45.833+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<carve reality>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873083867168789",
+      "type": "Reply",
+      "timestamp": "2024-10-02T12:08:46.456+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Carve Reality",
+          "url": "https://slay-the-spire.fandom.com/wiki/Carve_Reality",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :purple_energy: / The Watcher / Slay the Spire\n\nDeal 6 (10) damage.\nAdd a Smite into your hand.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bUGT3b_TcKkg7isCDDfamP0Gkssq-RPIZTOqizgmCXk/https/slay.ocean.lol/slay%2520the%2520spire/cards/carvereality.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1290873081254121552",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290873102917566509",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:08:50.998+09:00",
+      "timestampEdited": "2024-10-02T12:08:57.173+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "increasing about 5000-10000 daily",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873168680190022",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:09:06.677+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<deceive reality>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873171616206848",
+      "type": "Reply",
+      "timestamp": "2024-10-02T12:09:07.377+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Deceive Reality",
+          "url": "https://slay-the-spire.fandom.com/wiki/Deceive_Reality",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :purple_energy: / The Watcher / Slay the Spire\n\nGain 4 (7) **Block** :p_block:.\nAdd a Safety into\nyour hand.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Twrar2n-2isywLLKTiOXZgFlhD5NH6-VRHvgRRALrJo/https/slay.ocean.lol/slay%2520the%2520spire/cards/deceivereality.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1290873168680190022",
+        "channelId": "1290765217428672593",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1290873194454056960",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:09:12.822+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would have plenty of data even at a20 for next update",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873273155981406",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:09:31.586+09:00",
+      "timestampEdited": "2024-10-02T12:09:37.985+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "iirc we got 1000 for hexa a20 already",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873900141379615",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:12:01.071+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will try to test balance in that snecko thing later this month",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290873978591641664",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:12:19.775+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And we can put it on downfall beta workshop mod",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874181432381493",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:13:08.136+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "depends on the new mechanic it could be hard to code",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874378141175819",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:13:55.035+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can code it if new unidentified cards is that you pick 3 random ones from the pool after picking the one in the card reward",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874470730305628",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:14:17.11+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that sounds familiar to me dealing with those custom card reward bugs",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874533754175529",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:14:32.136+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's exactly how it works",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874599399100517",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:14:47.787+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Forced card reward no skip",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874695079428158",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:15:10.599+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not sure if this is ncessary though",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874706630676582",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:15:13.353+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Identity at campfire replaced with free action reroll for 50 gold",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874779414298705",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:15:30.706+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it doesnt need reroll at all",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874868690194463",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:15:51.991+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but whatever",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874907311472682",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:16:01.199+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just to replace old campfire action",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290874953247232012",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:16:12.151+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the bigger part would be incorporating other char mechanics",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290875059661045770",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:16:37.522+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "immediate issue is that it creates lots of special rules",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290875096981831733",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:16:46.42+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which should be made as natural as possible",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290875213013188630",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:17:14.084+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think that accel = evoke = command twice is decent",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290875281405513789",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:17:30.39+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And potency = focus",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290876590338871409",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:22:42.464+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "evoke should probably = consume",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290876814092140564",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:23:35.811+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay, I think there's already a relation there",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1290876866122481669",
+      "type": "Default",
+      "timestamp": "2024-10-02T12:23:48.216+09:00",
+      "timestampEdited": "2024-10-02T12:23:56.553+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we need to change the code if we want to change how it currently works",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 85
+}

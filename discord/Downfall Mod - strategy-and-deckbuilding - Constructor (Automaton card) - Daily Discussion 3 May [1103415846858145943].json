@@ -1,0 +1,537 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1103415846858145943",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Constructor (Automaton card) - Daily Discussion 3 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:11:35.3227166+09:00",
+  "messages": [
+    {
+      "id": "1103415848414236783",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:20:38.737+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103415849655734302",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:20:39.033+09:00",
+      "timestampEdited": "2023-05-05T05:21:30.233+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nEmpowered Flame (Hexaghost card): 4\nMass Feed (Slime Boss card): 4\nSleeved Ace (Snecko relic): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103415852096819270",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:20:39.615+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 186/798",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFEF87",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/VbDrQpEJ40j8xZ-g8Zu6-QLuAz9fOHuCYqOux4h2DDM/https/slay.ocean.lol/downfall/cards/bronze-constructor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/VbDrQpEJ40j8xZ-g8Zu6-QLuAz9fOHuCYqOux4h2DDM/https/slay.ocean.lol/downfall/cards/bronze-constructor.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Constructor",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_automaton: / The Automaton / Downfall\n\nGain 5 (7) **Block** :p_block:. \u202F When Encoded as the first card, increase its **Block** :p_block: by 5 (7).\n**Encode.**",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VbDrQpEJ40j8xZ-g8Zu6-QLuAz9fOHuCYqOux4h2DDM/https/slay.ocean.lol/downfall/cards/bronze-constructor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103415974067175495",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:21:08.695+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "solid block card that encodes",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103416105114013736",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:21:39.939+09:00",
+      "timestampEdited": "2023-05-04T05:24:39.274+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "holy shit i shut the bot off in the middle of it making a daily discussion - sorry subscribers",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103418590960562216",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:31:32.611+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<safeguard> but sillier",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103418596362829884",
+      "type": "Reply",
+      "timestamp": "2023-05-04T05:31:33.899+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Safeguard",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :e_automaton: / The Automaton / Downfall\n\nGain 7 (9) **Block** :p_block:.\n**Encode.**",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TriM3e3d0rU6009n45CxIZFG7rTKca5bLPSp4-k3efA/https/slay.ocean.lol/downfall/cards/bronze-safeguard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1103418590960562216",
+        "channelId": "1103415846858145943",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1103424818570870885",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:56:17.389+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah a little wacky",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103424901303517304",
+      "type": "Default",
+      "timestamp": "2023-05-04T05:56:37.114+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does it scale 2x with dex?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103425855985819750",
+      "type": "Default",
+      "timestamp": "2023-05-04T06:00:24.728+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i don't believe so",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103434721934971021",
+      "type": "Default",
+      "timestamp": "2023-05-04T06:35:38.535+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<bit shift> will let you get its bonus multiple times",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103434725638549594",
+      "type": "Reply",
+      "timestamp": "2023-05-04T06:35:39.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bit Shift",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 0 :e_automaton: / The Automaton / Downfall\n\n (**Retain**.)\nChoose an Encoded card to return to your hand. It gains **Retain**.\n**Exhaust**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9Ax8VYxBRKkHty_J-rBB9dLZ5V9DqRolq5LEED1HBkw/https/slay.ocean.lol/downfall/cards/bronze-bitshift.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1103434721934971021",
+        "channelId": "1103415846858145943",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1103434759427850435",
+      "type": "Default",
+      "timestamp": "2023-05-04T06:35:47.474+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<class automaton power> too",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1103434767363493940",
+      "type": "Reply",
+      "timestamp": "2023-05-04T06:35:49.366+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Class Default",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 1 (0) :e_automaton: / The Automaton / Downfall\n\nNext 2 times you create a Function, **Encode** a copy of current card in the first slot.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/V3Wz5G_Szlltsvnoy3uxwSY3LrOTEZmF9Wt0phxROSM/https/slay.ocean.lol/downfall/cards/bronze-classdefault.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<class automaton power> = class default, 73% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1103434759427850435",
+        "channelId": "1103415846858145943",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1103486265313214555",
+      "type": "Default",
+      "timestamp": "2023-05-04T10:00:27.434+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really like encode cards that block, as they pair really nicely with blockchain, replicate from the starting deck, and various damage commons that you are likely to pick up throughout act 1 to handle hallway fights and elites. This one will sometimes only be a basic defend, but even that is relatively good when stapled to 2 other cards at 1 energy. Fortify is also excellent with this sort of card for obvious reasons. You are probably happier to see the more reliable safeguard at common, but this is also perfectly reasonable, and can be better with the right support.\n\nIt's not all that easy to get the bonus from constructor, you would need to potentially hold back on playing certain cards into the sequence while it's still in your draw pile. It's a great target for bottled lightning, and runic pyramid can help line it up as well. I think that you do need to consider it as more of a nice bonus than something you can count on triggering most of the time. The good news is that you really don't need to proc the bonus for it to be a good card.\n\nI wouldn't take this until after getting through gremlin nob most of the time, and it gets better when you have more encode cards in your deck to give it a better shot of making a function quickly. The upgrade is pretty solid, giving you +2 when you play it on it's own, and +2 once you complete the function, even if you don't trigger the bonus. The upgrade is a higher priority if you are good at reliably triggering the first card bonus. I think this card is in a pretty healthy place, it does it's job well, and isn't overpowered.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

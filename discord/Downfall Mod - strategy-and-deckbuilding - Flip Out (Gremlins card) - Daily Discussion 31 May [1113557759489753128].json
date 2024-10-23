@@ -1,0 +1,470 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1113557759489753128",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Flip Out (Gremlins card) - Daily Discussion 31 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:08:48.4161353+09:00",
+  "messages": [
+    {
+      "id": "1113557760982929478",
+      "type": "Default",
+      "timestamp": "2023-06-01T05:00:59.121+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113557762312523976",
+      "type": "Default",
+      "timestamp": "2023-06-01T05:00:59.438+09:00",
+      "timestampEdited": "2023-06-02T05:00:49.374+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nGluttony (Slime Boss card): 4\nRye Stalk (Hermit relic): 2\nUnlimited Rolls (Snecko card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113557763633717308",
+      "type": "Default",
+      "timestamp": "2023-06-01T05:00:59.753+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 224/784",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B26BDB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WnVh1URGbDmgo7zC1SYCZPdhL4cxbjsGhY-bjJvDOi0/https/slay.ocean.lol/downfall/cards/gremlin-flipout.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WnVh1URGbDmgo7zC1SYCZPdhL4cxbjsGhY-bjJvDOi0/https/slay.ocean.lol/downfall/cards/gremlin-flipout.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Flip Out",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Attack / 1 :energy_gremlins: / The Gremlins / Downfall\n\nDeal 11 (15) damage.\nWhenever you would gain **Block** :p_block: this turn, instead deal that much damage to ALL enemies.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WnVh1URGbDmgo7zC1SYCZPdhL4cxbjsGhY-bjJvDOi0/https/slay.ocean.lol/downfall/cards/gremlin-flipout.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113558904253722736",
+      "type": "Default",
+      "timestamp": "2023-06-01T05:05:31.698+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "budget body slam",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113587783076941926",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:00:16.946+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Goofy ahh card",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113588477636919377",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:03:02.542+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can solve some aoe issues but mostly you'd rather use the block for edible armor tbh",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113588501603168348",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:03:08.256+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and gremlins also have gremlin toss",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113589406939480245",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:06:44.105+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly it would be more interesting and in theme if it was inverted",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113589471653404725",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:06:59.534+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gain the effect first then gain some block",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113589513848094810",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:07:09.594+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "flip in",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113589604394750042",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:07:31.182+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113593685477687356",
+      "type": "Default",
+      "timestamp": "2023-06-01T07:23:44.188+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Kind of a weird card, but there are turns where it's effect is pretty useful. Can be a pretty good solution to AOE fights, especially if your deck can get generate lots of wards and has oddly smooth stone or kunai. You do need to very careful when using this to plan ahead, playing enough block cards first in order to cover the incoming damage for the turn.\n\n11 Damage for 1 energy also just happens to be a very good rate, so this is almost always better than skipping between the utility elements and raw efficiency. The upgrade is pretty nice, +4 damage will make it a great front-loaded damage card. You can always play it as the last card in your turn if you would prefer to just block normally. Definitely a solid card for act 1 if you get it from a heart bonus or shop. Runic pyramid pairs well with flip out to maximize it's damage output on a turn where you aren't being attacked. There is some slightly awkward anti-synergy with some of the other shield gremlin pay offs, notably edible armor and gremlin toss, which want you to stack up lots of block.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113626237622046750",
+      "type": "Default",
+      "timestamp": "2023-06-01T09:33:05.224+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty great attack, gremlins have phenoimal block that they are able to control effectively. with this card you can block for the exact amount of damage you are taking and turn the exuess block into more damage. You can also often play this card near the start of the turn and do loads of damage to finish of a fight pretty reliably. Because shield gremlins block is segmented, this card is not acutally a dead draw very often and its live more then one might think.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113626431612792982",
+      "type": "Default",
+      "timestamp": "2023-06-01T09:33:51.475+09:00",
+      "timestampEdited": "2023-06-01T09:34:09.627+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this cards true downside is having anti synergy with the other attacks that favor shield gremlin and because its a rare card, you are likely to see one of those cards first. But its also stronger then them and so still ends up being a good addition to gremlins kit despite its problems",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113667035554127892",
+      "type": "Default",
+      "timestamp": "2023-06-01T12:15:12.209+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gremlins. ha, I don't know anything about it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113667110644752426",
+      "type": "Default",
+      "timestamp": "2023-06-01T12:15:30.112+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk why I decided to share that though",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 16
+}

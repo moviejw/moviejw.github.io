@@ -1,0 +1,610 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1182773690534989956",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Irksome Blow (Gremlins card) - Daily Discussion 8 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:47:04.114037+09:00",
+  "messages": [
+    {
+      "id": "1182773692116242502",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:00:23.073+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182773693127065651",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:00:23.314+09:00",
+      "timestampEdited": "2023-12-10T05:00:32.866+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nDragon's Trove (Collector card): 4\nAcid Slime (Collectible card): 3\nPrismatic Barrier (Guardian card): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182773697434632293",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:00:24.341+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 415/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Irksome Blow",
+          "url": "https://slay.ocean.lol/w/downfall/gremlin%3airksomeblow",
+          "timestamp": null,
+          "description": "Uncommon Attack / 0 :energy_gremlins: / The Gremlins / Downfall\n\nDeal 1 damage.\n**Strength** :p_strength: affects this card 4 (6) times.",
+          "color": "#B26BDB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/YbTuvV5Q_bhoXvq73A_3kOvP1CTZLqd-CF0AAPwWTzg/https/slay.ocean.lol/downfall/cards/gremlin-irksomeblow.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/YbTuvV5Q_bhoXvq73A_3kOvP1CTZLqd-CF0AAPwWTzg/https/slay.ocean.lol/downfall/cards/gremlin-irksomeblow.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182774156652195970",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:02:13.827+09:00",
+      "timestampEdited": "2023-12-09T05:02:17.202+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cheap More Extreme Uncommon Heavy Blade",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182774216584605808",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:02:28.116+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "extremely good with strength scaling, extremely bad without",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182774670857084968",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:04:16.423+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love this card",
+      "author": {
+        "id": "320646088723791874",
+        "name": "faelyka",
+        "discriminator": "0000",
+        "nickname": "Faely (Spireblight, they)",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/320646088723791874/cac231faa583ee582b5ac1326132e184.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182774997270401065",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:05:34.246+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/669242017427226638/1171177883868344451/1182774965368524902",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182775025527439441",
+      "type": "Default",
+      "timestamp": "2023-12-09T05:05:40.983+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "0 strength = bad\n1 strength = meh\n2 strength = good\n3+ strength = actually op",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182826791132467292",
+      "type": "Default",
+      "timestamp": "2023-12-09T08:31:22.865+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is almost the exact same as heavy blade, down to the circumstances you want to draft it. Like heavy blade this card has a big payoff with strength but is also on a character who has many attacks with strength pay offs; I'd argue to an even greater extent since well over half of gremlins attacks have extra benefits from strength. Since so much of gremlins card pool already wants strength and said strength is not as easy to acquire it makes irksome blow questionable to draft. Since whenever you have a situation where you want to pick up irksomeblow you already have attacks that work well with strength and sure irksome blow might do that better but its also a far less consistent card; the exact same problem heavy blade has!",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182827108834234398",
+      "type": "Default",
+      "timestamp": "2023-12-09T08:32:38.611+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the difference between this and heavy blade is that irksome blow is a gremlins card and that means it does bonkers damage (at 0 cost too!). Despite being hard to draft its still worth considering in the rare mad gremlin deck since if you can accommodate it well this card will carry you",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182827506034802739",
+      "type": "Default",
+      "timestamp": "2023-12-09T08:34:13.311+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its also worth noting that one of this cards biggest competitors <flurry> has even better strength scaling; but thats not really irksome blows fault since flurry is the best attack in downfall",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182827508882751529",
+      "type": "Reply",
+      "timestamp": "2023-12-09T08:34:13.99+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flurry",
+          "url": "https://slay.ocean.lol/w/downfall/gremlin%3aflurry",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 (0) :energy_gremlins: / The Gremlins / Downfall\n\nDeal 3 damage for each card played this turn.\n**Exhaust**.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1MEUV2W6f_P1q8Q114Zjbks1blf7qusxCZRRCW9u8so/https/slay.ocean.lol/downfall/cards/gremlin-flurry.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1182827506034802739",
+        "channelId": "1182773690534989956",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1182834596103077959",
+      "type": "Default",
+      "timestamp": "2023-12-09T09:02:23.715+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mild benefit of not getting fucked by thorns",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182834641078603886",
+      "type": "Default",
+      "timestamp": "2023-12-09T09:02:34.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you know you're facing silent/have faced silent",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182834722959798323",
+      "type": "Default",
+      "timestamp": "2023-12-09T09:02:53.96+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and your deck relies on multihits or spamming (which is 90% of grems decks except gremlin toss)",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182835044063129642",
+      "type": "Default",
+      "timestamp": "2023-12-09T09:04:10.517+09:00",
+      "timestampEdited": "2023-12-09T09:04:34.12+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you get a girya it's an easy pick, vajra/pecs/shuriken/duvu also make it pretty good considering you still have red heart blessing for boss fights",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182923213362167838",
+      "type": "Default",
+      "timestamp": "2023-12-09T14:54:31.716+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is like heavy blade in the sense that I would much rather take sword boomerang (or any number of multihit gremlin cards) in most cases. But if I already have decent strength I won't turn up my nose at it.",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182924391256956989",
+      "type": "Default",
+      "timestamp": "2023-12-09T14:59:12.548+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is notable for being one of the few strength payoffs that doesn't function at all with Wizardry, which makes it harder to pivot your deck (for most cards mad gremlin is halfway between sneaky and wizard so you can use him as a half-assed version of either and can draft multihits a bit more aggressively)",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1182960616642707476",
+      "type": "Default",
+      "timestamp": "2023-12-09T17:23:09.353+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah this not working with wiz kinda sucks I'd imagine",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1183152904769642599",
+      "type": "Default",
+      "timestamp": "2023-12-10T06:07:14.415+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/669242017427226638/1171177883868344451/1183137906647384094",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1183152909744087122",
+      "type": "Default",
+      "timestamp": "2023-12-10T06:07:15.601+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vote btw",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 21
+}

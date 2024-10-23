@@ -1,0 +1,1265 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1107034753200296130",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Minor League Arena (event) - Daily Discussion 13 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:10:30.4107313+09:00",
+  "messages": [
+    {
+      "id": "1107034754622177310",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:00:53.213+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107034756056621056",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:00:53.555+09:00",
+      "timestampEdited": "2023-05-15T05:00:19.579+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nCrownarang (Champ card): 4\nCleanse (Automaton card): 2\nBurly Blow (Gremlins card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107034758157971618",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:00:54.056+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 206/784",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#465042",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/IXLR5uOfmJ5sSKQztlbAtCQpDCNl1KFzJiYTiBYEYgw/https/slay.ocean.lol/extraimages/events/minorleaguearena.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/IXLR5uOfmJ5sSKQztlbAtCQpDCNl1KFzJiYTiBYEYgw/https/slay.ocean.lol/extraimages/events/minorleaguearena.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Minor League Arena",
+          "url": null,
+          "timestamp": null,
+          "description": "Event / Act ? / All / Downfall\n```ansi\n\u001B[2;37m[Fight Centurion & Mystic\u001B[2;37m] \u001B[2;32mGain Cloak Clasp\n``````ansi\n\u001B[2;37m[Fight Gremlin Nob\u001B[2;37m] \u001B[2;32mGain Champion Belt\n``````ansi\n\u001B[2;37m[Fight Slaver Duo\u001B[2;37m] \u001B[2;32mGain Wrist Blade\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IXLR5uOfmJ5sSKQztlbAtCQpDCNl1KFzJiYTiBYEYgw/https/slay.ocean.lol/extraimages/events/minorleaguearena.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035226418466906",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:02:45.698+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Unknown ran `[[cloak clasp]][[champion belt]][[wrist blade]]`",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cloak Clasp",
+          "url": "https://slay-the-spire.fandom.com/wiki/Cloak_Clasp",
+          "timestamp": null,
+          "description": "Rare Relic / The Watcher / Slay the Spire\n\nAt the end of your turn, gain 1 **Block** :p_block: for each card in your hand.\n*A simple but sturdy design.*",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AI7RwNxwozLYuZGdrM56UZVACcWVa1QBlOddN44D7HI/https/slay.ocean.lol/slay%2520the%2520spire/relics/cloakclasp.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Champion Belt",
+          "url": "https://slay-the-spire.fandom.com/wiki/Champion_Belt",
+          "timestamp": null,
+          "description": "Rare Relic / The Ironclad / Slay the Spire\n\nWhenever you apply **Vulnerable** :p_vulnerable:, apply 1 **Weak** :p_weak:.\n*Only the greatest may wear this belt.*",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KvRF5ILBoD7Er0QO42SS-c5OT2krYsnlpj9SBg1kDzI/https/slay.ocean.lol/slay%2520the%2520spire/relics/championbelt.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Wrist Blade",
+          "url": "https://slay-the-spire.fandom.com/wiki/Wrist_Blade",
+          "timestamp": null,
+          "description": "Boss Relic / The Silent / Slay the Spire\n\nAttacks that cost 0 deal 4 additional damage.\n*Handy for assassinations.*",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Okcs4CI_9D93Um5shKCDRpVGEFhTU10_l4V8HRVEDZ0/https/slay.ocean.lol/slay%2520the%2520spire/relics/wristblade.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035347973570640",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:03:14.679+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Act 1 event btw, the act 2 semi-easy fights area actually are challenging at this point in the game",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035420182728808",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:03:31.895+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i've underestimated both of the non-nob fights in the past",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035584519745707",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:04:11.076+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035638383005706",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:04:23.918+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd almost put it on the level of a super elitr",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035704028049448",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:04:39.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "other than champ belt, i like the rewards of this and i like taking it so long as im confident i won't die",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035816473145467",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:05:06.378+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "although i play guardian a lot, so i don't know how good wrist blade is on the other characters",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035859787714582",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:05:16.705+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like I'm a bit too eager to take this event, cloak clasp and wrist blade are both really good and champion belt can be",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107035918117900350",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:05:30.612+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But you lose a lot of health from this on average",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107036104730882139",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:06:15.104+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it really helps to know what relic you're going to get from an elite-level fight",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107036148079013928",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:06:25.439+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "imagine if you had that info for your pathing in an act normally",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107036244875169862",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:06:48.517+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "True",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107043360012775484",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:35:04.898+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WRIST BLADE",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107043365557637140",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:35:06.22+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WAHOO",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107047530291789894",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:51:39.17+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a pretty damn good event",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107047563040915528",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:51:46.978+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "considerable reward, for considerable risk",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107047642095161464",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:52:05.826+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally take cloak clasp the most",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107047815168925749",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:52:47.09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Same",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107048018361974865",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:53:35.535+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im a big ol wrist blade fan",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107048030575788064",
+      "type": "Default",
+      "timestamp": "2023-05-14T05:53:38.447+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "because minor beam",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107068750525636678",
+      "type": "Default",
+      "timestamp": "2023-05-14T07:15:58.468+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could use new event art",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107068995594621028",
+      "type": "Default",
+      "timestamp": "2023-05-14T07:16:56.897+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As a dedicated attack spamer it's wrist blade 9 times out of 10 for me",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107104382081827008",
+      "type": "Default",
+      "timestamp": "2023-05-14T09:37:33.693+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I most often take cloak clasp",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107105642721845288",
+      "type": "Default",
+      "timestamp": "2023-05-14T09:42:34.253+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I take wrist blade 9 times out of 10 for me because cloak clasp gets worse the more cards I play",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107105901132927007",
+      "type": "Default",
+      "timestamp": "2023-05-14T09:43:35.863+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the belt isn't worth talking about unless I already have an activator for it, which is the 1 time out of 10 that I don't take wrist blade",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107120831844327595",
+      "type": "Default",
+      "timestamp": "2023-05-14T10:42:55.622+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As an act 1 event, all of these fights are reasonably challenging, though there is significant upside in getting to pick which relic/fight you take. Wrist blade is very powerful on several downfall characters (gremlins, automaton, guardian, snecko) and cloak clasp can be very good if you have a lot of card draw, retain, or runic pyramid (would have to be off a boss swap). For champions belt, you would need to have plenty of ways to apply vulnerable, and not many ways to apply weak, which is a pretty weird spot to be in. Maybe a slime boss deck that recurs haunting lick, or a guardian deck with vent steam/garnet but no copies of sentry blast. Hexaghost has heat metal, but no ways to apply weak at all after the change to rain of embers, so that could work.\n\nYou are probably taking 15-20 damage here, though it could be less with the right front-loaded cards and good potions. I think that you should almost always try to take one of the fights here, even if that means taking a rest later. Cloak clasp should be helpful in blocking later in the run and is generically good on just about everyone, though not always the most optimal choice.\n\nYou may need to adjust your pathing after finding this event, because it's essentially an extra elite fight. Giving yourself an extra campfire, or 1 less elite if things go really poorly. Picking a flexible path at the start of the act that gives you the ability to adjust the level of difficulty is incredibly valuable because of the variance within events, card rewards, and potions.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107121197382127616",
+      "type": "Reply",
+      "timestamp": "2023-05-14T10:44:22.773+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well admittedly in the case of guardian sentry blast is a single uncommon",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1107120831844327595",
+        "channelId": "1107034753200296130",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1107121218626265198",
+      "type": "Default",
+      "timestamp": "2023-05-14T10:44:27.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "while vent steam is common",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107125786433028166",
+      "type": "Default",
+      "timestamp": "2023-05-14T11:02:36.888+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also <garnet>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107125791441039460",
+      "type": "Reply",
+      "timestamp": "2023-05-14T11:02:38.082+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Garnet",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_guardian: / The Guardian / Downfall\n\n**Gem.**\nApply 1 **Vulnerable** :p_vulnerable: to ALL enemies.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2RKWrzHLrTt_r-HVac39XcXmuxJvzO9K1EVGkLXuaQk/https/slay.ocean.lol/downfall/cards/guardian-gem_crimson.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1107125786433028166",
+        "channelId": "1107034753200296130",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1107165056921239622",
+      "type": "Default",
+      "timestamp": "2023-05-14T13:38:39.702+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "True, but I do think of sentry blast as being a very premium card (great with ninja relics, only way to apply weak, very good with stasis engine and floating orbs, persistent source of damage). Garnet and vent steam are less common pickups for me, but can definitely be good if you need some linear scaling for lagavulin/gremlin nob/act 1 boss.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107283761143496814",
+      "type": "Reply",
+      "timestamp": "2023-05-14T21:30:20.994+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1107165056921239622",
+        "channelId": "1107034753200296130",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1107283868505083964",
+      "type": "Default",
+      "timestamp": "2023-05-14T21:30:46.591+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what I was trying to say is that it's harder to find a sentry blast than a vent steam",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107339051880677376",
+      "type": "Default",
+      "timestamp": "2023-05-15T01:10:03.333+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wrist blade goes extremely hard with <platinum core>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107339065478623324",
+      "type": "Reply",
+      "timestamp": "2023-05-15T01:10:06.575+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Platinum Core",
+          "url": null,
+          "timestamp": null,
+          "description": "Boss Relic / The Automaton / Downfall\n\nReplaces Bronze Core.\nThe first 3 Functions you create each combat cost 0 until played.\n*Changelog: Improved user experience.*",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hKQA4npdZjMwPFX2sxfnqOnrfSf2OSJ2Snq-H15QQLg/https/slay.ocean.lol/downfall/relics/platinumcore.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1107339051880677376",
+        "channelId": "1107034753200296130",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1107341177797234739",
+      "type": "Default",
+      "timestamp": "2023-05-15T01:18:30.191+09:00",
+      "timestampEdited": "2023-05-15T01:18:36.308+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as if virus wasnt broken enough",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1107351432220393632",
+      "type": "Default",
+      "timestamp": "2023-05-15T01:59:15.036+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wrist blade also goes hard with minor beams",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 40
+}

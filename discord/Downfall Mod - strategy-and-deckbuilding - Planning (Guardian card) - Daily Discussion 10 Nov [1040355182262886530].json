@@ -1,0 +1,929 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1040355182262886530",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Planning (Guardian card) - Daily Discussion 10 Nov",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:29:55.824804+09:00",
+  "messages": [
+    {
+      "id": "1040355183747674204",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:00:04.67+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040355192740266094",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:00:06.814+09:00",
+      "timestampEdited": "2022-11-12T05:00:29.412+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nDigital Carnage (Automaton card): 5\nSecond Volley (Gremlins card): 4\nReplicate (Automaton card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040355197911826502",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:00:08.047+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3984D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/mXR7C0CYHW25DXh0GA8fknQ6ENnOVgW7z7Ud0RHqYIE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-Planning.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/mXR7C0CYHW25DXh0GA8fknQ6ENnOVgW7z7Ud0RHqYIE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-Planning.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Planning",
+          "url": "https://sts-downfall.fandom.com/wiki/Planning?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 0 :e_guardian: / The Guardian\n\nPlace the top 2 cards of your draw pile into **Stasis.**\n[ **Socket** ] ( [ **Socket** ] )",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mXR7C0CYHW25DXh0GA8fknQ6ENnOVgW7z7Ud0RHqYIE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-Planning.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040356620099657738",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:05:47.123+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i remember when i was first starting out on guardian, someone made a passing comment about how good planning was",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040356671094005801",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:05:59.281+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "turns out they were right, so long as you have the stasis slots available for it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040356821405270088",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:06:35.118+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "planning doesn't give you any immediate benefit, but when the cards come out, it's a really powerful boost",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040356979312443393",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:07:12.766+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it selects cards from your draw pile, so it has some of the upsides that real card draw does as well",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040357099571523685",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:07:41.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's worth sacrificing one draw on a turn for the bonus power after a short wait",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040357240453988392",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:08:15.027+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the socket is usually good for temp buff gems, or a ward for safety, or quartz to become a cantrip. not sure how often i'd upgrade it for the second socket, though.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040357621716230234",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:09:45.927+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are a couple smaller downsides, such as the lack of control over the cards that go into stasis. putting key cards into stasis can be bad if you needed them as soon as possible, and they instead go into stasis. this is more likely in the late game, but even so it's infrequent.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040357751555100683",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:10:16.883+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also, because it fills 2/3 stasis slots, it can be hard to take better stasis enablers in the future, such as Preprogram.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040358024671412334",
+      "type": "Default",
+      "timestamp": "2022-11-11T05:11:21.999+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's meant to be a raw value card and provide rudimentary stasis support for synergies, which it does well enough. it's a solid act 1 pick, but is fine to take later if you haven't found any other stasis support yet, or if you have extra stasis slots which planning can fill.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040373055601528974",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:11:05.652+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ez beta is good enough as formal?",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740941945811238922",
+          "name": "ezrad.com",
+          "discriminator": "0000",
+          "nickname": "ez",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "782757800677212181",
+              "name": "Contributor",
+              "color": "#9B59B6",
+              "position": 13
+            },
+            {
+              "id": "1283257858372403262",
+              "name": "Artist",
+              "color": "#C27C0E",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/740941945811238922/a7b260a27b75ce250c8ea490bba2e639.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1040375927642783744",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:22:30.4+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eh, wouldnt say so",
+      "author": {
+        "id": "740941945811238922",
+        "name": "ezrad.com",
+        "discriminator": "0000",
+        "nickname": "ez",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740941945811238922/a7b260a27b75ce250c8ea490bba2e639.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040376016432009336",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:22:51.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "has black outlines",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040376140239478795",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:23:21.087+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not on quality scale at least, its just more on the silly scale",
+      "author": {
+        "id": "740941945811238922",
+        "name": "ezrad.com",
+        "discriminator": "0000",
+        "nickname": "ez",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740941945811238922/a7b260a27b75ce250c8ea490bba2e639.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040376882568368228",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:26:18.072+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Robo-chop art is pretty silly if you ask me",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040376929708167238",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:26:29.311+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And it's still official",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040377038063800420",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:26:55.145+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeh, its not my call im just giving opinion as asked",
+      "author": {
+        "id": "740941945811238922",
+        "name": "ezrad.com",
+        "discriminator": "0000",
+        "nickname": "ez",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740941945811238922/a7b260a27b75ce250c8ea490bba2e639.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040377292196675734",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:27:55.735+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As for planning, it sounds like it could greatly benefit from frozen eye",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040377393497518100",
+      "type": "Default",
+      "timestamp": "2022-11-11T06:28:19.887+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So you know exactly what's going into stasis before you play it",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040392658130063420",
+      "type": "Default",
+      "timestamp": "2022-11-11T07:28:59.259+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<robo chop>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040392659950391346",
+      "type": "Reply",
+      "timestamp": "2022-11-11T07:28:59.693+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Robo-Chop",
+          "url": "https://sts-downfall.fandom.com/wiki/Robo-Chop?embnum=0",
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_automaton: / The Automaton\n\nDeal 9 (10) damage.\nNext turn, draw 1 (2) additional card (cards).",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eClplNbiz0dKSXJbnkIjKOWIDJ0I5UmBNfCzPiSGFr4/https/oceanuwu.github.io/downfallbot/altered/img/cards/The_bronze-Robo-Chop.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<robo chop> = robochop, 79% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1040392658130063420",
+        "channelId": "1040355182262886530",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1040392719647920220",
+      "type": "Default",
+      "timestamp": "2022-11-11T07:29:13.926+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i always thought that was supposed to be beta art but got added to normal anyway",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040395590196002837",
+      "type": "Default",
+      "timestamp": "2022-11-11T07:40:38.318+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats what happened yeah",
+      "author": {
+        "id": "740941945811238922",
+        "name": "ezrad.com",
+        "discriminator": "0000",
+        "nickname": "ez",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740941945811238922/a7b260a27b75ce250c8ea490bba2e639.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040418319687241879",
+      "type": "Default",
+      "timestamp": "2022-11-11T09:10:57.451+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've played guardian for roughly 10 runs so far, and I think that planning is an incredibly strong card. It can very quickly fill up your stasis slots and give you a big power spike in the middle of the fight when they return to your hand for free. It feels pretty close to \"in  (roughly) two turns, draw two cards and gain 2 energy\", which is a slower, but much cheaper version of doppelganger, and that pairs really well with guardians natural ability to stall out fights with defensive mode/brace and strong block cards. The socket on it also lets you mitigate some of the downside of a card like doppelganger or outmaneuver by generating some block with a sapphire, mitigating damage with amethyst, or accelerating with amber. I find the upgrade to be very low priority, the extra socket for more frontloading is nice, but the card is already very functional without it. Planning (and most stasis cards) plays extremely well with the Guardian gear (upgraded version of bronze gear) to cleanly buy you time in the beginning of fights. Where I find planning goes from great to insane is in pairing it with recover/stasis strike/time capacitor/Stasis engine. The synergy with recover is especially noteworthy, since you get planning back the very next turn and can fill up your stasis slots extremely fast. I pretty much always want 1 copy of planning in my guardian decks, and will very happily take a second if I have ways to get more stasis slots than the initial 3. If anything, I think the card could use a slight nerf. Normally these types of cards that help set you up for future turns either cost energy, or have no front-loaded effect when you play them",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040439606228815944",
+      "type": "Default",
+      "timestamp": "2022-11-11T10:35:32.558+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Card is good but I don't take it often unless I have extra stasis slots",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 27
+}

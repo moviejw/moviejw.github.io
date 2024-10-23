@@ -1,0 +1,1782 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1126241328615919736",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Gremlin Toss (Gremlins card) - Daily Discussion 5 Jul",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:04:19.6668603+09:00",
+  "messages": [
+    {
+      "id": "1126241329731604530",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:00:57.56+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241331107344465",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:00:57.888+09:00",
+      "timestampEdited": "2023-07-07T05:01:11.335+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nUnforgiving (Gremlins card): 7\nReprieve (Hermit card): 4\nTwist The Knife (Gremlins card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241333330313228",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:00:58.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 259/783",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gremlin Toss",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_gremlins: / The Gremlins / Downfall\n\n (Gain 3 Temporary :p_temp:_HP.)\nDeal damage equal to your current **Block** :p_block: and Temporary :p_temp:_HP.",
+          "color": "#B26BDB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/QWG4bh4AJ1eVBTAqupIKmwC8SNJ0ELBkcfnNjInqyfE/https/slay.ocean.lol/downfall/cards/gremlin-gremlintoss.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/QWG4bh4AJ1eVBTAqupIKmwC8SNJ0ELBkcfnNjInqyfE/https/slay.ocean.lol/downfall/cards/gremlin-gremlintoss.png",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241444861071461",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:01:25.009+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "First",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241517510598737",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:01:42.33+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And my only contribution to this discussion. I leave this to you, gremlin nerds.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241926232944760",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:03:19.777+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like <body slam>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241933187108966",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:03:21.435+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Body Slam",
+          "url": "https://slay-the-spire.fandom.com/wiki/Body_Slam",
+          "timestamp": null,
+          "description": "Common Attack / 1 (0) :red_energy: / The Ironclad / Slay the Spire\n\nDeal damage equal to your **Block** :p_block:.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WKmNayYOj1Th_e3Jmwxr-Dt_9MYrI0QOYCMx-XgqG88/https/slay.ocean.lol/slay%2520the%2520spire/cards/bodyslam.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126241926232944760",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126241967500689490",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:03:29.616+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but temp hp already persists between turns",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126241974614233249",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:03:31.312+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao!",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126242978286010438",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:07:30.606+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gremlins should always be stacking a ton of block or temp hp since they can't face tank anything",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126242994320842886",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:07:34.429+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are there any more body slam copies in downfall?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243017813151754",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:07:40.03+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "body crash",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243027023831082",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:07:42.226+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and shield throw",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243040122654911",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:07:45.349+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "both are rare",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243192212307988",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:21.61+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone got an image of shield throw?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243199715905556",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:23.399+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bot isnt working",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243244146163815",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:33.992+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<i~ shield throw>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243246658568255",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:34.591+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<img shield throw>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243264421445662",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:08:38.826+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/mw5oz20BQbC4YhzKl7i3dXLBFvF1NCBVOTmjNPsyxOI/https/slay.ocean.lol/downfall/cards/champ-shieldthrow.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/mw5oz20BQbC4YhzKl7i3dXLBFvF1NCBVOTmjNPsyxOI/https/slay.ocean.lol/downfall/cards/champ-shieldthrow.png",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126243244146163815",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126243266308866088",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:08:39.276+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/mw5oz20BQbC4YhzKl7i3dXLBFvF1NCBVOTmjNPsyxOI/https/slay.ocean.lol/downfall/cards/champ-shieldthrow.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/mw5oz20BQbC4YhzKl7i3dXLBFvF1NCBVOTmjNPsyxOI/https/slay.ocean.lol/downfall/cards/champ-shieldthrow.png",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126243246658568255",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126243282700210306",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:43.184+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The bot likes us",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243288316399726",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:44.523+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "VOID",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243295325073549",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:08:46.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait never mind",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243406000160858",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:09:12.581+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That said this is a 1 mana 1 hit card so it doesn't have any synergy with gremlin offensive strats",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243742316253254",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:10:32.765+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I guess you take this if you're all in on shield gremlin?",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126243825870966784",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:10:52.686+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1126243825602535505",
+          "url": "https://cdn.discordapp.com/attachments/1126241328615919736/1126243825602535505/image.png?ex=6718af8c&is=67175e0c&hm=e69279df21828e95c43bf2ac52b739ee2e68c9dd0cb468002ee72a9f36d60d29&",
+          "fileName": "image.png",
+          "fileSizeBytes": 588139
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126247404967039006",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:25:06.009+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you take this if you’re all in on <edible armor>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126247418644672632",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:25:09.27+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Edible Armor",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_gremlins: / The Gremlins / Downfall\n\nConvert your **Block** :p_block: into Temporary :p_temp:_HP.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/p0KLVhCEelkJ1dqKUoB4i1ArZNFRMD33G649tKSAAZY/https/slay.ocean.lol/downfall/cards/gremlin-ediblearmor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126247404967039006",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126247458813530193",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:25:18.847+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and edible armor is bonkers so",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126247519110840460",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:25:33.223+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or heckle i suppose but heckle isn’t as strong unless you have red candle",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126248556991348747",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:29:40.673+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "broken. Gremlins have stupidly good block and they can switch it into to temporary HP which also works with this card. This card can be the attack you center your whole deck around, or simply one you have that can consistently do 25+ damage a turn. Theres to many synergies with this card to even list them all; but it does work well with NOB! which is epic.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126248717020823583",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:30:18.827+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how do you toss a gremlin nob",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126248854833082529",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:30:51.684+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gremlin toss is what happens if you give hexaghost body slam",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126248936672333824",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:31:11.196+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because temp hp for this purpose is just barricaded block",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126249246073565225",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:32:24.963+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this really is a <ghost shield> moment",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "258676126090657793",
+          "name": "sandtag",
+          "discriminator": "0000",
+          "nickname": "SandTag",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126248854833082529",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126249256752259165",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:32:27.509+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ghost Shield",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. **Afterlife.**\nGain 7 (10) **Block** :p_block:.\nWhen **Exhaust**ed,\ngain 1 **Blur** :p_blur:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LNkS0FekMoxs3-85lp8eKLS-hU047dLQWd6X5ZMej6w/https/slay.ocean.lol/downfall/cards/hexamod-ghostshield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126249246073565225",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126249302872825987",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:32:38.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126249378370310164",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:32:56.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In both instances, block is not going away and yet there is a body slam",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126249543785263145",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:33:35.943+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126243288316399726",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126249597229092905",
+      "type": "Reply",
+      "timestamp": "2023-07-06T05:33:48.685+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also first ghost shield mention of the discussion",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "961824443653574687",
+          "name": "Slaytabase",
+          "discriminator": "2770",
+          "nickname": "DownfallBot Jr.",
+          "color": "#F1C40F",
+          "isBot": true,
+          "roles": [
+            {
+              "id": "1131771178810363924",
+              "name": "Downfallbot Jr.",
+              "color": "#F1C40F",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126249256752259165",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126249605953241128",
+      "type": "Default",
+      "timestamp": "2023-07-06T05:33:50.765+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "even if this was just a body slam reprint it would still be pretty insane. Shield gremlin just gives to much block",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126259483056799856",
+      "type": "Reply",
+      "timestamp": "2023-07-06T06:13:05.65+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "take a shot every time someone mentions ghost shield on this server",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "919544408376999987",
+          "name": "cuboidconsumer",
+          "discriminator": "0000",
+          "nickname": "cuboid consumer",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126249597229092905",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126259584999362694",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:13:29.955+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "two if its completely unprompted",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126259631430303794",
+      "type": "Reply",
+      "timestamp": "2023-07-06T06:13:41.025+09:00",
+      "timestampEdited": "2023-07-06T06:13:42.679+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you would just die of alcohol poisoning",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126259483056799856",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126259666536640573",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:13:49.395+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":yippee:",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126261140385697873",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:19:40.788+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of what applies to body slam is also true of gremlin toss, though the upgrade is generally worse, and temp hp counting is a very nice bonus, since that helps gremlin toss to have better consistency in it's damage. The other big difference is that you have shield gremlins passive (as well as all the card spam stuff/wards/bubble barrier that gremlins get). Body slam tends to be fairly bad in the early game for most ironclad decks, and only really starts to shine later on in the run once you have a stronger block engine up and running, or more generically strong block cards like impervious, power through, and second wind. Gremlin toss has a smoother experience throughout the run, especially if you are focusing on shield gremlin or have extra ways to get them in front. \n\nIt's a great finisher type card in a very defensive deck, and can be one of your only attacks if you really hone in on spamming temp hp with edible armor, herckle, or other sources (do be careful if defect is buffing neow, as the buffer can really hurt that strategy). It can also just be played as a efficient source of damage in a deck focusing on bubble barrier or other efficient block cards. Can be a bit at odds with flip out, since that already converts your block into damage, but some decks might run both if they are block heavy and need ways to frontload. I think that gremlins are good enough at blocking overall that you could take this with little to no support and expect it to perform reasonably well over a run, but you probably want to have at least some synergies first. Dexterity (oddly smooth stone, kunai) in particular can be really powerful in combination with cards that generate multiple wards (glimmer, counter strike). The other thing is that since gremlins generally need to include a strong defensive package to cover their low health, you will usually be able to support gremlin toss fairly naturally. Gets better once you know you have the 4th energy. Bad against all the act 1 elites.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126262363658653766",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:24:32.439+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great with runic pyramid of course. Upgrade is pretty good, basically a +6 in efficiency, since you get 3 temp hp and 3 damage. It should probably receive a nerf, since it synergizes so well with gremlins defensive packages, and unlike body slam, it doesn't need anything like barricade to increase it's consistency. I could see this at rare, or maybe as a 2 cost that upgrades down to a 1 cost. I do like the gimmick of gremlin toss counting temp hp as well as block, but it makes it very powerful and consistent. Similar to how body slam was too good on guardian as an uncommon, I think that gremlin toss is too good on gremlins as an uncommon.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126262718157033492",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:25:56.958+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a defensive deck finisher card and it's good at it's job tbh",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126262815339053139",
+      "type": "Default",
+      "timestamp": "2023-07-06T06:26:20.128+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's not too much to say here tbh since it's literally just body slam",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126268137491406878",
+      "type": "Reply",
+      "timestamp": "2023-07-06T06:47:29.028+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I chose not to today",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126249597229092905",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126321759646404729",
+      "type": "Reply",
+      "timestamp": "2023-07-06T10:20:33.546+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THIS IS GREMLINS",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126249246073565225",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126321795058896967",
+      "type": "Default",
+      "timestamp": "2023-07-06T10:20:41.989+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why is ghost shield being mentioned here?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126322629784113222",
+      "type": "Default",
+      "timestamp": "2023-07-06T10:24:01.003+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3 hour mute for unwarranted ghosting?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126322732502634647",
+      "type": "Reply",
+      "timestamp": "2023-07-06T10:24:25.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My ex boutta finally shut her mouth fr?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126322629784113222",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1126330818621620294",
+      "type": "Default",
+      "timestamp": "2023-07-06T10:56:33.374+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Body slam but it’s good without barricade",
+      "author": {
+        "id": "387786262788046851",
+        "name": "nightmarerise",
+        "discriminator": "0000",
+        "nickname": "NightmareRise",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/387786262788046851/e5f59196a1e3d32c9a3c85be0f1477bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126334495847612526",
+      "type": "Reply",
+      "timestamp": "2023-07-06T11:11:10.093+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because if body slam was on hexa, it would be funny for the same reason this card is with temp hp",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126321795058896967",
+        "channelId": "1126241328615919736",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 56
+}

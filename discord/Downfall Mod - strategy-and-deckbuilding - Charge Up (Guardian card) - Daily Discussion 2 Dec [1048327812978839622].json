@@ -1,0 +1,854 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1048327812978839622",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Charge Up (Guardian card) - Daily Discussion 2 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:16:05.4029868+09:00",
+  "messages": [
+    {
+      "id": "1048327815495426129",
+      "type": "Default",
+      "timestamp": "2022-12-03T05:00:28.203+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048327822969675776",
+      "type": "Default",
+      "timestamp": "2022-12-03T05:00:29.985+09:00",
+      "timestampEdited": "2022-12-04T05:00:51.873+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRoulette (Hermit card): 6\nTornado Punch (Champ card): 1\nGoop Dweller (Slime Boss relic): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048327826618712154",
+      "type": "Default",
+      "timestamp": "2022-12-03T05:00:30.855+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3984D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/aQEY8LI_Q3sBDXmE969Nf4vObzPvrd3kz__re2bNONE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-ChargeUp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/aQEY8LI_Q3sBDXmE969Nf4vObzPvrd3kz__re2bNONE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-ChargeUp.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Charge Up",
+          "url": "https://sts-downfall.fandom.com/wiki/Charge_Up?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 (1) :e_guardian: / The Guardian\n\nPlace this into **Stasis.**\n**Tick** - Gain 8 **Block:p_block:** and 1 **Strength:p_strength:**.\n**Volatile.**",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aQEY8LI_Q3sBDXmE969Nf4vObzPvrd3kz__re2bNONE/https/oceanuwu.github.io/downfallbot/altered/img/cards/Guardian-ChargeUp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048328379306364968",
+      "type": "Default",
+      "timestamp": "2022-12-03T05:02:42.626+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a 0 cost that gets better with snecko lol",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048328455630102590",
+      "type": "Default",
+      "timestamp": "2022-12-03T05:03:00.823+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as long as u have cards that put other cards into stasis",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048362090513047742",
+      "type": "Default",
+      "timestamp": "2022-12-03T07:16:40.004+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm pretty surprised this card starts at 0",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048362200470913024",
+      "type": "Default",
+      "timestamp": "2022-12-03T07:17:06.22+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you give up a card draw just to do nothing that turn, and then you only get 1 turn of benefit",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048362318465081394",
+      "type": "Default",
+      "timestamp": "2022-12-03T07:17:34.352+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shield charger does what this does but better, pretty much, because 1 strength is negligible too",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048362419342299146",
+      "type": "Default",
+      "timestamp": "2022-12-03T07:17:58.403+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you need an upgrade on this to be relevant and even then it's pretty much a desperation play for strength scaling, and not for defense",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048376244326121513",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:12:54.536+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Upgrade feels weird",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048384478285938810",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:45:37.665+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I very rarely pick this card up, it's an extremely minor effect, even if you're not paying any energy for it. Like outmaneuver and doppelganger, it doesn't do anything when you play it, and your reward next turn is a single point of strength and some block. The upgrade I actually think is pretty cool, I think it's the only card that gets more expensive when upgraded, which is a neat interaction with stasis. Charge up is at it's best when you have lots of ways to draw cards, put it into stasis without drawing it (planning mainly), or have access to accelerate to immediately gain the block. I really love the idea of the card, but it struggles to find its's way into many decks because it is just so low impact compared to other scaling cards. Inflame in ironclad can struggle with the same problem, where it just isn't enough scaling for the cost if putting it into your deck (though limit break gives it more of a place).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048385164952215553",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:48:21.379+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is worth noting that because of defensive mode (easy to carry block over between turns), guardian can afford to play more cards that don't have immediate impact, but provide scaling for later turns in the fight. The main change I would want to see in this would be a bigger benefit for doing nothing the turn you play it, 2 strength would feel a lot more worth the risk (though that is pretty strong with the upgrade letting it tick twice)",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048385726938628258",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:50:35.367+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe 1 cost by default, upgrades to \"Place this into Stasis and Accelerate it.\"",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048385917787840553",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:51:20.869+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i like this card as it is tho",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048385956547395695",
+      "type": "Default",
+      "timestamp": "2022-12-03T08:51:30.11+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "free defend+ with strength",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048404541508431922",
+      "type": "Default",
+      "timestamp": "2022-12-03T10:05:21.11+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean, drawing a card that doesn't do anything for you on the turn you draw it is a pretty significant cost. It can be mitigated with accelate and defensive mode, but still a cost",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048404731804012654",
+      "type": "Default",
+      "timestamp": "2022-12-03T10:06:06.48+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm a big fan of this card. I often heavily prioritize statis slots, so I have little issues fitting this. Although it only comes next turn, 0 cost for 8 block and 1 strength is very good value and its upgrade doubles both of those numbers (and its quite easy to use a card like future planning to not have to pay the energy cost)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048404853560463425",
+      "type": "Default",
+      "timestamp": "2022-12-03T10:06:35.509+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is never a build around, but it does well as a good addition to statis based decks.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048405124348911676",
+      "type": "Default",
+      "timestamp": "2022-12-03T10:07:40.07+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also funny snecko eye makes this able to use tick up to 4 times which makes the card very good with that relic (as all tick cards are)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1048410503246000219",
+      "type": "Reply",
+      "timestamp": "2022-12-03T10:29:02.499+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "except laser turret",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1048405124348911676",
+        "channelId": "1048327812978839622",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1089344175373303960",
+      "type": "Default",
+      "timestamp": "2023-03-26T09:24:50.445+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Charge Up> reworked:",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089344179336913047",
+      "type": "Reply",
+      "timestamp": "2023-03-26T09:24:51.39+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Charge Up",
+          "url": "https://sts-downfall.fandom.com/wiki/Charge_Up?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 1 :e_guardian: / The Guardian / Downfall\n\nGain 6 (8) **Block** :p_block:.\nNext turn, gain 2 (3) temporary :p_temp: **Strength** :p_strength:.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/50qDxJkAYsyCQyWG6EHmqtYvilMyu8Z5psgNUREe-18/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-ChargeUp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089344175373303960",
+        "channelId": "1048327812978839622",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1089344298379661433",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2023-03-26T09:25:19.772+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089344179336913047",
+        "channelId": "1048327812978839622",
+        "guildId": null
+      }
+    },
+    {
+      "id": "1089351868343398412",
+      "type": "Default",
+      "timestamp": "2023-03-26T09:55:24.592+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ooo, this is actually pretty interesting. I'm looking forward to playing around with it.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089352719485120593",
+      "type": "Default",
+      "timestamp": "2023-03-26T09:58:47.52+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unlike block and energy, I think temp strength for next turn is better than temp strength this turn, especially on guardian since you can see what will come out of stasis next turn.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089362417982640158",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:37:19.822+09:00",
+      "timestampEdited": "2023-03-26T10:37:25.655+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "new charge up looks pretty bad compared to the existing common block pool. 6 block really isnt anything and having to wait until the next turn to use the strength hurts.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089368895619596370",
+      "type": "Default",
+      "timestamp": "2023-03-26T11:03:04.211+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, waiting for a next turn usually feels bad, but as Guardian you usually wait anyway, so it feels much more like a part of how character is supposed to play.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089394213038329898",
+      "type": "Default",
+      "timestamp": "2023-03-26T12:43:40.354+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To be fair, combining block with a \"wait until next turn\" effect is a pretty strong pairing. The block naturally helps buy you time to get that point and capitalize on the strength gain. Nic is also definitely right about using this with stasis to set up some really strong turns. Extra strength next turn is better in that you have all your energy and a brand new hand to work with, flex can only buff the damage of the remaining 4 cards in your hand naturally (which is why you want runic pyramid and card draw alongside it). Blocking now and dealing damage later is also a nice flavor win for guardian. The previous charge up felt very weird, and often just wasn't enough scaling considering the cost of drawing a card that does nothing the turn you play it, so I'm glad to see it reworked",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089418439447281764",
+      "type": "Default",
+      "timestamp": "2023-03-26T14:19:56.38+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Actually on second thought with guardian's debuff removal and comparing it to other timed debuffs, it's honestly alright. The low block isn't that bad because guardian has dex scaling.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 29
+}

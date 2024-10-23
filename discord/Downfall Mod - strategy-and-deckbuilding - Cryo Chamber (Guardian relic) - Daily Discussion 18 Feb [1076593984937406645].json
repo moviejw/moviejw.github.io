@@ -1,0 +1,814 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1076593984937406645",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Cryo Chamber (Guardian relic) - Daily Discussion 18 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:17:15.6853068+09:00",
+  "messages": [
+    {
+      "id": "1076593986367672364",
+      "type": "Default",
+      "timestamp": "2023-02-19T05:00:08.499+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076594018126929950",
+      "type": "Default",
+      "timestamp": "2023-02-19T05:00:16.071+09:00",
+      "timestampEdited": "2023-02-20T05:00:57.293+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nIterate (Automaton card): 2\nBurly Blow (Gremlins card): 1\nFloating Orbs (Guardian card): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076594029032120460",
+      "type": "Default",
+      "timestamp": "2023-02-19T05:00:18.671+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 122/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3984D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/oqrmlRFqQY5AV5DtHAjdI4SkJf2qycbZ4QGT2FKswug/https/oceanuwu.github.io/slaytabase/Downfall/relics/StasisUpgradeRelic.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/oqrmlRFqQY5AV5DtHAjdI4SkJf2qycbZ4QGT2FKswug/https/oceanuwu.github.io/slaytabase/Downfall/relics/StasisUpgradeRelic.png",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Cryo Chamber",
+          "url": "https://sts-downfall.fandom.com/wiki/Cryo_Chamber?embnum=0",
+          "timestamp": null,
+          "description": "Shop Relic / The Guardian / Downfall\n\nGain 1 Stasis slot. Whenever a card enters **Stasis,** **Upgrade** it.\n*Things always seem better coming out than they did going in.*",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/oqrmlRFqQY5AV5DtHAjdI4SkJf2qycbZ4QGT2FKswug/https/oceanuwu.github.io/slaytabase/Downfall/relics/StasisUpgradeRelic.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076615082966003783",
+      "type": "Default",
+      "timestamp": "2023-02-19T06:23:58.32+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "seems broken, probably is, ive heard its getting chaged to a different pool/rarity",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076662177819267092",
+      "type": "Default",
+      "timestamp": "2023-02-19T09:31:06.608+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is super strong, very reminiscent of runic capacitor for defect (3 extra orb slots). In some ways, it's even better because of the way it upgrades your cards for you. There's also no awkward element of trying to evoke orbs, as far as I know, there is no downside to having more stasis slots. Goes extremely well with planning, suspension, future plans, preprogram, orbwalk, and shield charger. Saving on upgrades feels really good as well, and it can be especially nice with laser turret, stasis field, and sentry blast. Is this too strong? The free upgrades are a little much at a certain point, and the stasis slot lets you set up a big card draw/energy engine more easily, it could probably be a rare relic, at shop rarity it's often pretty cheap considering how good it is.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076677293436575764",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:31:10.452+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haha just don't get <charge up>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076677296955597010",
+      "type": "Reply",
+      "timestamp": "2023-02-19T10:31:11.291+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Charge Up",
+          "url": "https://sts-downfall.fandom.com/wiki/Charge_Up?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 (1) :e_guardian: / The Guardian / Downfall\n\nPlace this into **Stasis.**\n**Tick** - Gain 8 **Block** :p_block: and 1 **Strength** :p_strength:.\n**Volatile.**",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/50qDxJkAYsyCQyWG6EHmqtYvilMyu8Z5psgNUREe-18/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-ChargeUp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1076677293436575764",
+        "channelId": "1076593984937406645",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1076677349908697190",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:31:23.916+09:00",
+      "timestampEdited": "2023-02-19T10:32:15.301+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty sure it will charge you for it (if you play it)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076677387875520672",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:31:32.968+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I remember someone saying so",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076677757058154506",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:33:00.988+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yep",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076677788238622801",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:33:08.422+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it charges you and doesnt give you the extra turn",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076678507981193347",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:36:00.022+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait what does charge up do?",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076678929630367885",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:37:40.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait nvm i got confused",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076679020873252934",
+      "type": "Default",
+      "timestamp": "2023-02-19T10:38:02.305+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i saw \"extra turn\" and i wasnt thinking lol",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076680488628002816",
+      "type": "Reply",
+      "timestamp": "2023-02-19T10:43:52.245+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wow so it beats you up AND takes your money, I assumed it would at least last 2 turns.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1076677788238622801",
+        "channelId": "1076593984937406645",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1076686588555313203",
+      "type": "Default",
+      "timestamp": "2023-02-19T11:08:06.581+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That is a bizarre interaction, would never have guessed it worked that way",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076686746198220840",
+      "type": "Reply",
+      "timestamp": "2023-02-19T11:08:44.166+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao does it take the energy? thats so weird",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1076680488628002816",
+        "channelId": "1076593984937406645",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1076762545039343686",
+      "type": "Default",
+      "timestamp": "2023-02-19T16:09:56.018+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that works exactly opposite to how i would have expected lmao",
+      "author": {
+        "id": "235593710375534602",
+        "name": "sneko1430",
+        "discriminator": "0000",
+        "nickname": "Sneko#1430",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/235593710375534602/612a7a6c344dbe898f8f3c71aff20334.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076763716407791667",
+      "type": "Default",
+      "timestamp": "2023-02-19T16:14:35.294+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah same",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076763799996088410",
+      "type": "Default",
+      "timestamp": "2023-02-19T16:14:55.223+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So if you don't have the energy to play it what happens?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1076763866341584956",
+      "type": "Default",
+      "timestamp": "2023-02-19T16:15:11.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would you be unable to play a 0 cost card due to lacking energy?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089344173565542503",
+      "type": "Default",
+      "timestamp": "2023-03-26T09:24:50.014+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Cryo Chamber> now rare",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089344178972012635",
+      "type": "Reply",
+      "timestamp": "2023-03-26T09:24:51.303+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cryo Chamber",
+          "url": "https://sts-downfall.fandom.com/wiki/Cryo_Chamber?embnum=0",
+          "timestamp": null,
+          "description": "Rare Relic / The Guardian / Downfall\n\nAt the start of each combat, gain 1 Stasis slot. Whenever a card enters **Stasis,** **Upgrade** it.\n*Things always seem better coming out than they did going in.*",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/oqrmlRFqQY5AV5DtHAjdI4SkJf2qycbZ4QGT2FKswug/https/oceanuwu.github.io/slaytabase/Downfall/relics/StasisUpgradeRelic.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089344173565542503",
+        "channelId": "1076593984937406645",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1089344237067305001",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2023-03-26T09:25:05.154+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089344178972012635",
+        "channelId": "1076593984937406645",
+        "guildId": null
+      }
+    },
+    {
+      "id": "1089353251243163688",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:00:54.301+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yay, I'll be able to see it more often.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089355063450947655",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:08:06.365+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yay",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089383745045413999",
+      "type": "Default",
+      "timestamp": "2023-03-26T12:02:04.59+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This should feel more balanced now as a rare relic. The cost should line up more closely with how strong the effect is. For reference, shop relics cost the same as common relics at the merchant. Instead of costing 143-157 gold, this will now cost 285 to 315 gold. On the other hand, non-shop relics can be acquired in many more ways than shop relics, though as a rare you still won't see this super often.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 27
+}

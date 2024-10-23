@@ -1,0 +1,460 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1052314177529729094",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Council of Ghosts (Hexaghost event) - Daily Discussion 13 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:26:51.3177184+09:00",
+  "messages": [
+    {
+      "id": "1052314179081605363",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:00:51.345+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314185142386708",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:00:52.79+09:00",
+      "timestampEdited": "2022-12-15T05:00:15.578+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nEmpowered Flame (Hexaghost card): 0\nRain of Embers (Hexaghost card): 3\nReprieve (Hermit card): 3",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314187721875516",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:00:53.405+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4F0202",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/XoQ4dOXnnocHeJf1v974UTZkSNQdFvoz273Ok5OvwMM/https/oceanuwu.github.io/downfallbot/altered/img/events/councilofghosts.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/XoQ4dOXnnocHeJf1v974UTZkSNQdFvoz273Ok5OvwMM/https/oceanuwu.github.io/downfallbot/altered/img/events/councilofghosts.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Council of Ghosts",
+          "url": "https://sts-downfall.fandom.com/wiki/Council_of_Ghosts?embnum=0",
+          "timestamp": null,
+          "description": "Downfall event / Act 2 / The Hexaghost\n```ansi\n\u001B[2;37m[Accept\u001B[2;37m] \u001B[2;31mLose 50% of your Max HP. \u001B[0;2mUnlock Study and Learn options.\n``````ansi\n\u001B[2;37m[Study\u001B[2;37m] \u001B[2;31mLose all Strikes. \u001B[2;32mGain 3 Council's Justice.\n``````ansi\n\u001B[2;37m[Learn\u001B[2;37m] \u001B[2;31mLose all Defends. \u001B[2;32mGain 3 Apparition.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#4F0202",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XoQ4dOXnnocHeJf1v974UTZkSNQdFvoz273Ok5OvwMM/https/oceanuwu.github.io/downfallbot/altered/img/events/councilofghosts.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314493285306509",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:02:06.257+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "apparitions event++",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314641193242634",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:02:41.521+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<council's justice>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314643009372212",
+      "type": "Reply",
+      "timestamp": "2022-12-14T05:02:41.954+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Council's Justice",
+          "url": "https://sts-downfall.fandom.com/wiki/Council's_Justice?embnum=0",
+          "timestamp": null,
+          "description": "Special Attack / 1 :e_colorless: / Colorless\n\nDeal 6 (10) damage, increased by 3 (4) for each **Exhaust**ed Apparition.\n**Exhaust**.",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9zKt1vE2F2XIegOQW6lw4jir0GrNOYSh4OqqkbL3yxs/https/oceanuwu.github.io/downfallbot/altered/img/cards/Colorless-CouncilsJustice.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1052314641193242634",
+        "channelId": "1052314177529729094",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1052314834135421128",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:03:27.522+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "strikes that exhaust and have a little bonus damage",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052314940486189076",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:03:52.878+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "most characters start with 3 or 4 strikes and defends, so this event rarely ever makes your deck bigger, which is great",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052315024787521566",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:04:12.977+09:00",
+      "timestampEdited": "2022-12-14T05:04:15.608+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also apparitions event normally doesn't even do that for you. it just adds cards to your deck. here you get these better cards AND remove your worst ones",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052315176218677300",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:04:49.081+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is the event necessary? i don't actually know - hexa usually doesn't have trouble blocking",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052316632845926430",
+      "type": "Default",
+      "timestamp": "2022-12-14T05:10:36.368+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've never even seen this event so I can't really say anything about it\ndeleting strikes and defends is probably good though",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052359950753611876",
+      "type": "Default",
+      "timestamp": "2022-12-14T08:02:44.162+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ludicrously broken event. Its one of the best events in the game, but made even better. You can get apparitions and remove all of your defends. The councils justice isnt something you want to take each time; but if you have 3/4 strikes left in your deck its worth taking just because they at least exhaust. Apparitions are pretty good on hexaghost too because it lets you stall and power up more ghostflames; also synergies with your existing intangible card really well.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052360349480927262",
+      "type": "Default",
+      "timestamp": "2022-12-14T08:04:19.226+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also thanks to blue key you can patch up your max HP consistently after getting apparitions event on any character which makes it better then it normally is (and its downright stupid for gremlns)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

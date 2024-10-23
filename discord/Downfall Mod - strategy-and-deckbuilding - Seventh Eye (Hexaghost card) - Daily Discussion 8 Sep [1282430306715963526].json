@@ -1,0 +1,726 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1282430306715963526",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Seventh Eye (Hexaghost card) - Daily Discussion 8 Sep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:21:53.7474569+09:00",
+  "messages": [
+    {
+      "id": "1282430308766978098",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:00:12.013+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282430309903892571",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:00:12.284+09:00",
+      "timestampEdited": "2024-09-10T05:00:19.983+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nXanatos' Icy Charm (Hexaghost relic): 6\nBottled Brain (Collector relic): 1\nTag Teamwork (Gremlins relic): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282430312382599250",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:00:12.875+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 657/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Seventh Eye",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aseventheye",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\n**Fetch** a card from your draw pile.\nSwitch to a random Ghostflame.\n**Exhaust**.",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Q6kLdpG1jBT_CpKm270g4VjfjTeqZofFv_ESk1pCRKk/https/slay.ocean.lol/downfall/cards/hexamod-seventheye.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Q6kLdpG1jBT_CpKm270g4VjfjTeqZofFv_ESk1pCRKk/https/slay.ocean.lol/downfall/cards/hexamod-seventheye.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282430467794014303",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:00:49.928+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Drunk Seek",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282430483010949182",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:00:53.556+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but also easier to find",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282430563503833100",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:01:12.747+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ruins your wheel so retract decks prefer this over wheel decks",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1282437031011811451",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:26:54.721+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "finally, seek is balanced",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282443618359185439",
+      "type": "Default",
+      "timestamp": "2024-09-09T05:53:05.267+09:00",
+      "timestampEdited": "2024-09-09T05:53:16.212+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "preupgraded is fine but usually hard to take unupgraded unless you have a crucial scaling in a big deck that you must find quick",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282476359695990876",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:03:11.41+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So does that switch happen after you fetch a card or before that? I'd assume it happens in the order that is written on the card which makes it substantially worse",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282476752756543611",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:04:45.123+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since you don't know the ghostflame you'll be switching onto and what type of card you'd need to activate it witch might influence what card you'd like to fetch, especially if you land on the bolstering gf",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478227981467731",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:10:36.844+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a very strange card. It's either the best card you can see, or really bad.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478314425942026",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:10:57.454+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you're running afterlife, you can use this to drag out your pivotal powers",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478534836748371",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:11:50.004+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "however, if you are running a deck that's already pretty consistent, this only really makes it worse unless you're taking a bright ritual or unlimited power from it, which negates the downside due to resetting the wheel",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478639866445965",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:12:15.045+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "taking one of those two is  an easy synergy",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478890392096810",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:13:14.775+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's worth noting that unlike <seek>, you can't grab two cards with it, so you can't create seventh eye chains like you can with multiple copies of seek+",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282478893261131858",
+      "type": "Reply",
+      "timestamp": "2024-09-09T08:13:15.459+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Seek",
+          "url": "https://slay-the-spire.fandom.com/wiki/Seek",
+          "timestamp": null,
+          "description": "Rare Skill / 0 :blue_energy: / The Defect / Slay the Spire\n\nPut 1 (2) card (cards) from your draw pile into your hand.\n**Exhaust**.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3GT4sCRoyxM1jOoRO6Wc8sZZ4lknUqwbtksWEHqvGcQ/https/slay.ocean.lol/slay%2520the%2520spire/cards/seek.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1282478890392096810",
+        "channelId": "1282430306715963526",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1282478956720816241",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:13:30.589+09:00",
+      "timestampEdited": "2024-09-09T08:51:04.343+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or like, the omni omni idea.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282479106084179988",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:14:06.2+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ofc, you really want the upgrade on this card, or its a hard sell",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282479517583147091",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:15:44.309+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its meant to be afterlife / retract support at the end of the day, but my favorite thing to do is bottle it, and it can perform great even  on wheel decks by grabbing a later picked up unlimited power for instant intensity, a time warp to instantly turn it on, etc",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282479665356734601",
+      "type": "Default",
+      "timestamp": "2024-09-09T08:16:19.541+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "note: the switching doesn't activate time warp, btw",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282502640072261633",
+      "type": "Default",
+      "timestamp": "2024-09-09T09:47:37.14+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seek is perhaps one of the strongest cards in the entire base game, especially considering it's upgrade. There is plenty of room for a card to be worse than it, but still quite powerful, and that's basically where seventh eye sits. It's also an uncommon of course, and so much easier to find, though not all decks can include it well. It can lead to a lot of unpredictability in trying to move along the wheel, but it gets your absolute best card for the situation out of your deck. That's often going to be a power or other scaling piece, sometimes it will be a critical frontloaded/mitigation/aoe card to answer a dangerous fight. Other times you can simply grab an afterlife card to get more output from a turn. Seventh eye is going to be as powerful as the toolbox you build around it, but the cost of switching to a random ghostflame is going to be well worth it when you can get a critical specter's wail+ to answer an AOE fight, that ghost shield to blur block over into a difficult next turn, that incorporeal to mitigate 40+ damage for the turn, or making sure you find your infernal form on turn 1 of a boss fight. Much easier to play in decks that aren't very focused on using the wheel, or that can retract/advance to position themselves more favorably. Costing 1 energy also hurts it, but if you are grabbing afterlife cards, you're often able to recoup some of the cost anyways, and you can also use it to grab opposing action+ to generate energy on a key turn if you need to. Upgrading seventh eye, or finding it pre-upgraded greatly increases it's power and utility, and even though it's single use, I would consider it a high priority upgrade, especially for decks that might want to tutor out unlimited power.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282504101938204673",
+      "type": "Default",
+      "timestamp": "2024-09-09T09:53:25.676+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You do have access to some pretty strong card draw options as hexaghost, which can often fulfill a similar role, but you don't really have any other ways to straight tutor up cards from your deck (you can pull from exhaust with nightmare vision). If you have the right toolbox, I think taking and upgrading one of these is a great way to smooth out variance with your deck. If it's absolutely critical that you move around the wheel clockwise and quickly, then you should likely avoid it, but in a lot of short and medium length fights, it won't be as important that you move towards the inferno ghostflames, and so the cost of moving to a random one isn't that steep. You usually don't want to take a card like this before your deck has a few really juicy targets to tutor for, so I usually wouldn't take it until act 2 when I hopefully have some key, often upgraded, cards to find.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282504416066539590",
+      "type": "Default",
+      "timestamp": "2024-09-09T09:54:40.57+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think that in hyper fast 20 card wheel decks this becomes a hinderance, but otherwise having an upgraded one is pretty good if you don't have acceleration",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1282505071376076812",
+      "type": "Reply",
+      "timestamp": "2024-09-09T09:57:16.808+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You pick the card first, then you switch to a random ghostflame as the effect resolves, so you have no idea where you'll end up until after you've taken the card. You can still prepare yourself somewhat by checking your hand first, and trying to pick a card that covers as many options as possible. If you have no powers in hand, you might speculatively take one to cover the possiblity of landing on the bolsetering ghostflame. If you have something like nightmare guise or nightmare strike in your deck, picking those ensures you can light the crushing/searing flames respectively. Usually though, most of the time, you just want to get as much raw power/scaling as you can, or to tutor out a specific answer to a difficult turn, regardless of where you might end up (specters' wail+, incorporeal, inferno form).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1282476359695990876",
+        "channelId": "1282430306715963526",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 24
+}

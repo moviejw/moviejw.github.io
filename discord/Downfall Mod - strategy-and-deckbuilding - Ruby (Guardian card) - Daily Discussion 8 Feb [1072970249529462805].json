@@ -1,0 +1,254 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1072970249529462805",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Ruby (Guardian card) - Daily Discussion 8 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:21:44.7512826+09:00",
+  "messages": [
+    {
+      "id": "1072970251249131531",
+      "type": "Default",
+      "timestamp": "2023-02-09T05:00:42.721+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1072970278600183818",
+      "type": "Default",
+      "timestamp": "2023-02-09T05:00:49.242+09:00",
+      "timestampEdited": "2023-02-10T05:01:14.234+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nStraight Razor (Hermit relic): 4\nMidnight (Hermit card): 3\nClean Code (Automaton card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1072970283054546954",
+      "type": "Default",
+      "timestamp": "2023-02-09T05:00:50.304+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 112/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A3984D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/3dsJLp2JDN44mZO4fXrZmVcSdbmsg9iHUpVGVFpDNCg/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-Ruby.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/3dsJLp2JDN44mZO4fXrZmVcSdbmsg9iHUpVGVFpDNCg/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-Ruby.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Ruby",
+          "url": "https://sts-downfall.fandom.com/wiki/Ruby?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 0 :e_guardian: / The Guardian / Downfall\n\n**Gem.**\nGain 2 temporary :p_temp: **Strength** :p_strength:.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3dsJLp2JDN44mZO4fXrZmVcSdbmsg9iHUpVGVFpDNCg/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-Ruby.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1072974335100334213",
+      "type": "Default",
+      "timestamp": "2023-02-09T05:16:56.387+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Flex** is a good card by itself, now make that a potential free upgrade.\n Of course the problem of some **Gems** is the fact that most cards with **Sockets** are 1-Cost, so you lose some flexibility, but attaching a card to another is worth these few points of damage.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1073004310796976169",
+      "type": "Default",
+      "timestamp": "2023-02-09T07:16:03.15+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So let's start with flex, which is very close to this card, basically exactly the same, but it's not a gem, it can be upgraded to 4 strength, and it's in the ironclads pool of course. Flex is generally awkward for ironclad in my experience, largely due to their lack of card draw, and tendency to play expensive cards that don't benefit as well from the effect. One very strong interaction is with artifact sources and orange pellets, which let you keep the strength, particularly relevant for ruby due to the debuff removal cards guardian has. Multi hit cards like sword boomerang or poly beam have a very strong interaction, letting you multiply the damage bonus significantly. Card draw makes flex much better, because it's more likely that you draw it with lots of cheap and multi hit attacks, and you reduce the potential impact of drawing it on a turn where you need to block or scale rather than deal damage. Runic pyramid in particular can make flex much better, letting you line it up for the correct turns, and helping negate the drawback of still being on 3 energy going into act 2 by having cards that can create output without costing energy. It's worth noting in particular that flex is very bad in act 1, being a pretty bad draw in the hard pool AOE fights, and very costly into gremlin nob as a skill. Once you start your second cycle through your deck in tri sentries, it's also very bad alongside the dazes, and can lead to taking unnecessary damage. It will also be a very awkward card if you see snecko eye from the act boss or if you are offered the 4th energy, at which point you want your average hand to have higher impact cards than flex, so that you can use all 4 energy as efficiently as possible, rather than playing strikes and defends. It can be an enabler for limit break, but you are generally hoping for something more consistent than that.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1073004878202421412",
+      "type": "Default",
+      "timestamp": "2023-02-09T07:18:18.43+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the best flex synergy is with corruption so you can exhaust the flexes you transformed into",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1073009411968225401",
+      "type": "Default",
+      "timestamp": "2023-02-09T07:36:19.364+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ruby has several key advantages, the biggest ones being the additional access to debuff removal in guardian, the additional card draw granted by stasis making it easier to draw ruby's effect on the right turn, and socketing allowing you to tuck the effect into more generally impactful cards to reduce the impact of drawing it on the wrong turn. A well set up stasis deck will often being drawing an extra 1-2 cards every turn, which greatly reduces the pressure on ruby to line it up well. Socketing it in also has the advantage of removing the \"Skill\" tag from the card, making it less dangerous into gremlin nob and the chosen, and helping you draw more impactful cards in a fight like tri-sentries. You get overload+, and resilient plate at uncommon, as well as onyx and ancient construct at rare to help hold onto the strength bonus, which is far more reliable than hoping for orange pellets (though that is insane with ruby as well). Guardian is pretty close to ironclad in terms of multi hit cards to benefit from the strength scaling, with floating orbs, multi-beam, poly beam, prismatic spray, bauble burst, and giga beam being particularly notable. In an ideal world, you are socketing this into a 0 cost non attack card, so you can get the most benefit from its effect, like planning or suspension. It can also be very strong on vent steam to further increase your damage for the turn. Pairs very nicely with onyx in a card with multiple sockets (make sure the order is ruby, then the onyx), particularly if you have access to reroute/recover to loop the scaling effect. It can often be worth keeping an onyx unsocketed for a while to try and get a ruby or emerald first (reasonably likely as they are both commons, gem finder can help too) so that the order is correct.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

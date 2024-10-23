@@ -1,0 +1,364 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1059561951182725191",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Grim Forge (Guardian event) - Daily Discussion 2 Jan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:25:20.5981302+09:00",
+  "messages": [
+    {
+      "id": "1059561952826904636",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:00:55.263+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059561959873314877",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:00:56.943+09:00",
+      "timestampEdited": "2023-01-04T05:00:32.361+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nTime Warp (Hexaghost card): 5\nWorthy Sacrifice (Hexaghost card): 2\nQuick Move (Snecko card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059561963178442835",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:00:57.731+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 75/781",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4F0202",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/m_qPVwA4LVDawnEE_UNKRUPVvcNaVhLETfBMfRv-JH4/https/oceanuwu.github.io/downfallbot/altered/img/events/grimforge.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/m_qPVwA4LVDawnEE_UNKRUPVvcNaVhLETfBMfRv-JH4/https/oceanuwu.github.io/downfallbot/altered/img/events/grimforge.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Grim Forge",
+          "url": "https://sts-downfall.fandom.com/wiki/Grim_Forge?embnum=0",
+          "timestamp": null,
+          "description": "Downfall event / Act ? / The Guardian\n```ansi\n\u001B[2;37m[Dismantle \u001B[0;2m(requires card with a gem installed.)\u001B[2;37m] \u001B[2;31mRemove \u001B[0;2mSocketed Card. Gain its \u001B[2;32mGems.\n``````ansi\n\u001B[2;37m[Pry \u001B[0;2m(requires card with a gem installed.)\u001B[2;37m] \u001B[2;31mDestroy \u001B[0;2mall \u001B[2;32mGems \u001B[0;2min a Socketed Card.\n``````ansi\n\u001B[2;37m[Transmute\u001B[2;37m] \u001B[2;31mRemove \u001B[0;2ma Card. Gain a random \u001B[2;32mGem.\n``````ansi\n\u001B[2;37m[Enhance \u001B[0;2m(requires a gem and an open socket.)\u001B[2;37m] Add a \u001B[2;32mGem \u001B[0;2mto a \u001B[2;32mSocket.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#4F0202",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/m_qPVwA4LVDawnEE_UNKRUPVvcNaVhLETfBMfRv-JH4/https/oceanuwu.github.io/downfallbot/altered/img/events/grimforge.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059562577094512700",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:03:24.1+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i like this event a lot",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059562606358167592",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:03:31.077+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "because it's a free removal + gem",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059562636867547208",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:03:38.351+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and a free socketing opportunity",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059565865739231262",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:16:28.174+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a really good event",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059565921196314694",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:16:41.396+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One that almost always feels rewarding",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059566482989793310",
+      "type": "Default",
+      "timestamp": "2023-01-03T05:18:55.338+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I seldom use dismantle and Pry but they have their use so I feel like they shouldn't be charged in any way",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059708750665101382",
+      "type": "Default",
+      "timestamp": "2023-01-03T14:44:14.595+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is an extremely valuable event, and one that I have run into fairly often in my guardian runs (probably because you can find it in all 3 acts). Critically, you can do as many or as few of the options here as you want, and transmute and enhance are both excellent to start with. A free card remove is great, and getting a random gem alongside it, as well as the opportunity to socket a gem outside of a campfire can really give you a powerspike. Many of the damage commons for guardian have sockets in them, which makes dismantle a really nice option if you encounter this in late act 2 or anytime in act 3 to remove one of the damage commons from your deck that you needed to get through act 1, but are no longer necessary as the game becomes more about scaling. If you encounter this during those later stages, this is 2 card removes, a free gem, and a free socket opportunity, which is insane for 1 floor. Pry doesn't come up very much, but that's fine since the other 3 are all so good, and when pry is good, it can be very good. Usually this would involve resetting a card like bauble burst, exploit gems, prismatic spray, or prismatic shield when you have access to unsocketed ruby/emerald/onyx, or just multiple copies of quartz and citrine that you can loop with recover if they are all together in one card.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059710517310128248",
+      "type": "Default",
+      "timestamp": "2023-01-03T14:51:15.796+09:00",
+      "timestampEdited": "2023-01-03T14:51:48.125+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From a balance perspective, I can think of almost no events in the base game that are this strong, usually you get access to 1 remove, or 1 upgrade, with stuff like living wall or bonfire spirits. Maybe an early enough golden idol event comes close in power?  Ancient writing of course is one of the best events in the game (upgrade all basics), cursed tome and council of ghosts can be run defining, but involve substantial risk, while grim forge is all upside. I think this event would be better balanced if the options either cost some amount of health or you were limited to taking no more than 2 options. I don't think there is any precedent for 2 free card removes in one event, and this does a lot more than that",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

@@ -1,0 +1,744 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1053401284427907152",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Rain of Goop (Slime Boss card) - Daily Discussion 16 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:17:19.9908952+09:00",
+  "messages": [
+    {
+      "id": "1053401287355543602",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:00:38.155+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401295333101649",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:00:40.057+09:00",
+      "timestampEdited": "2022-12-18T05:01:03.033+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nVexing Draught (potion): 5\nGoop Dweller (Slime Boss relic): 0\nManifest (Hermit card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401301070917652",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:00:41.425+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#006B0C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/EgwuQKEIxY-ogB2KbJdqR9q92L5TGq88mUtjSDOgdck/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-RainofGoop.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/EgwuQKEIxY-ogB2KbJdqR9q92L5TGq88mUtjSDOgdck/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-RainofGoop.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Rain of Goop",
+          "url": "https://sts-downfall.fandom.com/wiki/Rain_of_Goop?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_slime: / The Slime Boss\n\nApply 3 **Goop:p_goop:** to a random enemy 4 (6) times.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/EgwuQKEIxY-ogB2KbJdqR9q92L5TGq88mUtjSDOgdck/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-RainofGoop.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401766596714626",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:02:32.415+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what else is there to say besides \"it's a good card\" and \"it's getting a nerf\"",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401848205295666",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:02:51.872+09:00",
+      "timestampEdited": "2022-12-17T05:02:58.666+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<d~effects that apply goop apply 2 more>",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401850558287944",
+      "type": "Reply",
+      "timestamp": "2022-12-17T05:02:52.433+09:00",
+      "timestampEdited": "2022-12-17T05:02:59.586+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://sts-downfall.fandom.com/wiki/Spreading_Slime?embnum=0?embnum=0",
+          "timestamp": null,
+          "description": "__**Spreading Slime**__: Effects that apply **Goop:p_goop:** apply 2 (3) more.",
+          "color": "#006B0C",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1053401848205295666",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1053401862461739170",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:02:55.271+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it has really good synergy with sadistic nature",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401864676311100",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:02:55.799+09:00",
+      "timestampEdited": "2022-12-17T05:03:59.914+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty strong since it’s 12(18) damage in a 1 cost and strips artifact efficiently",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053401968774742077",
+      "type": "Reply",
+      "timestamp": "2022-12-17T05:03:20.618+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its 42 dmg with upgraded sadistic nature and upgraded rain",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1053401862461739170",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1053402085015691324",
+      "type": "Default",
+      "timestamp": "2022-12-17T05:03:48.332+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spreading goop doubles its output",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053429336025346118",
+      "type": "Default",
+      "timestamp": "2022-12-17T06:52:05.479+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Extremely solid source of damage in single enemy fights, far less reliable in AOE fights, but even in those you can focus down the other enemies before playing rain of goop. This card is just very efficient, and is extremely strong with spreading slime, takes away artifact charges, and can be really helpful in bursting down enemies. Really effective tool for enabling all the consume cards as well, I think that the potential downside of the random application just doesn't matter enough to stop it being incredibly powerful",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1053455554137301062",
+      "type": "Reply",
+      "timestamp": "2022-12-17T08:36:16.364+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Slime boss with sadistic nature is just op.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1053401862461739170",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1053455703672619039",
+      "type": "Reply",
+      "timestamp": "2022-12-17T08:36:52.016+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I honestly like it more in aoe fights, makes it easier to get as much heals from <heart of goo> as possible",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1053429336025346118",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1053455705916571769",
+      "type": "Reply",
+      "timestamp": "2022-12-17T08:36:52.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heart of Goo",
+          "url": "https://sts-downfall.fandom.com/wiki/Heart_of_Goo?embnum=0",
+          "timestamp": null,
+          "description": "Starter Relic / The Slime Boss\n\nWhenever you **Consume,** heal 2 HP, up to 8 each combat.\n*I feel so funky.*",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FbQYApU3K6uXYM349vmcJ3n_swi__R8fDqEpuOxxzUU/https/sts-downfall.fandom.com/wiki/Special%3AFilepath/Heart_of_Goo.png",
+            "width": 146,
+            "height": 160
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1053455703672619039",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1053455791174205473",
+      "type": "Default",
+      "timestamp": "2022-12-17T08:37:12.878+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and spreading the goop allows you to get mass feed off earlier.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089341656442097776",
+      "type": "Default",
+      "timestamp": "2023-03-26T09:14:49.885+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Rain of Goop> nerfed: 3 goop 4 (6) times > 4 goop 3 (4) times",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089341662439948398",
+      "type": "Reply",
+      "timestamp": "2023-03-26T09:14:51.315+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rain of Goop",
+          "url": "https://sts-downfall.fandom.com/wiki/Rain_of_Goop?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_slime: / The Slime Boss / Downfall\n\nApply 4 **Goop** :p_goop: to a random enemy 3 (4) times.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mLfsp4vKJadC6AdOIV3q0-VT6BJrXtpgFESUYpxI8o0/https/oceanuwu.github.io/slaytabase/Downfall/cards/Slimebound-RainofGoop.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089341656442097776",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1089341689803579532",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2023-03-26T09:14:57.839+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089341662439948398",
+        "channelId": "1053401284427907152",
+        "guildId": null
+      }
+    },
+    {
+      "id": "1089353389399355432",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:01:27.24+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haven't played it yet, but looking at it I don't think it was nerfed hard enough",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089361169640325241",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:32:22.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The change reduced the amount of times it is applied, which means that the Goop should be applied to less enemies in AoE fights, which is practically nonexistent nerf, as well as reducing the synergy with **<Spreading Slime>** which was what usually made this card absurd.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089361173528449215",
+      "type": "Reply",
+      "timestamp": "2023-03-26T10:32:23.121+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spreading Slime",
+          "url": "https://sts-downfall.fandom.com/wiki/Spreading_Slime?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 :e_slime: / The Slime Boss / Downfall\n\nEffects that apply **Goop** :p_goop: apply 2 (3) more.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BxbkRXvWVT2RjYnvzPO2BcVT8OMYW71jHsH2n6pTz8E/https/oceanuwu.github.io/slaytabase/Downfall/cards/Slimebound-SpreadingSlime.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1089361169640325241",
+        "channelId": "1053401284427907152",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1089367045780549673",
+      "type": "Default",
+      "timestamp": "2023-03-26T10:55:43.175+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk, the fact that it was a total of 18 goop was definitely a part of that",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

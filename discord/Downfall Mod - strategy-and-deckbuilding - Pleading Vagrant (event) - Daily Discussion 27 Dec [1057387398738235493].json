@@ -1,0 +1,671 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1057387398738235493",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Pleading Vagrant (event) - Daily Discussion 27 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:25:41.6804885+09:00",
+  "messages": [
+    {
+      "id": "1057387400806015048",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:00:01.66+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057387415477694575",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:00:05.158+09:00",
+      "timestampEdited": "2022-12-29T05:00:25.476+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nPrepare Crush (Boss card): 0\nSlither Strike (Snecko card): 1\nSentient Form (Automaton card): 7",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057387420229849200",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:00:06.291+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 69/781",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4F0202",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/n7KQv341gyuhsqYRSDmahGRYnbAP6QIwxQt-45IUDbU/https/oceanuwu.github.io/downfallbot/altered/img/events/pleadingvagrant.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/n7KQv341gyuhsqYRSDmahGRYnbAP6QIwxQt-45IUDbU/https/oceanuwu.github.io/downfallbot/altered/img/events/pleadingvagrant.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Pleading Vagrant",
+          "url": "https://sts-downfall.fandom.com/wiki/Pleading_Vagrant?embnum=0",
+          "timestamp": null,
+          "description": "Downfall event / Act ? / All\n```ansi\n\u001B[2;37m[Punch\u001B[2;37m] \u001B[2;32mGain 85 Souls. \u001B[2;31mLose 11 \u001B[2;34m(16) \u001B[2;31mHP.\n``````ansi\n\u001B[2;37m[Rob\u001B[2;37m] \u001B[2;32mObtain a Relic. \u001B[2;31mBecome Cursed - Pride.\n```",
+          "color": "#4F0202",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n7KQv341gyuhsqYRSDmahGRYnbAP6QIwxQt-45IUDbU/https/oceanuwu.github.io/downfallbot/altered/img/events/pleadingvagrant.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057388992380809357",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:06:21.121+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The one downfall event that feels worse than the base one",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057390247928926350",
+      "type": "Reply",
+      "timestamp": "2022-12-28T05:11:20.467+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what does base one do?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1057388992380809357",
+        "channelId": "1057387398738235493",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1057392256543367188",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:19:19.358+09:00",
+      "timestampEdited": "2022-12-28T05:19:46.966+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<pleading vagrant standard event>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057392258447577238",
+      "type": "Reply",
+      "timestamp": "2022-12-28T05:19:19.812+09:00",
+      "timestampEdited": "2022-12-28T05:19:47.963+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pleading Vagrant",
+          "url": "https://slay-the-spire.fandom.com/wiki/Pleading_Vagrant?embnum=0",
+          "timestamp": null,
+          "description": "Standard event / Act 2 / All\n```ansi\n\u001B[2;37m[Offer Gold \u001B[0;2m(requires 85 gold)\u001B[2;37m] \u001B[2;33m85 Gold: \u001B[2;32mObtain a Relic.\n``````ansi\n\u001B[2;37m[Rob\u001B[2;37m] \u001B[2;32mObtain a Relic. \u001B[2;31mBecome Cursed - Shame.\n``````ansi\n\u001B[2;37m[Leave \u001B[0;2m()\u001B[2;37m] \n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n7KQv341gyuhsqYRSDmahGRYnbAP6QIwxQt-45IUDbU/https/oceanuwu.github.io/downfallbot/altered/img/events/pleadingvagrant.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1057392256543367188",
+        "channelId": "1057387398738235493",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1057392710023127170",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:21:07.476+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "85 gold for a relic for base game, or 11(16) damage for 85 souls in downfall.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057392839455158303",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:21:38.335+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then obtain a relic for shame on basegame, and pride on downfall.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057392984473219092",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:22:12.91+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And base game has a leave option. Downfall you will either take a decent amount of damage, or get cursed.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057394662551339099",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:28:52.995+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's just bad in general",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057394803307978752",
+      "type": "Default",
+      "timestamp": "2022-12-28T05:29:26.554+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would be better on curse hermit but it's a downfall event",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057403393699762177",
+      "type": "Default",
+      "timestamp": "2022-12-28T06:03:34.663+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A rare time where being nice to someone is the optimal choice",
+      "author": {
+        "id": "710803246519943169",
+        "name": "thelethargicweirdo",
+        "discriminator": "0000",
+        "nickname": "TheLethargicWeirdo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710803246519943169/3a777a896fff3af2a31bce8cc2e0302f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057416738268000366",
+      "type": "Default",
+      "timestamp": "2022-12-28T06:56:36.256+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Remember kids: crime does pay but only 85 gold per 11-16hp",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057417339882188870",
+      "type": "Reply",
+      "timestamp": "2022-12-28T06:58:59.692+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats a ratio of 1  gold per 0.12941176470588 health points if we go with 11",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1057416738268000366",
+        "channelId": "1057387398738235493",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1057417389379166209",
+      "type": "Default",
+      "timestamp": "2022-12-28T06:59:11.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<sb we meet again=Remember kids:=we meet again=crime does pay=we meet again=but only 85 gold per 11-16hp>",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057417398245916732",
+      "type": "Reply",
+      "timestamp": "2022-12-28T06:59:13.607+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1057387398738235493/1057417398317232188/export6660361196462301.gif?ex=6718c8f1&is=67177771&hm=8dc579df1cb57ef430bd2884c2ce62cd6b093ee4d885ee66b9d1f3e12680b614&",
+            "width": 600,
+            "height": 200
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1057387398738235493/1057417398317232188/export6660361196462301.gif?ex=6718c8f1&is=67177771&hm=8dc579df1cb57ef430bd2884c2ce62cd6b093ee4d885ee66b9d1f3e12680b614&",
+              "width": 600,
+              "height": 200
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1057417389379166209",
+        "channelId": "1057387398738235493",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1057417475404345505",
+      "type": "Default",
+      "timestamp": "2022-12-28T06:59:32.003+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<megamind no gold>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057417481104392242",
+      "type": "Reply",
+      "timestamp": "2022-12-28T06:59:33.362+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1057387398738235493/1057417481167323176/export6403876487846756.gif?ex=6718c905&is=67177785&hm=85ddefca40c7f2e78b87cbfac3f8189f50f63db171a19e4402f525017f7ca56c&",
+            "width": 640,
+            "height": 640
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1057387398738235493/1057417481167323176/export6403876487846756.gif?ex=6718c905&is=67177785&hm=85ddefca40c7f2e78b87cbfac3f8189f50f63db171a19e4402f525017f7ca56c&",
+              "width": 640,
+              "height": 640
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1057417475404345505",
+        "channelId": "1057387398738235493",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 19
+}

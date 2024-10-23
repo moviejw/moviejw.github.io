@@ -1,0 +1,1035 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1080580249403785357",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Delayed Guard (Automaton card) - Daily Discussion 1 Mar",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:19:44.6332951+09:00",
+  "messages": [
+    {
+      "id": "1080580251102490736",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:00:08.073+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080580285541908612",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:00:16.284+09:00",
+      "timestampEdited": "2023-03-03T05:00:43.554+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nGarnet (Guardian card): 2\nConga Line (Gremlins card): 4\nImprovising (Champ card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080580294089920624",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:00:18.322+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 133/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFEF87",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/M-Ux80V-acX9aiOPhkr0VdiY4WWOScAY8eaZt5crrMU/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-DelayedGuard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/M-Ux80V-acX9aiOPhkr0VdiY4WWOScAY8eaZt5crrMU/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-DelayedGuard.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Delayed Guard",
+          "url": "https://sts-downfall.fandom.com/wiki/Delayed_Guard?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 0 :e_automaton: / The Automaton / Downfall\n\nNext turn, gain 7 (10) **Block** :p_block:.\n**Encode.**",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M-Ux80V-acX9aiOPhkr0VdiY4WWOScAY8eaZt5crrMU/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-DelayedGuard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080580893200097310",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:02:41.161+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<defend> but its 30 minutes late",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "⏰",
+            "code": "alarm_clock",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/23f0.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "106068236000329728",
+              "name": "oceanuwu",
+              "discriminator": "0000",
+              "nickname": "ocean",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1080580895720882296",
+      "type": "Reply",
+      "timestamp": "2023-03-02T05:02:41.762+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Defend",
+          "url": "https://sts-downfall.fandom.com/wiki/Defend?embnum=0",
+          "timestamp": null,
+          "description": "Basic Skill / 1 :e_hexa: / The Hexaghost / Downfall\n\nGain 5 (8) **Block** :p_block:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YCfTsxgnc7NUkkh88nYowPgYdRig7_x3WzASrVVc8Zk/https/oceanuwu.github.io/slaytabase/Downfall/cards/Hexa_ghost-Defend.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1080580893200097310",
+        "channelId": "1080580249403785357",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1080580950653665362",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:02:54.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dont think i'll ever be in a position where I want this card. Too inconsistent with attack patters and enemies, wastes an encode spot, not great with fine tuning or sentient form, just all around not great",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080581013014577223",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:03:09.727+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe good with frozen eye, but i couldnt even advocate for it then",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080581038432059515",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:03:15.787+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i like using it",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080581097034883132",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:03:29.759+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "since often i go for dumping  a shit ton of functions with bronze orb",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080581561944121386",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:05:20.602+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not much difference if you have stonks blur from <blockchain>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080581565119205537",
+      "type": "Reply",
+      "timestamp": "2023-03-02T05:05:21.359+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Blockchain",
+          "url": "https://sts-downfall.fandom.com/wiki/Blockchain?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_automaton: / The Automaton / Downfall\n\nGain 1 **Blur** :p_blur:.\n**Encode.** ( **Compile** - Gain 1 **Blur** :p_blur:. )",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3wFK3aPB72pAEwRLiX1I1DagPfwfVv-hSGUBUSHVM5s/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Blockchain.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1080581561944121386",
+        "channelId": "1080580249403785357",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1080581972528726127",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:06:58.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if your strategy is random functions go & you have blockchain this can be a good pick",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080583241792233734",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:12:01.109+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm, im just not a fan of block/blur spamming on Auto, i prefer the more intellectual Encoding cards yk",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080583983198380133",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:14:57.874+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the unga bunga encoding :sencheese:",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080584074671951942",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:15:19.683+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "put your doubts away and believe in the blockchain",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080584127146893403",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:15:32.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmmmm",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080584149586432162",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:15:37.544+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080584252296548442",
+      "type": "Default",
+      "timestamp": "2023-03-02T05:16:02.032+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or i could just use 8 copies of Spaghetti code and win",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080601779974193262",
+      "type": "Default",
+      "timestamp": "2023-03-02T06:25:40.956+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i took this card once and hated it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080645537155530812",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:19:33.481+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's one of few pure block cards that are a good pick in act one",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080646478277652560",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:23:17.862+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can use it effectively on the first round of gremlinnob fight, giving you one big chunk of block on turn two or smaller ones on second and third turns, it gives you safety net on the turn after waking up the Lagavulin, it helps you block on the second turn of the sentry fight so you can use up all of your energy on dealing damage to one of them",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080646555993907330",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:23:36.391+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's also useful for the act one boss fights",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080646973167767612",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:25:15.853+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of the time act 1 fights have fixed patterns and your deck is still pretty small so delayed gaurd is a perfect pick for that",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080647274029396039",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:26:27.584+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If falls off in act two where a lot of times you need a lot of block immediately but it's still a 0 cost filler card that lets you compail functions more easily",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080647717895815230",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:28:13.41+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Overall I quite like it especially because of it cost, allowing you to make a function form scratch and play it in the same turn at the base energy level without the help of the starting relic (and without drowning your deck with bad cards like replicate does)",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080652354308808705",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:46:38.817+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Many of the silent cards that are delayed by a turn suffer from the fact that next turn can be a very long time away, especially when you are being attacked now for 20+ damage. Taking that kind of chip damage in hallway/elite fights is an easy way to lose a run, as those cards are effectively curses on the turn you draw them, and even if their effect is strong, you are paying a huge cost to get access to it next turn. Dodge and Roll works pretty well because it at least has some impact this turn, and scales twice with dexterity, flying knee is pretty functional as an act 1 damage card with a small upside, but is not exciting by any means. Outmaneuver tends to be atrocious, and really needs help from something like runic pyramid, well laid plans, or very good X cost cards like malaise to make it remotely viable. Predator is a very strong act 1 damage card, and even plays well with snecko eye, but that's more because of the high damage output on a character that struggles to turn energy into damage in the early game. The delayed card draw is a welcome bonus, but not really the reason you pick predator on silent. Doppleganger can be very strong with a chem X, but it can feel like a curse until you get it upgraded, and even then it is often too slow at its job, and costs you chip damage. Nightmare can be run winning in boss fights with the right cards to copy, but will often cost you health in hallway fights. Phantasmal Killer is in a very weird spot where it can be a reasonable way to close fights out quicker, but it also desperately needs an upgrade, and even then will cost you in the short term of the fight.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080652979138461706",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:49:07.788+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The main point I am trying to make here is that delayed cards have an inherent element of risk and reward to them. They are effectively curses/weak cards on the turn that you draw them, and then give you some kind of advantage next turn as a reward. They all benefit significantly from runic pyramid/well laid plans/card manipulation that can help line them up. They can also benefit from the boat relics (anchor, horn clean, captain's wheel), which can help cover their downside during those early turns.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080655111455514664",
+      "type": "Default",
+      "timestamp": "2023-03-02T09:57:36.172+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just don't think the reward is worth the risk for delayed guard. The upside is that I can get a small amount of block next turn? I suppose it can help complete a sequence cheaply and let you cast it on the same turn, getting some frontloading that way, but then you have a sequence where 1/3rd of it is a really weak card, and you could have achieved frontloading just as easily by putting a better card in your deck than this. Most of the time in slay the spire, you need to block now, before you take that 20+ damage, because your health carries over between fights. Putting delayed guard into your deck largely feels like adding a curse to me, on the same level as outmaneuver. You don't even get anywhere near as as strong of a payout, because outmaneuver can at least be very strong with malaise and some card spam strategies when you get pyramid/well laid plans. Automaton doesn't have very much card manipulation, and pretty much only has access to runic pyramid to try and line this effect up, making it even worse than silent's package of delayed cards. This is one of the few cards for automaton that I think is close to unpickable because of how bad the risk/reward is.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080730476563677184",
+      "type": "Default",
+      "timestamp": "2023-03-02T14:57:04.614+09:00",
+      "timestampEdited": "2023-03-02T14:58:28.002+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, some of the **Encode** cards Auto has access to it was designed to support decks that focus around certain cost, and this card was a way for the 0-Cost Function decks to gain **Block**, but after few reworks these niches stopped existing, so the cards that only existed to fill them become obsolete, and now are dead cards for most of the Auto runs.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080916347988492389",
+      "type": "Default",
+      "timestamp": "2023-03-03T03:15:39.815+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is the worst encode card, but its still an encode card so its decent by default. Automation has a lot of card draw and this 0 cost encode can be used to create functions more quickly which is always good because pretty much every possible function is sustainably better then any normal 1 cost card. Often you can rely on Block chain to create whats effectively a free barricade which makes the delayed block on this card much better when you can keep it for when its needed; 7 block for zero is pretty huge as well.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080916788524634212",
+      "type": "Default",
+      "timestamp": "2023-03-03T03:17:24.847+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unfortunately for this cards viability, <safeguard> exists and its one of the automations single best cards; since its super reliable. More often then not your taking safeguard (or branch) instead of this.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080916791775207615",
+      "type": "Reply",
+      "timestamp": "2023-03-03T03:17:25.622+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Safeguard",
+          "url": "https://sts-downfall.fandom.com/wiki/Safeguard?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 1 :e_automaton: / The Automaton / Downfall\n\nGain 7 (9) **Block** :p_block:.\n**Encode.**",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/U5mZyzHwROGatzCaQa9hhMRf_OKXm5tVSmn60pZ2D30/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Safeguard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1080916788524634212",
+        "channelId": "1080580249403785357",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1080957432496390167",
+      "type": "Default",
+      "timestamp": "2023-03-03T05:58:55.125+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Automaton has a lot of card draw? I feel like they have very little compared to other classes",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080970459769737286",
+      "type": "Default",
+      "timestamp": "2023-03-03T06:50:41.069+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "goto in the starting deck gives a lot of draw and automation is good at thining the deck down. Plus with scaling goto can give you a full hand each time you play it. You also have bug barrage, an incredible attack that also draws cards and max output for passive draw in addition to giving you 3 right way. Theres a lot of ways to duplicate and reuse goto in the card pool as well. When you put it all together automation has a lot more card draw and manipulation then most of the downfall bosses do.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080970677860966460",
+      "type": "Default",
+      "timestamp": "2023-03-03T06:51:33.066+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh and dev tools, don't forget about that monster of a card",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 35
+}

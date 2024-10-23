@@ -1,0 +1,5899 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1125154143036784671",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Brew of Sharpness (potion) - Daily Discussion 2 Jul",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:04:40.9926209+09:00",
+  "messages": [
+    {
+      "id": "1125154144152457246",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:00:52.319+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154145830187129",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:00:52.719+09:00",
+      "timestampEdited": "2023-07-04T05:00:28.578+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nPretaliation (Gremlins card): 2\nIron Fortress (Champ card): 6\nTriple Strike (Champ card): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154147457581176",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:00:53.107+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 256/783",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Brew of Sharpness",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Potion / All / Downfall\n\nGain 25 Counter.",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/8YWDqCX9SWnv-2iSt_uoL3wpxxuXvwcskdoC8jrjiR0/https/slay.ocean.lol/downfall/potions/champ-counterpotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/8YWDqCX9SWnv-2iSt_uoL3wpxxuXvwcskdoC8jrjiR0/https/slay.ocean.lol/downfall/potions/champ-counterpotion.png",
+              "width": 64,
+              "height": 64
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154158408900699",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:00:55.718+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Brew of sharpness is a common potion meant to deal damage. It is most often compared to fire potion and molotov, as they are the other single target high damage potions. Whereas fire potion is instantaneous, and molotov takes 3 turns, this is the middle ground, taking only 1 turn of damage to activate. There are great ways to mitigate this downside, mostly through having a highly defensive oriented deck, so characters like guardian and hexa's <ghost shield> help immensley with it. It's biggest weakness is that it doesn't prevent damage from happening immediately like a fire potion can, and it is also harder to control who it targets for aoe fights",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154186212945970",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:01:02.347+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ghost Shield",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ethereal**. **Afterlife.**\nGain 7 (10) **Block** :p_block:.\nWhen **Exhaust**ed,\ngain 1 **Blur** :p_blur:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LNkS0FekMoxs3-85lp8eKLS-hU047dLQWd6X5ZMej6w/https/slay.ocean.lol/downfall/cards/hexamod-ghostshield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125154158408900699",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125154199097835520",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:01:05.419+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dear lord",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154237760946309",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:01:14.637+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had a paragraph ready",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154245637853365",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:01:16.515+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks I hate it",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154446557589615",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:02:04.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no problem",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125154245637853365",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125154663285669900",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:02:56.09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I remember you mentioning speedrunning mentioning the banned card in a daily discussion, so I decided to get WR",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154665638658058",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:02:56.651+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There is a ghost shield among us",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154666938904657",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:02:56.961+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think it's more correct to say fire potion activates turn 0, sharpness turn 1, and molotov turn 2",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125154712598093894",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:03:07.847+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A winner is you!",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125154663285669900",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125154840549543957",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:03:38.353+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "close enough, I had to type all of that in mere minutes so it would be ready to send immediately",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125154666938904657",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125154985169129523",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:12.833+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/kermit-typing-essay-school-smart-gif-4851885",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/kermit-typing-essay-school-smart-gif-4851885",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8asUv0yNH0zyzRb-GoS5U2w-NuNEE6AHmsJ9EN2yjVo/https/media.tenor.com/XgaU95K_XiwAAAAD/kermit-typing.png",
+            "width": 500,
+            "height": 280
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/YtxPHbu8vVdPISSGe0zVP8JSqZIGkFqHtdXPo82fgYk/https/media.tenor.com/XgaU95K_XiwAAAPo/kermit-typing.mp4",
+            "width": 500,
+            "height": 280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155008049062018",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:18.288+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This potion is wack, its non-targetable and unlike <fire potion> does not occur before you get hit (which is one of the main times you ***want*** a potion)",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155018031505458",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:04:20.668+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fire Potion",
+          "url": "https://slay-the-spire.fandom.com/wiki/Potions",
+          "timestamp": null,
+          "description": "Common Potion / All / Slay the Spire\n\nDeal 20 damage.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xZZVj6WqIFj-PvJckA5GN1aIVrFnVmsCnKyNxV3bNSg/https/slay.ocean.lol/slay%2520the%2520spire/potions/firepotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155008049062018",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155053825695916",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:29.202+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fr probably the worst among the damage common potions",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155056023507086",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:29.726+09:00",
+      "timestampEdited": "2023-07-03T05:04:41.053+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I could definetly see it going from 25 -> 28/30",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155083609440336",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:36.303+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155114508890242",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:43.67+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the more i see and use this potion the more i wish that \"fire potion but delayed\" didn't exist",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "550709709972176899",
+              "name": "sam.ll",
+              "discriminator": "0000",
+              "nickname": "SamLL",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1125155116060782602",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:44.04+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "at least Molotov has synergies",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155157383065631",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:53.892+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The only synergy this has is <pre-emptive strike>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155170347663471",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:04:56.983+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Molotov>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155175955435700",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:04:58.32+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Preemptive Strike",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 (0) :energy_champ: / The Champ / Downfall\n\nDeal damage equal to your **Counter** :p_counter: to ALL enemies.\nLose half of your **Counter** :p_counter:.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wppZXDsPMgVGoTKj7WpRKf6RXa2YWfIFjFnvTacoi30/https/slay.ocean.lol/downfall/cards/champ-preemptivestrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155157383065631",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155178228756541",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:04:58.862+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Molotov",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Potion / All / Downfall\n\nApply 30 Soulburn.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/y4V2I9ZP9YL4qb2b8fWiqvjkwSkNXVJ7phtVVHtiAcY/https/slay.ocean.lol/downfall/potions/hexamod-soulburnpotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155170347663471",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155188689358978",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:01.356+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which is nice?\nI guess?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155203646247023",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:04.922+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wow moltov is ass",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155216136880198",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:07.9+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC80",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155251780071444",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:16.398+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How is that worse than both of these",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155256901304390",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:17.619+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "molotov: remove one artifact from spear or shield",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155302191419473",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:28.417+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<heat shield> lets you turn it into more than 2 block potions?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155310491942973",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:05:30.396+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heat Shield",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\nGain **Block** :p_block: equal to Soulburn on ALL enemies, then remove Soulburn.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/67CVYGzyy9WQ_TYXNAHW6q7DRYTAYBebrjQN_jHN2Ac/https/slay.ocean.lol/downfall/cards/hexamod-heatshield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155302191419473",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155321132884009",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:32.933+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yay?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155350782419126",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:40.002+09:00",
+      "timestampEdited": "2023-07-03T05:05:49.171+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it synergizes with other soulburn",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155364522971277",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:43.278+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "less of a countdown",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155382046761012",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:47.456+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in that case it should be character locked to hexa",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155404268187708",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:52.754+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155430834917436",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:05:59.088+09:00",
+      "timestampEdited": "2023-07-03T05:06:02.768+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "otherwise idk, 35/38/40",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155458873819136",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:05.773+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "at least soulburn will get a rework eventually",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155483616034856",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:11.672+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "molotov is just 1 turn slower, which if you aren't getting immediate damage then the difference between 1 or 2 turns isn't that important. Molotov also allows you to choose the target.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155565191057488",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:31.121+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "every turn you have to wait is another turn you have to anticipate earlier in the fight",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155606039371806",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:40.86+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "0 > 1 is a huge leap but yeah 1 > 2 isn't so bad",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155619100426290",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:43.974+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah but like compare <the bomb> and <immolate> as an extreme example",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155629716213890",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:46.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still bad, just not as much",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155633021329408",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:06:47.293+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Bomb",
+          "url": "https://slay-the-spire.fandom.com/wiki/The_Bomb",
+          "timestamp": null,
+          "description": "Rare Skill / 2 :colorless_energy: / Colorless / Slay the Spire\n\nAt the end of 3 turns, deal 40 (50) damage to ALL enemies.",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2FgNhmD_LBnFreOidMw7z0U9LMeJFLME5dggg6umiRI/https/slay.ocean.lol/slay%2520the%2520spire/cards/thebomb.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Immolate",
+          "url": "https://slay-the-spire.fandom.com/wiki/Immolate",
+          "timestamp": null,
+          "description": "Rare Attack / 2 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 21 (28) damage to ALL enemies.\nAdd a Burn into your discard pile.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QgtyATfuG9O9YljSDkxIHqK_O8W6t0NuBuK4YGI4zxs/https/slay.ocean.lol/slay%2520the%2520spire/cards/immolate.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155619100426290",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155678370144336",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:58.105+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the bomb would be so much better with -1 countdown...",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155679133515796",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:06:58.287+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes but the difference between 1 to 2 isn't nearly as detrimental as the difference between 0 to 1",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155747580354580",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:07:14.606+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<soulburn>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155754450620518",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:07:16.244+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Soulburn",
+          "url": null,
+          "timestamp": null,
+          "description": "Keyword / Downfall\n\nAfter 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155747580354580",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125155794770481162",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:07:25.857+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it and \uD83D\uDCA3 are the same speed",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155873409482873",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:07:44.606+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "at least you're playing a character based around this and can consistently apply soulburn turn 1",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155904069832846",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:07:51.916+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so you can learn how to use it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155945899642991",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:01.889+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "double~ for this delay seems appropriate, so molotov prolly `40`",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125155984906657944",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:11.189+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I do think that molotov should be a hexa exclusive potion",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156046785228890",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:25.942+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but if it is changed, then should <red candle> also be changed??",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156054385316001",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:27.754+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Could have a nice 20 (fire pot), 30 (Sharpness), 40 (Molotov) chain",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156056008507422",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:08:28.141+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Red Candle",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Relic / All / Downfall\n\nWhenever an Attack deals unblocked damage, apply 2 **Soulburn** :p_soulburn:.\n*Fire BURNS...*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KHNvXplqa6W_f5PG9fkjs-qAHSjCmkiSmBUI5rkW_Ik/https/slay.ocean.lol/downfall/relics/candleofcauterizing.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125156046785228890",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156109859172533",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:40.98+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "red candle is cool tho",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156137382182984",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:08:47.542+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or yeah alternatively just make molotov classlocked",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156139160572024",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:08:47.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gladiator form",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125155157383065631",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156256957603881",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:09:16.051+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like a weird 2 delayed strength that can also chew through artifact",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125156109859172533",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156328365641728",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:09:33.076+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156351614664806",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:09:38.619+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "red candles anti-artifact property is probably its largest benefit",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156449010601994",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:01.84+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it also puts the goofy hexa relic thing in rare to shame",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156474855891015",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:08.002+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stronger vajra is still pretty good though",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156529377648752",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:21.001+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<six pointed star> idk",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156536247914496",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:10:22.639+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jar of TOBSCo",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Relic / The Hexaghost / Downfall\n\nStart each combat with 1 **Intensity** :p_intensity:.\n*A little extra heat makes everything better.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Hc0omOKu2NC9ZSTjRbiSvmWhkdr1OwLncqOGzJJ7tTo/https/slay.ocean.lol/downfall/relics/inflammatoryletter.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "<six pointed star> = jar of tobsco, 30% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125156529377648752",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156544988844155",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:10:24.723+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's so many weird character specific relics...",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125156449010601994",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156569257095298",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:30.509+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<six point brand>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156577368875028",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:10:32.443+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Six-Point Brand",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Relic / All / Downfall\n\nWhenever you play 6 cards, deal 6 damage to a random enemy.\n*Fire, fire, fire, fire, fire, FIRE!*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4JRayLwqUPLhx5l4iSCvYXhtANf4g1xLgV93XGy-kZ8/https/slay.ocean.lol/downfall/relics/sixitude.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "<six point brand> = sixpoint brand, 79% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125156569257095298",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125156609757290607",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:40.165+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah that thing kinda bad",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156669740032101",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:54.466+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vajra on all cards \uD83D\uDC40 to random enemy \uD83E\uDD71",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156673351327868",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:10:55.327+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i never actually got a feel for how much this does in a fight",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156722919608473",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:11:07.145+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it just  e x i s t",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125156730700050452",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:11:09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also its rare not common \uD83D\uDC80",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125157127305048155",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:12:43.558+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this has stayed the same for a long time",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125157175044608082",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:12:54.94+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it would have actually useful metrics \uD83E\uDD14",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125157208414503052",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:13:02.896+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158225914900571",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:17:05.487+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it just occurred to me",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158306504261702",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:17:24.701+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a champ-flavor potion",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158387253002280",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:17:43.953+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i remember it being hard to come up with alternatives for their global potion but i think i have one",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158432127860736",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:17:54.652+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Strike Potion",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158522779336724",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:18:16.265+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "choose 1 of 3 strikes of any color (not including basics) and gain 2 copies that cost 0 this turn",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158582690779357",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:18:30.549+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158681714114722",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:18:54.158+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's alt attack pot but i prefer that to worse fire potion...",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158945175130318",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:19:56.972+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i guess it's good against byrds",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125158990867861554",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:20:07.866+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sharpness, i mean",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159726813032509",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:03.329+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "try to find the ID of downfall items challenge (impossible)",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159764477882538",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:12.309+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "whatchu lookin for",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159793817034863",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:19.304+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the six point brand thing",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159819381325875",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:25.399+09:00",
+      "timestampEdited": "2023-07-03T05:23:29.264+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk which characters content pack its in",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159868211400715",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:37.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aight here's a little trick",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159879842201752",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:39.814+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "let me guess...",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159901115715625",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:44.886+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<searchtext six point brand>",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159907331670096",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:23:46.368+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\"six point brand\" yields:",
+          "url": null,
+          "timestamp": null,
+          "description": "__sixpoint__ __brand__ __a__ll __r__el__i__c whe__n__eve__r__ y__o__u __p__l__a__y 6 c__ards__ __d__e__a__l 6 __da__m__a__ge __to__ __a__ __rando__m e__n__emy __rar__e __do__w__n__f__a__ll he__xa__m__od__:__sixit__u__d__e",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125159901115715625",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125159945537589299",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:23:55.477+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what the fuck does sixitude mean",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125159971395489873",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:24:01.642+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyways that's the id ._.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160406927822889",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:25:45.481+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Problem: downfall characters winrate is really high",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1125160406697128016",
+          "url": "https://cdn.discordapp.com/attachments/1125154143036784671/1125160406697128016/image.png?ex=6718b309&is=67176189&hm=544f2b9f4682370a1fb31f0a857f76f1c31c5e4052386a475f6975c01ee3aa3b&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1004
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160491866652726",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:26:05.732+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So idk what value this actually would have otherwise",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160624381497464",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:26:37.326+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whatever <Unbroken Soul> is it looks awful",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160632778498188",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:26:39.328+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mark of the Ether",
+          "url": null,
+          "timestamp": null,
+          "description": "Boss Relic / The Hexaghost / Downfall\n\nReplaces Spirit Brand.\nThe first time you Ignite a Ghostflame each turn, gain :energy_hexa: .\n*Let’s see if we can do... better.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8obbBCR1mLuc41AsvFzjS3_Lq_g4zyu0AMl-Lehsan0/https/slay.ocean.lol/downfall/relics/unbrokensoul.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "<unbroken soul> = mark of the ether, 76% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125160624381497464",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125160678223794287",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:26:50.163+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160721857118238",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:27:00.566+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[[searchtext unbroken soul]]",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160731994755074",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:27:02.983+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\"unbroken soul\" yields:",
+          "url": null,
+          "timestamp": null,
+          "description": "ma__rk__ __o__f th__e__ __e__th__er__ th__e__ h__e__xagh__os__t __rel__ic __re__p__l__ac__es__ __s__pi__r__it __br__a__n__d th__e__ fi__rs__t tim__e__ y__ou__ ig__n__it__e__ a gh__os__tf__l__am__e__ __e__ach t__urn__ gai__n__ __ener__gy __boss__ d__o__w__n__fa__ll__ h__e__xam__o__d:__unbrokensoul__",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125160721857118238",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125160745596887080",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:27:06.226+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh shit",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125160937146552490",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:27:51.895+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stinki",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1125160936890695710",
+          "url": "https://cdn.discordapp.com/attachments/1125154143036784671/1125160936890695710/image.png?ex=6718b387&is=67176207&hm=c000361ebd473f10d477f344e5cb81f3df0b9f7caaace83c0b9319a10acc717d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1239
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125161035578478592",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:28:15.363+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For basegame your closest relic is uhh... calling bell",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125161149369958410",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:28:42.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But again, comparing basegame to downfall is a bit of a chalk vs cheese moment",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125161194005729320",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:28:53.135+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They just arnt the same",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125162953646284820",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:35:52.666+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that said:\nMark of the Ether hasn't been changed at all iirc",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125162999372587028",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:36:03.568+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still:\nI am surprised it is that low",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163046109720586",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:36:14.711+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is it because of people learning the hard way how strong Spirit Brand is?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163163839631531",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:36:42.78+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh wait its a boss swap",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163181233426522",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:36:46.927+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Spirit Brand>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163190003712100",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:36:49.018+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spirit Brand",
+          "url": null,
+          "timestamp": null,
+          "description": "Starter Relic / The Hexaghost / Downfall\n\nThe first time you Ignite a Ghostflame each turn, gain 4 **Block** :p_block:.\n*A bound protector.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/80mMWwGX0rD9mRxn8pJl-4HMkktUkl75RCYKMeQi9-A/https/slay.ocean.lol/downfall/relics/spiritbrand.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125163181233426522",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125163236879257650",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:37:00.194+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No wonder it scores so lowly",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163342911262870",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:37:25.474+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah this is the whole silent vs boss swap schtick all over again",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163397428826292",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:37:38.472+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Spirit brand has similar value to the boss swap already",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163537237557288",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:38:11.805+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In isolation, mark of the ether isn't bad\nit's just that you lose A LOT from losing spirit brand",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163697355100171",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:38:49.98+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The thing alot of people forget when designing boss swaps is to account for the value of what is being lost to gain the new relic",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163805794648105",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:39:15.834+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "black blood is 2 burning bloods",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163828485828618",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:39:21.244+09:00",
+      "timestampEdited": "2023-07-03T05:39:30.941+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basegame does it with silent, the swap is barely worth more than a skip for non boss encounters",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163834500456538",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:39:22.678+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "holy water is 3 pure waters",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163894667755550",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:39:37.023+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "frozen core does something entirely different",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163929442725968",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:39:45.314+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "meanwhile on mobile they eating good",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125163828485828618",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125163940817686538",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:39:48.026+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Frozen core can in rare cases be worse",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163993753989331",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:40:00.647+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "because on mobile ring of the serpent is [[brick of exxod]] minus the max hp loss",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164013622403094",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:40:05.384+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Brick of Exxod",
+          "url": null,
+          "timestamp": null,
+          "description": "Boss Relic / All / Bundle Of Food\n\nLose 20% of your Max HP on pickup.\nAt the start of your turn, draw 2 cards.\nIf you play 60 cards in one turn, Obtain Truest Power.\n*As soon as you look at it you get an overwhelming feeling... INFINITE POWER?!?!? I MUST EAT IT. ALL OF IT?!?!*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JzgZo8bmQyBS2Lj_LIYNonZu22GglJI8kWLHY5rSPrw/https/slay.ocean.lol/bundle%2520of%2520food/relics/brickofexxodboss.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125163993753989331",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125164068366463146",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:40:18.436+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and minus the truest power",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164125132169318",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:40:31.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was pleasantly surprised to see brick is balanced, even with all of the pre-nerf data",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164212549865542",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:40:52.812+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that said:\nbrick has the -20% max hp",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125164125132169318",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125164247618429000",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:41:01.173+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mobile Ring of the Serpent doesn't",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164367059615824",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:41:29.65+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Keep in mind around half of foods data is from before the funny balance patch (which nerfed 4/5ths of the relics by alot on average)",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1125164366753444030",
+          "url": "https://cdn.discordapp.com/attachments/1125154143036784671/1125164366753444030/image.png?ex=6718b6b9&is=67176539&hm=2cdb8273a3fc165ddc6a3c5eb47571c6dff64bd9e667d8bb0dc8c4f7f83d3aba&",
+          "fileName": "image.png",
+          "fileSizeBytes": 1130
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164470805745714",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:41:54.385+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hopefully we get clean `this year only` data at some point so i can actually see its true score",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164533971959939",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:42:09.445+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I do want to see current downfall metrics",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164590884454532",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:42:23.014+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "without them being marred by the errors of the past",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164690973151322",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:42:46.877+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Downfalls data is so old its entirely useless because of how much its changed over time",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164783155564604",
+      "type": "Reply",
+      "timestamp": "2023-07-03T05:43:08.855+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "exactly",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125164690973151322",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125164822875623536",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:43:18.325+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's why I want to see \"this year only\" downfall data",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125164894635962399",
+      "type": "Default",
+      "timestamp": "2023-07-03T05:43:35.434+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's what I meant by \"being marred by the errors of the past\"",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125170940133781695",
+      "type": "Reply",
+      "timestamp": "2023-07-03T06:07:36.793+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GAWD DAMN",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1125154158408900699",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125170984199131257",
+      "type": "Default",
+      "timestamp": "2023-07-03T06:07:47.299+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that speed of mentioning ghost shield was fast",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125172156666495038",
+      "type": "Reply",
+      "timestamp": "2023-07-03T06:12:26.837+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had an alarm set for it",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125170984199131257",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125172169475883088",
+      "type": "Default",
+      "timestamp": "2023-07-03T06:12:29.891+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was ready",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125184208919343265",
+      "type": "Default",
+      "timestamp": "2023-07-03T07:00:20.318+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[[Truest Power]]",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125184218679488623",
+      "type": "Reply",
+      "timestamp": "2023-07-03T07:00:22.645+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Awakening Wheel",
+          "url": null,
+          "timestamp": null,
+          "description": "Boss Relic / All / Bundle Of Bundles\n\nWhen you play a Power card gain 2 **Strength** :p_strength:.\nAfter playing 13 powers that cost 1 or more in one combat, gain Truest Power.\n*Collected feathers apparently from the crow god Mazaleth, it being haphazardly slewn around the spire does not bode well.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GuAytHvD7WRJaNiKZok2qi5SM9IdPmLaC1FjlfgufeQ/https/slay.ocean.lol/bundle%2520of%2520bundles/relics/awakeningwheelboss.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "[[truest power]] = awakening wheel, 70% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125184208919343265",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125187675054420079",
+      "type": "Default",
+      "timestamp": "2023-07-03T07:14:06.709+09:00",
+      "timestampEdited": "2023-07-03T07:16:02.955+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good potion. Fire potion is just about always useful as it can deal the last bit of damage you need to finish of an elite or just any other enemy thats about to murder you. This potion's damage is delayed by 1 turn, but you get 5 more damage out of it. The 5 damage rarely makes a difference  though, as often fire potions are being used on enemys with less then the full 20 HP; but having another damage potion in the common potion pool does matter because it gives you far more reliable access to this kind of buff. Compared directly to fire potion this potion does have the downside of needing to be hit first; which also means that in an group fight you might get the wrong enemy with this. However often its only being used ageist a single target anyways (unless your just throwing it away because you have something like white beast statue). Vs multi hit enemies with 25 HP or less you wont take the full damage from the attack to use the counter anyways, which helps when every boss in downfall mode has multi hits. Planning ahead is also pretty useful for this potion, since if you know that you will be a bit short on being able to kill an enemy quickly. You can use this on a turn when you have block; its hard to learn this but it helps get more value of out your brews of sharpness. Lastly this potion also has some minor synergies with champ, such as with gladitor form which lets you keep some of this counter for later; its not big but its something to remember.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125187812866666576",
+      "type": "Default",
+      "timestamp": "2023-07-03T07:14:39.566+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Overall its a bit worse then your standard fire potion, but not by very much so its still always appreciated when it shows up",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125272231291916339",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:50:06.487+09:00",
+      "timestampEdited": "2023-07-03T12:53:07.955+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dislike this potion (and molotov, which is extremely similar), more specifically I dislike it being available to all characters. At least champ has gladiator form and preemptive strike, for everyone else this is very awkward because it's delayed, and because the damage will always hit the first enemy, so you can't control it's output very effectively.\n\nSeveral people have already compared this to fire potion, and for good reason. You get a measly 5 damage more, but in exchange, you have to get hit to make the damage happen, which sort of defeats the point of a front-loaded potion. Fire potion (and attack potion, blessings of the forge, colorless potion, cunning potion, distilled chaos, energy potion, explosive potion, fear potion, flex potion, liquid memories, poison potion, and skill potion) have value specifically because they are frontloaded. You can use them to smooth out a bad turn and create more immediate output, often saving 15-20 health by killing an enemy that you can't block against effectively. If you have a brew of sharpness, you are just out of luck, it will deal 25 damage, but only after you get chunked significantly yourself. You have to use it very preemptively if you want to end fights faster, and it can't smooth out bad draws/turns effectively. It's also miserable in most AOE fights, since it can only damage the first attacking enemy, and you will need to get hit by them first. This can be disastrous in a fight like reptomancer, gremlin leader, gremlin gang, triple jaw wurm or tri slavers, and almost any of the previously mentioned potions would do a far better job smoothing out those fights.\n\nAt the very least, brew of sharpness is pretty decent against act 1 elites, letting you kill nob and lagavulin faster, and letting you quickly eliminate the front tri-sentry (though you are probably taking 20 damage on the second turn to do so). It's really bad after act 1 though, and is probably one of the worst potions you can get on average",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "550709709972176899",
+              "name": "sam.ll",
+              "discriminator": "0000",
+              "nickname": "SamLL",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1125273406716260384",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:54:46.73+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think any kind of buff would make me like this potion more, counter is just a really bad effect, and it's pretty much exactly the opposite of what I want from a potion (I see potions as one of the primary ways to mitigate the RNG of the spire and help fix bad hands/turns, saving you health, and sometimes the whole run)",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125273728968826960",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:56:03.561+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's actually not that bad against tri slavers since you typically take a good chunk against them anyways",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125273789320675328",
+      "type": "Reply",
+      "timestamp": "2023-07-03T12:56:17.95+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hits the wrong one though",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125273728968826960",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125273848896557077",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:56:32.154+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Third one should die first (has vuln/entangle)",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125273860980363326",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:56:35.035+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tri slavers is all about killing the back slaver as fast as possible. Brew of sharpness can never do that",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125273893511364628",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:56:42.791+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Both sharpness and moltov too slow or cant do it",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125273966613905428",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:57:00.22+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "At least sharpness is *okay* for hitting the front one",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274047022895114",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:57:19.391+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But a plain old fire pot is the best one here",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274133568180284",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:57:40.025+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean if you kill the front one doesn't it still help because then you won't be weakened?",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274194813399050",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:57:54.627+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I recently used sharpness to quickly handle front slaver because I could get the back one fast but I'd run out of fuel quickly after, but that was a unique case :watcherthink:",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274335783944292",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:58:28.237+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "usually you're pretty safe after the back one dies",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274498241921084",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:59:06.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And yeah delayed damage is much worse than frontload but it's still damage and can allow you a little bit of leniency early on in a run",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274644820262982",
+      "type": "Default",
+      "timestamp": "2023-07-03T12:59:41.917+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Especially against the other 2 act 1 elites nob and laga",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125274813720711351",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:00:22.186+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since both of those fights are essentially damage races",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275049922940971",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:01:18.501+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is the worst damaging potion that is 100℅ a fact but it's not worthless",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275275186409543",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:02:12.208+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it on the same level as <snecko oil>?",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275283990249512",
+      "type": "Reply",
+      "timestamp": "2023-07-03T13:02:14.307+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Snecko Oil",
+          "url": "https://slay-the-spire.fandom.com/wiki/Potions",
+          "timestamp": null,
+          "description": "Rare Potion / All / Slay the Spire\n\nDraw 5 cards. Randomize the cost of cards in your hand.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v1vb8-xWPxyz_26b1nwKJJkpF2FGk6Cd65hfeQxdceM/https/slay.ocean.lol/slay%2520the%2520spire/potions/sneckooil.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125275275186409543",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125275551033204867",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:03:17.975+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk I just really dislike snecko oil unless you already have <snecko eye>",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275560407486544",
+      "type": "Reply",
+      "timestamp": "2023-07-03T13:03:20.21+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Snecko Eye",
+          "url": "https://slay-the-spire.fandom.com/wiki/Snecko_Eye",
+          "timestamp": null,
+          "description": "Boss Relic / All / Slay the Spire\n\nAt the start of your turn, draw 2 additional cards. Start each combat **Confused**.\n*An eye of a fallen snecko. Much larger than you imagined.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_I5OqC3lo-SbHtTG267O2J8vmjBpF_hY1YBTc7ptXFM/https/slay.ocean.lol/slay%2520the%2520spire/relics/sneckoeye.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125275551033204867",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125275827383316511",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:04:23.862+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snecko oil is okay sometimes but the inconsistency means you whiff so much...",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275834584928318",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:04:25.579+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snecko oil is a unique hail mary effect",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125275895456866425",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:04:40.092+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its something to use when you are guaranteed to die otherwise tbh",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276031121625158",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:05:12.437+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most times it just doesn't get used though is what I mean",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276055641534546",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:05:18.283+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In that sense, its just a downgrade of <Fairy in a bottle>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276069507903498",
+      "type": "Reply",
+      "timestamp": "2023-07-03T13:05:21.589+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fairy in a Bottle",
+          "url": "https://slay-the-spire.fandom.com/wiki/Potions",
+          "timestamp": null,
+          "description": "Rare Potion / All / Slay the Spire\n\nWhen you would die, heal to 30% of your Max HP instead and discard this potion.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KMW9ZF8u6qFw-b7OK3wVJFgeth_ez2bxtaHIgKTRRgU/https/slay.ocean.lol/slay%2520the%2520spire/potions/fairypotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125276055641534546",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125276107126620190",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:05:30.558+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like usually you swap snecko oil out for a different pot",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276147521957979",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:05:40.189+09:00",
+      "timestampEdited": "2023-07-03T13:05:52.455+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Instead of using it",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276323187798058",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:06:22.071+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snecko oil is mainly awkward because its only use is to get out of forced damage *after playing cards*, except you are getting alot of draw",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276354217263204",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:06:29.469+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so the draw is kinda wasted most of the time",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276399222149120",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:06:40.199+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and if the reroll whiffs, it might even just finish you off",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276524413726841",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:07:10.047+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean in an expensive deck then you have a better chance of high rolling a lower cost",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276576595062905",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:07:22.488+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its a goofy effect, if we had a potion filter i would definetly knock it down to uncommon alongside <cultist potion>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276587932266536",
+      "type": "Reply",
+      "timestamp": "2023-07-03T13:07:25.191+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cultist Potion",
+          "url": "https://slay-the-spire.fandom.com/wiki/Potions",
+          "timestamp": null,
+          "description": "Rare Potion / All / Slay the Spire\n\nGain 1 Ritual.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DiJxPsPjz1NHoqMbSVlLuqbAJ9q6j6mfrWbJ-pxt1gE/https/slay.ocean.lol/slay%2520the%2520spire/potions/cultistpotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1125276576595062905",
+        "channelId": "1125154143036784671",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1125276670413246464",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:07:44.856+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Didn't even realize that was rare",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125276685256900699",
+      "type": "Default",
+      "timestamp": "2023-07-03T13:07:48.395+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wow",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125452579887906858",
+      "type": "Default",
+      "timestamp": "2023-07-04T00:46:44.943+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I totally agree with Kiku (as usual), this sharpness potion is both bad strategically, and not very fun game design, unless Downfall is deliberately trying to make potions in general worse and less reliable, as a design decision",
+      "author": {
+        "id": "550709709972176899",
+        "name": "sam.ll",
+        "discriminator": "0000",
+        "nickname": "SamLL",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE14",
+            "code": "pensive",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f614.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "147832879294971905",
+              "name": "therealevab8684",
+              "discriminator": "0000",
+              "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+            },
+            {
+              "id": "258676126090657793",
+              "name": "sandtag",
+              "discriminator": "0000",
+              "nickname": "SandTag",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+            },
+            {
+              "id": "634010749492264960",
+              "name": "lxixcdxx",
+              "discriminator": "0000",
+              "nickname": "d/dx(6x^70)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1125542999846301828",
+      "type": "Default",
+      "timestamp": "2023-07-04T06:46:02.741+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(If that is the intention, it's a valid decision! There is lots of other player power in other areas.)",
+      "author": {
+        "id": "550709709972176899",
+        "name": "sam.ll",
+        "discriminator": "0000",
+        "nickname": "SamLL",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125566993198759997",
+      "type": "Default",
+      "timestamp": "2023-07-04T08:21:23.202+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't personally think it's the case, but I wouldn't be opposed to it being the case",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 188
+}

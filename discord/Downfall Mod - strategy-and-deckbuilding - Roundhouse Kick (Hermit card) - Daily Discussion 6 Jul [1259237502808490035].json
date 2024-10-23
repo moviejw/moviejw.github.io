@@ -1,0 +1,554 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1259237502808490035",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Roundhouse Kick (Hermit card) - Daily Discussion 6 Jul",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:28:36.4045832+09:00",
+  "messages": [
+    {
+      "id": "1259237503320326257",
+      "type": "Default",
+      "timestamp": "2024-07-07T05:00:16.293+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259237504951914567",
+      "type": "Default",
+      "timestamp": "2024-07-07T05:00:16.682+09:00",
+      "timestampEdited": "2024-07-08T05:01:00.937+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nWide Sting (Snecko card): 4\nFrost Primer (Automaton relic): 1\nKrampian Coal (Collector relic): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259237508307488819",
+      "type": "Default",
+      "timestamp": "2024-07-07T05:00:17.482+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 593/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Roundhouse Kick",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3aroundhousekick",
+          "timestamp": null,
+          "description": "Rare Attack / 2 :energy_hermit:  / The Hermit / Downfall\n\nDeal 13 (18) damage to ALL enemies.\n**Stun** any that don't intend to attack.\n**Exhaust**.",
+          "color": "#99590B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/ARvPSdp9hNsXWgbitwPJWb6Z_RuakzrNB08sw4lypGM/https/slay.ocean.lol/downfall/cards/hermit-roundhousekick.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/ARvPSdp9hNsXWgbitwPJWb6Z_RuakzrNB08sw4lypGM/https/slay.ocean.lol/downfall/cards/hermit-roundhousekick.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259238746822410323",
+      "type": "Default",
+      "timestamp": "2024-07-07T05:05:12.767+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All cards that say “Stun” are typically insane, this included",
+      "author": {
+        "id": "538148895868321807",
+        "name": "cany0udance",
+        "discriminator": "0000",
+        "nickname": "Cany0udance",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/538148895868321807/181acc6c6096be7d868014f022210220.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259242736146583552",
+      "type": "Default",
+      "timestamp": "2024-07-07T05:21:03.896+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it's alright",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259253950117576795",
+      "type": "Default",
+      "timestamp": "2024-07-07T06:05:37.515+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bottle it for the heart fight and it's basically a Vault which for a character that relies heavily on bursting down enemies is really good",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259254169202851870",
+      "type": "Default",
+      "timestamp": "2024-07-07T06:06:29.749+09:00",
+      "timestampEdited": "2024-07-07T06:06:45.95+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "On the other hand it'll kill you if you proc it aginst donu and deca since it'll sync them up",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259254734745894963",
+      "type": "Default",
+      "timestamp": "2024-07-07T06:08:44.585+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's good aginst a lot of elites and bosses, either because of the aoe damage, enemies having a buff/debuff turns or both",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259254895500988518",
+      "type": "Reply",
+      "timestamp": "2024-07-07T06:09:22.912+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also sencheese",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "messageId": "1259254169202851870",
+        "channelId": "1259237502808490035",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1259255834731614258",
+      "type": "Default",
+      "timestamp": "2024-07-07T06:13:06.842+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259256150642393228",
+      "type": "Default",
+      "timestamp": "2024-07-07T06:14:22.161+09:00",
+      "timestampEdited": "2024-07-07T06:14:37.085+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you upgrade it's really good aginst repro since with memento it can wipe out all the daggers and stun repro herself so that you don't get punished for being vulnerable",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259296669330047048",
+      "type": "Default",
+      "timestamp": "2024-07-07T08:55:22.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The stun effect is very powerful, and a pretty decent chunk of enemies have off-turns where you can exploit it, including the heart, time eater, shield and spear, giant head, snake plant, champ, automaton, gremlin leader and many more. The AOE component is a nice bonus, but the damage per energy, and it exhausting itself both make it more of a supplement than a full-on solution for AOE fights. I would basically always want at least 1 other AOE card, especially considering that reptomancer, gremlin leader, and the collector all summon more minions throughout the fight. Runic pyramid and coalescence are both great with this card, as the stun is a huge payoff, and being able to land it more consistently improves it greatly. \n\nPretty nice if you can get it in act 1, since it covers gremlin gang, slime gang, and tri-sentries quite well (note that the stun is a debuff and can be blocked by artifact, though memento lets you remove tri-sentries artifact). Be very careful about using this against donu and deca, as syncing up their attacks can be very deadly, though you can still sometimes find a good window to use it to release some pressure when one is almost dead, or simply use it early in the fight to remove one artifact charge from one of them. Just like vault, it gets stronger when you have 4 energy and can take advantage of the extra turn that you are getting to play more cards. The upgrade is not generally a high priority, while the damage increase is nice, it doesn’t affect the most important part of the card, and you can only use that extra damage once. It can be worth considering it to get over certain thresholds if you have not managed to find any other AOE cards though.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259298217502310460",
+      "type": "Default",
+      "timestamp": "2024-07-07T09:01:31.682+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you have ways to line this up, you can use it to cheese your way through multi-phase enemies like time eater and champ, stunning them to buy an extra turn to burst them down before they get more serious/heal/cleanse themselves I'm quite happy to have this, but it's not a key enging piece that gives direction in the way that a number of other hermit rares can be. Taking this from the act 1 boss does set you up for doing well into much of the act 2 enemy pool, but I do prefer to take rares like dissolve, adapt, eternal form, fatal desire, from beyond, and overwhelming power to help solve longer term problems. Roundhouse Kick definitely can be worth buying from a shop, especially if your deck needs setup time, AOE, can line it up, or is trying to kill enemies very quickly, though I usually find a better use for my gold. There's a fundamental inconsistency to the card, since hermit has a hard time lining it up, and it can also be blocked by artifact charges, so I don't like relying on it's stun to try and win runs.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259412931343417435",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:37:21.593+09:00",
+      "timestampEdited": "2024-07-07T16:37:58.037+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is more similar to impervious then it is to vault.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259413141654208654",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:38:11.735+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you take round house kick, even though it can be a dead draw since when it is a good card it is completely insane to the point where its worth putting up with inconsistencies.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259413917994713098",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:41:16.829+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "were as vault is a card that will be good every single time you draw it no matter what; you will basically always play vault the second you see it in every hand.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259414269489975326",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:42:40.632+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "roundhouse kick can let runs that should die succeed by just not letting the heart attack. Although you can and will die if your only heart solution is to round house kick it.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259414545794072576",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:43:46.508+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its also worth noting that 13 aoe for 2 is acutally good damage for act 1; which matters a lot since its the act with the most fights this card cant stun in",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1259415227783581727",
+      "type": "Default",
+      "timestamp": "2024-07-07T16:46:29.107+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lastly roundhouse kick can make gambit slightly worse. Gambit is usually used to kill the enemy by getting you back your best attacks or at least a high quantity of them but roundhouse kick wont cost 0 when it comes back and your playing gambit usually on turns where the enemy is still attacking you. Despite this both cards are still strong enough to take together though, its just a annoyance.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

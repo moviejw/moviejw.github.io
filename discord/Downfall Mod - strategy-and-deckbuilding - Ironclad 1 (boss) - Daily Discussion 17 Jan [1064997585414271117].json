@@ -1,0 +1,568 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1064997585414271117",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Ironclad 1 (boss) - Daily Discussion 17 Jan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:23:44.1933767+09:00",
+  "messages": [
+    {
+      "id": "1064997587276533760",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:00:11.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1064997594981474466",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:00:13.342+09:00",
+      "timestampEdited": "2023-01-19T05:00:09.595+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nCable Spool (Automaton relic): 5\nBewildered (Curse card): 2\nNibble and Lick (Slime Boss card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1064997597087015053",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:00:13.844+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 90/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#BA1A1A",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/APE1kVisGvFi05cExQudvQ-eCCxPJfPiXgpMPh4QePk/https/oceanuwu.github.io/slaytabase/extraImages/bosses/ironclad1.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/APE1kVisGvFi05cExQudvQ-eCCxPJfPiXgpMPh4QePk/https/oceanuwu.github.io/slaytabase/extraImages/bosses/ironclad1.png",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Ironclad 1",
+          "url": "https://sts-downfall.fandom.com/wiki/Ironclad_(Act_1_Boss)?embnum=0",
+          "timestamp": null,
+          "description": "Act 1 Boss\n\n**Synchronize** - Whenever Ironclad generates a **Status** card, a duplicate is added into your discard pile.\n\n**Cards**: Bash, Flawed, Doubt, Reckless Charge, Wild Strike(+), Defend, Power Through, Second Wind, Seeing Red, Immolate, Icky, True Grit+, Thunderclap+, Feel No Pain\n\n**Relics**: Art of War, Champion's Belt, Orichalcum (A19)",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/APE1kVisGvFi05cExQudvQ-eCCxPJfPiXgpMPh4QePk/https/oceanuwu.github.io/slaytabase/extraImages/bosses/ironclad1.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065001410179117149",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:15:22.956+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like he's the hardest act one boss of the bunch",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065001682045509732",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:16:27.774+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As he floods your small deck with countless unplayable statuses while also gaining shit ton of block",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065002394116702359",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:19:17.545+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If the fight drags on for more than few turns it becomes unbearably slow and painful",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065006629315153961",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:36:07.295+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I'd say this and watcher are the hardest of the act 1 fights",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065006813285724281",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:36:51.157+09:00",
+      "timestampEdited": "2023-01-18T05:37:04.445+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Automaton and Guardian don't mind the fight as much because <repulsor card> is just a snap take vs IC1",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065006814816653435",
+      "type": "Reply",
+      "timestamp": "2023-01-18T05:36:51.522+09:00",
+      "timestampEdited": "2023-01-18T05:37:04.95+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Package: Shapes",
+          "url": "https://sts-downfall.fandom.com/wiki/Package:_Shapes?embnum=0",
+          "timestamp": null,
+          "description": "Special Skill / 0 :e_colorless: / Colorless / Downfall\n\nGain a Time Bomb, (+,) Spiker Protocol, (+,) and Repulsor. (+.)\n**Exhaust**.",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/OlvPqOklnH5tlhBnKGh2uBqLIn-f4tVyP-_gzuGJoZY/https/oceanuwu.github.io/slaytabase/Downfall/cards/Colorless-Package-Shapes.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<repulsor card> = package: shapes, 80% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1065006813285724281",
+        "channelId": "1064997585414271117",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1065006897591222333",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:37:11.257+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hate you.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065006930336174101",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:37:19.064+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<repulsor automaton>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065006932240384042",
+      "type": "Reply",
+      "timestamp": "2023-01-18T05:37:19.518+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Repulsor",
+          "url": "https://sts-downfall.fandom.com/wiki/Repulsor_(Automaton)?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 (1) :e_automaton: / The Automaton / Downfall\n\nWhen you draw the first **Status** or **Curse** card each turn, **Exhaust** it and draw a card.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dqgaGgcQQY4P0JP4496fmy1MOmwmgVib6lPQ3d00nXs/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Repulsor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1065006930336174101",
+        "channelId": "1064997585414271117",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1065006976104419439",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:37:29.976+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guardian has the exact same card as well",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065007697730224188",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:40:22.025+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea but you don't have a high chance of getting it by then and even lower chances of getting to upgrade it",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065007789115707473",
+      "type": "Default",
+      "timestamp": "2023-01-18T05:40:43.813+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And at two cost it can be hard to play in act one",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065022188459135048",
+      "type": "Default",
+      "timestamp": "2023-01-18T06:37:56.884+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean, it's not really unlikely, and even unupgraded against IC1 it's still worth it",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065137425782931486",
+      "type": "Default",
+      "timestamp": "2023-01-18T14:15:51.603+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This fight reminds me a lot of hexaghost (the act 1 boss in traditional). You need offensive scaling before your deck gets super junked up, repulsor solves that problem fairly well. Another big problem is that he consistently blocks for huge amounts (27 or so), making it hard to chunk him down. If the fight goes on long enough, the junking can be a huge problem. This fight punishes blocking and defensive decks very hard, every extra dead card is also terrible. I've lost with a  really powerful speculative guardian deck that had a lot of good blocking, stasis setup, and strong gems already socketed in, but just couldn't deal damage very fast or deal with the junking. You need to have strong burst damage or offensive scaling and try to end the fight as quickly as possible. The most punishing turns are when it attacks for 34 damage while also having 24 or so block, there's very little you can do if it reaches that point.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1065139170311413780",
+      "type": "Default",
+      "timestamp": "2023-01-18T14:22:47.531+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The good news is that in act 1, you already have multiple incentives to build a deck that has strong burst damage (nob, lagavulin, tri sentries, jaw wurm, cultist, most hallway fights involve low health enemies). This means you're fairly likely to naturally include tools that can be really useful in this fight. The main thing is to not get greedy against ironclad 1. If you start taking defensive scaling and late game/utility cards that will be strong in acts 3 and 4, you are asking to get punished by this fight. Having a way to apply vulnerable can be really helpful in this fight (vent steam is excellent, haunting lick is solid, especially if you can recur it). The other thing to keep in mind is just how much damage ironclad 1 puts out, this means you want to take a path that gives you the option of a late campfire if at all possible. The nature of downfalls pathing means that you always have a hallway fight before the boss instead of a campfire, so looking for a path that can give you an opportunity to rest and facetank the damage from the fight is pretty valuable.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 18
+}

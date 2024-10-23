@@ -1,0 +1,128 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1115007508071862362",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Refactor (Automaton card) - Daily Discussion 4 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:07:55.9832832+09:00",
+  "messages": [
+    {
+      "id": "1115007512563953815",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:01:46.833+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1115007513482494025",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:01:47.052+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vote for tomorrow's Daily Discussion (2023-06-06 오전 5:00) here!",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chrono-Boost",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 2 :energy_champ: / Boss / Downfall\n\nGain 2 **Strength** :p_strength: (.)\n (Gain 2 **Strength** :p_strength:) for every 12th card you play.",
+          "color": "#B0385C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/f6FLctJ4uWFD54nh2MSNvNolLri1j0l9_Xvx1gRNS0I/https/slay.ocean.lol/downfall/cards/expansioncontent-chronoboost.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Low Profile",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hermit:  / The Hermit / Downfall\n\nGain 7 (9) **Block** :p_block:.\nGains 4 (5) additional **Block** :p_block: for each of your debuffs.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LB8ZGoE8CRHwMh_ZWdQDblwUi8blkAjVk79AzknhAQU/https/slay.ocean.lol/downfall/cards/hermit-lowprofile.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Copy Paste",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_auto: / The Automaton / Downfall\n\nPlay a copy of each Encoded card. They do not Encode.\n​~~- **Exhaust**. -~~",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KpiMavtHaWNA1Qwc5gXbdkJMIppax0qNOEwKXsLM1RM/https/slay.ocean.lol/downfall/cards/bronze-overload.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

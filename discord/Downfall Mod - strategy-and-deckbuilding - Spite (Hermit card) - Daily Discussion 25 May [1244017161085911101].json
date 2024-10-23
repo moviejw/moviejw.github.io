@@ -1,0 +1,613 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1244017161085911101",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Spite (Hermit card) - Daily Discussion 25 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:32:57.3108722+09:00",
+  "messages": [
+    {
+      "id": "1244017163287662650",
+      "type": "Default",
+      "timestamp": "2024-05-26T05:00:04.449+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244017164500074542",
+      "type": "Default",
+      "timestamp": "2024-05-26T05:00:04.738+09:00",
+      "timestampEdited": "2024-05-27T05:00:14.895+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nMockery (Gremlins card): 1\nCounter Strike (Gremlins card): 0\nMalice (Hermit card): 3",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244017167167389721",
+      "type": "Default",
+      "timestamp": "2024-05-26T05:00:05.374+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 551/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spite",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3aspite",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDeal 7 (10) damage.\nDraw a card for each **Curse** in your hand.",
+          "color": "#99590B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/4IQjdNJ1megsRRNFk7zkpyEtynbh2voOVJvV0bVPPJU/https/slay.ocean.lol/downfall/cards/hermit-spite.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/4IQjdNJ1megsRRNFk7zkpyEtynbh2voOVJvV0bVPPJU/https/slay.ocean.lol/downfall/cards/hermit-spite.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244017865418477740",
+      "type": "Default",
+      "timestamp": "2024-05-26T05:02:51.85+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "has been reworked, bot outdated",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244036327360434228",
+      "type": "Reply",
+      "timestamp": "2024-05-26T06:16:13.52+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "whats new spite?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1244017865418477740",
+        "channelId": "1244017161085911101",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244043640368529438",
+      "type": "Default",
+      "timestamp": "2024-05-26T06:45:17.077+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2e exhaust unplayables, 8(10) block, 3(4) draw",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244047496691580929",
+      "type": "Reply",
+      "timestamp": "2024-05-26T07:00:36.496+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so a shrug it off with some exhaust and more draw?",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "264915911251722242",
+          "name": "shinblitz",
+          "discriminator": "0000",
+          "nickname": "ShinBlitz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1244043640368529438",
+        "channelId": "1244017161085911101",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244048012062494750",
+      "type": "Default",
+      "timestamp": "2024-05-26T07:02:39.37+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's 2e",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244053175565156422",
+      "type": "Reply",
+      "timestamp": "2024-05-26T07:23:10.445+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeh ik but forgot to mention it in the msg",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "264915911251722242",
+          "name": "shinblitz",
+          "discriminator": "0000",
+          "nickname": "ShinBlitz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1244048012062494750",
+        "channelId": "1244017161085911101",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244268666653249566",
+      "type": "Default",
+      "timestamp": "2024-05-26T21:39:27.524+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One of the few hermit cards that work with statuses not only curses",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244269027925299283",
+      "type": "Default",
+      "timestamp": "2024-05-26T21:40:53.658+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's somewhat similar to <roulette> in that it clears out your hand while also having a great synergy with shadow cloak",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244269030374637621",
+      "type": "Reply",
+      "timestamp": "2024-05-26T21:40:54.242+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Roulette",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3aroulette",
+          "timestamp": null,
+          "description": "Common Attack / 2 :energy_hermit:  / The Hermit / Downfall\n\nDeal 16 (20) damage.\nDiscard your hand.\nDraw that many cards.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fGOmnCpGmPPc0r2f36BZBmpt6VNZQT4PD-PXdKTw__k/https/slay.ocean.lol/downfall/cards/hermit-roulette.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1244269027925299283",
+        "channelId": "1244017161085911101",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244269206774616145",
+      "type": "Default",
+      "timestamp": "2024-05-26T21:41:36.299+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's also really good with <magnum> if you have the energy to play both",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244269210146701324",
+      "type": "Reply",
+      "timestamp": "2024-05-26T21:41:37.103+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Magnum",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3amagnum",
+          "timestamp": null,
+          "description": "Rare Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDiscard 6 cards.\nFor each card, deal 6 (8) damage.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ICP4-maWvfJ00y1Qji98IWeOaSTM33Lr6G1CdH2aekI/https/slay.ocean.lol/downfall/cards/hermit-magnum.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1244269206774616145",
+        "channelId": "1244017161085911101",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244269265696194670",
+      "type": "Default",
+      "timestamp": "2024-05-26T21:41:50.347+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which you should",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244270364817752196",
+      "type": "Default",
+      "timestamp": "2024-05-26T21:46:12.398+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 cost draw cards are kind of clunky in that most likely you won't have much energy to spare for me cards you draw with it so then either you fill your deck with with 0 cost cards or get some kind of energy manipulation",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244395982565937214",
+      "type": "Default",
+      "timestamp": "2024-05-27T06:05:22.003+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now an interesting hybrid card at 2 cost that lets you exhaust unplayable cards, while drawing 3 and blocking for 8. Right off the bat, spending 2 energy to draw 3 cards feels pretty awkward, you likely won’t have much energy left to cast your new cards, and if you can’t afford to deploy an important power now, you won’t see it again until your next reshuffle. Blocking for 8 is also well below par for a 2-cost card, so you really want to be interested in all 3 components of this to include it. Enough energy to play the new cards (You really want 4 energy, and hopefully an eye of the storm to help support this), enough curses/shadow cloaks to make exhausting them useful, and in need of some extra block. If you just want card draw, you have much better options like luck of the draw, quickdraw, and fatal desire. If you just want block, you have hole up, midnight, ghostly presence, and body armor.\n\nDefinitely a good support piece within a shadow cloak engine to proc both parts of it more consistently, but if you aren’t really using curses much, you are really overpaying for the other effects. To be fair, it can also exhaust other cards like wounds/burns and is a reasonable way to remove curses as well to enable dead on if you are splashing both of those in one deck. It’s a fairly niche pick, and I wouldn’t advise taking it until you are already deep into shadow cloak territory. It is a good role-player in that deck, both getting you to the 2nd cycle faster, and helping to block for a lot alongside shadow cloak and curses. Very hard to take this until well into act 2, as your deck likely isn't going to be in a position to support it before then.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244396221506781308",
+      "type": "Default",
+      "timestamp": "2024-05-27T06:06:18.971+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The upgrade gets you 2 more block and 1 more card drawn, which is fairly good to dig deeper, but not worth taking until you have a lot of curse support. Great target for bottled void (though roulette is also a top-tier choice in the same style of deck, and a common). Pretty good snecko eye card, as you get a lot of effects for 1 card, and it draws more cards that snecko could make cheap. Ice cream is helpful to be able to build up energy to play some of the newly drawn cards.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 18
+}

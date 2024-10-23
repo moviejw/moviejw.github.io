@@ -1,0 +1,676 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1276632289035419659",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Seed of Doubt (Collector card) - Daily Discussion 23 Aug",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:23:35.4571715+09:00",
+  "messages": [
+    {
+      "id": "1276632290423996436",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:00:56.718+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276632291426304071",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:00:56.957+09:00",
+      "timestampEdited": "2024-08-25T05:00:02.763+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nScatter! (Gremlins card): 6\nSerpent Idol (Snecko card): 0\nI'll Take That (Collector card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276632293636571168",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:00:57.484+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 641/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Seed of Doubt",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3aseedofdoubt",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_collector: / The Collector / Downfall\n\nApply 3 **Doom.**\nWhenever a card is **Exhaust**ed when this is in hand, increase its Doom by 1 (2).",
+          "color": "#26664D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/vyinR3TrZ3dEuzOjAxvs7lmjXO149QQDjB5xcPGFor4/https/slay.ocean.lol/downfall/cards/collector-seedofdoubt.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/vyinR3TrZ3dEuzOjAxvs7lmjXO149QQDjB5xcPGFor4/https/slay.ocean.lol/downfall/cards/collector-seedofdoubt.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276636061807804541",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:15:55.886+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not that strong without pyramid",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276636146855575693",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:16:16.163+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "with pyramid it’s quite good, without you don’t get enough scale to make it really busted",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276636263285260298",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:16:43.922+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’ll probably be average to slightly worse than average without pyramid depending on how much pyre is in the deck",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276636313302335639",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:16:55.847+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and your ability to keep up affliction",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276646378118057984",
+      "type": "Default",
+      "timestamp": "2024-08-24T05:56:55.486+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card really needs significant support before it feels right to take. 3 damage for 0, and it being a skill (nob, chosen) make it pretty hard to pick this up. If you can get one stack of affliction, then 6 damage is about right (but it is still delayed over 2 turns). You would probably need to exhaust 2-3 cards before the numbers on this matchup for a deck that isn't particularly good at applying affliction, which is doable for collector with pyre. The bigger issue I think is that this card offers only mild frontloaded damage (can be scaling damage if you are very good at keeping affliction up). Some of the best cards for applying affliction are self sufficient enough that you don't really need a card like this alongside them (dark lord form, inflict agony). However, the supplemental damage it provides can still be nice, and you can take this and have it perform alright.\n\nRunic pyramid is a huge synergy piece for this, since it can see way more cards get exhausted and build up faster, especially collected cards exhausting themselves over time. The upgrade in particular feels a bit weird to me, since it increases how fast it scales while exhausting, but without having something like pyramid, it's pretty hard to make that feel worth investing in (in order for it to be a +3 to damage, you would need to exhaust 3 cards on the same turn you drew seed of doubt). If you just want to stack doom, there are much easier ways to do it. As a support piece for exhaust synergies, I think it works alright, but it just doesn't stack up fast enough to feel like a major payoff, unless you have a very thin deck. Can be nice to help proc letter opener and ink bottle more often.\n\nNot a good early pickup, since doom will be blocked by tri-sentries, and nob punishes it being a skill. Can make more sense in act 2 if you missed the 4th energy, or if you have a  good amount of affliction/exhaust cards. Usually not impactful enough to be a strong consideration in acts 3 and 4.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276695929432572017",
+      "type": "Default",
+      "timestamp": "2024-08-24T09:13:49.44+09:00",
+      "timestampEdited": "2024-08-24T09:14:31.546+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what if you increase the increase amount by 1 as well",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276696048701538325",
+      "type": "Default",
+      "timestamp": "2024-08-24T09:14:17.876+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so it goes 3 - 4 - 6 - 9 - 13 - 18 - …",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276698628265607263",
+      "type": "Default",
+      "timestamp": "2024-08-24T09:24:32.892+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quadratic scaling is a very special beast",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276699930093813762",
+      "type": "Default",
+      "timestamp": "2024-08-24T09:29:43.272+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC7B",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276715120587964549",
+      "type": "Default",
+      "timestamp": "2024-08-24T10:30:04.968+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was thinking something less drastic, like \"increase its doom by 2(3)\"",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276725147402895451",
+      "type": "Default",
+      "timestamp": "2024-08-24T11:09:55.547+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk I think that card is pretty decent, you already have 1 guaranteed proc per turn with your collected card, not to mention cards like gremlin leader collectible",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276725274691637301",
+      "type": "Default",
+      "timestamp": "2024-08-24T11:10:25.895+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think for zero this card is cute and pairs nicely with mini curse",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276725571862138940",
+      "type": "Default",
+      "timestamp": "2024-08-24T11:11:36.746+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally like to use mini curse a lot as collector so I probably take seed of doubt more than most people",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276751692792336434",
+      "type": "Default",
+      "timestamp": "2024-08-24T12:55:24.461+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hear me out, upgrade gives this retain",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276751844999430145",
+      "type": "Default",
+      "timestamp": "2024-08-24T12:56:00.75+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree that this card is bad, its to slow even if you have everything you need to set it up.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276919106490077225",
+      "type": "Default",
+      "timestamp": "2024-08-25T00:00:38.997+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like this card although that may just be biased for cheap decks and I can admittedly see the issue in taking this early and the fact that collectors draw is pretty bad doesn't help this card either",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276927154868981980",
+      "type": "Reply",
+      "timestamp": "2024-08-25T00:32:37.88+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean, if you exhaust 2 cards, which is usually the minimum, that's 7 doom for zero",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "826258620513648660",
+          "name": "ahoodedman",
+          "discriminator": "0000",
+          "nickname": "ahoodedman",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1276751844999430145",
+        "channelId": "1276632289035419659",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1276927215568945336",
+      "type": "Default",
+      "timestamp": "2024-08-25T00:32:52.352+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's playing your collected card and using pyre once",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276927245721665538",
+      "type": "Default",
+      "timestamp": "2024-08-25T00:32:59.541+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and it usually does more than that",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276929644486070364",
+      "type": "Default",
+      "timestamp": "2024-08-25T00:42:31.451+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but you need to see all the key elements at the same time and collector has bad hand control",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1276949626099863634",
+      "type": "Reply",
+      "timestamp": "2024-08-25T02:01:55.439+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats only for seed of doubt+ though. If its not upgraded your exhausting at least 5 cards while its in hand to make it acceptable and far more cards to make it truly good. Upgrade doubles this cards efficiency but I've found that upgrades are in high demand on collector and even with an upgrade it takes a lot of work to make seed of doubt do enough.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1276927154868981980",
+        "channelId": "1276632289035419659",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 24
+}

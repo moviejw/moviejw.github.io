@@ -1,0 +1,2088 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1055575588846456913",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "The Woman in Blue (event) - Daily Discussion 22 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:26:22.5867687+09:00",
+  "messages": [
+    {
+      "id": "1055575590603853934",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:00:32.446+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055575596740124722",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:00:33.909+09:00",
+      "timestampEdited": "2022-12-24T05:00:51.149+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nHaunting Echo (Hexaghost card): 2\nSword of Night (Hexaghost card): 4\nGremlin Toss (Gremlins card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055575600942821386",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:00:34.911+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 64/781",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4F0202",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2qEDu4UO97UqA-xdvNU2RY7pzACLMboLpgrFRM_K5Vw/https/oceanuwu.github.io/downfallbot/altered/img/events/thewomaninblue.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2qEDu4UO97UqA-xdvNU2RY7pzACLMboLpgrFRM_K5Vw/https/oceanuwu.github.io/downfallbot/altered/img/events/thewomaninblue.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "The Woman in Blue",
+          "url": "https://sts-downfall.fandom.com/wiki/The_Woman_in_Blue?embnum=0",
+          "timestamp": null,
+          "description": "Downfall event / Act ? / All\n```ansi\n\u001B[2;37m[Punch\u001B[2;37m] \u001B[2;31mFight. \u001B[2;32mGain a Potion Relic and 3 Potions.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \u001B[2;34mTake damage equal to 5% of your max HP.\n```",
+          "color": "#4F0202",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2qEDu4UO97UqA-xdvNU2RY7pzACLMboLpgrFRM_K5Vw/https/oceanuwu.github.io/downfallbot/altered/img/events/thewomaninblue.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055576021455347775",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:02:15.169+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "she's not that strong of an elite so fighting is pretty good",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055576126988226611",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:02:40.33+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "possible rewards <white beast statue><potion belt><toy ornithopter>",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055576130435960863",
+      "type": "Reply",
+      "timestamp": "2022-12-23T05:02:41.152+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "White Beast Statue",
+          "url": "https://slay-the-spire.fandom.com/wiki/White_Beast_Statue?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Relic / All\n\nPotions always appear in combat rewards.\n*A small white statue of a creature you have never seen before.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NSSa6R8zNtAeZM9_1PpcFpZeaU8xtnlfZ70RzlM-naI/https/oceanuwu.github.io/downfallbot/altered/img/relics/slay-the-spire/WhiteBeastStatue.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Potion Belt",
+          "url": "https://slay-the-spire.fandom.com/wiki/Potion_Belt?embnum=1",
+          "timestamp": null,
+          "description": "Common Relic / All\n\nUpon pickup, gain 2 Potion slots.\n*I can hold more Potions using this belt!*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/c1o8kNBLx2h9dlSmYEfQkpUYIS2cJU5S71FCc7EZLE0/https/oceanuwu.github.io/downfallbot/altered/img/relics/slay-the-spire/PotionBelt.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Toy Ornithopter",
+          "url": "https://slay-the-spire.fandom.com/wiki/Toy_Ornithopter?embnum=2",
+          "timestamp": null,
+          "description": "Common Relic / All\n\nWhenever you use a potion, heal 5 HP.\n*\"This little toy is the perfect companion for the lone adventurer!\"*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RIaa-w3Ka_yo9aF7qQTn6PzZHtWJs3zD3XRZr6fXH78/https/oceanuwu.github.io/downfallbot/altered/img/relics/slay-the-spire/ToyOrnithopter.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055576126988226611",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055576137180397592",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:02:42.76+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "iirc the strongest thing she does is throw a fire pot at you?",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055576221381050399",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:03:02.835+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no scaling",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055576358119542874",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:03:35.436+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty tanky since she has a lot of hp and a fairy pot",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055577286600032327",
+      "type": "Reply",
+      "timestamp": "2022-12-23T05:07:16.803+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "she has scaling because she drinks a cultist pot",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055576221381050399",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055577319076544542",
+      "type": "Default",
+      "timestamp": "2022-12-23T05:07:24.546+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and she also has ghost in a jar to improve tankiness",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055592624729358387",
+      "type": "Reply",
+      "timestamp": "2022-12-23T06:08:13.698+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nah, cultist potion.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055576221381050399",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055592726009233419",
+      "type": "Default",
+      "timestamp": "2022-12-23T06:08:37.845+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and if you have low dps the plated armor can be annoying.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620103749767249",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:57:25.207+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh a single cultist pot",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620127737004074",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:57:30.926+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not particularly scary tho",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620248558125197",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:57:59.732+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "compared to say <book of stabbing>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620250688815175",
+      "type": "Reply",
+      "timestamp": "2022-12-23T07:58:00.24+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Book of Stabbing",
+          "url": "https://slay-the-spire.fandom.com/wiki/Book_of_Stabbing?embnum=0",
+          "timestamp": null,
+          "description": "Elite / 162-162 HP",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sqJmxtfWIDsOX9OtQFDKi74J7aA2K_pK4LuhsccQUXI/https/oceanuwu.github.io/downfallbot/export/slay-the-spire/creatures/BookOfStabbing.png",
+            "width": 341,
+            "height": 399
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055620248558125197",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055620381249118292",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:58:31.368+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which ramps like 5-10 damage more per turn depending on ascension unless you have strength reduction",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620447489753168",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:58:47.161+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5-14, I think?",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055620511712956426",
+      "type": "Default",
+      "timestamp": "2022-12-23T07:59:02.473+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "14 on a20 iirc - two more hits at 7/hit raw",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055685309238612038",
+      "type": "Default",
+      "timestamp": "2022-12-23T12:16:31.407+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yeah it is weak, especially since I'd argue the rewards are pretty strong.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055685646712324177",
+      "type": "Default",
+      "timestamp": "2022-12-23T12:17:51.867+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Either potions from every fight (honestly I'd argue for this being rare) potion belt lets you hold on to a ton of potions for key fights, and ornithopter means the potions you get from the fight heals 15 (10 if A11 or higher)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055685702152622131",
+      "type": "Default",
+      "timestamp": "2022-12-23T12:18:05.085+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and 3 potions is just strong",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055685759509729330",
+      "type": "Default",
+      "timestamp": "2022-12-23T12:18:18.76+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely needs more damage.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055719967384944680",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:34:14.553+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The rewards are just insane, and the risk is incredibly low. White beast statue is an incredible relic that lets you get free output in every fight for the rest of the run, potion belt lets you stock up for big bosses and the gauntlet at the end (as well as hold onto key potions for later like faerie in a bottle), and toy ornithopter gives really nice sustain, 10 health back as soon as you want it. Since you know you will be receiving three potions at the end of the fight, you can feel pretty free to use all the ones you already have on you to make fighting the lady in blue easier as well.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055720391059963955",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:35:55.565+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really like the theming of the event, but if the rewards are going to be that good, the fight needs to be much more threatening, closer to the damage of an act 2 elite like book of stabbing, tri slavers, or the dreaded snake plant. Does anyone remember if you also get souls at the end of the fight as well, I know several event fights do give you a nice chunk of souls, can't remember if this is one of them",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055720742320341025",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:37:19.312+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can't remember ever taking more than 10 damage to this fight, I think a better average would be something like 25-35, though that is hard to measure",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055721712857124874",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:41:10.706+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I had a run where it took me 20 turns to kill her, I only took like 15 damage then immediately healed it back and then some with toy ornithopter (I also got a fruit juice)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055721883074560130",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:41:51.289+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snake plant with that 24 right out of the gate lol",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722133050896394",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:42:50.888+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Her scaling sucks, and her frontload isn't enough. I think that it's cool that it uses the same numbers as the potions, but if you want to do that then maybe make it act 1 only?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722241658212432",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:43:16.782+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably reduce her tankiness if act 1 only",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722384746876998",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:43:50.897+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah cuz I think it's like 200 hp. That's way too much.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722423447715870",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:44:00.124+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "though her actual avg turn danger level is probably below all 3 act 1 elites",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722493060587580",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:44:16.721+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe make 3 fights, depending on which act you fight her in?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722608039047228",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:44:44.134+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think that would be the best way to treat all the event elite fights, but it also takes time",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055722844262236181",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:45:40.454+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but with current implementation, I think even if they removed the relic I'd still fight her. Potions are strong, and more often than not you lose less health by fighting her than leaving (losing 5% max hp)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723222957572106",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:47:10.742+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like for example, lagu just deletes anyone without scaling or giant frontload on a19 with the -2 str/dex, nob deletes you if you run too many skills/not enough frontload, sentries deletes you if you have no aoe/ too many low cost cards/no per-turn block effects but is generally not as lethal as other act 1 elites to unformed deck - even in current form I'd say her act1 lethality would just be above sentries due to being so tanky for act1",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723330113634315",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:47:36.29+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so she has time to ramp",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723401513287780",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:47:53.313+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah if someone like silent fought her, she would just melt to poison.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723443426971688",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:48:03.306+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but her ramp is so slow that she's much less likely to kill you than nob or lagu",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723559453995018",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:48:30.969+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think maybe if they made it so she uses more potions in later acts it would be cool",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723760826724412",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:49:18.98+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or maybe if she had something like an inverse of your character's mechanic potion where like it can unignite stuff or bruise you or make you exit stances?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055723956570697748",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:50:05.649+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "too clunky, I think",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724098807926874",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:50:39.561+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah and wildly unbalanced, it would put in work against some characters, and suck against others",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724181129527296",
+      "type": "20",
+      "timestamp": "2022-12-23T14:50:59.188+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bottled Dupe",
+          "url": "https://sts-downfall.fandom.com/wiki/Potions?embnum=0",
+          "timestamp": null,
+          "description": "Common Potion / All\n\nSwap to a random Gremlin.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/E-_3Kii3SBx3e0oSpV8mWPvnsDLBj2sDYCJulwYAI68/https/oceanuwu.github.io/downfallbot/export/downfall/potions/BottledDupe.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1055724179804131408",
+        "name": "i",
+        "user": {
+          "id": "264915911251722242",
+          "name": "shinblitz",
+          "discriminator": "0000",
+          "nickname": "ShinBlitz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+        }
+      }
+    },
+    {
+      "id": "1055724254798291016",
+      "type": "20",
+      "timestamp": "2022-12-23T14:51:16.752+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eau de Grem",
+          "url": "https://sts-downfall.fandom.com/wiki/Potions?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Potion / The Gremlins\n\nUse all 5 Gremlin Abilities 2 times.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jxY7-E8ePtcebNPG3k8038mdB6Pgr0Ws83pLdaPyTQo/https/oceanuwu.github.io/downfallbot/export/downfall/potions/EaudeGrem.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1055724253628080178",
+        "name": "i",
+        "user": {
+          "id": "264915911251722242",
+          "name": "shinblitz",
+          "discriminator": "0000",
+          "nickname": "ShinBlitz",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+        }
+      }
+    },
+    {
+      "id": "1055724257113554984",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:51:17.304+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait common potion ALL",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724291758497863",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:51:25.564+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why is that all",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724411711397969",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:51:54.163+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyway bottled dupe is useless against grems, while eau de grem is mildly useful?",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724425724571758",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:51:57.504+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think I remember Ocean mentioning that all potions were manually inputted, so probably just an error on bot's side",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724532939370526",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:52:23.066+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "grems was just the first downfall char potions that came up tho",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724715689394257",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:53:06.637+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think what could be cool is if it had a powerful attack that gave you a potion, or a weak one that took one away? More interactivity with the player's potions would be cool",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724751785574520",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:53:15.243+09:00",
+      "timestampEdited": "2022-12-23T14:53:23.999+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe she could steal your potions?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724767438712912",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:53:18.975+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "slime boss has <slimy elixir> <army in a bottle> and <jar of goop>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724770072723476",
+      "type": "Reply",
+      "timestamp": "2022-12-23T14:53:19.603+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Slimy Elixir",
+          "url": "https://sts-downfall.fandom.com/wiki/Potions?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Potion / The Slime Boss\n\nWhenever an effect applies Goop:p_goop: this combat, apply 2 more.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7AyEUX0qmQM6Jn7fsUsHLs74qi-yy5pq49MZCuscn4Y/https/oceanuwu.github.io/downfallbot/export/downfall/potions/SlimyElixir.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Army in a Bottle",
+          "url": "https://sts-downfall.fandom.com/wiki/Potions?embnum=1",
+          "timestamp": null,
+          "description": "Rare Potion / The Slime Boss\n\nSpawn 3 random Slimes (Normal or Specialist).",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8-3KJhBTRCU5HaSSA1Vg4i4Dt4yRg5vI9revxg6pBew/https/oceanuwu.github.io/downfallbot/export/downfall/potions/ArmyinaBottle.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Jar of Slime",
+          "url": "https://sts-downfall.fandom.com/wiki/Potions?embnum=2",
+          "timestamp": null,
+          "description": "Common Potion / The Slime Boss\n\nApply 15 Goop:p_goop:.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dOH7iQpPjfbQOZD3hNa-7vl-SwvLe7PnfzF1mgbYd64/https/oceanuwu.github.io/downfallbot/export/downfall/potions/JarofSlime.png",
+            "width": 64,
+            "height": 64
+          },
+          "footer": {
+            "text": "<jar of goop> = jar of slime, 85% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055724767438712912",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055724883742576741",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:53:46.704+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jar of slime is just worse than fire pot with no goop interactions",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055724995323637790",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:54:13.307+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anti-slimy elixir could be of interest but also only targets 1/3 of slimeboss kit",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055725003489943662",
+      "type": "Reply",
+      "timestamp": "2022-12-23T14:54:15.254+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jar of slime is just worse than fire pot ~~with no goop interactions~~",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055724883742576741",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055725102362263572",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:54:38.827+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "army in a bottle ... could be interesting if she spawned slime minions actually",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055725157525753876",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:54:51.979+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably not that lethal in act2 tho",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055725301923057684",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:55:26.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe if she literally just used the character you were running (or even a different character's) potions?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055725332038176799",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:55:33.586+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jar of slime can be 15 damage 15 block or 30 damage if you <leeching strike> or <vicious tackle> tho",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055725333720080448",
+      "type": "Reply",
+      "timestamp": "2022-12-23T14:55:33.987+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Leeching Strike",
+          "url": "https://sts-downfall.fandom.com/wiki/Leeching_Strike?embnum=0",
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_slime: / The Slime Boss\n\nDeal 5 (8) damage.\n**Consume** - Gain **Block:p_block:** equal to the enemy's **Goop:p_goop:.**",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0JGL0s8qbnTXxmpO91Zt6pQHnIgTza8v8K5Fx-VXG9A/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-LeechingStrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Vicious Tackle",
+          "url": "https://sts-downfall.fandom.com/wiki/Vicious_Tackle?embnum=1",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :e_slime: / The Slime Boss\n\nDeal 16 (20) damage.\nTake 3 damage. This gains twice the damage bonus from **Goop:p_goop:.**",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xPrqyllfwu2J0YE9yE6WwtbbLJS3gpIdQiHFQq21T_c/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-ViciousTackle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1055725332038176799",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055725597927677952",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:56:36.979+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the best application of fire potion is just being a no strings attached deal 20 damage potion. Saying \"oh it does less but has these strings attached\" isn't worth it for me.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055726136568590368",
+      "type": "Default",
+      "timestamp": "2022-12-23T14:58:45.401+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyway yeah, in general everyone seems to be in agreement that this event is too high reward for the risk and the fight's boring and should be reworked",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055755592167325716",
+      "type": "Reply",
+      "timestamp": "2022-12-23T16:55:48.163+09:00",
+      "timestampEdited": "2022-12-23T16:55:56+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/669242017427226638/1053763755021959198/1053764721800654939\n\nnope, all the gremlin potions have apparently just been added to the collection wrong",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1055755591043260425",
+          "url": "https://cdn.discordapp.com/attachments/1055575588846456913/1055755591043260425/image.png?ex=6718ac03&is=67175a83&hm=55db37366ff95679b3a2eceb74d915e9aa88b79a5492df2ec2f0f0323f8391c4&",
+          "fileName": "image.png",
+          "fileSizeBytes": 62975
+        },
+        {
+          "id": "1055755591408160798",
+          "url": "https://cdn.discordapp.com/attachments/1055575588846456913/1055755591408160798/image.png?ex=6718ac03&is=67175a83&hm=08ae7b5c74b816a528013ce10d9522398025e5722c754440f317308bfa487a47&",
+          "fileName": "image.png",
+          "fileSizeBytes": 18882
+        },
+        {
+          "id": "1055755591861149726",
+          "url": "https://cdn.discordapp.com/attachments/1055575588846456913/1055755591861149726/image.png?ex=6718ac04&is=67175a84&hm=5dc61d8f4b8ff2e798257b50c83e1336ad2f83d55ad55ffe8a48f9d1aa8207ad&",
+          "fileName": "image.png",
+          "fileSizeBytes": 7971
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417469040135634944",
+          "name": "nic200",
+          "discriminator": "0000",
+          "nickname": "Nic200",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1055724425724571758",
+        "channelId": "1055575588846456913",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1055870484161507458",
+      "type": "Default",
+      "timestamp": "2022-12-24T00:32:20.549+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The main problem is definitely the threat level, woman in blue just doesn't deal enough damage. Maybe have a turn where she throws three explosive potions for a 10X3, or simply make her more likely to throw fire potion so there are more turns where she attacks for 20. She could throw a soulburn potion on you part way through the fight to create more of a timer, anything that lets her deal more damage.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055871695329693808",
+      "type": "Default",
+      "timestamp": "2022-12-24T00:37:09.314+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Another important thing to note from the base game is that there are no event based fights that can appear in every act. This is almost certainly done to preserve the balance of the risks/rewards of that specific fight. Dead adventurer and colored mushrooms are act 1 only, colosseum and masked bandits are act 2 only, and mind bloom and mysterious sphere are act 3 only. It is certainly possible to make 3 different versions and scale it based on the act you encounter the event in, but a more elegant solution to balance out the event would be to have it's difficulty tailored specifically towards a specific act.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055872461821984828",
+      "type": "Default",
+      "timestamp": "2022-12-24T00:40:12.06+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wheel of change actually has the same thing happening as well, in the base game, both woman and blue and wheel of change can be encountered in any act, but in downfall, they include the option to engage in a fight that doesn't scale with the level of the act you're in. In both cases, you're too likely to get showered in rewards for a very easy fight relative to where you are in the spire, so I think they should be locked into one specific act in downfall.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1055872498677330000",
+      "type": "Default",
+      "timestamp": "2022-12-24T00:40:20.847+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://slay-the-spire.fandom.com/wiki/Events?so=search",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Events",
+          "url": "https://slay-the-spire.fandom.com/wiki/Events?so=search",
+          "timestamp": null,
+          "description": "Events are special scenarios that will only occur after entering an unknown location. Events are not guaranteed to occur, but they are the most probable outcome of entering an unknown location. The event a player encounters is chosen by both random chance and the current Act they are on; some events are exclusive to certain Acts while other even...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/b71gmcOxTTgqVTIOqORepAKn6QUIJP2Hp86hkWrYveg/%3Fcb%3D20210714032636/https/static.wikia.nocookie.net/slay-the-spire/images/e/e6/Site-logo.png/revision/latest",
+            "width": 169,
+            "height": 65
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 70
+}

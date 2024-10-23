@@ -1,0 +1,2215 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1112024068338761788",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Snecko Unidentified Pool Rework Proposal",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:08:19.3137597+09:00",
+  "messages": [
+    {
+      "id": "1112024193844920361",
+      "type": "21",
+      "timestamp": "2023-05-27T23:27:08.223+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112024068338761788",
+        "channelId": "960646043689713705",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112024991517638776",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:30:18.403+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I already saw this last night and I've said everything I wanted to say",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112025138737717348",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:30:53.503+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but I guess I will say that I would much rather use these unidentified cards than the current ones",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112028028462190664",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:42:22.467+09:00",
+      "timestampEdited": "2023-05-27T23:45:25.539+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I still have to fully read this, but I want to say that some of these categories might be hard to automatically detect, they already might include different cards depending on language of the game, but this idea can make that problem noticeable, which is a main reason why I am trying to replace **Unidentified** cards with something else that doesn't have such issues.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112029036693176410",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:46:22.848+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The possibility of replacing unidentified cards is the whole reason I made this. They are a really fun idea and mechanic and I'd hate to lose them.\nAlso, as far as card detection, I have a section on that at the end of the doc with ideas on how to tackle it.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112029791126831204",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:49:22.719+09:00",
+      "timestampEdited": "2023-05-27T23:49:43.122+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If they really have to be replaced, I'd appreciate if the overarching design points were taken into account, such as giving Snecko more consistent damage and block frontload, steering away from being so chaotic that deckbuilding is almost pointless, leaning into the other character archetypes and the offclass experience, and having more playstyles than just build energy and draw manipulation and spam cards to win.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112031640596783246",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:56:43.667+09:00",
+      "timestampEdited": "2023-05-27T23:59:50.314+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't get me wrong, this idea would be great, but only reasonable way to make it work would to basically manually tag every card (unless someone would like to deal with something that I could summarise as black magic of word searching and endless crashes), which sadly would only work if it was something done by the base game, as I don't see any mod creator going through the trouble of adding the tags if the player also enabled Downfall (especially since a lot of popular mods are no longer updated).",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112032412763955240",
+      "type": "Default",
+      "timestamp": "2023-05-27T23:59:47.766+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a lot of this sounds more reasonable than you're giving credit for",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112032490807369748",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:00:06.373+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a significant amount of these categories could be done with a keyword search",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112032628175032390",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:00:39.124+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "some of which base snecko already does, does it not?",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112034576567636058",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:08:23.657+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which still relies on localization, I usually try to remove unnecessary keywords from the cards, as we had problems with having too many keywords on cards.\n So for example: in some languages effects similar to **Body Slam** might be a part of pool of **Block** cards, while in other language they might be excluded because what **Block** does isn't important to the effect of a card.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112034674265575474",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:08:46.95+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~so then it becomes possible to game unknown cards by switching languages?~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112035395950104727",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:11:39.013+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, basically.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112035412643434537",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:11:42.993+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "crazy idea: what if this is fine?",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112035537612705824",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:12:12.788+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would it break the balance of Snecko if there were a few small changes between languages?",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112036046536982610",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:14:14.125+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel like Vex'd saying that",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112036050794197023",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:14:15.14+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112036438352068642",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:15:47.541+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't like leaving stuff that can potentially cause problems in the future.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112036616370925648",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:16:29.984+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When you change the game language, does the game still contain the English files?",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112036982281994403",
+      "type": "Reply",
+      "timestamp": "2023-05-28T00:17:57.224+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "About replacing it, I really like idea of just giving Snecko an option of just having Offclass cards in card rewards, but I am not sure how to approach it, as there are multiple ways to do it.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112029791126831204",
+        "channelId": "1112024068338761788",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112037129866985542",
+      "type": "Reply",
+      "timestamp": "2023-05-28T00:18:32.411+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nope, there is a reason why you have to restart the game whenever you want to change language.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112036616370925648",
+        "channelId": "1112024068338761788",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112037369533710376",
+      "type": "Default",
+      "timestamp": "2023-05-28T00:19:29.552+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "localization has always been a huge problem for StS and this mod",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112072762731802684",
+      "type": "Default",
+      "timestamp": "2023-05-28T02:40:07.948+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure about proposed solution but I think you perfectly identified two design problems here\n\n\"Overall, the experience with Un-ID’d cards feels far removed from deckbuilding, and closer to taking the cards with the highest average value and praying it works out, with the exception of the narrowest categories, which are abused to find 1 specific card in their pool.\"\n\nI wonder if there is anything to learn from the Packmaster, those two molded classes seem to be playing in the same design space.",
+      "author": {
+        "id": "550709709972176899",
+        "name": "sam.ll",
+        "discriminator": "0000",
+        "nickname": "SamLL",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112073145709514832",
+      "type": "Default",
+      "timestamp": "2023-05-28T02:41:39.257+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah, i wanted to make a parallel there for the start-of-run class choice",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112073539307180082",
+      "type": "Default",
+      "timestamp": "2023-05-28T02:43:13.098+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "choosing all 3 classes from pairs has a similar issue, since certain classes also have higher average value than others",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112073597448634459",
+      "type": "Default",
+      "timestamp": "2023-05-28T02:43:26.96+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ironclad is the highest with the exhaust synergies and universal scaling with Strength and Vulnerable",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112073667397038192",
+      "type": "Default",
+      "timestamp": "2023-05-28T02:43:43.637+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think you should be assigned 2 classes and given the choice of 1 more",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112087433727713424",
+      "type": "Default",
+      "timestamp": "2023-05-28T03:38:25.786+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this all sorta just breaks pure snecko mode. several of the new catagorys would be awful to see if your getting all of the characters at the same time (damaging skill, tackle, 0 cost attack, self dubuff and cost reduction sound really bad). Theres issues with characters only have one (or sometimes no) cards that fit into a new category. For example most characters only have a single attack that gives block and does damage; which makes having that be an UD card be almost the exact same as just adding iron wave into sneckos card pool. another example is metascaling most characters don't have a card that fits, for pure snecko nearly half of the cards all all hexaghost and if you were to play normal snecko its worse; you could select ironclad, gremlins and champ and only have feed be in the pool.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112087515810234458",
+      "type": "Default",
+      "timestamp": "2023-05-28T03:38:45.356+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A lot of these card catagorys are so narrow that I don't think they should be card catagorys at all as they would only work if you were to spefically select the characters that take advantage of them (how can I use damaging skill without silent or hexaghost, no even if I did pick those characters making a poison deck with only a few poison cards sounds awful)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112087727756808263",
+      "type": "Default",
+      "timestamp": "2023-05-28T03:39:35.888+09:00",
+      "timestampEdited": "2023-05-28T03:40:06.52+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this revamp only work if you were to just delete pure snecko; which would make me sad because snecko is pretty dull without it.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112088713367933010",
+      "type": "Default",
+      "timestamp": "2023-05-28T03:43:30.876+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I do like some of the card category though, UNID All enemies is a good additon as snecko is crippled by not having good aoe. 1 and 2 cost blocks are also good; they give you a block card that will at least function as you expect rather then having a chance of giving you something like just lucky. I like 1/2/3 cost attack for the same reason, I just dislike 0 cost attack because theres no where near enough good 0 cost attacks to make me not want to skip the card every time",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112091560113352774",
+      "type": "Default",
+      "timestamp": "2023-05-28T03:54:49.593+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lastly I disagree that sneckos cards should all be focused on supporting your offclass options. by making them all geared towards offclass you end up hurting sneckos early game even more. If we make all of snecko's attacks utility based how are you going to get past a floor 6 gremlin nob anymore? How about the act 1 boss? By stripping away the few cards snecko has with good raw power the character is even more laser focused on your endgame and even more at risk of your unid cards becoming curses in a crucial fight (because you couldn't take reliable normal cards to help you).",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112106676351402086",
+      "type": "Default",
+      "timestamp": "2023-05-28T04:54:53.585+09:00",
+      "timestampEdited": "2023-05-28T04:59:38.271+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for leaving a thorough response; much appreciated to have my proposal taken seriously.\n\nI think I need to clarify on a few of the categories you had complaints about.\n> damaging skill\nA lot of characters have damaging skills in their main mechanics. Silent has Poison/Shivs, Defect has Lightning/Dark orbs, Watcher has a couple Wrath entries, but also Pressure Points and Wreath of Flame, Hexa has Soulburn, Slime Boss has Goop, Champ has Stances (which, similar to Wrath, would actually count thanks to a couple proposed changes I made to how these categories find cards), and Hermit has a bit of Bruise. The ones that get left out of Main Mechanic damaging skills are Ironclad, Automaton, and Gremlins, but there still exist some others to compensate. Ironclad has Flame Barrier, Gremlins have Change-O, Gremlin Arms, and Irritability. (Auto truly has nothing.) Between all these, there seemed to be enough, so long as you know what to count (anything that does damage directly, or by a token card, or in a keyword.)\n> tackle\nThis is part of the same UNID card that Strike is, not its own card. Similarly, Twice/Double/Triple is all one UNID card.\n> 0 cost attack\nWhen I played Snecko, I felt that the existing UNID 0-cost was too weak to take on a character that could discount the cost of stronger cards. However, in discussions with other people on the server, I discovered that some of them actually liked it a lot and took it with decent frequency. I feel that moving it to common and narrowing it to attacks made it much more consistent in what effect you were going to get from that most of the time, and doing so allowed more room to build around limited energy, especially in the early game, when you needed it to be accessible. As far as variety goes, most characters have at least 2 of these, and a decent number have 3 or 4.\n> self debuff\nI thought this would be good general value if you can play around the downside, with compensation in identifying it, but I could understand if it doesn't work out.\n> cost reduction\nI'm not sure why you wouldn't want this one. It can either be cards of good value that can discount themselves (great with snecko) or cards that can discount other cards (also great with snecko). If you could elaborate, that would be great.\n> most characters only have a single attack that gives block and does damage\nThe category in question here is \"damaging block\", which is not just limited to attacks, but can include things like Flame Barrier. That being said, I did look through that category's card pool again, and there wasn't as much there as I thought there were. I can understand this one not working out as well (and maybe it's for the best; it's kind of a boring card design lol).\n> metascaling\nYou may be surprised to learn there are a total of 17 Metascaling cards: Feed, Alchemize, Genetic Algorithm, Lesson Learned, Wish, 2nd-5th Seals (healing could technically count as metascaling, but then it would bleed heavily into the UNID HP card, so I'm not counting it on the technicality that it doesn't actually scale you), Cultist Strike, Mass Feed, Gem Finder, Cursed Weapon, Golden Bullet, Scavenge, and Dead or Alive (18 if you count Hand of Greed, but that's colorless and can't be accessed right now). Every character has at least 1, except for Champ. I don't think this card pool being small is an issue, really. It's a powerful and fun effect, and being a small card pool doesn't necessarily mean abusable if most of the cards are strong. If you're going to identify a card that has a strong effect most of the time, it's because you're looking for something that fits your specific deck, rather than trying to single out the one broken card from the bunch, like Wraith Form from UNID Dex currently.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112110120277659768",
+      "type": "Default",
+      "timestamp": "2023-05-28T05:08:34.681+09:00",
+      "timestampEdited": "2023-05-28T05:09:03.31+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> this all sorta just breaks pure snecko mode\nThis was not created with Pure Snecko in mind - I was under the impression that Pure Snecko was intended to be a self-imposed challenge for maximum chaos. I did end up prioritizing playing Pure Snecko when I was still playing them, because picking 3 classes was just a question of which classes had the best average value, and I didn't like that, so I went Pure Snecko for less abusable situations. So I can understand if Pure Snecko has become the main mode for you too, even if your reasons are different from mine. It's valid to still want Pure Snecko to be a good mode, so I wouldn't want to just ignore if this idea broke that. That said, I am not a dev; it'd be up to them to figure out how they want to handle that aspect, but I'm still open to learning why you think this would happen and if there's any way we could come up with solutions.\n> lastly I disagree that sneckos cards should all be focused on supporting your offclass options. by making them all geared towards offclass you end up hurting sneckos early game even more.\nI used Defect's card pool as an analogy in the document, as it works well to achieve this. It's not pure utility; it has damage and block and other useful frontloaded effects attached to the utility, e.g. Beam Cell, GFTE, and Equilibrium. Snecko does already have a number of cards that are pure utility, such as Soul Roll, Shift, Soul Cleanse, Nope, etc. which I do think actually make the card pool worse already, for the exact reason you were worried. I would like to see those cards changed to have more raw value and would want to avoid reworking the rest of the card pool to be like those cards. Snake Rake I think is a pretty decent example of a good utility card, as it also has some damage attached to it you can lean on.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112119458010517544",
+      "type": "Default",
+      "timestamp": "2023-05-28T05:45:40.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think I have the most elaborate response (maybe I'll think of an essay later), but, I think having Snecko's pool range be wider/more vague is part of their identity? What you said about prioritising cards with the most reliable value as opposed to the ones with the highest upside is 100% correct. Snecko's deck building early on is just trying to survive, and if you find a lot of combo pieces/bombs you can't reliably take them all the time. \n\nI think I would just prefer if Snecko stayed unreliable?",
+      "author": {
+        "id": "861897183632556042",
+        "name": "drinzjc",
+        "discriminator": "0000",
+        "nickname": "drinzjc",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/861897183632556042/a90190e7d243ea91f56178ceba3b5a0f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112123946549137449",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:03:31.121+09:00",
+      "timestampEdited": "2023-05-28T06:03:46.483+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The chaos is definitely part of the fun. That said, I think that Snecko feels kind of same-y after a while, as a lot of good decks are either spamming random cards until something works, or identifying a few cards that make the whole deck broken. Others have expressed this kind of feeling too. Having these experiences are fine in moderation, but as they are dominant right now, they make Snecko start to feel boring to play if you want play them frequently.\n\nI personally think that the fact that your deck is randomized at the start of each combat would still keep the chaotic nature of the character in place. No other character that I know of has this level of chaos, regardless of if we tighten the categories to be more reliable.",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112125299925201039",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:08:53.791+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mh, maybe I just haven't gotten burnout of Snecko yet. But, what did you mean with \"...your deck is randomized at the start of each combat...\" did I miss something, are you saying that the entire deck will be randomised?",
+      "author": {
+        "id": "861897183632556042",
+        "name": "drinzjc",
+        "discriminator": "0000",
+        "nickname": "drinzjc",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/861897183632556042/a90190e7d243ea91f56178ceba3b5a0f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112127010576277606",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:15:41.642+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "every Unidentified card changes into a new card of its category at the start of every new combat",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112127116478255124",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:16:06.891+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "an unidentified rare power could be demon form in one fight, barricade the next, corruption the next",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112128819973853226",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:22:53.036+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "could be glad form later",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112128850458054686",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:23:00.304+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "could be buffer in the neow fight",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112128980447928391",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:23:31.296+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, that could be fun, I assume it's just restricted to the parameters you're giving to the cards?",
+      "author": {
+        "id": "861897183632556042",
+        "name": "drinzjc",
+        "discriminator": "0000",
+        "nickname": "drinzjc",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/861897183632556042/a90190e7d243ea91f56178ceba3b5a0f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112131514528972811",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:33:35.468+09:00",
+      "timestampEdited": "2023-05-28T06:41:53.973+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like a mix of being able to pick **Offclass** cards after combat and some in combat card generation, could effectively replace Unidentified cards, due to the fact that it allows for both chaotic runs as well as **Prismatic Shard** experience, that said there is a lot of stuff that Snecko's card pool needs to do by itself, as relying on Offclass would create situations where your deck ends up barely working because you didn't get something in card rewards, and relying on card generation to fix that is pretty taxing on HP.\n Also I agree on the fact that cards that deal random damage doesn't feel like it adds anything of value to the character, as the only time when that random aspect matters it is because card didn't do enough and you need to spend more resources on what the first card was supposed to achieve. That said I don't have great ideas for replacement that would fix that problem.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112131824882302977",
+      "type": "Default",
+      "timestamp": "2023-05-28T06:34:49.462+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~hey sandtag~~\n~~did the random damage of Sal the Bounty Hunter make her feel less enjoyable to play?~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112156633016041572",
+      "type": "Reply",
+      "timestamp": "2023-05-28T08:13:24.182+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was under the impression that healing cards wouldn't count as meta scaling as they already had their own category. For self debuff I don't see it being reliable when its coming off every character. Theres far to many cards it can turn into that all do something different; picking it wouldn't have much purpose as your unlikely to get one of the cards you acutally want. same thing goes 0 cost attack your just going to get some junk like just lucky, slice or chain clash with just a chance of getting a good card like flash of steal and if you do get a good card its not going to be high impact enough to ID. For the record I think unid 0 cost is terrible right now. If cost reduction gives corruption its alright; but otherwise its more simple to just muddle your cards to reduce the cost (cost reduction just clashes with muddle in general); maybe the card would work if snecko's gameplan changed but I cannot imagine it being good on a snecko thats similar to the one that exists now.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112106676351402086",
+        "channelId": "1112024068338761788",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112157321473302538",
+      "type": "Default",
+      "timestamp": "2023-05-28T08:16:08.323+09:00",
+      "timestampEdited": "2023-05-28T08:18:35.147+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For damaging skills you cannot really scale with most of them as they do set damage and you wont have easy access to cards that buff them up (like accuracy or extra toasty). Taking an attack has more staying power for the whole game. Tackles just only work with slime boss cards for the most part, without the abitily to select slime boss spefically (and exclude the other characters by extension) its super underwhelming (just like how UNID strike is right now for the current snecko)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112469058328203314",
+      "type": "Default",
+      "timestamp": "2023-05-29T04:54:52.181+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how the heck did I not see this before",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112480892066218048",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:41:53.564+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wow my brain has melted",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDEE0",
+            "code": "\uD83E\uDEE0",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fae0.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "147832879294971905",
+              "name": "therealevab8684",
+              "discriminator": "0000",
+              "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+            },
+            {
+              "id": "634010749492264960",
+              "name": "lxixcdxx",
+              "discriminator": "0000",
+              "nickname": "d/dx(6x^70)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1112480959640641637",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:42:09.675+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112481085356527636",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:42:39.648+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "although I will say I agree with staneks point that there needs to be more general access to unidentified cards",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112481341112602645",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:43:40.625+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I only say that cause right now it feels like your fighting between picking sneckos cards and an offclass card",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112481864016462026",
+      "type": "Reply",
+      "timestamp": "2023-05-29T05:45:45.295+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is proof that this is a good snecko idea",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385579862103949322",
+          "name": "zero113",
+          "discriminator": "0000",
+          "nickname": "zero-113 Slimeboss Enjoyer",
+          "color": "#F47FFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "801195514866565132",
+              "name": "Server Booster",
+              "color": "#F47FFF",
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1112480892066218048",
+        "channelId": "1112024068338761788",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112481913723170958",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:45:57.146+09:00",
+      "timestampEdited": "2023-05-29T05:46:04.783+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482032996593794",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:46:25.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snecko:\nYou either turn off your brain, or it will forcibly turn off your brain",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482047324340384",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:46:28.999+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it definitely sounds like a great idea",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482098247368845",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:46:41.14+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just wish I knew how to code lol",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482112730308660",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:46:44.593+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "0103221",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482266216661135",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:47:21.187+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am now aware of another thread oh dear god",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482284323479763",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:47:25.504+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if unidentified cards are removed from snecko eventually as the current plan is to do, I will make this its own mod",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482422748106783",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:47:58.507+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hope that they don't have to get removed",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482446521405451",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:48:04.175+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482487348764722",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:48:13.909+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was kinda thinking like a prayer wheel scenario tbh",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482550733078598",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:48:29.021+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so something like <more power> is on by default?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482565618663538",
+      "type": "Reply",
+      "timestamp": "2023-05-29T05:48:32.57+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "More Power!",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 (0) :energy_snek: / The Snecko / Downfall\n\nObtain an additional **Upgrade**d Unidentified card reward at the end of combat.",
+          "color": "#60A4BD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Mb83thmN8VNMLenicFkAXfVuC1WHFHOPB92v2yuIVGs/https/slay.ocean.lol/downfall/cards/sneckomod-morepower.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112482550733078598",
+        "channelId": "1112024068338761788",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112482590872584254",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:48:38.591+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "where like one is sneckos cards and the other is a random draft of offclass cards",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112482610359324693",
+      "type": "Default",
+      "timestamp": "2023-05-29T05:48:43.237+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that works too",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113620133345247232",
+      "type": "Default",
+      "timestamp": "2023-06-01T09:08:49.851+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I read the whole thing and have a lot to say",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1113620133051641866",
+          "url": "https://cdn.discordapp.com/attachments/1112024068338761788/1113620133051641866/message.txt?ex=6718e751&is=671795d1&hm=8cb7b4e88def0ade35b4115b41877a582f1d7ef2369ebb28f55dad46b9cedb53&",
+          "fileName": "message.txt",
+          "fileSizeBytes": 4080
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113735987944763443",
+      "type": "Default",
+      "timestamp": "2023-06-01T16:49:11.74+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, as I have said it is basically impossible to code that Evab envision while maintaining cross mod compatibility for Snecko.\n Btw, I prefer just replacing Unidentified cards with just an option to pick Offclass cards directly.",
+      "author": {
+        "id": "473694374329319444",
+        "name": "stanek_k",
+        "discriminator": "0000",
+        "nickname": "Stanek",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473694374329319444/f1845cf7568b0951f043f67850d8f931.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113911151340822548",
+      "type": "Default",
+      "timestamp": "2023-06-02T04:25:13.948+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would it be possible to pick 3 cards on generation using the current criteria, list them in the card textbook and display them in the mouseover preview? 3 cards is enough variety to feel like snecko but consistent enough that you can plan your deck",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1113911812044374068",
+      "type": "Default",
+      "timestamp": "2023-06-02T04:27:51.472+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also that opens the door to snecko class cards that split an unid card into all 3 options in combat",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 70
+}

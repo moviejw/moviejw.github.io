@@ -1,0 +1,653 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1228434697244377179",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Low Profile (Hermit card) - Daily Discussion 12 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:37:12.7360233+09:00",
+  "messages": [
+    {
+      "id": "1228434698552868987",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:00:55.348+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228434699505107056",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:00:55.575+09:00",
+      "timestampEdited": "2024-04-14T05:00:30.722+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nMad Gremlin (Collectible card): 1\nRage Break (Gremlins card): 6\nCorrosive Spit (Slime Boss card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228434701740671047",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:00:56.108+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 508/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Low Profile",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3alowprofile",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hermit:  / The Hermit / Downfall\n\nGain 7 (9) **Block** :p_block:.\nGains 4 (5) additional **Block** :p_block: for each of your debuffs.",
+          "color": "#99590B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/LB8ZGoE8CRHwMh_ZWdQDblwUi8blkAjVk79AzknhAQU/https/slay.ocean.lol/downfall/cards/hermit-lowprofile.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/LB8ZGoE8CRHwMh_ZWdQDblwUi8blkAjVk79AzknhAQU/https/slay.ocean.lol/downfall/cards/hermit-lowprofile.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228435894273576985",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:05:40.43+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "generally you don’t want to have debuffs but if your deck runs off determination can be ok",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436059785003030",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:06:19.891+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "several strong hermit cards get debuffs - nhb, gestalt, overwhelming power",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436110011662379",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:06:31.866+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<hermit type=attack draw>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436112775839755",
+      "type": "Reply",
+      "timestamp": "2024-04-13T05:06:32.525+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Quickdraw",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3aquickdraw",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDeal 9 (11) damage.\nDraw 2 (3) cards.\nNext turn, draw 1 less card.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hQ88ZAwkAKKXGnvDTq1qJ6R631mDDK_G7P8i0zq2WUI/https/slay.ocean.lol/downfall/cards/hermit-quickdraw.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<hermit type=attack draw> = quickdraw, 26.13"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1228436110011662379",
+        "channelId": "1228434697244377179",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1228436208028483704",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:06:55.235+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and virtue exists- you can clear after use",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436314425262080",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:07:20.602+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "synergy with <hermit gain block weak>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436316732260494",
+      "type": "Reply",
+      "timestamp": "2024-04-13T05:07:21.152+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hole Up",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3aholeup",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_hermit:  / The Hermit / Downfall\n\nGain 12 (16) **Block** :p_block:.\nGain 2 **Weak** :p_weak:.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xAKq1vRW-9KJbchFoMlC8tr5mIgUmpcnViTpZI4-B0g/https/slay.ocean.lol/downfall/cards/hermit-holeup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<hermit gain block weak> = hole up, 82.14"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1228436314425262080",
+        "channelId": "1228434697244377179",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1228436659612291142",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:08:42.901+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hermit does not have temp str/dex tho, excepting pots and augmenter",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228436912105193492",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:09:43.1+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "early game valuation is not that high inherently-only good into lagu and ok into sencheese, meh vs nob even w vuln",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228439007982256209",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:18:02.796+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like this card in theory, but have had trouble making it work in practice. The initial output just isn’t very good, and one of the more common debuffs that enemies (especially in act 2) put on you is frail. Frail does count towards low profile, but the overall block still gets reduced by 25 percent, which is also rounded down, as most things in slay the spire are. If the only debuff on you is frail, the 11 will then get cut to 8.25, which will round down to 8. You can use virtue or orange pellets to cleanse it, but then you are also removing any other debuffs, and playing a poor block card. It’s at it’s best when you have access to virtue and several debuffing cards like hole up, overwhelming power, quickdraw, spray n’ pray, and still have your starting memento. I still just find it finicky and inconsistent, and since one of the synergy pieces with it is hole up, you could simply play more copies of that and have a much better mitigation package overall. \n\nVirtue is definitely key to supporting this, because the reward of a good block card isn’t really worth applying tons of debuffs to yourself. One place where low profile can be quite good is lagavulin, since the strength and dex down effects both count as unique debuffs for it, making it very efficient late in the fight. There are a few other enemies like spire growth, the chosen, snecko and champ that this card performs very well against, but I still don’t take this very often over other options. The upgrade is not a priority, only a +2, and you need at least 2 debuffs for it to be above average, which can make its value inconsistent.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228441756899610674",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:28:58.189+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I prefer ghostly presence tbh",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228441811412844597",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:29:11.186+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "presence is definitely flat better if you land the weak",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228442050131787806",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:30:08.101+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also I realized that it has sentries in the art but sentries don't inflict any debuffs",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228442105601458236",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:30:21.326+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lagavulin would have probably made more sense",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228442596465180784",
+      "type": "Default",
+      "timestamp": "2024-04-13T05:32:18.357+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nobbers in the beta art :cat_hermit:",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228450426396086393",
+      "type": "Default",
+      "timestamp": "2024-04-13T06:03:25.158+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I feel like by the time you have enough self debuff cards to know that's the deck you're playing, you don't need a mediocre block common. So this card just doesn't have a home in any run",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228461850941984839",
+      "type": "Default",
+      "timestamp": "2024-04-13T06:48:48.982+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In a lot of cases this is a common that blocks for 11 which is okay value. You wont ALWAYS be debuffed though, even though it is common for enemies and your own cards to inflict you; low profile has a chance to fail when you need it the most. This cards purpose is to work with determination to add block into your scaling engine, it can do a good job there but it competes with hole up. Hole up offers 12 block for 1 and gives you strength with determination in play. While low profile might give you more block its not contributing to winning the fight faster. It can still block for like 19 on turn 3 though, its notably good ageist the heart and in other boss fights where you need the additional block.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228461985608237150",
+      "type": "Default",
+      "timestamp": "2024-04-13T06:49:21.089+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "low profile is sort of hard to take but it does do its job when you have a deck that needs one",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1228474859844014182",
+      "type": "Default",
+      "timestamp": "2024-04-13T07:40:30.546+09:00",
+      "timestampEdited": "2024-04-13T07:40:49.953+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card has a gimmick, but I've taken it as a block card that *occasionally* is better and it does semi-decently well.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

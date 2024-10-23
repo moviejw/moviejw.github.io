@@ -1,0 +1,128 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1115007617799049227",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Refactor (Automaton card) - Daily Discussion 4 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:07:53.6097153+09:00",
+  "messages": [
+    {
+      "id": "1115007678054416384",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:02:26.289+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1115007679182680074",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:02:26.558+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vote for tomorrow's Daily Discussion (2023-06-06 오전 5:00) here!",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fine Tuning",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 0 :energy_auto: / The Automaton / Downfall\n\n (**Retain**.)\nIncrease all numbers on Encoded cards by 1 except cost.\n**Exhaust**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AACWrrAmqhTlwijhuqsQ6xhEbPzT622PtGpEd5cesvg/https/slay.ocean.lol/downfall/cards/bronze-finetuning.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Frontload",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 2 :energy_auto: / The Automaton / Downfall\n\nGain 8 (11) **Block** :p_block:.\n**Encode.**\n**Compile** - Function gains **Retain**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AnYev73Xhqlocuk_4j4z7gj71uw-X2j4u0JU82__0xY/https/slay.ocean.lol/downfall/cards/bronze-frontload.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Fragment",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_auto: / The Automaton / Downfall\n\nGain 4 (5) **Block** :p_block:.\nDeal 4 (5) damage.\n**Encode.**",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/B4PhP7X3pMSw2jThD2b9ygsV-HsVQPm63I01U-tbB30/https/slay.ocean.lol/downfall/cards/bronze-formatencoded.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

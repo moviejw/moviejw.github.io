@@ -1,0 +1,591 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1060649092809773097",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Protective Gear (Slime Boss relic) - Daily Discussion 5 Jan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:24:44.0341123+09:00",
+  "messages": [
+    {
+      "id": "1060649094672023643",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:00:50.077+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060649105170374737",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:00:52.58+09:00",
+      "timestampEdited": "2023-01-07T05:00:15.663+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nWander Bots (Guardian relic): 6\nTricksy (Gremlins card): 1\nGet Latest (Automaton card): 3",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060649112648826940",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:00:54.363+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 78/781",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#006B0C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/xTD6dHihnKKoiYI8IEBqRBK39o7OK4N_lCrrApQ3-2A/https/sts-downfall.fandom.com/wiki/Special%3AFilepath/Protective_Gear.png",
+            "width": 146,
+            "height": 160
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/xTD6dHihnKKoiYI8IEBqRBK39o7OK4N_lCrrApQ3-2A/https/sts-downfall.fandom.com/wiki/Special%3AFilepath/Protective_Gear.png",
+              "width": 146,
+              "height": 160
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Protective Gear",
+          "url": "https://sts-downfall.fandom.com/wiki/Protective_Gear?embnum=0",
+          "timestamp": null,
+          "description": "Shop Relic / The Slime Boss\n\nReduce the damage you take from **Tackles** by 3.\n*The best defense is a good offense.*",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xTD6dHihnKKoiYI8IEBqRBK39o7OK4N_lCrrApQ3-2A/https/sts-downfall.fandom.com/wiki/Special%3AFilepath/Protective_Gear.png",
+            "width": 146,
+            "height": 160
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060650517702922240",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:06:29.354+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not a bad relic if you rely on tackles for damage",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060650583868067961",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:06:45.129+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "without <Recklessness> it fully nullifies all tackle self-damage",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060650586434973716",
+      "type": "Reply",
+      "timestamp": "2023-01-06T05:06:45.741+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Recklessness",
+          "url": "https://sts-downfall.fandom.com/wiki/Recklessness?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :e_slime: / The Slime Boss\n\n**Tackles** deal 6 (9) more damage to enemies, and 1 more damage to you.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h5fhtM8xtPsYPW3zvUPtQPFtMzlu8BDUUPnS3x5myWU/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-Recklessness.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1060650583868067961",
+        "channelId": "1060649092809773097",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1060658021669273784",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:36:18.439+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ludicrously broken relic. Even without a heavy focus on tackles just being able to take any <spear tackle> you see is incredible",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060658024194265199",
+      "type": "Reply",
+      "timestamp": "2023-01-06T05:36:19.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spear Tackle",
+          "url": "https://sts-downfall.fandom.com/wiki/Spear_Tackle?embnum=0",
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_slime: / The Slime Boss\n\nDeal 11 (13) damage.\nTake 3 damage.\nDraw 2 (3) cards.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/npmzYeqOzEuPr26C_adXSENmAKXZBhPnEjkUkmE8LB0/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-SpearTackle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1060658021669273784",
+        "channelId": "1060649092809773097",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1060658276515205261",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:37:19.199+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and with tackle synergies this is the single best relic you can ask for. Being a shop relic its hard to find though.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060658695899463690",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:38:59.188+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In a way this relic can be seen as \"gain 3-12 block each turn\" putting things like thread and needle to shame",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060658935314514071",
+      "type": "Default",
+      "timestamp": "2023-01-06T05:39:56.269+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but its a bit better then that since you can play tackles with no block and finish off fights sooner in situations that would of normally costed health",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060669344029360198",
+      "type": "Default",
+      "timestamp": "2023-01-06T06:21:17.9+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it just makes the 1 downside of tackles non-existent. And even though it brings back self-damage, recklessness with it is still really strong.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060791600340537374",
+      "type": "Default",
+      "timestamp": "2023-01-06T14:27:06.076+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's really nice, but I don't think it's broken. Tackles are definitely good, but they have very little support in slime bosses card pool, and goop can often do a better job of supplying burst damage with more in class synergies. The best case scenario for protective gear is that you can afford it in a very early shop, and have 1-2 tackles already taken. Most of the time though, you will probably see it in a shop part way through act 2 or 3 and not be able to lean into tackles that hard. On average, this probably generates more like 3-6 block a turn even in pretty good cases for it, and keep in mind that it's not true block, you could just as easily not have drafted tackles or payed gold for protective gear and just played block cards like prepare instead. I will admit, that if you can get your hands on 3-4 spear tackle+ and some energy gain, this is a very nice part of that engine, but I just don't see the average scenario for it being that strong.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060792091761979423",
+      "type": "Default",
+      "timestamp": "2023-01-06T14:29:03.24+09:00",
+      "timestampEdited": "2023-01-06T14:29:44.025+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Next to shop relics like clockwork souvenir, orange pellets, dolly's mirror, membership card, medical kit, runic capacitor and in some situations chem X, strange spoon and abacus, this feels pretty tame to me",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060797426795036763",
+      "type": "Default",
+      "timestamp": "2023-01-06T14:50:15.211+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Often your using tackles + goop in the same deck. Theres enough tackle support but even without any support spear tackle is great and personally my priority pick for common slime boss attacks.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060797526070001694",
+      "type": "20",
+      "timestamp": "2023-01-06T14:50:38.88+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Consult Playbook",
+          "url": "https://sts-downfall.fandom.com/wiki/Consult_Playbook?embnum=0",
+          "timestamp": null,
+          "description": "Rare Skill / 2 (1) :e_slime: / The Slime Boss\n\nGain 4 random **Tackles.** They cost 1 less this combat.\n**Exhaust**.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/26JgXXJvyUdD-N_atahRnm3-LFdVrrLLC5N9lUaMtm8/https/oceanuwu.github.io/downfallbot/altered/img/cards/Slimebound-ConsultPlaybook.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1060797524589416468",
+        "name": "i",
+        "user": {
+          "id": "106068236000329728",
+          "name": "oceanuwu",
+          "discriminator": "0000",
+          "nickname": "ocean",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+        }
+      }
+    },
+    {
+      "id": "1060797716688539648",
+      "type": "Default",
+      "timestamp": "2023-01-06T14:51:24.327+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty strong card, theres also the event that replaces strikes with tackles which is pretty strong",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}

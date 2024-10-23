@@ -1,0 +1,862 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1050864438821015592",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Bubble Barrier (Gremlins card) - Daily Discussion 9 Dec",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:27:31.9123503+09:00",
+  "messages": [
+    {
+      "id": "1050864440859435058",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:00:06.818+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050864446433669200",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:00:08.147+09:00",
+      "timestampEdited": "2022-12-11T05:00:30.119+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nBrawl (Hermit card): 4\nSnapshot (Hermit card): 2\nPrismatic Spray (Guardian card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050864450833485904",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:00:09.196+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#B26BDB",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/odIk31shhpYFjdz4vRguphicpkxHbYSeWdFTJl5IpRU/https/oceanuwu.github.io/downfallbot/altered/img/cards/Gremlin-BubbleBarrier.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/odIk31shhpYFjdz4vRguphicpkxHbYSeWdFTJl5IpRU/https/oceanuwu.github.io/downfallbot/altered/img/cards/Gremlin-BubbleBarrier.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Bubble Barrier",
+          "url": "https://sts-downfall.fandom.com/wiki/Bubble_Barrier?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 1 (0) :e_gremlin: / The Gremlins\n\nWhenever you play a card this turn, gain 2 **Block:p_block:**.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/odIk31shhpYFjdz4vRguphicpkxHbYSeWdFTJl5IpRU/https/oceanuwu.github.io/downfallbot/altered/img/cards/Gremlin-BubbleBarrier.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050864653917507635",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:00:57.615+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the best  beta art",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050864699782205533",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:01:08.55+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "defect with a double barrel is great",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050869920788910100",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:21:53.335+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I made both arts therefore good card. I will not take any criticism of this card",
+      "author": {
+        "id": "710803246519943169",
+        "name": "thelethargicweirdo",
+        "discriminator": "0000",
+        "nickname": "TheLethargicWeirdo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710803246519943169/3a777a896fff3af2a31bce8cc2e0302f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050870540883210291",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:24:21.177+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jk I never really pick it up",
+      "author": {
+        "id": "710803246519943169",
+        "name": "thelethargicweirdo",
+        "discriminator": "0000",
+        "nickname": "TheLethargicWeirdo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710803246519943169/3a777a896fff3af2a31bce8cc2e0302f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050876261611864125",
+      "type": "Default",
+      "timestamp": "2022-12-10T05:47:05.105+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It goes well with shivs and wards so I sometimes take it",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050931078917013534",
+      "type": "Default",
+      "timestamp": "2022-12-10T09:24:54.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's kinda like after image but for a single turn, on a character that gets about as much card spam.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050944322704523274",
+      "type": "Default",
+      "timestamp": "2022-12-10T10:17:32.134+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It has a good synergy with <Aggressive Defense>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050944324738752552",
+      "type": "Reply",
+      "timestamp": "2022-12-10T10:17:32.619+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aggressive Defense",
+          "url": "https://sts-downfall.fandom.com/wiki/Aggressive_Defense?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_gremlin: / The Gremlins\n\nDeal 6 (8) damage.\nWhenever you gain **Block:p_block:** this turn, the enemy loses 3 (4) HP.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2cJNjR33HoxrQiMOUNuO5V98wCSrhNj_hXJOLTuvOoI/https/oceanuwu.github.io/downfallbot/altered/img/cards/Gremlin-AggressiveDefense.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1050944322704523274",
+        "channelId": "1050864438821015592",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1050944623159279726",
+      "type": "Default",
+      "timestamp": "2022-12-10T10:18:43.768+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dealing up to 12 damage to an enemy per ward on shield gremlin",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050945156020441108",
+      "type": "Default",
+      "timestamp": "2022-12-10T10:20:50.812+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Didn't it use to say \"whenever you would get block this turn deal x damage instead\" or something along those lines?",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050945197854445568",
+      "type": "Default",
+      "timestamp": "2022-12-10T10:21:00.786+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or am I imagining things",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050955961138937866",
+      "type": "Default",
+      "timestamp": "2022-12-10T11:03:46.953+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really solid card if you have card spam synergies, and gremlins are pretty good at making lots of wards and shivs. The upgrade feels pretty important, since you can play more cards after it when it costs 0, letting it perform like steam barrier. Pretty solid pick up in late act 1 or early act 2 to be able to block big hits more consistently, gets much better once you have the 4th energy, and can be an important piece in keeping gremlins alive with their very small health pools. Generally, you will have a good sense of when you want this, the key thing is being able to spam cheap cards",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051023745394933810",
+      "type": "Reply",
+      "timestamp": "2022-12-10T15:33:07.979+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats a different card i think",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1050945156020441108",
+        "channelId": "1050864438821015592",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1051023785333096539",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:33:17.501+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think that ones a rare one",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051023848784527380",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:33:32.629+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<whenever you would get block this turn deal x damage instead>",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051023850525171763",
+      "type": "Reply",
+      "timestamp": "2022-12-10T15:33:33.044+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Talk to the Hand",
+          "url": "https://slay-the-spire.fandom.com/wiki/Talk_to_the_Hand?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_purple: / The Watcher\n\nDeal 5 (7) damage.\nWhenever you attack this enemy, gain 2 (3) **Block:p_block:**.\n**Exhaust**.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/84By9_6X1I8hATrCLSQ2nyInztTDiS7O8IX4q1u0sWI/https/oceanuwu.github.io/downfallbot/altered/img/cards/Purple-TalktotheHand.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<whenever you would get block this turn deal x damage instead> = talk to the hand, 29% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1051023848784527380",
+        "channelId": "1050864438821015592",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1051023865830187018",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:33:36.693+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051023919995441212",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:33:49.607+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<rare attack whenever you would get block this turn deal x damage instead>",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051023921836736532",
+      "type": "Reply",
+      "timestamp": "2022-12-10T15:33:50.046+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Time Warp",
+          "url": "https://sts-downfall.fandom.com/wiki/Time_Warp?embnum=0",
+          "timestamp": null,
+          "description": "Rare Attack / 0 :e_hexa: / The Hexaghost\n\nDeal 4 (6) damage.\nWhenever you Advance or Retract, return this from the discard pile.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RFNvS5hYmq_SuaYlLEZ7ywn_BaNGn-cbnBhRR5w9A-U/https/oceanuwu.github.io/downfallbot/altered/img/cards/Hexa_ghost-TimeWarp.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<rare attack whenever you would get block this turn deal x damage instead> = time warp, 31% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1051023919995441212",
+        "channelId": "1050864438821015592",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1051023943911362612",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:33:55.309+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fuuu",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051024127131123833",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:34:38.992+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<whenever you gain block this turn instead deal damage equal to block>",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1051024129450586182",
+      "type": "Reply",
+      "timestamp": "2022-12-10T15:34:39.545+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flip Out",
+          "url": "https://sts-downfall.fandom.com/wiki/Flip_Out?embnum=0",
+          "timestamp": null,
+          "description": "Rare Attack / 1 :e_gremlin: / The Gremlins\n\nDeal 11 (15) damage.\nWhenever you would gain **Block:p_block:** this turn, instead deal that much damage to ALL enemies.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ykQB9en6oD6GGjjqSP2o-FmaAyi-BCTlzwoVpYdUto8/https/oceanuwu.github.io/downfallbot/altered/img/cards/Gremlin-FlipOut.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<whenever you gain block this turn instead deal damage equal to block> = flip out, 47% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1051024127131123833",
+        "channelId": "1050864438821015592",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1051024144474583040",
+      "type": "Default",
+      "timestamp": "2022-12-10T15:34:43.127+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats it",
+      "author": {
+        "id": "879963653762338856",
+        "name": "ezeygames",
+        "discriminator": "0000",
+        "nickname": "EzeyGames",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/879963653762338856/85d41814d5d205e572773fce5f63ef75.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 26
+}

@@ -1,0 +1,753 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1167191125036118046",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Rope-a-dope (Champ card) - Daily Discussion 26 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:51:47.4822495+09:00",
+  "messages": [
+    {
+      "id": "1167191127913402502",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:00:50.257+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191129511444511",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:00:50.638+09:00",
+      "timestampEdited": "2023-10-28T05:01:01.806+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nSuffering (Collector card): 2\nBit Shift (Automaton card): 1\nPile On! (Slime Boss card): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191134771093544",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:00:51.892+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 372/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rope-a-dope",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3afalsecounter",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_champ: / The Champ / Downfall\n\nGain 12 **Block** :p_block:.\nNext turn, gain :energy_champ:  ( :energy_champ:) and draw 2 cards.\n:finisher:   **Finisher**",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Mb8RIjJuk8L4twKWeixdiwyU_2SFffnHwHqsyDEj39A/https/slay.ocean.lol/downfall/cards/champ-falsecounter.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Mb8RIjJuk8L4twKWeixdiwyU_2SFffnHwHqsyDEj39A/https/slay.ocean.lol/downfall/cards/champ-falsecounter.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191365680103586",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:01:46.945+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me likey",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191369429827704",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:01:47.839+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Next turn <adrenaline>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191372084826135",
+      "type": "Reply",
+      "timestamp": "2023-10-27T05:01:48.472+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Adrenaline",
+          "url": "https://slay-the-spire.fandom.com/wiki/Adrenaline",
+          "timestamp": null,
+          "description": "Rare Skill / 0 :green_energy: / The Silent / Slay the Spire\n\nGain :green_energy: ( :green_energy:).\nDraw 2 cards.\n**Exhaust**.",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/a2fSsqJGeBcOAxASKkNBxluU1qZn6RuRoNTSZiwVDnU/https/slay.ocean.lol/slay%2520the%2520spire/cards/adrenaline.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1167191369429827704",
+        "channelId": "1167191125036118046",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1167191424043855974",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:02:00.86+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P good",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191457753477281",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:02:08.897+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Blue guy says it best",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191482004946974",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:02:14.679+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Me likey\"",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191490871693432",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:02:16.793+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Me too",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167191606689009746",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:02:44.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me likey",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167192398175145994",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:05:53.111+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one of my favorite beta arts on any downfall card",
+      "author": {
+        "id": "125461462276636672",
+        "name": "occultpyromancer",
+        "discriminator": "0000",
+        "nickname": "occultpyromancer, briar patcher",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/125461462276636672/a2b60458f09ed817b4e79feaec0e1a21.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167192701616263188",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:07:05.457+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are betas where I like them but I like the normal art a lot better",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167192771023601665",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:07:22.005+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "forked flame has an extremely sleek normal art",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167193208439185408",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:09:06.293+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and it was based on the forked flame beta art",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167193224817950740",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:09:10.198+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":forkedflame:",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167193899152969800",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:11:50.972+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why is he turned 180 degrees at the waist?",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167194025481228358",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:12:21.091+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or possibly the neck",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167194081840087050",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:12:34.528+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He built diffrent",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167198666252099624",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:30:47.537+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quite a strong card, it gives you an adrenaline next turn, whilst giving you a nice chunk of block this turn so that you can safely wait for it to kick in. Champ doesn't have very many tools to draw or gain additional energy, and really benefits from both effects. As a finisher, it will sometimes give you bonus block, or sometimes give you strength scaling, but it can also be a dead draw if you aren't able to enter a stance, so make sure you have plenty of cheap stance entries to support this. One upside to this particular finisher is that the added card draw next turn makes it much more likely that you can re-enter a stance to continue chaining more finishers or to get combo bonuses, which gives it a big leg up over other finishers, and makes it far more consistent than they are on average.\n\nFor a defensive skill with delayed effects, this is actually quite good even in act 1. 12 block should cover most of the incoming damage in hallway fights, and is even pretty efficient into gremlin nob's rage, whilst also helping you have enough gas to quickly finish them off before the added strength matters too much. Obviously great against lagavulin, but also fairly effective into tri-sentries as a way to block their damage and draw through the dazes faster. It continues to do well into act 2 hallway fights, where the high block value does well against frail, and the adrenaline effect lets you end fights fairly quickly. Rope-a-dope is pretty much exactly what you want in acts 3 and 4, as it blocks very efficiently, and helps you to draw into your scaling cards more quickly while also giving you plenty of energy to set everything up.\n\nUpgrade is identical to adrenaline, but notably this card doesn't exhaust, so it's fairly strong, especially if you have lots of expensive cards to deploy. Very strong with either runic pyramid (lining the block up for the right turn, increase consistency) or snecko eye (lower cost). Probably deserves a nerf, the numbers are really high.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167200800653705276",
+      "type": "Reply",
+      "timestamp": "2023-10-27T05:39:16.418+09:00",
+      "timestampEdited": "2023-10-27T05:39:26.211+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah im that way with <guardian metallicize>",
+      "author": {
+        "id": "125461462276636672",
+        "name": "occultpyromancer",
+        "discriminator": "0000",
+        "nickname": "occultpyromancer, briar patcher",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/125461462276636672/a2b60458f09ed817b4e79feaec0e1a21.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "370020173610090537",
+          "name": "blueguy_",
+          "discriminator": "0000",
+          "nickname": "Blue Guy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1167192701616263188",
+        "channelId": "1167191125036118046",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1167200802918633554",
+      "type": "Reply",
+      "timestamp": "2023-10-27T05:39:16.958+09:00",
+      "timestampEdited": "2023-10-27T05:39:26.744+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Metallicize",
+          "url": "https://slay.ocean.lol/w/downfall/guardian%3ametallicize",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_guardian: / The Guardian / Downfall\n\nAt the end of your turn, gain 3 (4) **Block** :p_block:.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9wYAcsDNUVecpw-5eY2OGMOtnMOTuMkEO6YUyylPZ40/https/slay.ocean.lol/downfall/cards/guardian-metallicize.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1167200800653705276",
+        "channelId": "1167191125036118046",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1167201410153193522",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:41:41.734+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey thats my beta art",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1167203638721134702",
+      "type": "Default",
+      "timestamp": "2023-10-27T05:50:33.066+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Me when the dope is roped",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE33",
+            "code": "flushed",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f633.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "125461462276636672",
+              "name": "occultpyromancer",
+              "discriminator": "0000",
+              "nickname": "occultpyromancer, briar patcher",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/125461462276636672/a2b60458f09ed817b4e79feaec0e1a21.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

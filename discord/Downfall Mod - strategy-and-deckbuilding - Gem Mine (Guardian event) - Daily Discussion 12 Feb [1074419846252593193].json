@@ -1,0 +1,565 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1074419846252593193",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Gem Mine (Guardian event) - Daily Discussion 12 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:21:27.4074872+09:00",
+  "messages": [
+    {
+      "id": "1074419848156811374",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:00:53.556+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074419893279150240",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:01:04.314+09:00",
+      "timestampEdited": "2023-02-14T05:01:13.48+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nShort Stature (Gremlins relic): 0\nSuper Snecko Eye (relic): 11\nBerserker's Guide (Champ relic): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074419901256712312",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:01:06.216+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 116/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#465042",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/bt2FsDQqIqs6ns1biFBnHoJzchs5BrI9WLR6HuJCMrs/https/oceanuwu.github.io/slaytabase/extraImages/events/gemmine.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/bt2FsDQqIqs6ns1biFBnHoJzchs5BrI9WLR6HuJCMrs/https/oceanuwu.github.io/slaytabase/extraImages/events/gemmine.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Gem Mine",
+          "url": "https://sts-downfall.fandom.com/wiki/Gem_Mine?embnum=0",
+          "timestamp": null,
+          "description": "Event / Act ? / The Guardian / Downfall\n```ansi\n\u001B[2;37m[Rob\u001B[2;37m] \u001B[2;31mFight Gremlins. \u001B[2;32mGain Pick of Rhapsody.\n``````ansi\n\u001B[2;37m[Mine with Pick \u001B[0;2m(have pick of rhapsody with at least 1 charge)\u001B[2;37m] \u001B[2;32mGain random Gem. \u001B[2;31mLose Pick charge.\n``````ansi\n\u001B[2;37m[Dig with Claws\u001B[2;37m] \u001B[2;32mGain random Gem. \u001B[2;31mLose \n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#465042",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bt2FsDQqIqs6ns1biFBnHoJzchs5BrI9WLR6HuJCMrs/https/oceanuwu.github.io/slaytabase/extraImages/events/gemmine.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421224442167426",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:06:21.688+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a classic game of \"how much do you want to improve your long term by sacrificing short term strength\"",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421613824581802",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:07:54.524+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like this event! It's fun. I get to go MINING.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421727548952697",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:08:21.638+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mine all day mine all night",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421765188636804",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:08:30.612+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what you expect:\nquartz, citrine, onyx\nwhat you get:\nsapphire",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421775728918649",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:08:33.125+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "always nice to see this event",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421789020663858",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:08:36.294+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<sapphire>",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074421791948296316",
+      "type": "Reply",
+      "timestamp": "2023-02-13T05:08:36.992+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sapphire",
+          "url": "https://sts-downfall.fandom.com/wiki/Sapphire?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :e_guardian: / The Guardian / Downfall\n\n**Gem.**\n**Brace** 3.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fgvTrQLCTogmPmeXbs0SZRrI6RD-rZ5PgFkI_AXGo7Y/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-Sapphire.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1074421789020663858",
+        "channelId": "1074419846252593193",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1074421822944190495",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:08:44.382+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE2D",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074428894200995941",
+      "type": "Default",
+      "timestamp": "2023-02-13T05:36:50.301+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1074428893991284816",
+          "url": "https://cdn.discordapp.com/attachments/1074419846252593193/1074428893991284816/image.png?ex=6718b5a2&is=67176422&hm=9c1bb32e74ef3799afe64914302a3da296c03d6220c0a5451d96bad0d92f2f0c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 2676
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074442546132033706",
+      "type": "Default",
+      "timestamp": "2023-02-13T06:31:05.175+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lose the game. Instantly kills you.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074536109637382225",
+      "type": "Default",
+      "timestamp": "2023-02-13T12:42:52.453+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I always mine at least 1-2 times, there's no way that I'll get 3 campfires wrere it's better to mine than to upgrade something",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074536463045234798",
+      "type": "Default",
+      "timestamp": "2023-02-13T12:44:16.712+09:00",
+      "timestampEdited": "2023-02-13T12:44:57.34+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<prismatic attack>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1074536576505368666",
+      "type": "Reply",
+      "timestamp": "2023-02-13T12:44:43.763+09:00",
+      "timestampEdited": "2023-02-13T12:44:58.39+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Prismatic Spray",
+          "url": "https://sts-downfall.fandom.com/wiki/Prismatic_Spray?embnum=0",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_guardian: / The Guardian / Downfall\n\nDeal 2 (4) damage for each **Gem** in this card.\n[ **Socket** ]\n[ **Socket** ]\n[ **Socket** ]",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mCzHSljpAK68OsceGaffaOsGfswOlodiJLMj0UpHHBY/https/oceanuwu.github.io/slaytabase/Downfall/cards/Guardian-PrismaticSpray.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<prismatic attack> = prismatic spray, 76% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1074536463045234798",
+        "channelId": "1074419846252593193",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1074558199312679022",
+      "type": "Default",
+      "timestamp": "2023-02-13T14:10:39.042+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very powerful event to run into. Fighting the gremlins can be a little scary, but usually defensive mode does a good job of making sure you don't take much more than 10 damage (assuming you draw your curl up in a reasonable amount of time). I think it's nearly always correct to just burn through all the pick charges at this event. It's very expensive to use an entire action at a campfire to mine for 2 gems with one charge. Not only do you miss out on an upgrade, but you can't socket those new gems until you reach the next campfire, which can really put you in a weak position for a while. When you do get the gem mine event, try to look at where the next available campfire is and gauge whether or not you can afford to have some unsocketed gems in your deck for a while. How good is your matchup against gremlin nob right now? Do you have a good potion to make that fight easier (fire pot, flex pot, etc)? Digging with your claws is a bit more difficult to evaluate. You will usually be able to afford doing it once, but depending on how many elites you are planning to fight on your current path and how good your current decks early game is, it can really change. Obviously you would like to leave this event with tons of gems to give you a power spike at your next campfire, but you have to weigh that against your current health, path and deck strength. Definitely don't go too crazy if you don't currently have very many open sockets available, random unsocketed gems can be very bad draws, especially against gremlin nob, tri sentries, and the chosen.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}

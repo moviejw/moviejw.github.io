@@ -1,0 +1,892 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "961838569071198278",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Act 1 Deck + map",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:31:59.1192089+09:00",
+  "messages": [
+    {
+      "id": "961854412815466546",
+      "type": "21",
+      "timestamp": "2022-04-08T14:06:02.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385579862103949322",
+          "name": "zero113",
+          "discriminator": "0000",
+          "nickname": "zero-113 Slimeboss Enjoyer",
+          "color": "#F47FFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "801195514866565132",
+              "name": "Server Booster",
+              "color": "#F47FFF",
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "961838569071198278",
+        "channelId": "960646043689713705",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "961854505316646942",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:06:24.46+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Act 1 with Guardian?",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961854568034082816",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:06:39.413+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just played through act 1 with guardian heres my current deck list.",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961854567727915058",
+          "url": "https://cdn.discordapp.com/attachments/961838569071198278/961854567727915058/unknown.png?ex=6718845f&is=671732df&hm=1dcdb3141b9c937bdcf7bca3314cf4cba86209cd50ae71276dc00b8d730d0fff&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2006679
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961854692093222933",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:07:08.991+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961854691900293130",
+          "url": "https://cdn.discordapp.com/attachments/961838569071198278/961854691900293130/unknown.png?ex=6718847c&is=671732fc&hm=86c32edef11a6193563cbfe70ebbfc725618ce9bfbd5ce8f46689db28389b7db&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1101162
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961854810917842974",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:07:37.321+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961854810691371038",
+          "url": "https://cdn.discordapp.com/attachments/961838569071198278/961854810691371038/unknown.png?ex=67188499&is=67173319&hm=3f1b7067d1b62e20aadc33acaa8a6abb0111423fa53d99c6657428c5ee3e5f7f&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1093838
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961854954493075467",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:08:11.552+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961854954283364382",
+          "url": "https://cdn.discordapp.com/attachments/961838569071198278/961854954283364382/unknown.png?ex=671884bb&is=6717333b&hm=90de09c82bfda33aace0264c176694daacd23b77148b420c62882e1a19352dd2&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1141803
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961854989905592340",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:08:19.995+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Deck wasn't great, ended up being a close call.",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961855086722699304",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:08:43.078+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Never found gems for the twin strike",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961855161574252584",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:09:00.924+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@zero-113 Slimeboss Enjoyer",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385579862103949322",
+          "name": "zero113",
+          "discriminator": "0000",
+          "nickname": "zero-113 Slimeboss Enjoyer",
+          "color": "#F47FFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "801195514866565132",
+              "name": "Server Booster",
+              "color": "#F47FFF",
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "961855819891245066",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:11:37.879+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imo upgrade Twin Slam asap, look for certain gems like crystal shivs or crystal wards that don’t really care about the mana cost of playing the Twin Slam fully. Guardian Act 1 is a bit rough but it pops off massively afterwards.",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961856038565466134",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:12:30.015+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I never found those gems.",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961856818508865537",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:15:35.968+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, and if you find Gem Cannon, grab it",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961856871185150013",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:15:48.527+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s almost a won run",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961857125875871784",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:16:49.25+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm a fine of the sentry wave myself",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858036568322099",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:20:26.376+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm amazed you beat an elite with that",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858059095916596",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:20:31.747+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which one was it",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858296942329876",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:21:28.454+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basically, take Planning, Exploit Gems and such 0-cost cards, throw temporary stat gems on them",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858359655559228",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:21:43.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you see Quartz, do the same",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858616124657674",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:22:44.553+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Extra card gems like Fragmented Gems can go on more resource-heavy stuff, like Twin Slam\nAlthough temp Dexterity + Crystal Ward on Twin Slam is pretty good also",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858815379267584",
+      "type": "Reply",
+      "timestamp": "2022-04-08T14:23:32.059+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sentries I think? Also uh, lacuvulin? I used a potion for lacuvulin that trivialized the fight. That one was in one of the late question marks",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385579862103949322",
+          "name": "zero113",
+          "discriminator": "0000",
+          "nickname": "zero-113 Slimeboss Enjoyer",
+          "color": "#F47FFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "801195514866565132",
+              "name": "Server Booster",
+              "color": "#F47FFF",
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "961858036568322099",
+        "channelId": "961838569071198278",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "961858900255211550",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:23:52.295+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don’t be afraid to take more than 1 Vent Steam btw, one of the best socket cards",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961858994085961738",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:24:14.666+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any offensive/utility gem can go on them",
+      "author": {
+        "id": "226619231377162240",
+        "name": "macrosis2020",
+        "discriminator": "0000",
+        "nickname": "Macrosis",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226619231377162240/25f53823f76acfe74306d2fea6c88bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961859004622061579",
+      "type": "Reply",
+      "timestamp": "2022-04-08T14:24:17.178+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sentries makes sense",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "202016667729920001",
+          "name": "ascendedone",
+          "discriminator": "0000",
+          "nickname": "Ascended One",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "961858815379267584",
+        "channelId": "961838569071198278",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "961859149174571029",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:24:51.642+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What potion trivializes laga?",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961860537141043211",
+      "type": "Reply",
+      "timestamp": "2022-04-08T14:30:22.559+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "RNG potion, the one that drafts 3 cards and puts them into stasis for you.",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "385579862103949322",
+          "name": "zero113",
+          "discriminator": "0000",
+          "nickname": "zero-113 Slimeboss Enjoyer",
+          "color": "#F47FFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "801195514866565132",
+              "name": "Server Booster",
+              "color": "#F47FFF",
+              "position": 12
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "961859149174571029",
+        "channelId": "961838569071198278",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "961860629172461568",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:30:44.501+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh ok I'm assuming fierce bash?",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961860756830294026",
+      "type": "Default",
+      "timestamp": "2022-04-08T14:31:14.937+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fierce bash was one of them, but there were 2 other cards that got thrown in because of the potion",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961873233580265472",
+      "type": "Default",
+      "timestamp": "2022-04-08T15:20:49.626+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961873233345413160",
+          "url": "https://cdn.discordapp.com/attachments/961838569071198278/961873233345413160/unknown.png?ex=671895c1&is=67174441&hm=66f9cc230e392f1664303c80bdbf855bccc6ddebd2495dcd4f9449ecf20b19a7&",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1196137
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961873288290762803",
+      "type": "Default",
+      "timestamp": "2022-04-08T15:21:02.67+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heres how the run ended up if anyones curious",
+      "author": {
+        "id": "202016667729920001",
+        "name": "ascendedone",
+        "discriminator": "0000",
+        "nickname": "Ascended One",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202016667729920001/9eb66c0e09606bd0702bc3e51b6c06ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 29
+}

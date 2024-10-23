@@ -1,0 +1,1824 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1211402362007064636",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Inflict Agony (Collector card) - Daily Discussion 25 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:42:04.6330414+09:00",
+  "messages": [
+    {
+      "id": "1211402363592507433",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:00:30.248+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211402364813058151",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:00:30.539+09:00",
+      "timestampEdited": "2024-02-27T05:00:40.174+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nFinalize (Collector card): 1\nDice Crush (Snecko card): 5\nBoost (Automaton card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211402367539482654",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:00:31.189+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 461/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Inflict Agony",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3ainflictagony",
+          "timestamp": null,
+          "description": "Common Attack / 2 :energy_collector: / The Collector / Downfall\n\nDeal 12 (18) damage.\nIf the enemy is not **Afflicted,** apply 2 **Weak** :p_weak: and **Vulnerable** :p_vulnerable:.",
+          "color": "#26664D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2quPo4L385Zp62pLWfL47G3oDsEwIjZ2W5HqeZFkPX4/https/slay.ocean.lol/downfall/cards/collector-inflictagony.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2quPo4L385Zp62pLWfL47G3oDsEwIjZ2W5HqeZFkPX4/https/slay.ocean.lol/downfall/cards/collector-inflictagony.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211404523894087781",
+      "type": "Reply",
+      "timestamp": "2024-02-26T05:09:05.304+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<UPPERCUT>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "961824443653574687",
+          "name": "Slaytabase",
+          "discriminator": "2770",
+          "nickname": "DownfallBot Jr.",
+          "color": "#F1C40F",
+          "isBot": true,
+          "roles": [
+            {
+              "id": "1131771178810363924",
+              "name": "Downfallbot Jr.",
+              "color": "#F1C40F",
+              "position": 2
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1211402367539482654",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211404526368587848",
+      "type": "Reply",
+      "timestamp": "2024-02-26T05:09:05.894+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Uppercut",
+          "url": "https://slay-the-spire.fandom.com/wiki/Uppercut",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 13 damage.\nApply 1 (2) **Weak** :p_weak:.\nApply 1 (2) **Vulnerable** :p_vulnerable:.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/566aKar3xMox2f9irG6OZHaIzr5owSB8y21H_xPwEjk/https/slay.ocean.lol/slay%2520the%2520spire/cards/uppercut.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211404523894087781",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211405903384019034",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:14:34.2+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is uncommon now",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211405993871671326",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:14:55.774+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bot needs an update",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211410323647766599",
+      "type": "Default",
+      "timestamp": "2024-02-26T05:32:08.073+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Collector’s Uppercut",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211424504530862140",
+      "type": "Default",
+      "timestamp": "2024-02-26T06:28:29.059+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "easy snap pick early",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211424577142390894",
+      "type": "Default",
+      "timestamp": "2024-02-26T06:28:46.371+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "even if you don’t land the weak vuln who cares 27 to the face",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211424856378187786",
+      "type": "Default",
+      "timestamp": "2024-02-26T06:29:52.946+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "later depends a bit on how your deck is dealing damage or applying afflicted",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211435866451480576",
+      "type": "Default",
+      "timestamp": "2024-02-26T07:13:37.952+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very powerful card, applying 2 weak and 2 vulnerable while dealing respectable damage for 2 energy is extremely efficient, and can enable several of collectors synergies (Doom stacking and affliction matters). Compares very favorably to uppercut and clothesline. The catch is that if the enemy is already afflicted, you just get the damage, which makes it a far worse card, but you have to keep in mind that if the enemy is already afflicted, then things are likely going well for you in that fight. I can deal with a card having some inconsistency issues if they mostly apply in situations that are naturally good for me. Also keep in mind that in fights with multiple enemies, it will almost always be able to apply the conditions to someone.\n\nThe upgrade is quite good, a +6 can really help your front-loading needs in short and medium length fights. In act 1 especially, the damage is very valuable, and the conditions can also help clear tough fights like gremlin nob and lagavulin more cleanly. It definitely falls off somewhat later in the run, as the damage is less valuable, and your deck probably has found some other ways to apply conditions like Dark Lord Form. If you find one early, it's a great pickup, but if you don't see one until later on (more likely now that it's uncommon) then you do have to consider how effectively your current deck applies afflicted before taking it. Good with either snecko eye or runic pyramid, and does solid damage with necronomicon.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211846948596748360",
+      "type": "Default",
+      "timestamp": "2024-02-27T10:27:07.573+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card was really broken before its nerf. Its still pretty strong now, i'd even say that its upgrade giving you +6 damage still makes it pretty overtuned",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211847668561747978",
+      "type": "Default",
+      "timestamp": "2024-02-27T10:29:59.226+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when its unupgraded its value is closer to that of uppercut; although still better since it provides double the debuffs and is on a character which has stronger synergy with them. Upgrading to get +18 damage makes this card worth playing on an enemy which is already afflicted since it just does good damage at that point; which sort of goes ageist the cards design.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863411185553508",
+      "type": "Default",
+      "timestamp": "2024-02-27T11:32:32.56+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait I just realized, since we've recently had the dice crush discussion, let's compare <dice crush>'s damage to this",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863414024966195",
+      "type": "Reply",
+      "timestamp": "2024-02-27T11:32:33.237+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dice Crush",
+          "url": "https://slay.ocean.lol/w/downfall/sneckomod%3adicecrush",
+          "timestamp": null,
+          "description": "Common Attack / 2 :energy_snek: / The Snecko / Downfall\n\nDeal 10 (14) - 16 (20) damage.",
+          "color": "#60A4BD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BckWsaJX9r-wlxgwZRNsTRwOEJYfo9KjfhB5Bggw2AE/https/slay.ocean.lol/downfall/cards/sneckomod-dicecrush.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211863411185553508",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211863521902469140",
+      "type": "Default",
+      "timestamp": "2024-02-27T11:32:58.957+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh wow would you look at that, it averages to around the same",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863609442046053",
+      "type": "Default",
+      "timestamp": "2024-02-27T11:33:19.828+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and inflict agony can apply 2 weak and vuln",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863631961260062",
+      "type": "Default",
+      "timestamp": "2024-02-27T11:33:25.197+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if only this card had some secondary effect like... idk applying 2 weak and vulnerable",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863636545503263",
+      "type": "Default",
+      "timestamp": "2024-02-27T11:33:26.29+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and inflict agony is fucking consistent",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211863678106865665",
+      "type": "Reply",
+      "timestamp": "2024-02-27T11:33:36.199+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh wait...",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211863631961260062",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211902946049007676",
+      "type": "Default",
+      "timestamp": "2024-02-27T14:09:38.406+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Tail Whip>",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211902948146417714",
+      "type": "Reply",
+      "timestamp": "2024-02-27T14:09:38.906+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tail Whip",
+          "url": "https://slay.ocean.lol/w/downfall/sneckomod%3atailwhip",
+          "timestamp": null,
+          "description": "Basic Attack / 2 :energy_snek: / The Snecko / Downfall\n\nDeal 10 (13) damage.\nApply 0 (1) - 2 **Weak** :p_weak:.\nApply 0 (1) - 2 **Vulnerable** :p_vulnerable:.",
+          "color": "#60A4BD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ep2VCxN9cOJB89RlejP4yO7uAfB8rRgMqeIBII0RPs8/https/slay.ocean.lol/downfall/cards/sneckomod-tailwhip.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211902946049007676",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1211908221107699732",
+      "type": "Default",
+      "timestamp": "2024-02-27T14:30:36.078+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tbh tail whip is a basic but still sadpercut",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211943143813947422",
+      "type": "Default",
+      "timestamp": "2024-02-27T16:49:22.3+09:00",
+      "timestampEdited": "2024-02-27T16:49:32.572+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "most of snecko's cards are sad versions of other cards",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1211943734426734633",
+      "type": "Default",
+      "timestamp": "2024-02-27T16:51:43.113+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which I'm not entirely against the idea of that being the case if any of these situations were true\nA) They were consistent\nB) There was more consistent alternatives\nC) They synergized well with each other/off color cards\nD) They were of a similar power level (funny infinite draw go brrr)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1212033596458672218",
+      "type": "Reply",
+      "timestamp": "2024-02-27T22:48:47.891+09:00",
+      "timestampEdited": "2024-02-27T22:48:51.199+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tbh I would like tail whip much more if it were 1-2 weak/vuln by base and upgrade made it 1-3",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211908221107699732",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212033663332515880",
+      "type": "Default",
+      "timestamp": "2024-02-27T22:49:03.835+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the main problem with unupgraded tail whip is that you can get xcomed and die",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212041474628263997",
+      "type": "Reply",
+      "timestamp": "2024-02-27T23:20:06.193+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that would not be very sadpercut, unfortunately",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212033596458672218",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212041628328661046",
+      "type": "Default",
+      "timestamp": "2024-02-27T23:20:42.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1-2 by base tail whip- might even be slightly preferable to uppercut-",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212042511015485533",
+      "type": "Default",
+      "timestamp": "2024-02-27T23:24:13.287+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Base game card but sad” is not something I want to strive to",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212108400008241252",
+      "type": "Reply",
+      "timestamp": "2024-02-28T03:46:02.447+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not having a single reliable option is just the snecko experience",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212033663332515880",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212110262740713573",
+      "type": "Reply",
+      "timestamp": "2024-02-28T03:53:26.557+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "exotic form is reliable",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212108400008241252",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212110269686354061",
+      "type": "Default",
+      "timestamp": "2024-02-28T03:53:28.213+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "too reliable",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212110644112003092",
+      "type": "Default",
+      "timestamp": "2024-02-28T03:54:57.483+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes but getting a specific rare isn't",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212132060957777920",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:20:03.657+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6 damage upgrade is pretty standard for a 2 cost common/uncommon attack that hits once. That's like playing 2 strikes vs 2 upgraded strikes",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1211846948596748360",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212141110177169408",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:56:01.159+09:00",
+      "timestampEdited": "2024-02-28T05:56:15.803+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most cards that have a +6 upgrade or more have much higher numbers, like <automa-beam>, <immolate>and <greater hurting>. Other 2 cost single hit attacks that are in the 15'ish damage range, like <toasty> <predator> <sneaky strike>, and <sword of night> all have lower more reasonable upgrades.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212132060957777920",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212141135003127909",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:56:07.078+09:00",
+      "timestampEdited": "2024-02-28T05:56:16.785+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Automa-Beam",
+          "url": "https://slay.ocean.lol/w/downfall/expansioncontent%3ahyperbeam",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :energy_champ: / Boss / Downfall\n\nDeal 26 (34) damage to ALL enemies.\nNext turn, lose :energy_champ:.\n**Exhaust**.",
+          "color": "#B0385C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BxYnAip27qMvvo9du-754inBywoAXipCUf5nm2KSm5Q/https/slay.ocean.lol/downfall/cards/expansioncontent-hyperbeam.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Immolate",
+          "url": "https://slay-the-spire.fandom.com/wiki/Immolate",
+          "timestamp": null,
+          "description": "Rare Attack / 2 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 21 (28) damage to ALL enemies.\nAdd a Burn into your discard pile.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QgtyATfuG9O9YljSDkxIHqK_O8W6t0NuBuK4YGI4zxs/https/slay.ocean.lol/slay%2520the%2520spire/cards/immolate.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Greater Hurting",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3agreaterhurting",
+          "timestamp": null,
+          "description": "Special Attack / 2 :colorless_energy: / Colorless / Downfall\n\n**Ethereal**.\nDeal 20 (26) damage.\nIf this card is **Exhaust**ed, gain a Greatest Hurting. (+.)",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2typqAjQ6I3zLxTrhMInPLnfWj0JX68_-MdwfE-b6jc/https/slay.ocean.lol/downfall/cards/collector-greaterhurting.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Toasty!",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3atoasty",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 14 (18) damage.\nApply **Soulburn** :p_soulburn: equal to unblocked damage dealt.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ah6M8-pu9i6ptXI9J9_Nl4LTYsCC8d-QPWCu0HT7aNI/https/slay.ocean.lol/downfall/cards/hexamod-toasty.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Predator",
+          "url": "https://slay-the-spire.fandom.com/wiki/Predator",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :green_energy: / The Silent / Slay the Spire\n\nDeal 15 (20) damage.\nNext turn, draw 2 additional cards.",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iaKAO5-9b0Y3ZNaWzbgKPIlxbjyYBBp44Y8D_yYispY/https/slay.ocean.lol/slay%2520the%2520spire/cards/predator.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Sneaky Strike",
+          "url": "https://slay-the-spire.fandom.com/wiki/Sneaky_Strike",
+          "timestamp": null,
+          "description": "Common Attack / 2 :green_energy: / The Silent / Slay the Spire\n\nDeal 12 (16) damage.\nIf you have discarded a card this turn,\ngain :green_energy: :green_energy:.",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7Q2n_Z8ncd_7g1w8_SFFEApHtpNgxXLxdXQq04LtERY/https/slay.ocean.lol/slay%2520the%2520spire/cards/underhandedstrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Sword of Night",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aswordofdarkness",
+          "timestamp": null,
+          "description": "Common Attack / 2 :energy_hexa: / The Hexaghost / Downfall\n\nIf the current Ghostflame is not Ignited, gain :energy_hexa: .\nDeal 14 (18) damage.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/85aPSbB2QmzpilBZf80rfGrwPApxRcYc3L4CoHYEMfc/https/slay.ocean.lol/downfall/cards/hexamod-swordofdarkness.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212141110177169408",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212157596354478101",
+      "type": "Reply",
+      "timestamp": "2024-02-28T07:01:31.77+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "toasty is an 8 damage upgrade,\nsneaky costs 0, sword of night costs 1",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212141110177169408",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212157754626539541",
+      "type": "Default",
+      "timestamp": "2024-02-28T07:02:09.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "predator i grant tho",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212297077934006352",
+      "type": "Default",
+      "timestamp": "2024-02-28T16:15:46.77+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A 1.5x damage increase is way above average, and it's on a card where that's not even the main focus, which honestly makes the card feel a little weird to me",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384945276985406",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:04:55.977+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<draw 2 cards attack watcher>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384948468711524",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:04:56.738+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wheel Kick",
+          "url": "https://slay-the-spire.fandom.com/wiki/Wheel_Kick",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :purple_energy: / The Watcher / Slay the Spire\n\nDeal 15 (20) damage.\nDraw 2 cards.",
+          "color": "#AF50F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gmsiUkHHlrOOn-f-G0OHmza8nvEFXjXHLT_49jGbV1E/https/slay.ocean.lol/slay%2520the%2520spire/cards/wheelkick.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<draw 2 cards attack watcher> = wheel kick, 85.40"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212384945276985406",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212385229591814164",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:06:03.763+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's watcher",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212385243886264440",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:06:07.171+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wheel kick and predator are the closest comparison since they're uncommon 2 cost attack that only gain damage on upgrade",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212385280158335000",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:06:15.819+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<predator>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212385283262124052",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:06:16.559+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Predator",
+          "url": "https://slay-the-spire.fandom.com/wiki/Predator",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :green_energy: / The Silent / Slay the Spire\n\nDeal 15 (20) damage.\nNext turn, draw 2 additional cards.",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iaKAO5-9b0Y3ZNaWzbgKPIlxbjyYBBp44Y8D_yYispY/https/slay.ocean.lol/slay%2520the%2520spire/cards/predator.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212385280158335000",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212385840534265857",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:08:29.423+09:00",
+      "timestampEdited": "2024-02-28T22:08:42.048+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The only thing you could argue is that the damage increse is more significant for collector since she has better access to vulnerable but then inflict agony punishes you for using it on enemies that are already vulnerable",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212386214871703593",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:09:58.672+09:00",
+      "timestampEdited": "2024-02-28T22:10:19.901+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<attack uncommon ironclad>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212386217853845564",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:09:59.383+09:00",
+      "timestampEdited": "2024-02-28T22:10:20.508+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Carnage",
+          "url": "https://slay-the-spire.fandom.com/wiki/Carnage",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :red_energy: / The Ironclad / Slay the Spire\n\n**Ethereal**.\nDeal 20 (28) damage.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sAczBQvi1-a3Aru3eiS3hMjB5BJ66oSdVy0bQ3N-TVU/https/slay.ocean.lol/slay%2520the%2520spire/cards/carnage.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<attack uncommon ironclad> = carnage, 33.06"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212386214871703593",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212386514403725342",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:11:10.086+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well this is ethereal",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212386533105999962",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:11:14.545+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but I get your point",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482818211450901",
+      "type": "Reply",
+      "timestamp": "2024-02-29T04:33:50.703+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not necessarily, since they just need to not be afflicted. They can be either vulnerable or weak, they just can't be both. I do think the upgrade on this is above average for a 2 cost attack, I believe +4 is relatively standard.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1212385840534265857",
+        "channelId": "1211402362007064636",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212506281349226496",
+      "type": "Default",
+      "timestamp": "2024-02-29T06:07:04.751+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think if it was 12(17) or 11(16) it would be fine",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 54
+}

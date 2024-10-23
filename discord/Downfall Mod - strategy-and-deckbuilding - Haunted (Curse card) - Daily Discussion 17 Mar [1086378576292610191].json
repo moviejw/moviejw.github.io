@@ -1,0 +1,639 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1086378576292610191",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Haunted (Curse card) - Daily Discussion 17 Mar",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:18:29.5830712+09:00",
+  "messages": [
+    {
+      "id": "1086378577907425363",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:00:36.911+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086378623965089792",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:00:47.892+09:00",
+      "timestampEdited": "2023-03-19T05:00:53.112+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nSharpen Blades (Gremlins card): 1\nFuture Plans (Guardian card): 8\nGremlin Gravestone (Gremlins relic): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086378630608846868",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:00:49.476+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 149/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#141414",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/RZbOjk8zuZUaG_r9ELbr_tMKMKntzxJkzKiS2k3EIsM/https/oceanuwu.github.io/slaytabase/Downfall/cards/Curse-Haunted.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/RZbOjk8zuZUaG_r9ELbr_tMKMKntzxJkzKiS2k3EIsM/https/oceanuwu.github.io/slaytabase/Downfall/cards/Curse-Haunted.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Haunted",
+          "url": "https://sts-downfall.fandom.com/wiki/Haunted?embnum=0",
+          "timestamp": null,
+          "description": "Curse / Downfall\n\n**Ethereal**. **Unplayable**.\nWhen drawn, add **Ethereal** to all cards in your hand.",
+          "color": "#141414",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RZbOjk8zuZUaG_r9ELbr_tMKMKntzxJkzKiS2k3EIsM/https/oceanuwu.github.io/slaytabase/Downfall/cards/Curse-Haunted.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086378846795870260",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:01:41.019+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAAA-",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086378859118743674",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:01:43.957+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Carbon the Wanderer",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "269245758752948224",
+          "name": "carbon_wanderer",
+          "discriminator": "0000",
+          "nickname": "Carbon the Wanderer",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1086379034855882752",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:02:25.856+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Funny with Hexa, not very funny with anyone else",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086379259410534440",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:03:19.394+09:00",
+      "timestampEdited": "2023-03-18T05:03:40.016+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i have not fond memories of this card making my whole block engine ethereal on Neow with Guardian",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086380956040044634",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:10:03.902+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello!",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086381125838045194",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:10:44.385+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would you like 2-10 FREE exhausts?",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086381195895513168",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:11:01.088+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exclusively takes the cards you're **not** using!",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086381545398476970",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:12:24.416+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card taught me that Retain overrides Ethereal",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086381586242609313",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:12:34.154+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which is good to know",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086381885346820217",
+      "type": "Default",
+      "timestamp": "2023-03-18T05:13:45.466+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "honestly I like downfall curses, most aren't universally bad and do have some thing that can help",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086394458062471238",
+      "type": "Default",
+      "timestamp": "2023-03-18T06:03:43.035+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<aged> be like",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086394460591632515",
+      "type": "Reply",
+      "timestamp": "2023-03-18T06:03:43.638+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aged",
+          "url": "https://sts-downfall.fandom.com/wiki/Aged?embnum=0",
+          "timestamp": null,
+          "description": "Curse / Downfall\n\n**Unplayable**. **Ethereal**.\nAt the end of your turn, add a Void to the top of your draw pile.",
+          "color": "#141414",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GPJ1yINnnjZMuL9sboEBgIoFxJg6zFW8p-mWY8VoB5g/https/oceanuwu.github.io/slaytabase/Downfall/cards/Curse-Aged.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1086394458062471238",
+        "channelId": "1086378576292610191",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1086489817707204709",
+      "type": "Default",
+      "timestamp": "2023-03-18T12:22:38.546+09:00",
+      "timestampEdited": "2023-03-18T12:23:44.292+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very strange curse. It definitely blocks you from drawing your important cards, but the ethereal can be an upside in some cases. You would need some exhaust synergies like dead branch, or to be in a fight that's long enough where exhausting out your strikes/defends/worse cards is valuable, but it definitely can happen. You still should generally remove this from your deck most of the time if you get it from an event. Most of the time, you are already playing the best cards from your hand, so having the cards you didn't want to play anyways get exhausted is fine. With all that being said, this can be very dangerous if your deck has really expensive and/or really key pieces to get out and you draw too many at once (forms, powers, scaling, mitigation). This is especially true against neow, where scaling is really important, and curses keep getting shuffled into your draw pile, especially if hermit was an act boss. Saving an energy potion, or specifically buying/including ways to generate extra energy can help solve those issues (mummified hand, ice cream, cards that give extra energy like turbo). Those same cards/relics can also help deal with icky and aged in the same fight. You can also draft additional scaling cards, so that you have backups in cases a key one is lost. Overall, an interesting curse that is well balanced, but can cause some serious issues if drawn at the wrong time in the neow fight, which can absolutely be frustrating. Repulsor is an excellent answer to neow for both guardian and automaton, though haunted will still apply ethereal to your cards.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086599651135848469",
+      "type": "Default",
+      "timestamp": "2023-03-18T19:39:04.876+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've had my deck reduced to 2 cards from Haunted before. It was against a boss.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086599839200059442",
+      "type": "Default",
+      "timestamp": "2023-03-18T19:39:49.714+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So I don’t like Haunted.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086707360162136174",
+      "type": "Default",
+      "timestamp": "2023-03-19T02:47:04.709+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've had slime boss decks where the only thing it does leave is a copy of just desserts, and I have 3 sampling slimes and a shit ton of dexterity. I love haunted.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1086707422720163900",
+      "type": "Default",
+      "timestamp": "2023-03-19T02:47:19.624+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You just have to play around it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 20
+}

@@ -1,0 +1,562 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1288591033604767825",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Here and Now (Hexaghost card) - Daily Discussion 25 Sep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:20:20.1762635+09:00",
+  "messages": [
+    {
+      "id": "1288591034519130256",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:00:43.493+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288591035882143805",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:00:43.818+09:00",
+      "timestampEdited": "2024-09-27T05:00:15.247+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nParry (Champ card): 2\nEncore (Gremlins card): 5\n??? U Skill (Snecko card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288591038738464768",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:00:44.499+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 674/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Here and Now",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3ahereandnow",
+          "timestamp": null,
+          "description": "Rare Power / 1 (0) :energy_hexa: / The Hexaghost / Downfall\n\nAt the start of your turn, gain :energy_hexa: .\nAt the end of your turn, **Extinguish** the current Ghostflame.",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/1vX9FkpivB9Xf9TX41bPb9LHMg4EksjBFIIvWlZo6Dw/https/slay.ocean.lol/downfall/cards/hexamod-hereandnow.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/1vX9FkpivB9Xf9TX41bPb9LHMg4EksjBFIIvWlZo6Dw/https/slay.ocean.lol/downfall/cards/hexamod-hereandnow.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288592084697223222",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:04:53.875+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's a lot going on with this card just for the fact that it extinguishes the current Ghostflame instead of preventing Advance at the end of your turn. You can still use it in Afterlife decks normally would before the update but there's a lot more tactical use to it now.\nYou can also just use this with <Xanatos Icy Charm> and go deep into Afterlife. The extra energy will allow you to save more Afterlife cards for later and to Retract more for the sake of <Into Shadow> or <Devil's Dance>.\nA cute thing you can do with this card is to activate it on the 5th Ghostflame (2nd Crushing) and have x4 draw Step Throughs for the rest of the combat.\n1. It no longer antisynergizes with Spirit Brand, so you don't lose Block that you would normally be getting, and you can still at least ignite one Ghostflame each turn to gain its effects.\n2. Extinguishing the Ghostflame allows you to reignite it, meaning you could stay on the Bolstering Ghostflame (or adjacent to it for the sake of <Forked Flame> and <Catch Up>) for tons of Block.\n3. It synergizes with <Soul Stone>, meaning if you use Afterlife to activate it, you can still Advance normally towards the Inferno, which is really cool.\n4. You can still cancel the debuff with Artifact or Orange Pellets, the power currently works like Biased Cognition where the buff and debuff are seperate.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288592110060048488",
+      "type": "Reply",
+      "timestamp": "2024-09-26T05:04:59.922+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Xanatos' Icy Charm",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aicecube",
+          "timestamp": null,
+          "description": "Boss Relic / The Hexaghost / Downfall\n\nGain :energy_hexa: at the start of your turn. Start each combat with 1 less **Intensity** :p_intensity:, and receive no **Intensity** :p_intensity: from the Inferno Ghostflame.\n*-# I feel... cold.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NnHrh1_qAGplCvI0o9eDEZM-tFzs_bm34OEnmgUy9pM/https/slay.ocean.lol/downfall/relics/icecube.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Into Shadow",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aintoshadow",
+          "timestamp": null,
+          "description": "Rare Power / 2 :energy_hexa: / The Hexaghost / Downfall\n\n​~~- **Ethereal**. -~~\nWhenever you **Retract,** your next card is free to play and **Exhaust**s.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JEJubmjTJis6to0vH_82f5BeI6Ha_FgOrOX0708B5YQ/https/slay.ocean.lol/downfall/cards/hexamod-intoshadow.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Devil's Dance",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3adevilsdance",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 (1) :energy_hexa: / The Hexaghost / Downfall\n\nWhenever you **Retract,** draw a card.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LS2ruyuTIgFRmQPgd4dFGBT3-g7j7k5hxJjKYwkHjLc/https/slay.ocean.lol/downfall/cards/hexamod-devilsdance.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Forked Flame",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aforkedflame",
+          "timestamp": null,
+          "description": "Rare Attack / 1 :energy_hexa: / The Hexaghost / Downfall\n\nDeal 5 (8) damage.\n**Ignite** the previous, then the next Ghostflames.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hGVfgomlTjpaWNgWoqhuwLQuZXwqIJVvp7gPwU9uF8o/https/slay.ocean.lol/downfall/cards/hexamod-forkedflame.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Catch Up",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3acatchup",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\n**Ignite** the previous Ghostflame 2 times.\n​~~- **Exhaust**. -~~",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bt51AIS_Quoz9eoazHjiVqjctD_Z0rg4QLUBq2JLdx0/https/slay.ocean.lol/downfall/cards/hexamod-catchup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Soul Stone",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3asoulstone",
+          "timestamp": null,
+          "description": "Rare Relic / The Hexaghost / Downfall\n\nWhenever you **Exhaust** 3 cards, **Ignite** the current Ghostflame.\n*-# A soul would liven this thing up!*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jIzO-QraAWmnSVXVezZ4yoiyTx68IjM7njUSCFMl3uI/https/slay.ocean.lol/downfall/relics/soulstone.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1288592084697223222",
+        "channelId": "1288591033604767825",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1288592311344697464",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:05:47.912+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, I was the person who put forward the buff.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288596945740501122",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:24:12.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haven't had many opportunities to use this yet, but I really like the QOL of the redesign. Being able to sit on one ghostflame lets you benefit from it multiple times and specialize a bit more, with the obvious best spot to land being bolstering, or just past bolstering if you have forked flame/catch up. If you really want the bonus energy, but are still interested in moving around the wheel at a reasonable pace, you can place a priority on drafting more advance cards, while still benefitting from lighting flames along the way. I'm not entirely convinced hexaghost needs the 4th energy that much, I've had a reasonable number of runs where it doesn't feel that critical due to afterlife and a bevy of very good 0 and 1 cost cards, and hexaghost benefits quite significantly from several non-energy boss relics. Still, I could definitely see decks that take tons of card draw, less afterlife (or afterlife cards they are more interested in playing manually), or more expensive cards that would benefit. Step Through in particular plays well with this since you can light several flames, stop before they get put out by the inferno flame, and then reap the rewards of drawing all those cards while also having plenty of energy to play them. You do have to pick your rare boss card reward before seeing your relic choice, so there's no way to know whether you will be offered a good 4th energy relic or not, but having the option to take this just in case beforehand is still nice if you have ended up in an energy hungry deck.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288597896039501895",
+      "type": "Reply",
+      "timestamp": "2024-09-26T05:27:59.407+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hexa can happily function on 3 energy but heavily appreciates a 4th to either save afterlife cards in longer fights, to advance or retract more for their respective synergies, and especially to pair with mark of the ether. And yeah, this is one of my favorite card reworks that was gone through other than the seal rework, but that's mostly because it opened up more room in the draft for new cards.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "303064746129752074",
+          "name": "kiku_katsumi",
+          "discriminator": "0000",
+          "nickname": "Kiku",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1288596945740501122",
+        "channelId": "1288591033604767825",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1288598028101357628",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:28:30.893+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mark of the ether really loves having a 4th energy to work with, but it probably isn't with here and now",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288598314148692021",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:29:39.092+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which is why I think here and now is in a very good spot balance wise right now, it feels good power level wise but on top of not being literal free energy like <pyromancy> it isn't really required in most decks",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288598317319589979",
+      "type": "Reply",
+      "timestamp": "2024-09-26T05:29:39.848+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pyromancy",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3apyromancy",
+          "timestamp": null,
+          "description": "Rare Power / 2 (1) :energy_collector: / The Collector / Downfall\n\n**Pyre.**\nAt the start of your turn, gain 1 **Reserve.**",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Y6Mo6ueFTYlkhYMi-NFz8lNHRRfRJi-5FAIjpkEKQ94/https/slay.ocean.lol/downfall/cards/collector-pyromancy.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1288598314148692021",
+        "channelId": "1288591033604767825",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1288598589920116787",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:30:44.841+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hexaghost can run 5 energy in wheel speedrun decks where you go through the entire wheel in like two turns with the help of fast forward and time warp though, it's variable IMO",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288599059539693669",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:32:36.807+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "on non energy boss relics yeah. Transforms from pandora's or astrolabe are more powerful because of afterlife, and snecko eye and runic pyramid are stronger than normal because of afterlife and the wheel respectively",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1288599220080607376",
+      "type": "Default",
+      "timestamp": "2024-09-26T05:33:15.083+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Upgrade is handy to lower the tempo cost of casting this, usually worth pursuing if you are stuck on 3 energy of very energy hungry. Much better with runic pyramid so that you can camp on the bolster flame more easily. Pellets can cleanse the debuff, and clockwork souvenir can block it if you draw it quickly enough. Ice cream lets you float the extra energy over between turns for big plays when you find your card draw. Bottled tornado makes it much easier to build around the effect, and bolster rod and mummified hand lower the tempo cost. I think overall here and now is in a pretty good place among the hexaghost rares, offering the 4th energy when you need it, and with a drawback that can be played around in multiple ways.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

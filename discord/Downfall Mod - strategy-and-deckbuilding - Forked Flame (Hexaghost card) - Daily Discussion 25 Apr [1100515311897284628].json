@@ -1,0 +1,1385 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1100515311897284628",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Forked Flame (Hexaghost card) - Daily Discussion 25 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:12:32.5429905+09:00",
+  "messages": [
+    {
+      "id": "1100515312857784360",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:14:57.171+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100515313780539442",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:14:57.391+09:00",
+      "timestampEdited": "2023-04-27T05:15:24.278+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nManifest (Hermit card): 4\nGremlin In A Jar (Gremlins potion): 1\nKablamo! (Gremlins card): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100515314975899740",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:14:57.676+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 178/798",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/hGVfgomlTjpaWNgWoqhuwLQuZXwqIJVvp7gPwU9uF8o/https/slay.ocean.lol/downfall/cards/hexamod-forkedflame.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/hGVfgomlTjpaWNgWoqhuwLQuZXwqIJVvp7gPwU9uF8o/https/slay.ocean.lol/downfall/cards/hexamod-forkedflame.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Forked Flame",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Attack / 1 :e_hexa: / The Hexaghost / Downfall\n\nDeal 5 (8) damage.\n**Ignite** the previous, then the next Ghostflames.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hGVfgomlTjpaWNgWoqhuwLQuZXwqIJVvp7gPwU9uF8o/https/slay.ocean.lol/downfall/cards/hexamod-forkedflame.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100515689258811453",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:16:26.912+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<'ws?forked flame>",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100515700017217626",
+      "type": "Reply",
+      "timestamp": "2023-04-26T05:16:29.477+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Forked Flame Frenzy",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2949727692&searchtext=forked+flame",
+          "timestamp": null,
+          "description": "15 Subscribers\nPosted Mar 20\nhttps://github.com/OceanUwU/oceanmod/tree/main/forkedflamefrenzy",
+          "color": "#1B2838",
+          "author": {
+            "name": "Ocean's Workshop",
+            "url": "https://steamcommunity.com/id/OceanUwU/myworkshopfiles/?appid=646570",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/SoxpPvcgjDh7Hv-mYjCT49U_hpA3lUtCDz5ltuZ2RTE/https/avatars.cloudflare.steamstatic.com/675f7450023f8af5206456ef95b01fa7ef1a940c_medium.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-wfo2LmMpvTYBgYDIAB-tBpyiakfQ-tqMtI-hTBgCa0/%3Fimw%3D200%26imh%3D200%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%252523000000%26letterbox%3Dtrue/https/steamuserimages-a.akamaihd.net/ugc/2035103391733028024/7C7F56BC48F6C71B644E317AA95D04018E2AD850/",
+            "width": 467,
+            "height": 467
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100515689258811453",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100515703926296600",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:16:30.409+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100516270610321448",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:18:45.517+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1100516270107013170",
+          "url": "https://cdn.discordapp.com/attachments/1100515311897284628/1100516270107013170/image.png?ex=6718b165&is=67175fe5&hm=a763fa1dcb8a7707a686b4cba71d596210f697be45b5ce2c1d396e28e443d506&",
+          "fileName": "image.png",
+          "fileSizeBytes": 41417
+        },
+        {
+          "id": "1100516270341902439",
+          "url": "https://cdn.discordapp.com/attachments/1100515311897284628/1100516270341902439/image.png?ex=6718b165&is=67175fe5&hm=2ab9420644043e766b6f25ff337202166645cf4453abc5a24b7074773c4501c3&",
+          "fileName": "image.png",
+          "fileSizeBytes": 111654
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100517065472880711",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:21:55.027+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1100517065296711761",
+          "url": "https://cdn.discordapp.com/attachments/1100515311897284628/1100517065296711761/image.png?ex=6718b222&is=671760a2&hm=bc1ca1c062e0d6a2d970a477af8d60b51254f4ea5842262566239e31086e1c74&",
+          "fileName": "image.png",
+          "fileSizeBytes": 115871
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100520444588732436",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:35:20.671+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<image of forked flame?right is typing> <squashing forked flame?right>",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100520494148628622",
+      "type": "Reply",
+      "timestamp": "2023-04-26T05:35:32.487+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520494593216632/export44261561296271923.gif?ex=6718b554&is=671763d4&hm=96487de4d788df115d72bc8e8a0d659b5ba96f52df5ca87084a407755d176b7d&",
+            "width": 498,
+            "height": 58
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520494593216632/export44261561296271923.gif?ex=6718b554&is=671763d4&hm=96487de4d788df115d72bc8e8a0d659b5ba96f52df5ca87084a407755d176b7d&",
+              "width": 498,
+              "height": 58
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520495113326642/export775078047719967.gif?ex=6718b554&is=671763d4&hm=918e5bc55300cb8a5242edb70e072c08e3ecdae5e3ffa0536ab9fe01a52cabdf&",
+            "width": 250,
+            "height": 250
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520495113326642/export775078047719967.gif?ex=6718b554&is=671763d4&hm=918e5bc55300cb8a5242edb70e072c08e3ecdae5e3ffa0536ab9fe01a52cabdf&",
+              "width": 250,
+              "height": 250
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100520444588732436",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100520930196861019",
+      "type": "Default",
+      "timestamp": "2023-04-26T05:37:16.449+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<forked flame?right my beloved> <forked flame?right on a circuit board>",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100520985859461210",
+      "type": "Reply",
+      "timestamp": "2023-04-26T05:37:29.72+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520985997869076/export8404042136963907.gif?ex=6718b5c9&is=67176449&hm=6944bf53e55198877751b4796df9e4ef4da6b7b3dce79e252645a473db698ead&",
+            "width": 400,
+            "height": 300
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520985997869076/export8404042136963907.gif?ex=6718b5c9&is=67176449&hm=6944bf53e55198877751b4796df9e4ef4da6b7b3dce79e252645a473db698ead&",
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520986291478649/export12138623359136758.gif?ex=6718b5c9&is=67176449&hm=fa38d0960f5f31b51270487dcd2fb469aaf35b89cfd64a65b922a68778b5237d&",
+            "width": 400,
+            "height": 300
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100520986291478649/export12138623359136758.gif?ex=6718b5c9&is=67176449&hm=fa38d0960f5f31b51270487dcd2fb469aaf35b89cfd64a65b922a68778b5237d&",
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100520930196861019",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100604726355185735",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:10:15.01+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<forked flame?right on a billboard>",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100604758588399667",
+      "type": "Reply",
+      "timestamp": "2023-04-26T11:10:22.695+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100604758693249074/export5552632285775319.gif?ex=671903ce&is=6717b24e&hm=c1b8b4b0d8883e085be8e23e0402af10c3b9da71dad63aaafb2914c34c5dc339&",
+            "width": 400,
+            "height": 300
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100604758693249074/export5552632285775319.gif?ex=671903ce&is=6717b24e&hm=c1b8b4b0d8883e085be8e23e0402af10c3b9da71dad63aaafb2914c34c5dc339&",
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100604726355185735",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100604851840364574",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:10:44.928+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<live forked flame=forked flame?right reaction>",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100604862519058474",
+      "type": "Reply",
+      "timestamp": "2023-04-26T11:10:47.474+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100604862951067690/export5959192391087991.gif?ex=671903e7&is=6717b267&hm=23236afb38b322865829d4cf89c0eba135e1062035ce3c08ce1631d9983d28a3&",
+            "width": 196,
+            "height": 145
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100604862951067690/export5959192391087991.gif?ex=671903e7&is=6717b267&hm=23236afb38b322865829d4cf89c0eba135e1062035ce3c08ce1631d9983d28a3&",
+              "width": 196,
+              "height": 145
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100604851840364574",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100607400530149459",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:20:52.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jokes aside, this card is excellent. Activating multiple ghostflames in a singe turn is huge, giving massive amounts of value (block with starter relic/<ignite gain block power>/bolstering ghostflame, additional damage with crushing ghostflame/potential inferno ghostflame, Soulburn with searing ghostflame/<volcano visage>, scaling with bolstering ghostflame) and will be played every turn its drawn. Synergizes very well with the aforementioned powers, and can very easily abuse bolstering ghostflame alongside <catch-up>. A snap pick for me in almost every stage of the game, and an amazing Heart Blessing reward.",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100607409589854209",
+      "type": "Reply",
+      "timestamp": "2023-04-26T11:20:54.743+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Radiant Flame",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :e_hexa: / The Hexaghost / Downfall\n\nWhenever you Ignite a Ghostflame, gain 3 (4) **Block** :p_block:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/p9PMt7m-bxNbkoFsZgJv9QAEUC07JUmAU_PXQwDTfR8/https/slay.ocean.lol/downfall/cards/hexamod-radiantflame.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<ignite gain block power> = radiant flame, 79% sure"
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Volcano Visage",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 :e_hexa: / The Hexaghost / Downfall\n\nWhenever you Ignite a Ghostflame, apply 4 (6) **Soulburn** :p_soulburn: to ALL enemies.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uHcZy5ptY2oROUp33-WWgviotpXg_VnO2FbMa9vFNJo/https/slay.ocean.lol/downfall/cards/hexamod-volcanovisage.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Catch Up",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_hexa: / The Hexaghost / Downfall\n\n**Ignite** the previous Ghostflame 2 times.\n~~- **Exhaust**. -~~",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bt51AIS_Quoz9eoazHjiVqjctD_Z0rg4QLUBq2JLdx0/https/slay.ocean.lol/downfall/cards/hexamod-catchup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<catchup> = catch up, 79% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100607400530149459",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100608360044302397",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:24:41.349+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's cool, I don't think there are many decks that don't want it, but there are better rares.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100608449643028570",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:25:02.711+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But if I see this from a non-boss reward I almost always take it",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100608563438702692",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:25:29.842+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<forked flame?right on a flying flag>",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100608596573683832",
+      "type": "Reply",
+      "timestamp": "2023-04-26T11:25:37.742+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1100515311897284628/1100608596737273916/export06589825246664915.gif?ex=67190761&is=6717b5e1&hm=ddc7032056e2f5949292746acd4b995eba100b788ffca300097d92fe1bcf5c0d&",
+            "width": 400,
+            "height": 300
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1100515311897284628/1100608596737273916/export06589825246664915.gif?ex=67190761&is=6717b5e1&hm=ddc7032056e2f5949292746acd4b995eba100b788ffca300097d92fe1bcf5c0d&",
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100608563438702692",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100608628559458396",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:25:45.368+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Even over some of the cards that just are better like ghost shield or shield of night, just because they are easier to get",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100609950801203242",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:31:00.615+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think this card is similar to Die Die Die in that fact",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100610608564555776",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:33:37.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well Die Die Die is a frontloaded damage card",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100610650981535764",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:33:47.551+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card, while it does damage, is not primarily used for that",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100611298124906659",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:36:21.842+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "of course mechanically they are different, im mainly talking about their pickup value tied to their simplicity and inherent power",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100611596771926136",
+      "type": "Default",
+      "timestamp": "2023-04-26T11:37:33.045+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "id also compare it to Offering, but Offering is far stronger than it",
+      "author": {
+        "id": "681598100548485194",
+        "name": "laezerr",
+        "discriminator": "0000",
+        "nickname": "Lazer, Roughhouse Enjoyer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/681598100548485194/06bd142291620c1584cbd4104c47433b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100613596104380456",
+      "type": "Reply",
+      "timestamp": "2023-04-26T11:45:29.723+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok true",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100611298124906659",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1100631582135562240",
+      "type": "Default",
+      "timestamp": "2023-04-26T12:56:57.927+09:00",
+      "timestampEdited": "2023-04-26T12:58:13.715+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a value rare. It won't necessarily be run defining, or a late game scaling solution, but it's going to be a very solid play every time you draw it. Lightning two ghostflames (while potentially working towards a third if you're on an attack ghostflame) is incredibly efficient for 1 energy. Very solid alongside radiant flame, bolstering ghostflame, and spirit brand. It reminds me of cards like die die die, brilliance, core surge, immolate, and impervious. It just has extreme efficiency for the cost, and will be a card you are always happy to draw and add to your deck. It even does a pretty good job supporting ghostflame synergies, like doomsday, volcano visage, and step through.\n\nSometimes, you will just need your rares to perform different functions (scaling being the main one), and so you will pick others over it as a boss reward, but at a shop or from a random combat, you are thrilled to see this, and I think it's well worth a purchase even if it is expensive. It's great against all of the act 1 elites and hallways, and a fantastic pickup from neow. The upgrade is nothing special, very low priority at just the standard +3 damage, but the base effect is so good that you really don't need to worry about upgrading it. It's even a cheap attack for stacking up the ninja relics and pen nib. If anything, it's probably too good, but I do think that StS rares are balanced in such a way that a few of them get to be efficient value cards like this, because there is a significant opportunity cost to obtain them (gold/souls from the merchant, beating an act boss, taking tons of normal/elite fights to increase your rare chance). If it were to be nerfed, I would probably make it so that it only ignites one ghostflame normally, and ignites 2 once you upgrade it.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100635585133170738",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:12:52.316+09:00",
+      "timestampEdited": "2023-04-26T13:13:09.27+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gonna make a seemingly hot take here: this is worse than catch up. You can make sure that catch up lights up a good GF twice, whereas this can very easily activate ghostflames in a weird order. It feels less controlled but deals damage and is an attack.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100635894253355069",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:14:06.016+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5(8) damage really isn't much, less than a strike. I don't think 5(10) was a problem tbh.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100636010267803710",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:14:33.676+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You'd still rarely upgrade it because yeah the damage was doubled, but you don't use it much for the damage",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100636136612827217",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:15:03.799+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and now it is even more apparent. The upgrade is probably one of the lowest priorities in hexa's whole kit.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100636501529870417",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:16:30.802+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd probably value this upgrade less than I would a defend upgrade",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100646252619759716",
+      "type": "Default",
+      "timestamp": "2023-04-26T13:55:15.643+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is just a good uncommon in disguise, not a rare in the sense that its just nice to have, without affecting the direction of your run",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100854028918849678",
+      "type": "Default",
+      "timestamp": "2023-04-27T03:40:53.373+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<catch up>",
+      "author": {
+        "id": "385579862103949322",
+        "name": "zero113",
+        "discriminator": "0000",
+        "nickname": "zero-113 Slimeboss Enjoyer",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "801195514866565132",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 12
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/669242017427226638/users/385579862103949322/avatars/c7d8374c009b88097b92e8d83bdcd0fe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1100854032874078238",
+      "type": "Reply",
+      "timestamp": "2023-04-27T03:40:54.316+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Catch Up",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :e_hexa: / The Hexaghost / Downfall\n\n**Ignite** the previous Ghostflame 2 times.\n~~- **Exhaust**. -~~",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bt51AIS_Quoz9eoazHjiVqjctD_Z0rg4QLUBq2JLdx0/https/slay.ocean.lol/downfall/cards/hexamod-catchup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1100854028918849678",
+        "channelId": "1100515311897284628",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 38
+}

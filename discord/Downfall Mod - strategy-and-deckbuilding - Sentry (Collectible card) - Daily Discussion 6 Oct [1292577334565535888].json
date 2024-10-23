@@ -1,0 +1,452 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1292577334565535888",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Sentry (Collectible card) - Daily Discussion 6 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:19:20.5810175+09:00",
+  "messages": [
+    {
+      "id": "1292577336297783407",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:00:51.899+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292577337589760031",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:00:52.207+09:00",
+      "timestampEdited": "2024-10-08T05:00:44.556+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nRed Slaver (Collectible card): 0\nStimpack (Champ potion): 0\nMagic Mallet (Gremlins relic): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292577339825455235",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:00:52.74+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 685/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sentry",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3asentrycard",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_collector: / Collectible / Downfall\n\nDeal 8 (10) damage.\nApply 1 (2) **Weak** :p_weak:.\nRepeat if there is a Sentry in your exhaust pile.",
+          "color": "#7E6B8C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/KUHsT4tIK4zIq4I4LjB50FOVCwnvFf_iwH2OSB6cwHk/https/slay.ocean.lol/downfall/cards/collector-sentrycard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/KUHsT4tIK4zIq4I4LjB50FOVCwnvFf_iwH2OSB6cwHk/https/slay.ocean.lol/downfall/cards/collector-sentrycard.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292579659661312040",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:10:05.832+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nerfed several times and still the premium act1 collectable",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292579758818983966",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:10:29.473+09:00",
+      "timestampEdited": "2024-10-07T05:10:49.587+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<lagavulin collectable> is good too but not as vital",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292579762115448945",
+      "type": "Reply",
+      "timestamp": "2024-10-07T05:10:30.259+09:00",
+      "timestampEdited": "2024-10-07T05:10:50.157+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lagavulin",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3alagavulincard",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_collector: / Collectible / Downfall\n\nALL enemies lose 1 (2) **Strength** :p_strength:.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5EMPRjC59v-YsPqaN8EsV-D28AvkdxNGfCYzqP58qg0/https/slay.ocean.lol/downfall/cards/collector-lagavulincard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1292579758818983966",
+        "channelId": "1292577334565535888",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1292579986695389195",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:11:23.803+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bc you can’t really get it upgraded and 1 str is well, not crazy impactful",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582372071702690",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:20:52.521+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card is a noob trap",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582423133028384",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:21:04.695+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are three places at which a collector run can die",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582483597983774",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:21:19.111+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. tri sentries 2. act 1 boss 3. tri slavers",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582556671152159",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:21:36.533+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "saving essence for sentries is a great way to throw your run for no reason",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582702729396225",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:22:11.356+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the card itself is insanely OP though",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292582766982201458",
+      "type": "Default",
+      "timestamp": "2024-10-07T05:22:26.675+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's just that having 9 essence is not going to happen on a20.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292602987285446717",
+      "type": "Default",
+      "timestamp": "2024-10-07T06:42:47.571+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really powerful card, even after the nerfs, though I think it's in a decent place as far as risk vs. reward goes. Sentries is a very tough fight for collector due to pyre as a mechanic, and if you are greeding to save your essence in the early game in hopes of taking all 3 of these after the fight, you are likely going to take a lot of damage. It's only a 1 in 3 chance that you see this as your first elite fight (1 in 2 as your second elite fight if you missed), so trying to save essence and go all in on this is very dangerous. Some of the early collected cards you can grab in act 1 are also helpful into your elite matchups (cultist, jaw wurm, louse, any of the damaging ones for nob), and early game is the most difficult part of a run for collector, so there is substantial risk in saving essence to try and high roll 3 of these. If it does happen, either through luck, good potion planning, excellent early card rewards, or simply being at a low ascension where you don't get punished as hard, getting all 3 is completely nuts. It is one of the many ways in which you can be heavily disincentivized from picking up further collectibles as the run goes on and having a very small collected deck at the end of the run (16 damage and 2 weak for 1 energy is incredible, and it benefits from strength twice as well).\n\nWith all that being said, you don't really need to take 3 for it to be good. The baseline sucker punch effect is still reasonable, and there are some ways to get a second copy (forgery, double trouble) mid combat to still get a payoff. Saving 6 essence isn't totally unreasonable to grab 2 copies of this. It often performs very well in act 2 to mitigate damage and deal efficient frontloaded damage at the same time, and the weak continues to scale well into the lategame as enemies hit harder. Gets better when you can turbo through your collected pile with bag of tricks, dragon's trove, and soulforge to find multiples faster.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1292603728330752094",
+      "type": "Default",
+      "timestamp": "2024-10-07T06:45:44.25+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shadow daggers and omen play well in the same style of deck that quickly plays lots of collected cards, The upgrade is usually not relevant enough to want to pursue it through dark apotheosis, but the sort of deck that spams lots of collected cards would want it for the other cards. This is also usually a great tool to keep weak applied on enemies for a long time if you are using affliction or doom as major parts of your strategy",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

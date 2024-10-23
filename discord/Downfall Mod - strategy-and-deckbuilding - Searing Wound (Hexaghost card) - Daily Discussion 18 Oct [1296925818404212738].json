@@ -1,0 +1,970 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1296925818404212738",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Searing Wound (Hexaghost card) - Daily Discussion 18 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:18:20.3114159+09:00",
+  "messages": [
+    {
+      "id": "1296925820329398303",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:00:11.283+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296925822485135470",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:00:11.797+09:00",
+      "timestampEdited": "2024-10-20T05:00:23.044+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nDefensive Flair (Snecko card): 1\nPretaliation (Gremlins card): 9\nHexx Talisman (relic): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296925824888471564",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:00:12.37+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 697/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Searing Wound",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3asearingwound",
+          "timestamp": null,
+          "description": "Rare Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\nALL enemies lose HP equal to their Soulburn.\n​~~- **Exhaust**. -~~",
+          "color": "#A357B3",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/B9owgcfERrL5jit-tbC76AqytslSk5NVD9FdDvH5Ibs/https/slay.ocean.lol/downfall/cards/hexamod-searingwound.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/B9owgcfERrL5jit-tbC76AqytslSk5NVD9FdDvH5Ibs/https/slay.ocean.lol/downfall/cards/hexamod-searingwound.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928354787659860",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:10:15.545+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay so the nature of this card is actually deceptive",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928395006967942",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:10:25.134+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "reminder that **soulburn is not a build**",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928536556208148",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:10:58.882+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card, while it is pretty good with flames from beyond, acts more as a way to double dip on your intensity and volcano visage",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928694023229483",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:11:36.425+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card gets way stronger over the course of a boss fight as your intensity ramps up and your searing ghostflames get better",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928811211821146",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:12:04.365+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's also a great payout for heat shield strats, a very easy win condition is heat shield, ether step, and this card.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296928944486088725",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:12:36.14+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you continually boost your damage and get to keep your block",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296929137402970244",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:13:22.135+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the main downside of heat shield decks is that even if you do scale defensively, you lose half of the damage from your wheel, which hurts a LOT, so adding this card instantly fixes that problem",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296929373189967912",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:14:18.351+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now outside of that, this card as a standalone is fine enough, its a cute rare and just does fine damage",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296929446456197284",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:14:35.819+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's good into slavers, mostly.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296929814506110986",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:16:03.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It doesn't really need the upgrade unless you are using this in a deck that has heat shield as its main way of defensive scaling",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296939870320853005",
+      "type": "Default",
+      "timestamp": "2024-10-19T05:56:01.062+09:00",
+      "timestampEdited": "2024-10-19T06:04:20.133+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely has it's place, but this is not the most appealing rare for hexaghost. You can try to build around soulburn, but it's usually simply part of your damage over the course of fights, and the main thing you want to work on is making sure you can reliably apply it on turn 1 (often from igniting the first searing ghostflame) so that you can get the damage out ASAP. Searing wound is interesting in that it lets you both double dip on the damage of soulburn, and deal damage early in shorter fights. It does work well in both longer and shorter fights because of that, and since it only costs 1, you don't really need to stack more than 9 soulburn for this to feel like you're getting a good deal from it. What you do need to worry about is the opportunity cost, since it's a rare. You will have to take this over other hexa rares at a boss reward, or pay a lot of souls for it at a merchant to obtain it. I don't think the effect is generally good enough to put in that kind of investment, and I am normally slightly sad to be taking this as a boss reward. Unless your deck/relics are very good at applying tons of soulburn very fast, this isn't usually doing all that much for you (a decently efficient frontloaded damage card). It can be useful in boss fights if you have lots of intensity scaling and can scale up and apply tons of soulburn later in the fight, using this to double dip and get to lethal. The AOE component is also notable, though you will need to draft and draw copies of flames from beyond, volcano visage, and firestarter to really benefit from that, which can be tricky to line up.\n\nDrawing this at the right time can be an issue, since you can draw it too late to cash in on large amounts of soulburn, and you can also draw it too early at a point when you don't have much applied yet. Runic pyramid is a big help, and heat shield can also help delay soulburn to find more time to draw searing wound.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296942937875284020",
+      "type": "Reply",
+      "timestamp": "2024-10-19T06:08:12.424+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but but my mechanic 1 = build 1, mechanic 2 = build 2, mechanic 3 = build mindset",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "370020173610090537",
+          "name": "blueguy_",
+          "discriminator": "0000",
+          "nickname": "Blue Guy",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1296928395006967942",
+        "channelId": "1296925818404212738",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1296943154980978792",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:09:04.186+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think you should upgrade this very often, if the fight is short, then it should either end it quickly, or it will be a dead card becasue you didn't have much/any soulburn applied. In long fights, you should be able to stack enough intensity/soulburn up that playing this once and doubling the value of that soulburn is enough to finish the fight on it's own (and you're likely not playing it during the first cycle through the deck as you wait to scale up). I don't think removing exhaust from this is helpful in that many situations (I guess you could use rewind to get this back from the discard to line it up better/get a third helping of soulburn damage). Searing wound gets much better/more reliable when you can get soulburn going quickly, so that you can avoid it being a weak/dead draw in the early turns, so try to get more attacks and ways to trigger soulburn ASAP.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296943181061160980",
+      "type": "Reply",
+      "timestamp": "2024-10-19T06:09:10.404+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Soulburn is better judged as both *auxiliary damage* and as damage from the Ghostflame Wheel.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "484682433925611542",
+          "name": "dark_brick",
+          "discriminator": "0000",
+          "nickname": "Dark_Brick",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1296942937875284020",
+        "channelId": "1296925818404212738",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1296943221695578253",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:09:20.092+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Trying to make soulburn into a build is a bad idea.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296943505167351890",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:10:27.677+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "While the initial design of Soulburn was MEANT to be a build, there are too many flaws in how Soulburn functions as damage so it's better considered as an extension of yourself.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296943784717848587",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:11:34.327+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mostly agree with @Kiku 's assessment of this card with the exception of them not considering <heat shield>.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "303064746129752074",
+          "name": "kiku_katsumi",
+          "discriminator": "0000",
+          "nickname": "Kiku",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296943787884412928",
+      "type": "Reply",
+      "timestamp": "2024-10-19T06:11:35.082+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heat Shield",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3aheatshield",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_hexa: / The Hexaghost / Downfall\n\nGain **Block** :p_block: equal to Soulburn on the enemy, then delay its Soulburn by 1 turn.​~~-  **Exhaust**. -~~",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/67CVYGzyy9WQ_TYXNAHW6q7DRYTAYBebrjQN_jHN2Ac/https/slay.ocean.lol/downfall/cards/hexamod-heatshield.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1296943784717848587",
+        "channelId": "1296925818404212738",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1296943987881545748",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:12:22.765+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Soulburn only scales with Intensity and <red candle>, and most of it is coming from the Wheel anyways.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296943990565900381",
+      "type": "Reply",
+      "timestamp": "2024-10-19T06:12:23.405+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Red Candle",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3acandleofcauterizing",
+          "timestamp": null,
+          "description": "Rare Relic / The Hexaghost / Downfall\n\nWhenever you apply **Soulburn** :p_soulburn:, apply 3 additional **Soulburn** :p_soulburn:.\n*-# Fire BURNS...*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KHNvXplqa6W_f5PG9fkjs-qAHSjCmkiSmBUI5rkW_Ik/https/slay.ocean.lol/downfall/relics/candleofcauterizing.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1296943987881545748",
+        "channelId": "1296925818404212738",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1296944181264252989",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:13:08.871+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like, just consider soulburn to be damage 2 but really bad in half of the important fights in the game.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296944273396076607",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:13:30.837+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly, the only fight soulburn POSITIVELY matches up into is Slime Boss.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296944343848058930",
+      "type": "Default",
+      "timestamp": "2024-10-19T06:13:47.634+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and Gremlin Nob / Lagavulin, ig.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297036663947657227",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:20:38.461+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what if advancing the wheel also advances the soul burn timer?",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297040243806961785",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:34:51.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297040329891119156",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:35:12.49+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Soulburn doesn't need to be any better than it is",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297040531804917870",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:36:00.63+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Trying to make it anything other than delayed damage misses the point",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297041014099283968",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:37:55.618+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but i don't want delayed damage",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297041027676508195",
+      "type": "Default",
+      "timestamp": "2024-10-19T12:37:58.855+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i want now damage",
+      "author": {
+        "id": "225188544711229440",
+        "name": "paradoxica",
+        "discriminator": "0000",
+        "nickname": "Paradoxica",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297043391795695627",
+      "type": "Reply",
+      "timestamp": "2024-10-19T12:47:22.505+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then you've chosen a terrible character to play. Their ENTIRE main mechanic as well as their two auxiliary mechanics are about careful planning and consideration of your near and distant future.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "225188544711229440",
+          "name": "paradoxica",
+          "discriminator": "0000",
+          "nickname": "Paradoxica",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/225188544711229440/c1dd90d3f24f75d12d0c070d4db002c1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1297041027676508195",
+        "channelId": "1296925818404212738",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 33
+}

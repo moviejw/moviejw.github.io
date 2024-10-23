@@ -1,0 +1,1283 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1137479779558371358",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Gremlins strategies",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:00:11.0005469+09:00",
+  "messages": [
+    {
+      "id": "1137479782112706650",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:18:33.408+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there. Where do you guys feel the powerlevel of the gremlins is at right now ? \nI've been trying to pull the A20 triple key run, but i seem to encounter the same problems a lot of the time. Either the run goes extremely smooth with no problem and a single bad hand kills me, or i fail to actually collect enough pieces to tinker a working combo.\n\nHere are my usual strategies :\n-Almost always upgrade Tag Team at first campfire\n-Been ignoring most Strenght synergy cards for a long time. Tried to pick them up, and i don't think i will again\n-Heckle decks are the most resistant i feel like, but they fall short of having heckle be a relic or innate power, and most of these runs end on a fight that doesn't allow to set heckle up and just ends turn 3-4 when unlucky\n-Wiz feels unrewarding most of the time. I try to always combo it with Cat Scratches, Dagger dances or some form of flurry, but overall i don't really feel like that part of the kit is working very well.\n-Make sure to almost always pick Show of Hands, Glittering Barrier, Glimmer and Counter Strike to get some Ward action\n-I feel like going the Sneaky Shiv route is actually optimal, but a lot of the time the deck just feels too squishy and combo oriented. With Flurry, Sharpen Blades and Second Volley you can destroy almost anything, but if you don't get the combo in the first turn or 2nd you're pretty much done\n\nWhat would your advice / strategy tips be as far as Gremlins A20 is concerned ?",
+      "author": {
+        "id": "185751330919284737",
+        "name": "maxorion",
+        "discriminator": "0000",
+        "nickname": "Max-Orion",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483569309171743",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:33:36.346+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "er",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483618835509328",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:33:48.154+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "be fat gremlin and the run just kind of wins itself for you",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483967596081152",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:35:11.305+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally believe that wiz is the strongest thing gremlins have. Try to pair gremlin wizard cards with shield gremlin cards that make wards (like infinite wards and fairy dust) wards let you easily get to 3 wiz and keep you safe.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137484415883280405",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:36:58.185+09:00",
+      "timestampEdited": "2023-08-06T05:46:53.355+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the card <tradah> is completely cracked; consider that nearly every gremlins skill costs 1 AND are also strong, so this card swaps you to gremlin wizard and gives you 1/2 wiz for free (with the chance of getting a really good hit like fairy dust). Tradah is so strong sometimes I'm taking it even when not playing with wizard  gremlin very much. With multiple tadah + and cards like astound you can realistically get 6+ wiz a turn and use multiple powerful attacks like flurry and show stopper.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137484418668310558",
+      "type": "Reply",
+      "timestamp": "2023-08-06T05:36:58.849+09:00",
+      "timestampEdited": "2023-08-06T05:46:53.725+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tadah!",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 0 :energy_gremlins: / The Gremlins / Downfall\n\n****Echo**** a random Skill.\n (It costs 1 less.)\n**Swap** to **Gremlin Wizard.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qyQUc5NB6ZRQhMoXA8UkyRvoLmQw2_8bGhUMcswTquY/https/slay.ocean.lol/downfall/cards/gremlin-tadah.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<tradah> = tadah, 7.21"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137484415883280405",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137484987650805870",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:39:14.505+09:00",
+      "timestampEdited": "2023-08-06T05:39:26.591+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because gremlins can concede to nob its acutally fine to just take skills in act 1, although most of the time you can kill nob anyways but its nice to be able to bribe him just in case.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137485663344791572",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:41:55.603+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my personal strategy with gremlins is to just take what ever first broken card is offered to you (don't worry there are a lot of them) take it and from that point forward build something for whatever gremlin that card suits best. Usually you end up with a deck thats based around 2 gremlins; with one main gremlin and a secondary gremlin for support.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137485933218889788",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:42:59.946+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "usually my combos are wizard + shield. Wizard + Sneaky. Sneaky + shield. Shield + fat. and sneaky + fat",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137486201142640693",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:44:03.824+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mad gremlin is often left out because  most of his cards work better with wiz",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137493369455640696",
+      "type": "Default",
+      "timestamp": "2023-08-06T06:12:32.883+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gremlins are one of the most op characters in the workshop. Just focus on spamming cards",
+      "author": {
+        "id": "160947148249235456",
+        "name": "_brickman",
+        "discriminator": "0000",
+        "nickname": "Brickman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160947148249235456/7a27bca25d80e014761a67ab5f86fd5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137505798055018596",
+      "type": "Default",
+      "timestamp": "2023-08-06T07:01:56.092+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137505845433880656",
+      "type": "Default",
+      "timestamp": "2023-08-06T07:02:07.388+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Edible Armor> and <Heckle> are your best friends",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137505849535905853",
+      "type": "Reply",
+      "timestamp": "2023-08-06T07:02:08.366+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Edible Armor",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_gremlins: / The Gremlins / Downfall\n\nConvert your **Block** :p_block: into **Temp HP.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/p0KLVhCEelkJ1dqKUoB4i1ArZNFRMD33G649tKSAAZY/https/slay.ocean.lol/downfall/cards/gremlin-ediblearmor.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Heckle",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 3 (2) :energy_gremlins: / The Gremlins / Downfall\n\nWhenever you apply a debuff to an enemy, gain 2 **Temp HP.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ud5EcaM8f4FcSYVkp2ikM4qS1EKts3WCnZYVESawoiQ/https/slay.ocean.lol/downfall/cards/gremlin-heckle.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137505845433880656",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137505887859245138",
+      "type": "Default",
+      "timestamp": "2023-08-06T07:02:17.503+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when in doubt, take <pinprick>",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "code": "star_struck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f929.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "185751330919284737",
+              "name": "maxorion",
+              "discriminator": "0000",
+              "nickname": "Max-Orion",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1137505891252441108",
+      "type": "Reply",
+      "timestamp": "2023-08-06T07:02:18.312+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pinprick",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 0 :energy_gremlins: / The Gremlins / Downfall\n\n (When drawn, ****Echo**** this.)\nDeal 1 damage.\nDraw a card.\n**Exhaust**.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/taIYN3dgtatJGimEWzr5V_mtxUUrRkpmeqe2m0RKUmc/https/slay.ocean.lol/downfall/cards/gremlin-pinprick.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137505887859245138",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137560054669770752",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:37:31.877+09:00",
+      "timestampEdited": "2023-08-06T11:47:55.231+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk about most op chars on workshop level but they do have better draw damage and block than every other character in downfall as well as a better energy card than bloodletting, which is one of the best basegame energy cards",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137560197259333663",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:38:05.873+09:00",
+      "timestampEdited": "2023-08-06T10:41:13.871+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they also incidentally go infinite frequently without even building into it like the silent ironclad and defect",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137560437878177802",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:39:03.241+09:00",
+      "timestampEdited": "2023-08-06T10:39:27.927+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one shotting bosses with one of the broken multihit cards is very funny",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137561418145726595",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:42:56.955+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think tag team upgrade is necessary at all, you can often just plan ahead what gremlin you want to be, there's rarely a reason to keep the card between turns for me. There's a few exceptions of course but i think there are much better upgrades and i don't think the starter deck upgrades are better than recall",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137561902331994232",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:44:52.394+09:00",
+      "timestampEdited": "2023-08-06T10:45:29.35+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the strength cards are very powerful on grems, in part because of the large number of multihits and shivs on the character (flex+ can easily just be 40+ damage for 0 without even taking debuff removal into account, it's much better than on ironclad) but also because there's some debuff removal on the character too, there's especially a rare card that negates strength removal",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137562660909621300",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:47:53.253+09:00",
+      "timestampEdited": "2023-08-06T10:53:17.851+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my grems strategy is to get my deck into a position where it has enough damage to deal most fights easily, and then focus on energy card draw and a block engine. Though that's kind of just most characters. I will take raid, enthusiasm, party stick and revelry at any point in a run, even if they are weak in act 1 they are just absurd cards.",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137563191765909545",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:49:59.819+09:00",
+      "timestampEdited": "2023-08-06T10:54:35.905+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my favorite act 1 grems are sneaky because of the absurd early game damage, and shield because you kind of need them to block in that part of the game. Later on wizard grem becomes the best imo but sneaky is still good for drawing 2 off of gremlin dance. Mad and fat gremlin have situations where they are very good, and with cards like heckle fat gremlin can quickly become the most broken gremlin. No matter where your deck is though you kind of want to be able to switch to sneaky gremlin to click on gremlin dance, swap synergy is incredible.",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137565919829311558",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:00:50.24+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i will go over synergy packages for fun",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137573543996039179",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:31:07.983+09:00",
+      "timestampEdited": "2023-08-06T11:39:46.377+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "swap: \n<Enthusiasm> is deadass the character's best card and makes every other card here win the game for you a la watcher's rushdown, literally take 2 or 3 and win the game with no trouble\n<Patsy> is the most boring swap card, but it can get pretty good once you get enthusiasm. Deflect is nice but if you don't benefit from swapping it can be a nusiance in your hand\n<Tricksy> draws 4(6) cards for 1 at common which is incredible, but discarding non-attacks drawn with it can be detrimental if you aren't careful. The discard is usually pretty bad but it interacts favorably with <shank stone> and <Tag Teamwork>, cards discarded affected by tag teamwork will draw additional cards letting you draw non-attacks off of tricksy. Tricksy is a rare draw card that performs best in act 1, but depending on how you build your deck it may or may not fall off\n<Glitter Guard> is a very powerful block card, much like tricksy it's pickable in act 1 but unlike tricksy its probably going to be good for the entire run. Without anything else going for it it block 10 for 1 unupgraded and switches you to the guy who is really good at blocking, and with other synergies it only gets better\n<bulk up> and <Irritability> are a touch worse as block cards, but the temp hp and thorns are just icing on the cake of switching to fat and mad gremlin. If your deck wants better access to those gremlins they are nice, but they don't do as much as the other common swap cards at 1 on their own.\n<Tadah!> is a very good swap card when interacting with swap synergies, and it can be good on its own too, especially upgraded. As I said earlier I think wizard is the best gremlin, so swapping to him for 0 and possibly helping you towards stacking the wiz is very helpful, I think the first Tadah! is almost always pickable. Most gremlin skills are very good, especially on the wizard gremlin, so I usually get a lot of mileage out of this card.",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "185751330919284737",
+              "name": "maxorion",
+              "discriminator": "0000",
+              "nickname": "Max-Orion",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️‍\uD83D\uDD25",
+            "code": "heart_on_fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764-fe0f-200d-1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "185751330919284737",
+              "name": "maxorion",
+              "discriminator": "0000",
+              "nickname": "Max-Orion",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1137573570189463553",
+      "type": "Reply",
+      "timestamp": "2023-08-06T11:31:14.228+09:00",
+      "timestampEdited": "2023-08-06T11:39:46.875+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Enthusiasm",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Power / 2 (1) :energy_gremlins: / The Gremlins / Downfall\n\nWhenever you **Swap,** draw a card.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XnlWeyBjHOJnIF2YxibZSp30SgEe-7z9uvybbSslEac/https/slay.ocean.lol/downfall/cards/gremlin-enthusiasm.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Patsy",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 0 :energy_gremlins: / The Gremlins / Downfall\n\nGain 4 (6) **Block** :p_block:.\n**Swap** to the next Gremlin.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/m7Yvf7WzqQNh-pdb1LsIOfvvlX7H_R2ImZ0sZnIFYPw/https/slay.ocean.lol/downfall/cards/gremlin-patsy.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tricksy",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_gremlins: / The Gremlins / Downfall\n\nDraw 4 (6) cards, then discard any that are not Attacks.\n**Swap** to **Sneaky Gremlin.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CCqzChsnVUqUl6bvnKNRAmRlKG2chMB_dekXwEznZX4/https/slay.ocean.lol/downfall/cards/gremlin-tricksy.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Shank Stone",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / The Gremlins / Downfall\n\n**Unplayable**.\nWhenever you draw this card, gain 2 (3) Shivs.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/c_VEcupzGJVC0W2-CKWJINBiaOBlTyklGXDai-OTg1M/https/slay.ocean.lol/downfall/cards/gremlin-shankstone.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tag Teamwork",
+          "url": null,
+          "timestamp": null,
+          "description": "Shop Relic / The Gremlins / Downfall\n\nWhenever you draw Tag Team, draw another card.\nUpon pickup, add two copies of Tag Team to your deck.\n*Teamwork makes the dream work.*",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GMXsU47-ASsIXffycfJOD_xoUKJRRrtEG7Buw5i4xZs/https/slay.ocean.lol/downfall/relics/tagteamwork.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Glitter Guard",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_gremlins: / The Gremlins / Downfall\n\nGain 2  (**Upgrade**d) Wards.\n**Swap** to **Shield Gremlin.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F_YFkSlPUo47l6i3OmXLDlCHyw0nxfsiVzmCqpf2DxQ/https/slay.ocean.lol/downfall/cards/gremlin-glitterguard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Bulk Up",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_gremlins: / The Gremlins / Downfall\n\nGain 5 (7) **Temp HP.**\n**Swap** to **Fat Gremlin.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qErErJzJ65mk3a6rwRJWAaARb3LM3qztN_g3dYlY-e8/https/slay.ocean.lol/downfall/cards/gremlin-bulkup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Irritability",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_gremlins: / The Gremlins / Downfall\n\nGain 6 (8) **Block** :p_block:.\nGain 3 (5) temporary :p_temp: Thorns :p_thorns:.\n**Swap** to **Mad Gremlin.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/d55CYLySTFjj1xNbAKOvS_cMc-itmmE2-RuJzS4hKHs/https/slay.ocean.lol/downfall/cards/gremlin-irritability.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tadah!",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Skill / 0 :energy_gremlins: / The Gremlins / Downfall\n\n****Echo**** a random Skill.\n (It costs 1 less.)\n**Swap** to **Gremlin Wizard.**",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qyQUc5NB6ZRQhMoXA8UkyRvoLmQw2_8bGhUMcswTquY/https/slay.ocean.lol/downfall/cards/gremlin-tadah.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137573543996039179",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137573593652400299",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:31:19.822+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Rhythm> is the one and only conventional swap card outside of common, and its pretty good upgraded. Gremlin dance is a very good card to find at 0, and being able to seek Tag Team is about as good. Unless you can line up sneaky gremlin with gremlin dance it's pretty unexciting without swap synergies, but with swap synergies it's a prime infinite enabler and about as good as deck manipulation cards get.\n<Tag Team> is obviously a starter card and is obviously pretty broken, espcially with the Tag Teamwork relic. it kind of just does the job of most of the cards up there but better\n<Party Stick> is a card that needs a few of the other cards here to work, but it is one of the character's 2 reusable energy cards and can potentially net you infinite energy without even needing to play it. It's very good, but entirely reliant on other cards to do anything.\n<Conga Line> and <Scatter> are fine cards, but they don't interact well enough with the other cards here for me to consider them swap synergies",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137573617538973807",
+      "type": "Reply",
+      "timestamp": "2023-08-06T11:31:25.517+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rhythm",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_gremlins: / The Gremlins / Downfall\n\n**Swap** to the next Gremlin.\n**Fetch** a Basic card from your draw pile. It costs 0 this turn.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/i1NNFEX7xXGjQfABrQp1vIqenWqB6R6MGvU1hmieLZM/https/slay.ocean.lol/downfall/cards/gremlin-rhythm.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tag Team",
+          "url": null,
+          "timestamp": null,
+          "description": "Basic Skill / 0 :energy_gremlins: / The Gremlins / Downfall\n\n (**Retain**.)\n**Swap** to a living Gremlin of your choice.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TQAu7ChF7-NC9Rrbu7rh2XsoKaTqDnCV-nU_Xrqrwaw/https/slay.ocean.lol/downfall/cards/gremlin-tagteam.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Party Stick",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / The Gremlins / Downfall\n\n​~~- **Ethereal**.  -~~ **Unplayable**.\nWhenever you **Swap,** gain :energy_gremlins:",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fbS7mQf2TcB4WP25SASKlS4NdEQ_2Q6Jx9ENheragzQ/https/slay.ocean.lol/downfall/cards/gremlin-partystick.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Conga Line",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 2 :energy_gremlins: / The Gremlins / Downfall\n\n (**Innate**.)\nAt the start of your turn, gain :energy_gremlins: and **Swap** to the next Gremlin.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uVxeI8Ou3pIy8Wyv5hEittZ2awK3_SGdYVw6pgVksck/https/slay.ocean.lol/downfall/cards/gremlin-congaline.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Scatter!",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 (1) :energy_gremlins: / The Gremlins / Downfall\n\nThe next time you would lose HP, instead **Swap** to a random Gremlin.\n**Exhaust**.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zkOJHlibxI_rJ5X1pB9g-LZ65DbkigyFqMDGOe6WZ4o/https/slay.ocean.lol/downfall/cards/gremlin-scatter.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137573593652400299",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137573899874345080",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:32:32.831+09:00",
+      "timestampEdited": "2023-08-06T11:46:10.778+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Swapping is a powerful source of energy and card draw on the character, and offers great utility for allowing you to use the right gremlins at the right times",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137574954393673768",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:36:44.248+09:00",
+      "timestampEdited": "2023-08-06T11:46:27.139+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As far as energy and card draw goes there are two other important cards to mention that don't say swap:\n<Revel> gives you 3 energy upgraded and doesn't exhaust, absolutely incredible especially when you can discount it with something like mummy hand\n<Raid> draws 5 fucking cards for 1 and has the courtesy of letting you discard the worst cards so you can keep drawing more cards, I'm pretty sure every character that has ever existed would kill for a card like this",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137574957589737522",
+      "type": "Reply",
+      "timestamp": "2023-08-06T11:36:45.01+09:00",
+      "timestampEdited": "2023-08-06T11:46:27.93+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Revel",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 3 (2) :energy_gremlins: / The Gremlins / Downfall\n\nGain :energy_gremlins: for each living Gremlin.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fVCzUlOl5vgMND-XTEgjEQ4q5f9DatnUyY5H6BOM6zE/https/slay.ocean.lol/downfall/cards/gremlin-revel.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Raid",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_gremlins: / The Gremlins / Downfall\n\nDraw a card for each living Gremlin.\nDiscard 3 (2) cards.",
+          "color": "#B26BDB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xnEDFzzghKJFWXfaRoY1J3b7ZS0VvrPzOEhoJQOw1nQ/https/slay.ocean.lol/downfall/cards/gremlin-raid.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137574954393673768",
+        "channelId": "1137479779558371358",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137576613781983272",
+      "type": "Default",
+      "timestamp": "2023-08-06T11:43:19.877+09:00",
+      "timestampEdited": "2023-08-06T11:43:40.757+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Swap is the most fleshed out case of cards synergizing with each other, most cards on grems synergize more with the grems themselves than with other cards but there's smaller wiz, strength, and debuff packages",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138137349340016760",
+      "type": "Default",
+      "timestamp": "2023-08-08T00:51:29.652+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thx for your input Aubrey. I used to play a run a pretty agressive strategy where i would try and focus on my usefull grems, and sometimes not even bother rezing them or trading them away to elitese, but now that i play Revel and Raid more often i can defo say keeping everyone in good shape is definetely worth it, if only for these two. Oh and also, to stay alive haha.\nI will have to try the swap synergy build. I may actually have never attempted it. Btw just died to Neow on a Sneaky/Shield kunai run, couldn't get enough momentum to hit her for her last 300 hp. I was punished for my lack of draw as the curses really mess up your hands, revel timings, etc.",
+      "author": {
+        "id": "185751330919284737",
+        "name": "maxorion",
+        "discriminator": "0000",
+        "nickname": "Max-Orion",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138650334668013609",
+      "type": "Default",
+      "timestamp": "2023-08-09T10:49:54.885+09:00",
+      "timestampEdited": "2023-08-09T10:50:26.829+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update : I finally beat Neow by going infinite with Enthusiasm on my first A20run ever picking it. Even without party stick it was pretty stupid, but once i got it near the end of act 2 and got it i just went infinite on most of the elites, the two bosses and the three heroes of act 4. I must say going uninentionally infinite makes it pretty tricky to maintain, as you have to empty your hand constantly with low energy costing cards to be able to draw the next swap card, and you always have a risk of ending the combo if you empty your hand too much and end up drawing the bad sequence of cards. \nIt was very fun, but also soooooo tedious  to go infinite every fight and have to cycle through the deck for that one gremlin dance or wiz proccing attack. I loved playing with enthusiasm, but maybe infinite turns is too much for mere gremlins like us. Maybe the combo always was...  the cards we drew along the way",
+      "author": {
+        "id": "185751330919284737",
+        "name": "maxorion",
+        "discriminator": "0000",
+        "nickname": "Max-Orion",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/185751330919284737/757318847486da84e06283e78ef5f3e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 34
+}

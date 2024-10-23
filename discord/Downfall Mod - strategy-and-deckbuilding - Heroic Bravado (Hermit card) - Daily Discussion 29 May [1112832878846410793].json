@@ -1,0 +1,2784 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1112832878846410793",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Heroic Bravado (Hermit card) - Daily Discussion 29 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:08:58.3061265+09:00",
+  "messages": [
+    {
+      "id": "1112832880041803846",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:00:34.037+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112832881044246608",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:00:34.276+09:00",
+      "timestampEdited": "2023-05-31T05:01:05.212+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nHeadbutt (Champ card): 4\nArmy in a Bottle (Slime Boss potion): 2\nTricksy (Gremlins card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112832882919088198",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:00:34.723+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 222/784",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#99590B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/aZ4JIRQmiRk3F3IoOA7AMLJSylsAq72yKYjLyk-iL5E/https/slay.ocean.lol/downfall/cards/hermit-heroicbravado.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/aZ4JIRQmiRk3F3IoOA7AMLJSylsAq72yKYjLyk-iL5E/https/slay.ocean.lol/downfall/cards/hermit-heroicbravado.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Heroic Bravado",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Skill / 1 :energy_hermit:  / The Hermit / Downfall\n\n**Ethereal**.\nGain 1 **Rugged** :p_rugged:.\nIncrease the cost of this card by 2 (1) this combat.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aZ4JIRQmiRk3F3IoOA7AMLJSylsAq72yKYjLyk-iL5E/https/slay.ocean.lol/downfall/cards/hermit-heroicbravado.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833013697482922",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:01:05.903+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice beta art lol",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833759155331144",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:03.634+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Odd effect, im not sure how to weigh this up against defects <Buffer>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833766734438480",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:04:05.441+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Buffer",
+          "url": null,
+          "timestamp": null,
+          "description": "Keyword / Downfall\n\nPrevent the next time you would lose HP.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112833759155331144",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112833803665281115",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:14.246+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Rugged>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833809273073746",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:04:15.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rugged",
+          "url": null,
+          "timestamp": null,
+          "description": "Keyword / Downfall\n\nReduces next instance of attack damage taken to 2.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112833803665281115",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112833830236201000",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:20.581+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it is repeatable though",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833850528235630",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:25.419+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and far better in the heart fight",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833852759621732",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:25.951+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its just kinda worse though isnt it",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833920971591840",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:42.214+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like yeah upgraded its 2 over 2 uses, but you do actually take chip damage",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833986025234502",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:04:57.724+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and that's why <reprieve> is a thing",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112833992199245824",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:04:59.196+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Reprieve",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Skill / 2 :energy_hermit:  / The Hermit / Downfall\n\n**Ethereal**.\nHeal 12 (15) HP.\n**Exhaust**.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ie3QKIFeMBWbEEFnyy9nNaPz8hEKzRWU4f1WQRxfbrU/https/slay.ocean.lol/downfall/cards/hermit-reprieve.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112833986025234502",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112834031579582474",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:05:08.585+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Self Repair>",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834036142964736",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:05:09.673+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE1B",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834041364889651",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:05:10.918+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Self Repair",
+          "url": "https://slay-the-spire.fandom.com/wiki/Self_Repair",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :blue_energy: / The Defect / Slay the Spire\n\nAt the end of combat, heal 7 (10) HP.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/whvip3BsktYBMKRjurC9SZEOcVj2FNGyHRxyb8NWq_Q/https/slay.ocean.lol/slay%2520the%2520spire/cards/selfrepair.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112834031579582474",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112834080329965578",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:05:20.208+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which is also better",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834104589815808",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:05:25.992+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "self repair is later",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834123225120848",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:05:30.435+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "reprieve is now",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834255165333504",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:06:01.892+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah and the gap [E]->HP is massive",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834332197933117",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:06:20.258+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6(7.5) vs 7(10), with self repair being notably much easier to play",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834431099600927",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:06:43.838+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh and it has synergy with <Heatsinks> and <Storm> too",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112834444290695178",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:06:46.983+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heatsinks",
+          "url": "https://slay-the-spire.fandom.com/wiki/Heatsinks",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :blue_energy: / The Defect / Slay the Spire\n\nWhenever you play a Power card, draw 1 (2) card (cards).",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1Mg_DWM5U7j71Eo4e1nDJzmqCU14Lfk2Cnj_cdBKzTQ/https/slay.ocean.lol/slay%2520the%2520spire/cards/heatsinks.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Storm",
+          "url": "https://slay-the-spire.fandom.com/wiki/Storm",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :blue_energy: / The Defect / Slay the Spire\n\n (**Innate**.)\nWhenever you play a Power card, Channel 1 Lightning.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FhdUEMpaj6c1RPiAVwhmwbVEsooNrfy1Q9PIM-OemTw/https/slay.ocean.lol/slay%2520the%2520spire/cards/storm.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112834431099600927",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112836089695182858",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:13:19.278+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty great card. Rugged is almost as good as buffer and being able to access its effect for just one energy is pretty powerful and worthy of a rare card. The cost of heroic bravado increases as the fight goes on, but its still reasonable to pay 2 energys to play this and it will exhaust itself when you cannot play it anymore. You also have both cheat and etheral form to reduce this card's cost. Notability strong with snecko eye just like desperado as its downside is basically negated with its cost being randomized each turn. really the only problem this card has is being ineffective ageist the heart's multi hit attack; although you can still use it to block the hearts big attack.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112836731826356419",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:15:52.374+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You do also have lone wolf to make it 0 cost for a turn",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112841786818301963",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:35:57.578+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah yes, the argument of \"using these 2 rare cards together\"",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112833992199245824",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112842003428937828",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:36:49.222+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<gestalt>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842014757769287",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:36:51.923+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would agree though that rugged is almost as good as buffer",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842020323610824",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:36:53.25+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gestalt",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_hermit:  / The Hermit / Downfall\n\nGain 2 **Rugged** :p_rugged:.\nGain 2 (1) **Vulnerable** :p_vulnerable:.\n**Exhaust**.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R7zW39Nqhx50I4_Ag3ho6fVw6XymsR-X5bnqVVd4-34/https/slay.ocean.lol/downfall/cards/hermit-gestalt.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112842003428937828",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112842059083153460",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:02.491+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd rather just have gestalt tbh",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842183507185674",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:32.156+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because once you can't play bravado it is technically a dead draw still, and I'd rather have gestalt give the 2 rugged immediately",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842200716423188",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:36.259+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gestalt does seem better in most of the cases that you would want rugged",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842249315819551",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:47.846+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also it is uncommon so easier to get",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842251048079502",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:48.259+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not like, always",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842256597135511",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:37:49.582+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but most",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842353426837564",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:38:12.668+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "plus hermit has high burst damage so the amount of times you get to fully use bravado is pretty limited",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112842553163788298",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:39:00.289+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "question: how often do you guys play bravado at 3 cost (in situations where it is drawn at 3)",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112843126428676236",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:41:16.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "honestly I think bravado is pretty bad, I'd rather it just exhaust after the first play. Upgrade is kinda bad, because 2 cost for 1 rugged usually isn't worth it anyway.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112843188881858651",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:41:31.856+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plus by your second deck cycle a lot of things should already be dead",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112843370046427156",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:42:15.049+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well I meant in terms of rugged in general",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112841786818301963",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112843590390009959",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:43:07.583+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I guess you have to often think of bravado as \"1 cost, gain 1 rugged. Put a dazed into your discard pile. Exhaust\"",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112844165961764977",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:45:24.81+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is stuff like lone wolf and cheat, but tbh that's putting in a lot of effort for not a lot of results.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112844317984293027",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:46:01.055+09:00",
+      "timestampEdited": "2023-05-30T05:47:04.061+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Considering there is <desperado> which acts similarly but scales better",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112844333658407004",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:46:04.792+09:00",
+      "timestampEdited": "2023-05-30T05:47:07.574+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Desperado",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDeal 10 (12) damage.\nDouble this card's damage this combat. It costs 1 more.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/d18njI1uCM_he_Cg1VS3mniy2ZqMKIQYkYVJjKtpguk/https/slay.ocean.lol/downfall/cards/hermit-desperado.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112844317984293027",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112844360074137640",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:46:11.09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~quadratically~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112844317984293027",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112844485810999437",
+      "type": "Default",
+      "timestamp": "2023-05-30T05:46:41.068+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is better cost increasing cards, there is better rugged cards, I don't think bravado is that good.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112844668682641486",
+      "type": "Reply",
+      "timestamp": "2023-05-30T05:47:24.668+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk math so I just said better \uD83E\uDD37‍♂️",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112844360074137640",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112854394996793355",
+      "type": "Default",
+      "timestamp": "2023-05-30T06:26:03.602+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This card has a lot of variance attached to it, in a way that gestalt does not. If you are in an AOE fight, or the enemy is multi-attacking, you have to use this or lose it due to the ethereal, so you can't combine it with runic pyramid or coalescence to wait for the right moment to play it (extremely relevant against the heart, time eater, awakened one, shield and spear, etc.) Sometimes you will get lucky and either just happen to draw it one the right turn, or draw it on a turn where you can protect the rugged to be used later on a more appropriate turn. Rugged is extremely vulnerable to getting wasted against multi hit attacks, and this card kind of doubles down on that because of ethereal. I find that fairly often, you draw this on the wrong turn and it performs well below expectations.\n\nWorth noting that in some ways rugged can be better than a buffer stack, since it only looks at attack damage from enemies. That means that beat of death, burn, decay, pain, thorns from spikers, and other small sources of non-attack damage/loss of life won't use up rugged charges (anyone who's drawn buffer alongside no block against the heart knows this pain). Rugged is very powerful against certain specific attacks in the spire, but gestalt is by far the better card because it gives you better frontloaded mitigation, it's not a dead draw late in a fight, it has synergy with determination/virtue, and it can be held for the right moment. I would usually take a heroic bravado over skipping, but it's a pretty disappointing rare to take from a boss reward, and I would almost never buy it at a shop. It is a pretty decent reward from a neow bonus, since it does well in act 1 against nob and lagavulin. \n\nGets better if you can find the 4th energy, which makes it easier to block on the same turn and protect the rugged stack for later. The upgrade is almost useless, not many fights last long enough to redraw this, and the impact of  it costing 1 less energy on turn 8 is pretty dubious.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112855059668148314",
+      "type": "Default",
+      "timestamp": "2023-05-30T06:28:42.072+09:00",
+      "timestampEdited": "2023-05-30T06:29:32.357+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it probably deserves at least a small buff. I really don't think it needs to have ethereal, I understand ethereal gets it out of the way once it's too expensive, but it does far more harm than good when you consider the runic pyramid/coalescence interaction. I would rather see something like \"Gain 1 rugged. Exhaust.\" and have the upgrade either reduce the cost to 0, or the rugged to 2. It's so weird to have the rare be so much worse than the uncommon version of this effect in <gestalt>",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112855279034441872",
+      "type": "Reply",
+      "timestamp": "2023-05-30T06:29:34.373+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gestalt",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_hermit:  / The Hermit / Downfall\n\nGain 2 **Rugged** :p_rugged:.\nGain 2 (1) **Vulnerable** :p_vulnerable:.\n**Exhaust**.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R7zW39Nqhx50I4_Ag3ho6fVw6XymsR-X5bnqVVd4-34/https/slay.ocean.lol/downfall/cards/hermit-gestalt.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112855059668148314",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112855396462362805",
+      "type": "Reply",
+      "timestamp": "2023-05-30T06:30:02.37+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alex has contemplated the \"gain 1 rugged. exhaust.\" idea",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112855059668148314",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112870291488641034",
+      "type": "Default",
+      "timestamp": "2023-05-30T07:29:13.621+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "might be ok if you also got more rugged per cost, as is i'd probably pick almost any other hermit rare over this in every scenario",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112870471294263396",
+      "type": "Default",
+      "timestamp": "2023-05-30T07:29:56.49+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably only stuff like <high noon> in non-strike deck or <fatal desire> in non-curse deck with no adapt would be worse options and make me pick this",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112870486616055958",
+      "type": "Reply",
+      "timestamp": "2023-05-30T07:30:00.143+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "High Noon",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 2 (1) :energy_hermit:  / The Hermit / Downfall\n\nWhenever you play a Strike or Defend, draw a card.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CXGVGWqR2lBEGZUbMk1xtwrfqVXW0S0ulMRMh8aNULw/https/slay.ocean.lol/downfall/cards/hermit-highnoon.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Fatal Desire",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_hermit:  / The Hermit / Downfall\n\n (**Innate**.)\nAt the start of your turn, draw 2 cards and add an Injury to your hand.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0qplUSN5RdYYy8CDmbeZfupHSWiAW-g8Dy89wj4y5-8/https/slay.ocean.lol/downfall/cards/hermit-fataldesire.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112870471294263396",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112870600382349432",
+      "type": "Default",
+      "timestamp": "2023-05-30T07:30:27.267+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fatal Desire in a non-curse deck without Adapt is still not too bad",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112870625447522408",
+      "type": "Default",
+      "timestamp": "2023-05-30T07:30:33.243+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like a frontloaded machine Learning",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112870987667611715",
+      "type": "Default",
+      "timestamp": "2023-05-30T07:31:59.603+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh actually final canter in a non curse deck is probably the worst",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112880381159551056",
+      "type": "Reply",
+      "timestamp": "2023-05-30T08:09:19.186+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am an advocate for increase cost upgrades",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "634010749492264960",
+          "name": "lxixcdxx",
+          "discriminator": "0000",
+          "nickname": "d/dx(6x^70)",
+          "color": "#6F8D90",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "793945427044859945",
+              "name": "Moderator",
+              "color": "#6F8D90",
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1112855396462362805",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112880414692999248",
+      "type": "Default",
+      "timestamp": "2023-05-30T08:09:27.181+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In this case it might actually work",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112880578497368074",
+      "type": "Reply",
+      "timestamp": "2023-05-30T08:10:06.235+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "`Heroic Bravado [Rare] [Skill] [Hermit] [1(2)e]: Gain 1(2) Rugged. Exhaust.`",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112832882919088198",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112880658377883739",
+      "type": "Default",
+      "timestamp": "2023-05-30T08:10:25.28+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just a straightforward effect, upgrade raises density",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112898078417104916",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:19:38.541+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like the price increasing, would 1(0) cost gain 1 rugged increase cost by 1 rest of combat be too strong?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112898211162628217",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:20:10.19+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so it currently upgraded would be what the new one would be unupgraded, and the new one's upgrade makes it even cheaper.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112898240266899527",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:20:17.129+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would that be too strong?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112900630349090908",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:29:46.969+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well defect <type=card buffer> is doing 2 stronger charges at this cost point",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112900636833484841",
+      "type": "Reply",
+      "timestamp": "2023-05-30T09:29:48.515+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Buffer",
+          "url": "https://slay-the-spire.fandom.com/wiki/Buffer",
+          "timestamp": null,
+          "description": "Rare Power / 2 :blue_energy: / The Defect / Slay the Spire\n\nPrevent the next time (2)  (times) you would lose HP.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1WhhRY_knsXEMla-W7t4zI_dhX64BZJpv8Bq5nbO1PE/https/slay.ocean.lol/slay%2520the%2520spire/cards/buffer.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112900630349090908",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112900719163473950",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:30:08.144+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Albeit with a relatively atrocious unupgraded form",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112900858724753488",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:30:41.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So i would expect `Bravado` to provide a stronger effect if it were priced the same",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112900970066759710",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:31:07.964+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The issue with \"just match cost over uses\" is that you arnt really matching the cost",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901088790728805",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:31:36.27+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1(0) cost results in a cost of 0, 1, 2 for **3** rugged which seems great at first",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901111322525723",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:31:41.642+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but this also costs **3d**",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901167924650034",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:31:55.137+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Defects buffer meanwhile always costs **2e**, **1d**",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901270597029948",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:32:19.616+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Either method would be applicible, but the draw cost should be taken into account",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901333457051749",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:32:34.603+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The current form is vastly inferior, so much so i would argue it would better serve as an uncommon",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112901450213904455",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:33:02.44+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not only does it currently take 3 energy for two lesser charges, you also spend an additional card draw on it",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112907991981772943",
+      "type": "Default",
+      "timestamp": "2023-05-30T09:59:02.119+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we shouldn't make a good card uncommon just because a broken card (gestalt) is better then it and does a similar thing",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112908287801819186",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:00:12.648+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think heroic bravado is fine on its own, its not taken every time but still provides consistent value when it is",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112908868113145906",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:02:31.005+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "besides gestalt and heroic bravado are good paired together, making them both uncommons gives hermit easy access to a powerful defensive buff thats only close to other buffs that are quite rare on the other 4 characters (silent has 1 intangibility rare card, defect has 1 buffer rare card and watcher has 1 rare skip a turn card; ironclad doesn't have one at all)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112909379377831997",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:04:32.9+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ironclad has <barricade>",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112909386042576986",
+      "type": "Reply",
+      "timestamp": "2023-05-30T10:04:34.489+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Barricade",
+          "url": "https://slay-the-spire.fandom.com/wiki/Barricade",
+          "timestamp": null,
+          "description": "Rare Power / 3 (2) :red_energy: / The Ironclad / Slay the Spire\n\n**Block** :p_block: is not removed at the start of your turn.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JKiiga_dpIhnqkrKxoOLXxzHgu1U4EDzvkpx81rsY7E/https/slay.ocean.lol/slay%2520the%2520spire/cards/barricade.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112909379377831997",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112909512773468200",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:05:04.704+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not quite the same thing but considering all of the other defense tools in Ironclad's pocket it does not need to be",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112910658011414538",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:09:37.75+09:00",
+      "timestampEdited": "2023-05-30T10:10:27.516+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think barricade really counts, its a power that lasts an entire fight unlike those other 4 cards which give a 1 time use get out of jail free card from taking damage; by ether preventing it or reducing it to negligible ammounts",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112910873879662662",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:10:29.217+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IC's get out of jail free is Impervious",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC46",
+            "code": "point_up_2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f446.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "258676126090657793",
+              "name": "sandtag",
+              "discriminator": "0000",
+              "nickname": "SandTag",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1112910995397025802",
+      "type": "Reply",
+      "timestamp": "2023-05-30T10:10:58.189+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "didn't someone give examples of it specifically not being consistent though?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112908287801819186",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112911043589591074",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:11:09.679+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats a better comparison sure, but its still operating like a normal card (if impervious counts then so would panic button)",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112911482456383488",
+      "type": "Reply",
+      "timestamp": "2023-05-30T10:12:54.313+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no ethereal card is live every time its drawn, but this card is still more consistent then the average ethereal card because you can store the buff for later",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112910995397025802",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112911750325616660",
+      "type": "Default",
+      "timestamp": "2023-05-30T10:13:58.178+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I find that even if my heroic bravado only gets to be played one time its still very helpful that one time its used",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112931709357396028",
+      "type": "Reply",
+      "timestamp": "2023-05-30T11:33:16.782+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think it used to be exactly that but Alex nerfed it",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1112898078417104916",
+        "channelId": "1112832878846410793",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1112931763614928946",
+      "type": "Default",
+      "timestamp": "2023-05-30T11:33:29.718+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know the unupgraded was for a fact",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1112959436382814268",
+      "type": "Default",
+      "timestamp": "2023-05-30T13:23:27.42+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Huh. I know gestalt has been changed time and time again, so maybe it was just outshining the opposition?",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 91
+}

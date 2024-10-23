@@ -1,0 +1,223 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1044341588454813708",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Ironclad 3 (boss) - Daily Discussion 21 Nov",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:28:56.736906+09:00",
+  "messages": [
+    {
+      "id": "1044341590510018702",
+      "type": "Default",
+      "timestamp": "2022-11-22T05:00:38.106+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1044341595895517345",
+      "type": "Default",
+      "timestamp": "2022-11-22T05:00:39.39+09:00",
+      "timestampEdited": "2022-11-23T05:01:00.874+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nGremlin Leader's Voucher (Gremlins relic): 5\nThe Art of Slime War (event): 2\nWide Open (Hermit card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1044341599502598286",
+      "type": "Default",
+      "timestamp": "2022-11-22T05:00:40.25+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#BA1A1A",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/XF7vIevQAL0wNtN2uxHoW18NRyVrFz4aN9RY1-oVbUs/https/oceanuwu.github.io/downfallbot/altered/img/bosses/ironclad3.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/XF7vIevQAL0wNtN2uxHoW18NRyVrFz4aN9RY1-oVbUs/https/oceanuwu.github.io/downfallbot/altered/img/bosses/ironclad3.png",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Ironclad 3",
+          "url": "https://sts-downfall.fandom.com/wiki/Ironclad_(Act_3_Boss)?embnum=0",
+          "timestamp": null,
+          "description": "Act 3 Boss\n\n**Bastion** - Ironclad begins the fight with a Fortification, which will grant him 10 block each turn. When the Fortification has been destroyed, Ironclad loses Barricade, but gains 5 **Strength:p_strength:** at the start of each turn.\n\n**Cards**: Feel No Pain, Impervious, Intimidate, Flame Barrier(+), Body Slam, Clumsy, Entrench, Metallicize, Decay, Power Through, Second Wind, Ghostly Armor\n\n**Relics**: Odd Mushroom, Torii, **Curse**d Key, Horn Cleat, Self-Forming Clay (A19)",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XF7vIevQAL0wNtN2uxHoW18NRyVrFz4aN9RY1-oVbUs/https/oceanuwu.github.io/downfallbot/altered/img/bosses/ironclad3.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1044376062110482442",
+      "type": "Default",
+      "timestamp": "2022-11-22T07:17:36.776+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the dont be hexaghost boss",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1044417407399252109",
+      "type": "Default",
+      "timestamp": "2022-11-22T10:01:54.261+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fairly interesting boss fight where strong front-loaded damage can actually function as mitigation against body slam and prevent it getting out of hand with entrench. Very few boss fights (at least in the base game) reward front loaded damage in that way. It also functions a bit like champ in that taking out the fortification triggers a second phase of sorts where it starts gaining huge amounts of strength. This often means that you want to delay killing the fortification to give yourself time to deploy some backloaded scaling cards (duplicated form, spreading slime, time capacitor, orbwalk+, infernal form, strike of genius+, sentient form, polish, exotic form) so that you are ready to quickly beat the ironclad once it enters this second phase.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1044418568349044766",
+      "type": "Default",
+      "timestamp": "2022-11-22T10:06:31.053+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seeing it at the start of act 3 incentivizes finding a few more burst damage cards, and making sure you have at least 1 good source of backloaded scaling. You don't have much time left to adjust for the buff it gives neow in act 4 (demon form), which puts a pretty serious timer on that fight by heavily increasing neows power if the fight goes on long enough.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

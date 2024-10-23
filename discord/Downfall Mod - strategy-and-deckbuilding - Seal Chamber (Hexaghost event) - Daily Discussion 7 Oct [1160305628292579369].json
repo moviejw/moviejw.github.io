@@ -1,0 +1,460 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1160305628292579369",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Seal Chamber (Hexaghost event) - Daily Discussion 7 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:53:59.9479118+09:00",
+  "messages": [
+    {
+      "id": "1160305629752201297",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:00:19.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160305630708502669",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:00:19.797+09:00",
+      "timestampEdited": "2023-10-09T05:00:29.093+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nEnchant Shield (Champ card): 2\nBlack Bindings (Collector card): 4\nOpening Tackle (Slime Boss card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160305634055561277",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:00:20.595+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 353/936",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Seal Chamber",
+          "url": "https://slay.ocean.lol/w/downfall/downfall%3ahexa_ghost_purpleseal%20chamber",
+          "timestamp": null,
+          "description": "Event / Act ? / The Hexaghost / Downfall\n```ansi\n\u001B[2;37m[Offer\u001B[2;37m] \u001B[2;31mLose \u001B[0;2m7 HP. \u001B[2;32mGain First Seal.\n``````ansi\n\u001B[2;37m[Offer\u001B[2;37m] \u001B[2;31mLose \u001B[0;2m10 \u001B[2;33mSouls. \u001B[2;32mGain Second Seal.\n``````ansi\n\u001B[2;37m[Offer\u001B[2;37m] \u001B[2;31mLose \u001B[0;2m(common card chosen at random). \u001B[2;32mGain Third Seal.\n``````ansi\n\u001B[2;37m[Offer\u001B[2;37m] \u001B[2;31mLose \u001B[0;2m(potion chosen at random). \u001B[2;32mGain Fourth Seal.\n``````ansi\n\u001B[2;37m[Leave\u001B[2;37m] \n```",
+          "color": "#465042",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/m51QVH9xfguDfiRLaLOeBmKDZsnCWENDGb7vXG_gcZA/https/slay.ocean.lol/extraimages/events/sealchamber.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/m51QVH9xfguDfiRLaLOeBmKDZsnCWENDGb7vXG_gcZA/https/slay.ocean.lol/extraimages/events/sealchamber.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306307107143710",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:03:01.063+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its good if you want to break seal",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306533796675665",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:03:55.11+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who wants third seal?\nwho wants third seal?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306626344014016",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:04:17.175+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh no, please don't remove a random common card, no!!!",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306710985060455",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:04:37.355+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pretty amazing event. Options 1 and 2 cost very little, Option 3 can potentially but not always be an upside, and third seal is so good I'll take as many as I can. Losing a potion can be bad, but again, you need one hallway fight to get ahead on this",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306719801475292",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:04:39.457+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not my gh||won't say it||!!!",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306964778193097",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:05:37.864+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<first seal><second seal><third seal><fourth seal>",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160306969580671026",
+      "type": "Reply",
+      "timestamp": "2023-10-08T05:05:39.009+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "First Seal",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3afirstseal",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\n​~~- **Ethereal**  -~~ **Seal.**\nAt the end of combat, heal 7 HP.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bupaA4Hf_QEEaT-aTyFZdQm8SjbCdCy4i6Z67ReFdCc/https/slay.ocean.lol/downfall/cards/hexamod-firstseal.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Second Seal",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3asecondseal",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\n​~~- **Ethereal**  -~~ **Seal.**\nAt the end of combat, gain 10 additional Gold :p_gold:.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iE3hgP3gW29FasH7q2mCf_Gwzi-EIfHDATg_m23Ie3Y/https/slay.ocean.lol/downfall/cards/hexamod-secondseal.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Third Seal",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3athirdseal",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\n​~~- **Ethereal**  -~~ **Seal.**\nAt the end of combat, gain an additional card reward.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nTQZWm3ybRUOr5o0O-RGhQRzN5L1fAUyENdkJ7HJ6bw/https/slay.ocean.lol/downfall/cards/hexamod-thirdseal.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Fourth Seal",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3afourthseal",
+          "timestamp": null,
+          "description": "Uncommon Power / 1 :energy_hexa: / The Hexaghost / Downfall\n\n​~~- **Ethereal**  -~~ **Seal.**\nAt the end of combat, gain an additional Potion reward.",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/g4_TP9llnZCZeZ0pG9WlOF0-dyRRfzZMaMWONHSJ61c/https/slay.ocean.lol/downfall/cards/hexamod-fourthseal.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1160306964778193097",
+        "channelId": "1160305628292579369",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1160307041072578570",
+      "type": "Default",
+      "timestamp": "2023-10-08T05:05:56.054+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This doesn't give rare seals so I don't think it gets you that much closer to breaking the seal, but as discussed in the 6th seal daily discussion, most of the seals are independently good anyways",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160321718733250661",
+      "type": "Default",
+      "timestamp": "2023-10-08T06:04:15.481+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this event exists?",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1160363572384235560",
+      "type": "Default",
+      "timestamp": "2023-10-08T08:50:34.169+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quite a strong event to find, third seal is just such a busted card, and removing a common from your deck will usually be a good thing if you find this later on in the run. Losing 7 hp for first seal is also a pretty solid deal, since you can get that back after playing it a single time, and the sustain it provides can be very useful, especially if you have coffee dripper or incorporeal. Fourth seal is also really nice, you will be behind for a while if you give up a potion for it, but hexaghost is often good enough at frontloading and short hallways fights that you can get away with it. The one I would be the least likely to take is second seal, it's just fairly low impact, and I don't tend to include it unless I am already going for the broken seal (which probably means I already have 5th or 6th, and then this event is far less valuable). Second seal can also be decent if you have courier or membership card to make better use of the souls. This event is really strong if you have mummified hand or bird faced urn already, as all the powers become much more attractive.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

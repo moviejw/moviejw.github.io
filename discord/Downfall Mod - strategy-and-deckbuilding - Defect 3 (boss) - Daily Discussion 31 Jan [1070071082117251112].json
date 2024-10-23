@@ -1,0 +1,996 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1070071082117251112",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Defect 3 (boss) - Daily Discussion 31 Jan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:22:30.6863851+09:00",
+  "messages": [
+    {
+      "id": "1070071083702702131",
+      "type": "Default",
+      "timestamp": "2023-02-01T05:00:27.314+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070071119333294101",
+      "type": "Default",
+      "timestamp": "2023-02-01T05:00:35.809+09:00",
+      "timestampEdited": "2023-02-02T05:01:00.126+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\n??? R Power (Snecko card): 3\nPrickly Shields (relic): 1\nStolen Merchandise (Gremlins relic): 6",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070071124630708335",
+      "type": "Default",
+      "timestamp": "2023-02-01T05:00:37.072+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 104/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#309FFF",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/wuhMxnjxx95Uq-BTUta6SuZ_EEi-b3ks4hZ9o36wwOU/https/oceanuwu.github.io/slaytabase/extraImages/bosses/defect3.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/wuhMxnjxx95Uq-BTUta6SuZ_EEi-b3ks4hZ9o36wwOU/https/oceanuwu.github.io/slaytabase/extraImages/bosses/defect3.png",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Defect 3",
+          "url": "https://sts-downfall.fandom.com/wiki/Defect_(Act_3_Boss)?embnum=0",
+          "timestamp": null,
+          "description": "Act 3 Boss\n\n**Unbiased Cognision** - Whenever you play a Power card, Defect gains 1 **Focus** :p_focus:.\n\n**Cards**: Rainbow, Reinforced Body, Charge Battery, Zap+, Dualcast, Multi-Cast, Cold Snap, Barrage+, Leap, Storm, Defragment(+), Blind\n\n**Relics**: Coffee Dripper, Fossilized Helix, Lantern, Data Disk, Art of War (A19)",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wuhMxnjxx95Uq-BTUta6SuZ_EEi-b3ks4hZ9o36wwOU/https/oceanuwu.github.io/slaytabase/extraImages/bosses/defect3.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070071905920491600",
+      "type": "Default",
+      "timestamp": "2023-02-01T05:03:43.346+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This kills the Airazel.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "☠️",
+            "code": "skull_crossbones",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2620.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "433794178368012291",
+              "name": "mysticsailboat",
+              "discriminator": "0000",
+              "nickname": "mysticsailbo⛵at",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/433794178368012291/a2a869d70479b2327e008e72d2e91167.png?size=512"
+            },
+            {
+              "id": "634010749492264960",
+              "name": "lxixcdxx",
+              "discriminator": "0000",
+              "nickname": "d/dx(6x^70)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1070093954395164713",
+      "type": "Default",
+      "timestamp": "2023-02-01T06:31:20.112+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "p much the equivalent of basegame <awakened one> for downfall",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070093957150802000",
+      "type": "Reply",
+      "timestamp": "2023-02-01T06:31:20.769+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Awakened One",
+          "url": "https://slay-the-spire.fandom.com/wiki/Awakened_One?embnum=0",
+          "timestamp": null,
+          "description": "Boss / 300-300 HP / Slay the Spire",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/E3_3uO7NjIZppYlGnICBjeBA83OzinIGmlpfnE__yXA/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/creatures/AwakenedOne.png",
+            "width": 508,
+            "height": 218
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1070093954395164713",
+        "channelId": "1070071082117251112",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1070094181579636798",
+      "type": "Default",
+      "timestamp": "2023-02-01T06:32:14.277+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "except there’s no burst phase you just kill him ig",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070105190495178832",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:15:59.007+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah. If your deck does not heavily rely on powers it is a complete pushover.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070105458309857350",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:17:02.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Even if I have 1 power, this kills the Airazel.",
+      "author": {
+        "id": "96690613717581824",
+        "name": "dreamerairazel",
+        "discriminator": "0000",
+        "nickname": "Airazel (Dragon Metronome) Agony",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96690613717581824/a01bbf830963d1f602f884f9bebbb3f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070105683795648592",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:17:56.619+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just simply wait to use the power until after turn 2 or 3 or whatever the first big damage turn is",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070105813319942214",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:18:27.5+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "then it takes a few turns to get back to said damage turn, and by then you should have more consistent block or have killed it already.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070106308533047376",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:20:25.568+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think honestly this is probably the 2nd easiest act 3 boss fight.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070106691280052266",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:21:56.822+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If I had to order them 1-5 with 5 being the easiest and 1 the hardest (assuming ascension 19 or 20)\n5. Hermit\n4. Defect\n3. Watcher\n2. Ironclad\n1. Silent",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070106772272074804",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:22:16.132+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If below A19 I'd drop silent to 2 or 3.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070107227081412618",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:24:04.567+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But this fight just is too slow. If by the start of act 2 I haven't seen defect as a boss I become weary and take less powers.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070107502445871165",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:25:10.219+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I usually don't take many powers act 1 anyway",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070107622151311440",
+      "type": "Default",
+      "timestamp": "2023-02-01T07:25:38.759+09:00",
+      "timestampEdited": "2023-02-01T07:27:10.994+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And seeing defect as an act 1 or act 2 fight means you can take as many powers as you need without much fear.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070161932616745060",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:01:27.383+09:00",
+      "timestampEdited": "2023-02-01T11:01:52.73+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It does feel alot like awakened one, but it has less health, and no cultists to burst down. It also puts a lot less pressure on the player, dealing far less damage overall. Something important to note is that there are several more ways to scale without using powers for downfall characters than there are for standard characters. You can use licks or slime spamming on slime boss, the temporary strength/dex and debuff removal on guardian (resilient plate+), champs vigor and multihits, the entire concept of making functions on bronze automaton, and ghostflames, burning question and turn it up for hexaghost. In standard, you have consume, poison stacking (though that has its own problem against awakened ones second phase), wish, and talk to the hand (same issue with the second phase). Demon form, rupture, barricade, and deva form can all work well as a single power that you play that provides enough scaling for the whole fight. Downfall just has a lot more ways to solve these kinds of boss fights without playing a bunch of powers to scale yourself up (guardian and bronze automaton especially).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070162954424688771",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:05:31.001+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It does feel far too easy to beat right now, primarily because it just doesn't threaten the player very much. You have a lot of time to setup and it only rarely tries to deal heavy damage to the player.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070173056154222624",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:45:39.441+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I feel like it is a fight that you'd lose before you make it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070173168964214814",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:46:06.337+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you build through powers and you don't adapt, and you can't scale hard enough, you lose.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070173307401408553",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:46:39.343+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alternatively if you have built your deck properly to handle it, it feels like you've already won before you even fought it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070173518391672832",
+      "type": "Default",
+      "timestamp": "2023-02-01T11:47:29.647+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And by the end of act 1 start of act 2, you already have a 2/5 chance to just guaranteed not have to fight it.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070183518975570052",
+      "type": "Default",
+      "timestamp": "2023-02-01T12:27:13.972+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is definitely interesting that unlike traditional act 3 bosses, you can rule some out in downfall. Knowing that you can take as many 2 cost cards as you want because you already fought silent, or as many powers as you want because you fought defect, or as much card spam as you want because you already fought watcher. In traditional, you always have to be careful of entering act 3 and just having a deck that has too much spam for time eater, or too many powers for awakened one, even more so with double boss at A20. You aren't really kept as honest about your deck building in downfall when you can know for sure that you won't be checked by an enemy that counters power spam like awakened one/defect 3.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070184395530575913",
+      "type": "Default",
+      "timestamp": "2023-02-01T12:30:42.959+09:00",
+      "timestampEdited": "2023-02-01T12:30:55.795+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~ngl i never actually think about that till act 3, it's probably why i don't have a20 winstreaks~~",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434172344209559",
+      "type": "Default",
+      "timestamp": "2023-02-02T05:03:14.392+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Defect 3's gimmick is fine",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434190627184691",
+      "type": "Default",
+      "timestamp": "2023-02-02T05:03:18.751+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "their deck is awful though",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434208826273803",
+      "type": "Default",
+      "timestamp": "2023-02-02T05:03:23.09+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how did they survive act 3",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434230556954684",
+      "type": "Default",
+      "timestamp": "2023-02-02T05:03:28.271+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "white beast statue?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434362052583464",
+      "type": "Default",
+      "timestamp": "2023-02-02T05:03:59.622+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feel like replacing their <Leap> and <Charge Battery> with a <Cold Snap> and <Ball Lightning> will go a long way in improving their lethality",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070434371133255698",
+      "type": "Reply",
+      "timestamp": "2023-02-02T05:04:01.787+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Leap",
+          "url": "https://slay-the-spire.fandom.com/wiki/Leap?embnum=0",
+          "timestamp": null,
+          "description": "Common Skill / 1 :e_blue: / The Defect / Slay the Spire\n\nGain 9 (12) **Block** :p_block:.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JMoMPNygcIHVoDnEyivf6EiGKAMG6qFckEIxqIvSgSE/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/cards/Blue-Leap.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Charge Battery",
+          "url": "https://slay-the-spire.fandom.com/wiki/Charge_Battery?embnum=1",
+          "timestamp": null,
+          "description": "Common Skill / 1 :e_blue: / The Defect / Slay the Spire\n\nGain 7 (10) **Block** :p_block:.\nNext turn, gain :e_blue:.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7WUzdQLTcLHU2Ew_YxSQuVqpAhuaPi2qK68Y5XcGgts/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/cards/Blue-ChargeBattery.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Cold Snap",
+          "url": "https://slay-the-spire.fandom.com/wiki/Cold_Snap?embnum=2",
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_blue: / The Defect / Slay the Spire\n\nDeal 6 (9) damage. Channel 1 Frost.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KgRvomtB67IOmECppQvQLow1fMf1ZnQWWHCeU6GS1Rs/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/cards/Blue-ColdSnap.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Ball Lightning",
+          "url": "https://slay-the-spire.fandom.com/wiki/Ball_Lightning?embnum=3",
+          "timestamp": null,
+          "description": "Common Attack / 1 :e_blue: / The Defect / Slay the Spire\n\nDeal 7 (10) damage. Channel 1 Lightning.",
+          "color": "#309FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Lxh9dqB6f75mj7d4bRrc_e1iKUA__KHu9bI9oOG1P4Y/https/oceanuwu.github.io/slaytabase/Slay%2520the%2520Spire/cards/Blue-BallLightning.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1070434362052583464",
+        "channelId": "1070071082117251112",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 31
+}

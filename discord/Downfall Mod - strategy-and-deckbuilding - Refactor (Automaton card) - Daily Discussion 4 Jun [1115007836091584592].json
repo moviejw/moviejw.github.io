@@ -1,0 +1,128 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1115007836091584592",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Refactor (Automaton card) - Daily Discussion 4 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:07:51.1299844+09:00",
+  "messages": [
+    {
+      "id": "1115007840260726845",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:03:04.962+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1115007842089435296",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:03:05.398+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vote for tomorrow's Daily Discussion (2023-06-06 오전 5:00) here!",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flail",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :energy_auto: / The Automaton / Downfall\n\nDeal 7 (8) damage to ALL enemies 2 times.\nGain 1 (2) **Artifact** :p_artifact:.\n**Exhaust**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sIyJZeuca2hbqoJj7Qqvzy1HT_lyhw5n8dvz4AFlGkM/https/slay.ocean.lol/downfall/cards/bronze-flail.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Xanatos' Icy Charm",
+          "url": null,
+          "timestamp": null,
+          "description": "Boss Relic / The Hexaghost / Downfall\n\nGain :energy_hexa: at the start of your turn. **Soulburn** :p_soulburn: takes 4 turns to activate. Start each combat with 1 less **Intensity** :p_intensity:.\n*I feel... cold.*",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NnHrh1_qAGplCvI0o9eDEZM-tFzs_bm34OEnmgUy9pM/https/slay.ocean.lol/downfall/relics/icecube.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Roll Through",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_slime: / The Slime Boss / Downfall\n\nDeal 5 (7) damage to ALL enemies.\nYou do not take damage from the next 2 (3) \"Tackle\" cards.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JVmqH4gVuzTVp9_OjTXBfD3-zYaq-Uhm8WF90NIkZFg/https/slay.ocean.lol/downfall/cards/slimebound-rollthrough.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,821 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1137475359080710195",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Clobber (Champ card) - Daily Discussion 5 Aug",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:00:47.2929973+09:00",
+  "messages": [
+    {
+      "id": "1137475360515178627",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:00:59.217+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137475362868170953",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:00:59.778+09:00",
+      "timestampEdited": "2023-08-07T05:00:12.281+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nGremlin Gravestone (Gremlins relic): 4\nGrim Forge (Automaton event): 4\nSecond Volley (Gremlins card): 3",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137475365850316941",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:01:00.489+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 290/785",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clobber",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Attack / 1 :energy_champ: / The Champ / Downfall\n\nDeal 6 (9) damage.\nGain **Block** :p_block: equal to unblocked damage dealt.",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/lKJFcqqH5qb6FGajC00b--T4UTvWvjyOnHBGEl3-W_o/https/slay.ocean.lol/downfall/cards/champ-vampiricstrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/lKJFcqqH5qb6FGajC00b--T4UTvWvjyOnHBGEl3-W_o/https/slay.ocean.lol/downfall/cards/champ-vampiricstrike.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137476065204387950",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:03:47.228+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wallop",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137481396781338805",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:24:58.375+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483118891237426",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:31:48.958+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "very good card \uD83D\uDC4D",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483284113268836",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:32:28.35+09:00",
+      "timestampEdited": "2023-08-06T05:33:02.785+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i guess vigor stands in for wrath here as the way to make it bonkers (i don't play champ)",
+      "author": {
+        "id": "96440001503428608",
+        "name": "hcphx",
+        "discriminator": "0000",
+        "nickname": "cadence",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96440001503428608/02fc449e0c419263400ecdb9e6f0059d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137483534769062081",
+      "type": "Default",
+      "timestamp": "2023-08-06T05:33:28.111+09:00",
+      "timestampEdited": "2023-08-06T05:54:28.262+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "theres not really much to say about this, you get to be safe pretty much every turn you draw this card since champ can really easily boost this up. Having excess block helps you with shield throw although usually that card hits so hard it does not need help.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137505684280320224",
+      "type": "Default",
+      "timestamp": "2023-08-06T07:01:28.966+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cheap wallop",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137505691486126211",
+      "type": "Default",
+      "timestamp": "2023-08-06T07:01:30.684+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "very good",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137538701656871012",
+      "type": "Default",
+      "timestamp": "2023-08-06T09:12:40.922+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's the exact same text as wallop, but it costs 1 less, is rare, and does 3 less damage. Champ is so good at stacking vigor and gaining strength that this will very frequently provide a full turn's block for just 1 energy. It's extremely powerful, and definitely falls under the \"champ numbers\" problem, especially considering how easy vigor stacking is. I'm normally willing to buy this if I see it at a shop, especially considering how important having some solution to blocking in the lategame is as champ. Usually a very good choice at a rare boss card reward as well, though sometimes you take burst or scaling options over it as the rund demands.\n\nThere are cards that reward vigor stacking with multiple hits, or that are AOE (fan of knives, shield throw, etc.), many of which can be used to simply end the fight rather than having to worry about blocking at all. However, clobber plays much better than those cards as you reach the later stages of the game and enemies have enough health that you can't simply burst them out anymore. Get better with runic pyramid to save the block for the right turn and let you stack more vigor for it to block particularly large attacks. Pen nib also pairs very well to let you double up on the damage/block if you can time it right. Upgrade is pretty excellent, it's a +6 just like wallop (if we count in the extra block), but this is a 1 cost card. To be fair, wallop's upgrade might as well be a +12 considering that wrath doubles the value of it's extra damage and block, and that most runs heavily involve abusing wrath (the multiplication is even more powerful if you are using divinity).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137565366734835742",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:58:38.372+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1 cost wallop pogger on the character whos entire thing is putting an absurd amount of damage on a single card, if my deck isn't broken already I click",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137565599615172711",
+      "type": "Default",
+      "timestamp": "2023-08-06T10:59:33.895+09:00",
+      "timestampEdited": "2023-08-06T11:00:02.662+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the one downside is that champ typically just kills the enemy in one hit when he plays an attack card so you might not need the block if you can just click dagger spray instead",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137581525924323428",
+      "type": "Default",
+      "timestamp": "2023-08-06T12:02:51.023+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hehee hohoo you're at 1hp and I blocked for 222",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137762000831782922",
+      "type": "Reply",
+      "timestamp": "2023-08-06T23:59:59.594+09:00",
+      "timestampEdited": "2023-08-07T00:00:06.276+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[[Slam packmaster]]",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137538701656871012",
+        "channelId": "1137475359080710195",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137762004011073557",
+      "type": "Reply",
+      "timestamp": "2023-08-07T00:00:00.352+09:00",
+      "timestampEdited": "2023-08-07T00:00:06.878+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Slam",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :PackmasterEnergy: / The Packmaster / Pack: Aggression\n\nDeal 5 (7) damage.\nGain **Block** :p_block: equal to unblocked damage dealt.",
+          "color": "#AD9477",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qx4MLYfPAx9k2moSTKvM0jThGN8M1goAs9LfGbptX1E/https/slay.ocean.lol/the%2520packmaster/cards/anniv5-slam.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137762000831782922",
+        "channelId": "1137475359080710195",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137762049741553835",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:00:11.255+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[[6A]]",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137762052421734460",
+      "type": "Reply",
+      "timestamp": "2023-08-07T00:00:11.894+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "6A",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :colorless_energy: / The Ordinary Magician / Marisa（霧雨\u3000魔理沙）\n\nDeal 5 (7) damage. Gain **Block** :p_block: equal to the unblocked damage dealt.",
+          "color": "#004874",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bib7ItkAwXLHX5A6FGFrFMObmMemJWtidyPdwu2dPcU/https/slay.ocean.lol/marisa%25EF%25BC%2588%25E9%259C%25A7%25E9%259B%25A8%25E3%2580%2580%25E9%25AD%2594%25E7%2590%2586%25E6%25B2%2599%25EF%25BC%2589/cards/6a.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137762049741553835",
+        "channelId": "1137475359080710195",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137762072676016168",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:00:16.723+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "these are also Clobbers",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137762091130966118",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:00:21.123+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but in lower rarities",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137762109174845488",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:00:25.425+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and with slightly smaller values",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137763174972661770",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:04:39.531+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<Snapshot> if you don't hate dead on",
+      "author": {
+        "id": "269245758752948224",
+        "name": "carbon_wanderer",
+        "discriminator": "0000",
+        "nickname": "Carbon the Wanderer",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/269245758752948224/d841504f539996a9513565fd488e29e9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137763177300492419",
+      "type": "Reply",
+      "timestamp": "2023-08-07T00:04:40.086+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Snapshot",
+          "url": null,
+          "timestamp": null,
+          "description": "Basic Attack / 1 :energy_hermit:  / The Hermit / Downfall\n\nDeal 6 (8) damage. **Dead On:** Gain **Block** :p_block: equal to the unblocked damage dealt.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6CnBQ6jwBDM0QiLFC1Wp4PRP3JuS1JMxyPI6TyXRU6M/https/slay.ocean.lol/downfall/cards/hermit-snapshot.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137763174972661770",
+        "channelId": "1137475359080710195",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1137763268551786529",
+      "type": "Default",
+      "timestamp": "2023-08-07T00:05:01.842+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snapshot has conditionality",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137801195575066824",
+      "type": "Default",
+      "timestamp": "2023-08-07T02:35:44.349+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6A was my favorite Marisa common cuz of the guilty gear card art",
+      "author": {
+        "id": "396236632518557706",
+        "name": "aubrey7518",
+        "discriminator": "0000",
+        "nickname": "Aubrey",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396236632518557706/92cab955331ba541d36db89267bbb004.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 25
+}

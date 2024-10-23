@@ -1,0 +1,500 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1215026126410219630",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Donu's Washers (relic) - Daily Discussion 6 Mar",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:41:10.9241616+09:00",
+  "messages": [
+    {
+      "id": "1215026128197128203",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:00:03.056+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215026129514008578",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:00:03.37+09:00",
+      "timestampEdited": "2024-03-08T05:00:15.481+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\n??? R Attack (Snecko card): 0\nBauble Burst (Guardian card): 10\nSoul-lit Lamp (Collector relic): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215026132810727486",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:00:04.156+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 471/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Donu's Washers",
+          "url": "https://slay.ocean.lol/w/downfall/bronze%3adonuswashers",
+          "timestamp": null,
+          "description": "Shop Relic / All / Downfall\n\nAt the start of combat, gain :colorless_energy: :colorless_energy: and add 1 Void into your draw pile.\n*It is rather clear why Donu collects these.*",
+          "color": "#7A7A7A",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/kke_QkagfOZPwJ_37_-07vVh_HMnxfw6sOywsc3TuPE/https/slay.ocean.lol/downfall/relics/donuswashers.png",
+            "width": 150,
+            "height": 150
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/kke_QkagfOZPwJ_37_-07vVh_HMnxfw6sOywsc3TuPE/https/slay.ocean.lol/downfall/relics/donuswashers.png",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215027915171823686",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:07:09.104+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you really need energy on turn 1, here it is",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215038859759456398",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:50:38.497+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not as strong as <deca washers>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215038861890031708",
+      "type": "Reply",
+      "timestamp": "2024-03-07T05:50:39.005+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Deca's Washers",
+          "url": "https://slay.ocean.lol/w/downfall/bronze%3adecaswashers",
+          "timestamp": null,
+          "description": "Uncommon Relic / All / Downfall\n\nAt the start of the first 3 turns of each combat, draw an additional card.\n*It is unclear why Deca collects these.*",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XRLIMw1BQsjIXvEeihht8TijjFmwCYDRbkyrdzt5Xmo/https/slay.ocean.lol/downfall/relics/decaswashers.png",
+            "width": 150,
+            "height": 150
+          },
+          "footer": {
+            "text": "<deca washers> = decas washers, 41.46"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1215038859759456398",
+        "channelId": "1215026126410219630",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1215039051334295642",
+      "type": "Default",
+      "timestamp": "2024-03-07T05:51:24.172+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but reasonable pickup if you’re: \ncollector\nhave lots of draw\nicecream\nhave lots of stuff to do on turn one",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215056854812594178",
+      "type": "Default",
+      "timestamp": "2024-03-07T07:02:08.852+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh boy I see bauble burst. I sure hope that doesn't bring up a past debate on bauble burst vs. exploit gems",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215062455265263707",
+      "type": "Default",
+      "timestamp": "2024-03-07T07:24:24.104+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~do it~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215062478136938597",
+      "type": "Default",
+      "timestamp": "2024-03-07T07:24:29.557+09:00",
+      "timestampEdited": "2024-03-07T07:24:34.348+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~do it~~",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215070318847336529",
+      "type": "Default",
+      "timestamp": "2024-03-07T07:55:38.928+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it is winning 6 to 0 to 0. I think we shall.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215107977846194277",
+      "type": "Default",
+      "timestamp": "2024-03-07T10:25:17.533+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One of the few relics that has a fairly nasty drawback attached to it. The good news is that it's a shop relic, so you never have to take it from a random drop, and can make a reasonable decision about it's risks vs rewards. The major risk is that you are shuffling in a dead card into your deck, that will at some point put you down an energy and a card at some point in the future. Especially nasty if you have a smaller deck, making you more likely to face that punishment sooner rather than later, and if you are trying to go infinite/semi infinite. The reward is admittedly very powerful, effectively two lanterns stuck together, letting you get off the ground with a running start on turn one in every fight. It's especially useful if you have something like bag of preparation, deca's washers, toolbox, bottled card draw, a strong bottled power, are playing collector (naturally draws 6 cards a turn), or any other way to use the extra energy more effectively and consistently. \n\nNow there are some ways to deal with the drawback as well. Both automaton and guardian can use repulsor to block the void, bronze idol can make it into a semi useful card, gelatinous cube and dead branch can let you recoup the draw. You can also play either a very large deck to delay the drawback, or play an extremely fast/high damage deck that can kill enemies with the extra energy before you reach the point where the void would affect you. I probably only buy this from shops about 40 percent of the time, as the drawback can be severe, and it's always in competition with 2 other relics, card removal, potions, etc. It is a better pickup in acts 1 and 2, where you can more easily burst down enemies before the void would matter, though if you see it in act 3 or 4, there is a higher chance that you have some other way to deal with the void.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215118056578093146",
+      "type": "Default",
+      "timestamp": "2024-03-07T11:05:20.49+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay but it's funny with bronze idol",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215118102853849139",
+      "type": "Default",
+      "timestamp": "2024-03-07T11:05:31.523+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which no one has mentioned",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215215073270693908",
+      "type": "Default",
+      "timestamp": "2024-03-07T17:30:51.072+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I might just misremembering things but I swear this used to be a rare relic not a shop one",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1215215693138493471",
+      "type": "Default",
+      "timestamp": "2024-03-07T17:33:18.86+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its very good of course, 2 energy on turn 1 is more then worth the drawback of a void. Every deck should be prepared to not collapse to a single status card. Having so much additional energy lets you do just about whatever you want on the first turn; which is usually the most important turn of every fight. It gets even crazier with other turn 1 relics like bag of preparation.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 16
+}

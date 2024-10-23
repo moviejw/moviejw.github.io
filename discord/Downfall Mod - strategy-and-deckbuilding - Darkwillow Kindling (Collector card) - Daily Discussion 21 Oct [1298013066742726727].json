@@ -1,0 +1,357 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1298013066742726727",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Darkwillow Kindling (Collector card) - Daily Discussion 21 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:14:05.6563604+09:00",
+  "messages": [
+    {
+      "id": "1298013068856393901",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:00:31.532+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298013070836367473",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:00:32.004+09:00",
+      "timestampEdited": "2024-10-22T12:01:02.783+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Vote for tomorrow's Daily Discussion (2024-10-23 오전 5:00) here!",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Potentially Potent Potion",
+          "url": "https://slay.ocean.lol/w/downfall/sneckomod%3adicerollpotion",
+          "timestamp": null,
+          "description": "Common Potion / The Snecko / Downfall\n\nDeal 1-40 damage.*",
+          "color": "#60A4BD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ISx2QZZ0T_6DBsJjCeHI6RpTAdRJw0dQR7-wVHTEp8s/https/slay.ocean.lol/downfall/potions/sneckomod-dicerollpotion.png",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Quick Snack",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3adissolve",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_slime: / The Slime Boss / Downfall\n\nDraw 1 (2) card (cards).\n**Exhaust** a card. Gain Licks equal to its cost.\n**Exhaust**.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6RRUofholmr63d2hENFzX33qC8Bth_PKI3iC8Uvc7dA/https/slay.ocean.lol/downfall/cards/slimebound-dissolve.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "4 votes"
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Fast Forward",
+          "url": "https://slay.ocean.lol/w/downfall/hexamod%3afastforward",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 :energy_hexa: / The Hexaghost / Downfall\n\nDraw 2 (3) cards.\n**Advance.**",
+          "color": "#A357B3",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IPgLSoanj76xOxvtvHBkGWuJH_0MwBGgP2m_54klz-M/https/slay.ocean.lol/downfall/cards/hexamod-fastforward.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "3 votes"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298013074070048768",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:00:32.775+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 700/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Darkwillow Kindling",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3adarkwoodkindling",
+          "timestamp": null,
+          "description": "Uncommon Skill / The Collector / Downfall\n\n**Unplayable**.\n (**Retain**.)\nWhen **Exhaust**ed, gain 2 **Reserve** next turn.",
+          "color": "#26664D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/WJHu4W3fRDu87Z1sUadLkyRClcAMGKAeExIbP4UsYRU/https/slay.ocean.lol/downfall/cards/collector-darkwoodkindling.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/WJHu4W3fRDu87Z1sUadLkyRClcAMGKAeExIbP4UsYRU/https/slay.ocean.lol/downfall/cards/collector-darkwoodkindling.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298027187869450312",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:56:37.767+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "think <tactician> but the only way to recur it is somber shield",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298027191254126654",
+      "type": "Reply",
+      "timestamp": "2024-10-22T05:56:38.574+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tactician",
+          "url": "https://slay-the-spire.fandom.com/wiki/Tactician",
+          "timestamp": null,
+          "description": "Uncommon Skill / The Silent / Slay the Spire\n\n**Unplayable**.\nIf this card is discarded from your hand, gain :green_energy: ( :green_energy:).",
+          "color": "#5CBF6B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Pbf4onis8X7iivG6md5bhnbgP47Bhb2PEI3vBiIeXtM/https/slay.ocean.lol/slay%2520the%2520spire/cards/tactician.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1298027187869450312",
+        "channelId": "1298013066742726727",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1298027264658636953",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:56:56.075+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in return you get reserve, reserve is strong",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298027371928223826",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:57:21.65+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "generally you already want to run enough pyre that you should be able to take 1-2 kindlings",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298027400373866546",
+      "type": "Default",
+      "timestamp": "2024-10-22T05:57:28.432+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And this is a strong candidate",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1298064870046175232",
+      "type": "Default",
+      "timestamp": "2024-10-22T08:26:21.898+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reserves are very, very strong as a way to hold onto energy to make big plays on important turns. They give you a lot of flexibility, and with enough sources of them, let you put many more expensive cards in your deck, and feel pretty close to having an ice cream. I think pretty much all the cards that give reserves are excellent, and this one is no exception. You can usually only afford to draft so many kindlings, because they can be dead cards, and they naturally compete with each other for resources (targeted exhaust cards, usually pyre). This is one of the better ones, especially if you have multiple cheap sources of pyre, like roast. Collector really benefits from having that extra energy with all the powerful expensive cards in their pool. Runic pyramid is probably the biggest enabler of kindlings, preventing them from being total dead draws by letting you hold onto them until you find a pyre card. Snecko eye also helps, letting you draw more cards each turn to have a better shot at lining pyre up with kindlings. Having a bit of extra card draw in the deck can also help ease the potential issue of dead drawing this, with hoard being ideal for that job. In this case as well, I think the potential upside of getting 2 reserves for 0 energy is high enough to be worth taking on the risk, and most of the pyre cards are quite good anyways (and having them thin out potential curses/statuses/basics is already great utility) so it's fairly natural to draft 3+ of them anyways.\n\nCan be somewhat risky to take early in a run before finding the pyre cards to pair it with, so I would usually wait to take this until you have the support for it, unless you get totally stuck on 3 energy and desperately need any sources of additional energy you can find. Upgrade is very helpful to add some consistency, but will often be unnecessary, as you probably aren't taking this in the first place if you can't support it with enough pyre.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}

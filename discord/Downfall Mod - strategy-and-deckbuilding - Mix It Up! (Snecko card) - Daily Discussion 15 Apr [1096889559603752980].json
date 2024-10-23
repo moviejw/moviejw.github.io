@@ -1,0 +1,473 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1096889559603752980",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Mix It Up! (Snecko card) - Daily Discussion 15 Apr",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:13:26.198504+09:00",
+  "messages": [
+    {
+      "id": "1096889560744611870",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:07:30.504+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096889561646366741",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:07:30.719+09:00",
+      "timestampEdited": "2023-04-17T05:07:53.69+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nShow Stopper (Gremlins card): 4\nPerfecter Strike (Champ card): 5\nSlimy Elixir (Slime Boss potion): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096889562871124069",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:07:31.011+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 168/793",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#60A4BD",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/eWq8EZc3JYrlQCag9HEwjx3nA1RWpm3Jcc-16KCQnEc/https/slay.ocean.lol/downfall/cards/sneckomod-mixitup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/eWq8EZc3JYrlQCag9HEwjx3nA1RWpm3Jcc-16KCQnEc/https/slay.ocean.lol/downfall/cards/sneckomod-mixitup.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Mix It Up!",
+          "url": null,
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :e_snecko: / The Snecko / Downfall\n\n***Transform** your Potions.\nDeal 5 damage 2 (3) times.\n**Exhaust**.",
+          "color": "#60A4BD",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eWq8EZc3JYrlQCag9HEwjx3nA1RWpm3Jcc-16KCQnEc/https/slay.ocean.lol/downfall/cards/sneckomod-mixitup.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096894890039836772",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:28:41.107+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GAMBLING",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096894912118661291",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:28:46.371+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "MY FAVORITE MECHANIC",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096895254055092344",
+      "type": "Default",
+      "timestamp": "2023-04-16T05:30:07.895+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "snek maek caek",
+      "author": {
+        "id": "147832879294971905",
+        "name": "therealevab8684",
+        "discriminator": "0000",
+        "nickname": "TheRealEvab ᕕ(ᐛ)ᕗ",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147832879294971905/3330f01087a7c1e42473f2414ed644ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096908563886133318",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:23:01.206+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "very situational card thats doesnt usually end up being very good . You need to already have potions and then those potions need to be bad enough to want to reroll for this card to be useful. If this situation does happen then this card can be solid to help you take on act one but then it runs into the issue later on of being possibly a dead draw if your trying to hold onto a good potion you don't want to reroll.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096908753602887691",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:23:46.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "out of all snecko attacks i've taken this one the least; it just tends to hurt to much in the late game and it cannot be relied on to show up at the time you do want to see this.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096909437249265815",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:26:29.432+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it changes potions but its also an attack\nif you dont want your potions transmuted you cant utilize the 10 dmg",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096912218060226784",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:37:32.429+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah a 5 damage 2(3) times is a lot of damage",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096912235961528431",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:37:36.697+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<walker claw>",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096912239665102939",
+      "type": "Reply",
+      "timestamp": "2023-04-16T06:37:37.58+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Walker Claw",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 2 :e_guardian: / The Guardian / Downfall\n\nDeal 5 damage 3 (4) times.",
+          "color": "#A3984D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VgeZZ5tQeZv2IKwrXtCSudOfxd4jEZZvvT-TIgx8QKU/https/slay.ocean.lol/downfall/cards/guardian-walkerclaw.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1096912235961528431",
+        "channelId": "1096889559603752980",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1096912293977133076",
+      "type": "Default",
+      "timestamp": "2023-04-16T06:37:50.529+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "upgraded it does the same damage as unupgraded walker claw",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096932894829715557",
+      "type": "Default",
+      "timestamp": "2023-04-16T07:59:42.155+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snecko giveth, Snecko taketh away. I mean, 10 damage for 1 energy is good, it scales well with strength, the upgrade adds a solid 5 more damage. It functions somewhat similarly to pummel or twin strike. Snecko certainly can have runs where you can ramp up your strength effectively, but this exhausting doesn't really mesh well with that aspect.\n\nIn act 1, it's a pretty functional upfront burst card to get you through the elites and hallway fights. However, there are plenty of other options that do the same job with a similar degree of effectiveness, including rain of dice, slither strike, iron fang, and unidentified common attack. There are other options for your burst that don't have such a strange drawback.\n\nTransforming all your potions is so awkward. Potions in StS largely exist to help smooth out your turns, provide solutions to specific threatening fights that you know are coming up (elites, bosses), and to potentially replace certain cards that are only good in a very small subset of fights. Mix it up really messes with all of that, you can't hold that thorns pot for byrds/book of stabbing, that cultist pot for a boss fight, that fire potion for tri-slavers/nob. You can't keep a block pot/swift pot/gambler's brew to help smooth out turns where you can't react appropriately to what the enemy is doing (usually you drew no block cards). Is there any upside to transforming your potions? I suppose you could play this only when the ones you have are quite bad, but is it worth putting a dead draw in your deck when that isn't the case? Does having a dead draw in your deck actually create situations where you need strong potions more often?\n\nI just don't think the tradeoff is worth it. Far too often, this will be awkward, and you won't play it. The upside is decent damage and strength scaling, but it exhausts so that doesn't really pay off either. You might take this to help get through act 1, but it will likely feel like a curse as you move into the act 4 gauntlet",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1096934877494005940",
+      "type": "Default",
+      "timestamp": "2023-04-16T08:07:34.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not really sure what to do with a card like this, maybe give it ethereal so it at least gets rid of itself when you don't want to use it. You are either in for this kind of OMG randomness or you aren't, as long as it has that transforming potions effect, I can't see ever particularly liking this card. Snecko already has so much variance baked into their design, potions are normally a saving grace that can help significantly when a muddle goes poorly, or several unidentified cards roll poorly in a fight, and this card messes that up. Maybe if the transform effect was optional, or only affected 1 potion, neither of which would function very elegantly. You could up the damage to 6 damage 2(3) times, so the upside is higher. I don't really understand what this card is trying to do, the effect is so awful most of the time when you think about the function of potions within StS",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

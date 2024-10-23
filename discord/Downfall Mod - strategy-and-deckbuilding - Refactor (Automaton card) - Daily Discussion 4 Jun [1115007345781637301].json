@@ -1,0 +1,128 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1115007345781637301",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Refactor (Automaton card) - Daily Discussion 4 Jun",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:07:58.3667875+09:00",
+  "messages": [
+    {
+      "id": "1115007350521208924",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:01:08.199+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1115007351523643565",
+      "type": "Default",
+      "timestamp": "2023-06-05T05:01:08.438+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vote for tomorrow's Daily Discussion (2023-06-06 오전 5:00) here!",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Overexert",
+          "url": null,
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_slime: / The Slime Boss / Downfall\n\nGain 4 **Potency** :p_potency:.\n **Command** twice.)\n2 turns from now, **Absorb** all Slimes.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/actlhQhCe1w-IKPqegODopcRlUwF6vf5kf2rloLExOg/https/slay.ocean.lol/downfall/cards/slimebound-overexert.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Press the Attack",
+          "url": null,
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_slime: / The Slime Boss / Downfall\n\nDeal 9 damage. **Consume** - **Command** (twice).",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/is79LD-RQVNXDLyK3BvpEVUdBfvV_fGSp-TIR1IVOTk/https/slay.ocean.lol/downfall/cards/slimebound-presstheattack.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Berserker's Guide",
+          "url": null,
+          "timestamp": null,
+          "description": "Shop Relic / The Champ / Downfall\n\nAt the start of your turn, gain 3 **Vigor** :p_vigor:.\n*The text is illegible.*",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qE0Ftk0X6UNppVPAcdQY1k-JoLjvsSe3Js6B-JN03j4/https/slay.ocean.lol/downfall/relics/berserkersguidetoslaughter.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,257 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1296201229432782871",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Slither Strike (Snecko card) - Daily Discussion 16 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:18:27.6626133+09:00",
+  "messages": [
+    {
+      "id": "1296201231047327855",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:00:55.736+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296201232049897586",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:00:55.975+09:00",
+      "timestampEdited": "2024-10-18T05:00:05.71+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nAllocate (Automaton card): 3\nDagger Dance (Gremlins card): 4\nEcto-Cooler (Hexaghost potion): 2",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296201235300487311",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:00:56.75+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 695/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Slither Strike",
+          "url": "https://slay.ocean.lol/w/downfall/sneckomod%3aslitherstrike",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_snek: / The Snecko / Downfall\n\nDeal 9 (12) damage.\nReduce the cost of **Offclass** cards in your hand by 1 this turn.",
+          "color": "#60A4BD",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/7NfJ9zEwiTY1kfWxO5GvjrCDHk7-9Pae2G_ypm_Culg/https/slay.ocean.lol/downfall/cards/sneckomod-slitherstrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/7NfJ9zEwiTY1kfWxO5GvjrCDHk7-9Pae2G_ypm_Culg/https/slay.ocean.lol/downfall/cards/sneckomod-slitherstrike.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296205093363777599",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:16:16.584+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "generally good but in current snecko you really just muddle your big offclass to 0 so not really necessary",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296210530175815720",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:37:52.821+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's really good",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296210644638371992",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:38:20.111+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I almost always take at least one on copy od it on Snecko",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296210811131396126",
+      "type": "Default",
+      "timestamp": "2024-10-17T05:38:59.806+09:00",
+      "timestampEdited": "2024-10-17T05:39:08.415+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basically an energy gen card",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296218549630537789",
+      "type": "Default",
+      "timestamp": "2024-10-17T06:09:44.808+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quite a solid choice, especially among snecko cards. Damage is respectable, and you need help with that in the early game, especially on snecko. On top of that, this will regularly discount 2 energy worth of cards, and can discount more than that. Snecko has tons of ways to make offclass cards, draft offclass cards (unidentified cards), and starts with 2 unidentified starter cards in their deck as well. Statuses and curses also count as offclass cards, and reducing the cost on some of them is quite helpful, especially in tandem with bronze idol. This helps a bit to offset part of the downside of makeshift battery.\n\n If slither strike discounts 1 card you wanted to play, it's effectively a 0 energy deal 9 (12), which compares very favorably to options like slice and anger. If it discounts 2 cards, it's actually generating energy while dealing damage (can't think of any base game cards that do that). It also works really well with muddle, as protection against really unfortunate rolls, and as a way to further reduce the cost of expensive cards that pair well with heavy muddle (unidentified 2 and 3 cost, locked in expensive cards, forms, etc.) Slither strike is also pretty generically strong across decks, it would be very rare to end up in a spot where you don't have enough offclass cards to justify including this (and even in the worst case scenario, 1 energy to deal 9 damage isn't that bad). The energy generation component also helps slither strike transition gracefully into the lategame, where your early game frontloaded damage cards usually underperform.\n\nVery good with snecko eye, master eye, and exotic form. Runic pyramid can let you hold onto it to get as many cost reductions as possible. Unending supply gives you a steady stream of offclass cards to fuel this, and increase the density of offclass cards for your 2nd cycle through the deck. Ice cream can be useful to store your saved energy into later turns.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

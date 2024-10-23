@@ -1,0 +1,499 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1163567062556356639",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Growth Punch (Slime Boss card) - Daily Discussion 16 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:52:42.8243166+09:00",
+  "messages": [
+    {
+      "id": "1163567063923703819",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:00:06.07+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163567067027492974",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:00:06.81+09:00",
+      "timestampEdited": "2023-10-18T05:00:17.408+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nReceive Tribute (Collector card): 4\nIrritability (Gremlins card): 1\nExecute (Champ card): 4",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163567072580743208",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:00:08.134+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 362/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Growth Punch",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3agrowthpunch",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_slime: / The Slime Boss / Downfall\n\nGain 4 (5) **Block** :p_block:.\nDeal 4 (5) damage.\n**Consume** - Increase this card's effects by 4 (5) this combat.",
+          "color": "#006B0C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/EeTeFVYfPD7UbSWboixDlexohf2O6UWsVSjMHjJviRI/https/slay.ocean.lol/downfall/cards/slimebound-growthpunch.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/EeTeFVYfPD7UbSWboixDlexohf2O6UWsVSjMHjJviRI/https/slay.ocean.lol/downfall/cards/slimebound-growthpunch.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163567886934229002",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:03:22.291+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a win condition",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163568792614473849",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:06:58.222+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a neow killer",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163568853746466928",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:07:12.797+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also\nGROWTH!\nPUNCH!\n**GROWTH!**\n**PUNCH!**",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163579460453421066",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:49:21.633+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I genuinely have no experience with this card, but I understand that others really like it. It seems like this would be very slow to get going unless you have a very small deck. To be fair, the initial stats are only a hair behind iron wave, so it's not like it's incredibly weak to begin with. Can definitely see the potential in slim decks, or those using several copies of reformation. You do need to have good goop application to trigger this reliably, but that's rarely a difficult issue to adress as slime boss.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163579948490039326",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:51:17.99+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this card scales insanely fast you should be able to play this multiple times a turn with reformation and upgraded licks, this isn't a \"once per turn if you really build into it\"",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163580035777712148",
+      "type": "Default",
+      "timestamp": "2023-10-17T05:51:38.801+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a \"three times per turn\" thing",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163605684693241906",
+      "type": "Default",
+      "timestamp": "2023-10-17T07:33:33.979+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah not for me tbh, but I should try it out more. It could benefit from a lick recursion deck really well.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163622096463740969",
+      "type": "Default",
+      "timestamp": "2023-10-17T08:38:46.85+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it's fine but overrated",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163876683900801025",
+      "type": "Default",
+      "timestamp": "2023-10-18T01:30:25.225+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is one of the best cards you can find in act 1 since seeing it basically gives you a deck that can beat the game. Growth punch scales up fast to the point were it will work in hallway fights despite being a  defensive strategy. Really the only problem this card has is that its sort of a dead find later in the game when you have too many cards in your deck already.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1163913231237128242",
+      "type": "Reply",
+      "timestamp": "2023-10-18T03:55:38.789+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this most certainly is an opinion",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1163876683900801025",
+        "channelId": "1163567062556356639",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1164194453607686187",
+      "type": "Default",
+      "timestamp": "2023-10-18T22:33:07.427+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is the centerpiece of an archetype that is easily forceable- <Just Desserts>, Growth Punch+, and any two upgraded Licks. (The blocking one is the best.) You don't need or really want any other cards in the deck, although <Quick Snack> helps thin even further, acting as a virtual card remove, and a <Duplicated Form+> can be nice mostly for the energy. I think completely trying to force this deck beats A20 more than half the time. Try it if you haven't. I do actually agree with ahoodedman that if you gave me a Growth Punch, a Just Desserts, and two Lick+s on floor 1 the run would absolutely be over.\n\nI don't think much of the card if you aren't playing this archetype which I think is probably where Kiku is coming from.",
+      "author": {
+        "id": "550709709972176899",
+        "name": "sam.ll",
+        "discriminator": "0000",
+        "nickname": "SamLL",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550709709972176899/ffd2d4ba8b625d5894ca9dbdc8d91ac8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1164194457231560827",
+      "type": "Reply",
+      "timestamp": "2023-10-18T22:33:08.291+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Just Desserts",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3adisruptingslam",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_slime: / The Slime Boss / Downfall\n\nDeal 5 (8) damage to ALL enemies.\n**Exhume** 2 random \"Lick\" cards.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RhTNQ4ipuGPyUkSApig0n5I0u1R1Awwx_0oENNWTzms/https/slay.ocean.lol/downfall/cards/slimebound-disruptingslam.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Quick Snack",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3adissolve",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_slime: / The Slime Boss / Downfall\n\nDraw 1 (2) card (cards).\n**Exhaust** a card. Gain Licks equal to its cost.\n**Exhaust**.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6RRUofholmr63d2hENFzX33qC8Bth_PKI3iC8Uvc7dA/https/slay.ocean.lol/downfall/cards/slimebound-dissolve.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Duplicated Form",
+          "url": "https://slay.ocean.lol/w/downfall/slimebound%3aduplicatedform",
+          "timestamp": null,
+          "description": "Rare Power / 3 :energy_slime: / The Slime Boss / Downfall\n\n (Gain :energy_slime: each turn.)\nThe first card each turn that targets enemies is played twice.",
+          "color": "#006B0C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/moMZOuzePSOM10C_kmOaXHo1Boyr40FVWf7suNa3mAk/https/slay.ocean.lol/downfall/cards/slimebound-duplicatedform.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1164194453607686187",
+        "channelId": "1163567062556356639",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 15
+}

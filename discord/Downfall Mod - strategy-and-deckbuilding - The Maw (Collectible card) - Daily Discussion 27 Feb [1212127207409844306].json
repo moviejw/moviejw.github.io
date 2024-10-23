@@ -1,0 +1,2530 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1212127207409844306",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "The Maw (Collectible card) - Daily Discussion 27 Feb",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:15:16.283421+09:00",
+  "messages": [
+    {
+      "id": "1212127209595084800",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:00:47.002+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212127210756899016",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:00:47.279+09:00",
+      "timestampEdited": "2024-02-29T05:00:56.048+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nHexx Talisman (relic): 2\nOuroboros (Collectible card): 2\nDark Apotheosis (Collector card): 6",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212127214745813032",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:00:48.23+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 463/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Maw",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3amawcard",
+          "timestamp": null,
+          "description": "Common Attack / 3 :energy_collector: / Collectible / Downfall\n\nDeal 32 (41) damage.",
+          "color": "#7E6B8C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/lRgep_ue_yLIyTIq01DnHGw9MUA7pPLKTFAgRx_-zTM/https/slay.ocean.lol/downfall/cards/collector-mawcard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/lRgep_ue_yLIyTIq01DnHGw9MUA7pPLKTFAgRx_-zTM/https/slay.ocean.lol/downfall/cards/collector-mawcard.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212128007330992219",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:03:57.197+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Bludge.",
+      "author": {
+        "id": "114823440942366728",
+        "name": "alexmdle",
+        "discriminator": "0000",
+        "nickname": "AlexMdle",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/114823440942366728/7f618db76d69c5381ec3001121258cb7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212128062192230541",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:04:10.277+09:00",
+      "timestampEdited": "2024-02-28T05:04:27.287+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<bludgeon>",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212128064486768700",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:04:10.824+09:00",
+      "timestampEdited": "2024-02-28T05:04:27.815+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bludgeon",
+          "url": "https://slay-the-spire.fandom.com/wiki/Bludgeon",
+          "timestamp": null,
+          "description": "Rare Attack / 3 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 32 (42) damage.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LEBMZeFzQKBtGnkhwnPv2bKbIo0YjhLJmhL-vwyy49Y/https/slay.ocean.lol/slay%2520the%2520spire/cards/bludgeon.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212128062192230541",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212128247219888128",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:04:54.391+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One less damage on upgrade 0/10",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212128406121087097",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:05:32.276+09:00",
+      "timestampEdited": "2024-02-28T05:05:42.081+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are collected cards affected by Snecko eye?",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212128837043888218",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:07:15.016+09:00",
+      "timestampEdited": "2024-02-28T05:07:37.545+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because bludgeon is either something you'd take early to deal with elites or something you'd take if you have a way of playing it for less than 3 energy",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212129028459204680",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:08:00.653+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And you can't take the maw early",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130082345197628",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:12:11.919+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's always <shooting star> but hitting stuff for 48 damage still isn't all that impressive in act 3 especially since you could've drawn something much more impactful from your collected pile instead of this",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130085088264242",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:12:12.573+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shooting Star",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3ashootingstar",
+          "timestamp": null,
+          "description": "Rare Power / 3 (2) :energy_collector: / The Collector / Downfall\n\nThe first time you **Pyre** an Attack each turn, gain a copy of it.\nIt costs 0 until played.",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ygVFAZX062X7noP3AeGYOHAPleaZHLM7EJjrMrqLuhI/https/slay.ocean.lol/downfall/cards/collector-shootingstar.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212130082345197628",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212130102511673384",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:12:16.727+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one small issue: its act 3",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "206194901438824448",
+          "name": "gangur",
+          "discriminator": "0000",
+          "nickname": "Gangur",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1212128837043888218",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212130137907273728",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:12:25.166+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you need this to help with act 3 elites",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130184153538611",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:12:36.192+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im not sure your deck can really handle elites",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130285601292379",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:13:00.379+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea, that's what I'm saying",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130369592361040",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:13:20.404+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So the only reason to pick it is if you can play it for 0-1",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130961798725633",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:15:41.597+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unfortunately stuff like madness and <colorless reduce cost to 1 skill combat> will get a lot less value out of the maw than they would get out of bludgeon since it exhausts on play/discard",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212130964629880953",
+      "type": "Reply",
+      "timestamp": "2024-02-28T05:15:42.272+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Enlightenment",
+          "url": "https://slay-the-spire.fandom.com/wiki/Enlightenment",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :colorless_energy: / Colorless / Slay the Spire\n\nReduce the cost of all cards in your hand to 1 this turn (combat).",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0HhrYjyDcqlvIvAY3RYhJMNMhqlzhLNQVxS2cVP89mQ/https/slay.ocean.lol/slay%2520the%2520spire/cards/enlightenment.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<colorless reduce cost to 1 skill combat> = enlightenment, 189.03"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212130961798725633",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212132856802054254",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:23:13.401+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I imagine drawing into the maw with hoarder strike would be quite satisfying",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212133013375287296",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:23:50.731+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Assuming the target is vulnerable and HS is upgraded we're looking at 78 damage",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212140132061417512",
+      "type": "Default",
+      "timestamp": "2024-02-28T05:52:07.958+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "funny card",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212157058908954765",
+      "type": "Default",
+      "timestamp": "2024-02-28T06:59:23.633+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "funny but barely beats <tick>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212157061530517534",
+      "type": "Reply",
+      "timestamp": "2024-02-28T06:59:24.258+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tick",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3agiantheadcardstageone",
+          "timestamp": null,
+          "description": "Uncommon Skill / 1 (0) :energy_collector: / Collectible / Downfall\n\nNext turn, gain a Tock.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zBXKzN9J6aeNhcVMK3swWS5s1FRy5_p4rfRMGfubPcM/https/slay.ocean.lol/downfall/cards/collector-giantheadcardstageone.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212157058908954765",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212157115804688395",
+      "type": "Default",
+      "timestamp": "2024-02-28T06:59:37.198+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mostly by dint of being jabsable",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212157247451570186",
+      "type": "Default",
+      "timestamp": "2024-02-28T07:00:08.585+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and not being delayed",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212157315688439901",
+      "type": "Default",
+      "timestamp": "2024-02-28T07:00:24.854+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but in general you already lost if you need to use it in act3",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209395493240892",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:27:21.647+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One of the finalists for worst cards in slay the spire. Might even have won",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209422584250391",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:27:28.106+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's really bad",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209577001750548",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:28:04.922+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Collectibles tend to be either really good or really bad, because they're consistent but have a finite pool",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209661219045376",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:28:25.001+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the character has easy access to vulnerable and energy",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209677182570537",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:28:28.807+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's fine",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209754433396816",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:28:47.225+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unless they made the other collectibles in act 3 worse, I would almost never take this",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209847584563221",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:29:09.434+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you're taking <spiker collectible>?",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209850696605718",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:29:10.176+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spiker",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3aspikercard",
+          "timestamp": null,
+          "description": "Common Power / 1 :energy_collector: / Collectible / Downfall\n\nGain 5 (8) Thorns :p_thorns:.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kLowkC5RQoSBjRhI-VgTVMIGe2RvOleu_SdN-rLOi8g/https/slay.ocean.lol/downfall/cards/collector-spikercard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212209847584563221",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212209881143320647",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:29:17.435+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and <the bomb>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209884955807765",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:29:18.344+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Bomb",
+          "url": "https://slay-the-spire.fandom.com/wiki/The_Bomb",
+          "timestamp": null,
+          "description": "Rare Skill / 2 :colorless_energy: / Colorless / Slay the Spire\n\nAt the end of 3 turns, deal 40 (50) damage to ALL enemies.",
+          "color": "#7A7A7A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2FgNhmD_LBnFreOidMw7z0U9LMeJFLME5dggg6umiRI/https/slay.ocean.lol/slay%2520the%2520spire/cards/thebomb.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212209881143320647",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212209936801472522",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:29:30.705+09:00",
+      "timestampEdited": "2024-02-28T10:29:35.365+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and <dagger collectible>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212209939142148138",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:29:31.263+09:00",
+      "timestampEdited": "2024-02-28T10:29:35.834+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dagger",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3adaggercard",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_collector: / Collectible / Downfall\n\nLose 3 (2) HP.\nDeal 20 (24) damage.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2sRutZGwV21VLBpKDN5dzczznjaVhSeUXA6G1p4ubQQ/https/slay.ocean.lol/downfall/cards/collector-daggercard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212209936801472522",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212210182512312461",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:30:29.287+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<black slime collectible>",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212210184844345365",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:30:29.843+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spike Slime",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3aspikeslimecard",
+          "timestamp": null,
+          "description": "Common Skill / 1 :energy_collector: / Collectible / Downfall\n\nGain 8 (10) **Block** :p_block:.\nWhenever you are attacked this turn, deal 3 (5) damage back.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TbV0zU1mIfZqlXfia8TulCS17rK9Wz8OV3tKMylzY10/https/slay.ocean.lol/downfall/cards/collector-spikeslimecard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<black slime collectible> = spike slime, 65.23"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212210182512312461",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212210261335867393",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:30:48.08+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<nemesis collectible>",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212210263537754134",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:30:48.605+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nemesis",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3anemesiscard",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 (1) :energy_collector: / Collectible / Downfall\n\nGain 1 **Intangible** :p_intangible:.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-ImcYpD-tykTdQD9TFKHyNpV6cwNlgw-wm1BzkuoFUQ/https/slay.ocean.lol/downfall/cards/collector-nemesiscard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212210261335867393",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212210346564132875",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:31:08.4+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<repulsor collectible>",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212210349466460310",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:31:09.092+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Repulsor",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3arepulsorcard",
+          "timestamp": null,
+          "description": "Common Skill / 0 :energy_collector: / Collectible / Downfall\n\n**Pyre.**\nDraw 2 (3) cards.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-UZNDsWr2PqmOndwliQpHHi2KXOVMIITXtnLMfRQvy8/https/slay.ocean.lol/downfall/cards/collector-repulsorcard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212210346564132875",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212210509869350922",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:31:47.335+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<darkling collectible>",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212210512474148864",
+      "type": "Reply",
+      "timestamp": "2024-02-28T10:31:47.956+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Darklings",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3adarklingscard",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_collector: / Collectible / Downfall\n\n**Pyre.**\nDeal 8 (12) damage. **Exhume** a Collected card.",
+          "color": "#7E6B8C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/A1zWBsHZqtsZbxQyShkv9kHDi3jYr67v30NKALy8G-o/https/slay.ocean.lol/downfall/cards/collector-darklingscard.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<darkling collectible> = darklings, 33.94"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212210509869350922",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212210720150921306",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:32:37.47+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All of these cards I think are alot bigger than maw, and the chances you will see maw, not see the others, and need that much damage is all pretty low imo",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212210913533366353",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:33:23.576+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "60 damage with vulnerable is positive into giant head if you're running doom which doesn't scale with slow",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212211033125691392",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:33:52.089+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's not the best collected card, but it's definitely not the worst possible thing you can take in act 3",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212211081573826592",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:34:03.64+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah yes\nBludgeon Collectible\nIt's fine, but generally collector has better stuff than Bludgeon",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212211093745958912",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:34:06.542+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "especially in act 3",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212213816570544139",
+      "type": "Default",
+      "timestamp": "2024-02-28T10:44:55.714+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This has the same problem that a lot of late game collected cards have, which is that by the time you see it, you are very likely to have a powerful, curated, collected deck already. Even worse, what it's offering (heavy front loaded damage) has lost most of its value by the time you will see this (no earlier than your 3rd hallway fight in act 3). The effect isn't awful by any means, and collector will very rarely have an issue finding the 3 energy to pay for this, but the collected deck is a very valuable resource that you ought to be using for better things than this (acceleration, scaling, card draw, mitigation). Maybe if you had necronomicon and/or pen nib this could be a fun inclusion, but I still think it would be suboptimal (for the record, I do believe that collected cards have their cost randomized by snecko eye as they are still drawn).\n\nThe flavor is fitting, and expensive cards do have some natural synergies for collector, but this is by and large a trap IMO, since at this point in the game you really should be focusing more on scaling than front loaded or burst damage.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212228794010836992",
+      "type": "Default",
+      "timestamp": "2024-02-28T11:44:26.614+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think honestly it's not possible to compare collectibles to normal cards and have it be even remotely fair. Collectibles are under a completely different lens of scrutiny since they are mostly compared to each other than the general card pool, and can semi-consistently be found in specific parts of the game.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212231066610442321",
+      "type": "Default",
+      "timestamp": "2024-02-28T11:53:28.444+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fair take",
+      "author": {
+        "id": "147098728858124288",
+        "name": "tzarraincoat",
+        "discriminator": "0000",
+        "nickname": "TzarRaincoat",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/147098728858124288/a_33ba2a97902b3bd12db1aa204482fbad.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212246304013418537",
+      "type": "Default",
+      "timestamp": "2024-02-28T12:54:01.324+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Similar to how you can't really compare a single gem to a single non-gem card easily. The card basically removes itself from your deck eventually.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212247009159811092",
+      "type": "Default",
+      "timestamp": "2024-02-28T12:56:49.444+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Although the fact that they are obtained the same way as other cards makes it so you kinda have to compare them, and I think that the fact that so many people compare them differently really shows the uniqueness and versatility that gems carry.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212269815687946311",
+      "type": "Default",
+      "timestamp": "2024-02-28T14:27:26.944+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You're right Nic. By their very nature, collectible cards have to be judged against each other. There are 3 main reasons for this.\n\n1. You only get to draw one collected card from the collected deck each turn. There are some ways to circumvent this (Dragons trove, forgery, soulforge, blightning, hoarder's strike, etc) but for the most part, you are very limited in your ability to quickly access the collected deck. This incentivizes keeping it smaller so that you can draw your best cards more quickly. It's also important to keep in mind that unlike the main deck, the collected deck doesn't start out with any basic cards in (strike, defend). This means that you don't need to take mediocre/decent/strike+ collected cards to improve your draw quality at the start of a run.\n\n2.  As is the case with many cards, they are not equal in terms of balance and power level. There are some real powerhouses, especially in act 1 that dominate other choices, like lagavulin, sentry, louse, red slaver, and thieves. You also have immolate, corpse explosion, and adapt available depending on what boss you are facing (core surge is reasonable, conjure blade is very sad.) In act 2, byrd, snecko, book of stabbing, gremlin leader, and merchant (if you have can fight them 2-3 times and take them down) are also very strong. Bosses can grant you reaper and doppelganger. This is a large enough pool of cards that you are pretty likely to find several of them, which puts you in a position where taking other, weaker options just makes it take longer to draw into your best tools.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212273877858783273",
+      "type": "Default",
+      "timestamp": "2024-02-28T14:43:35.441+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3. Collectibles are timed, which means that some of them cannot possibly be seen until later in the run. This is especially awkward for a card like the maw, which offers you an effect that is simply no longer valuable by the time you see it. This is true of many of the front loaded/damage cards that can only be found after act 1, like orb walker, snake plant, spire growth, dagger, taskmaster, and tick. By the time you see these cards, you very likely already have enough of what they offer just by virtue of where you are. Other cards can also not make sense to take due to where you see them, like mystic (0 cost cards aren't as useful by the time you reach act 2), spiker (you should have better offensive scaling options than this), gremlin nob (just too expensive to cast in act 1, you don't need this much damage scaling this early). Keeping the earlier 2 points in mind, anything after act 1 is already at a big disadvantage, because even if the card is reasonable/good, it has to compete with everything else you already have (very similar to picking skip at a normal card reward to ensure that you can draw the most important pieces of the regular deck ASAP). All act 3 collectibles are susceptible to this problem, since you literally cannot see them with already having had a good enough collected deck to clear act 1 and 2.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212274607831257158",
+      "type": "Default",
+      "timestamp": "2024-02-28T14:46:29.48+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One other, much less critical thing to keep in mind is essence. You only get a limited amount of essence to spend, so picking up mediocre/reasonable collected cards makes it harder to draft the really strong ones that you see later. However, I have not generally found it to be difficult to keep enough essence to draft what I want, largely because there are already lots of incentives to be very picky with your selections, and because acquiring enough essence usually happens pretty naturally over the course of a run.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212315121905442836",
+      "type": "Default",
+      "timestamp": "2024-02-28T17:27:28.788+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’ve sometimes not had enough to full draft multiple sets of darklings and that’s pretty much it",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212316875061469184",
+      "type": "Default",
+      "timestamp": "2024-02-28T17:34:26.773+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah tbh essence isn't really my favorite mechanic. Due to the nature of being able to have a guaranteed good draw the first few turns of the fight, a large collection pile already was suboptimal, but you could make it work. With essence it doesn't feel limiting enough to the player to matter enough unless you are going for some goofy stuff, which imo should be allowed.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1212323278903975966",
+      "type": "Default",
+      "timestamp": "2024-02-28T17:59:53.568+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "before essence, it was too easy to take every single collected card, now at least there's pressure and especially now that having enough essence to take all three sentries is difficult since your early game is harder now with the cost / number reductiono of you are mine",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212323456180555837",
+      "type": "Default",
+      "timestamp": "2024-02-28T18:00:35.834+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "otherwise, you'd just click three sentries and also any value card instead of trying to patch up early game weakness and balance that with power",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212325060736589855",
+      "type": "Default",
+      "timestamp": "2024-02-28T18:06:58.39+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think essences are working as intended and the general incentive to pick more collectible cards is that they get stronger as the game goes on.",
+      "author": {
+        "id": "114823440942366728",
+        "name": "alexmdle",
+        "discriminator": "0000",
+        "nickname": "AlexMdle",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/114823440942366728/7f618db76d69c5381ec3001121258cb7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212325369210740746",
+      "type": "Default",
+      "timestamp": "2024-02-28T18:08:11.936+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You're required to think carefully about whether and when to pick them.",
+      "author": {
+        "id": "114823440942366728",
+        "name": "alexmdle",
+        "discriminator": "0000",
+        "nickname": "AlexMdle",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/114823440942366728/7f618db76d69c5381ec3001121258cb7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212325599624826890",
+      "type": "Default",
+      "timestamp": "2024-02-28T18:09:06.871+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I do think there could be more bonuses for having a large collection pile tho.",
+      "author": {
+        "id": "114823440942366728",
+        "name": "alexmdle",
+        "discriminator": "0000",
+        "nickname": "AlexMdle",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/114823440942366728/7f618db76d69c5381ec3001121258cb7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212383335008178307",
+      "type": "Default",
+      "timestamp": "2024-02-28T21:58:32.059+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wheres my \"for each card in your collection pile\" card when you need it",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384216080449578",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:02:02.123+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<shadow daggers>?",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384218391248956",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:02:02.674+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shadow Daggers",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3ashadowdaggers",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_collector: / The Collector / Downfall\n\nDeal 4 (6) damage for each Collected card played this combat. **Exhaust**.",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/11BSE3deYwhe_3vJlCz_OSYRiiYToGRv7L36o3HhsCU/https/slay.ocean.lol/downfall/cards/collector-shadowdaggers.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212384216080449578",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212384526127464488",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:03:16.044+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "iirc got changed to no longer be a ridic strength payout",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384580783313007",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:03:29.075+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<omen> also counts for collected pile payoffs",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384583367270461",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:03:29.691+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Omen",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3aomen",
+          "timestamp": null,
+          "description": "Rare Power / 1 :energy_collector: / The Collector / Downfall\n\n (**Innate**.)\nWhenever you play a Collected card, gain 1 **Strength** :p_strength:.",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/csC6ssre9i8aEdkhlOPW_E-IfpPIuxu4Xcgj8EgSy7o/https/slay.ocean.lol/downfall/cards/collector-omen.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212384580783313007",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212384731694370906",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:04:05.055+09:00",
+      "timestampEdited": "2024-02-28T22:05:08.857+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "though those incentivize drafting <greenpyre locus> more imo",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212384734056030259",
+      "type": "Reply",
+      "timestamp": "2024-02-28T22:04:05.618+09:00",
+      "timestampEdited": "2024-02-28T22:05:09.33+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Greenpyre Locus",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3agreenpyrelocus",
+          "timestamp": null,
+          "description": "Uncommon Skill / 0 :energy_collector: / The Collector / Downfall\n\nChoose 1 of 3 Collected cards.\nAdd 2 (3) copies of it into your Collected pile.",
+          "color": "#26664D",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2mD0-6y9xIBjdivVnzTtqMJpqntpTOu2Dq8Lv5-GkcE/https/slay.ocean.lol/downfall/cards/collector-greenpyrelocus.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1212384731694370906",
+        "channelId": "1212127207409844306",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1212385113803984896",
+      "type": "Default",
+      "timestamp": "2024-02-28T22:05:36.157+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "primarily as well as soulforge, forgery, double trouble",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212481908433485874",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:30:13.795+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It would be nice to have some incentives for drafting a larger collected deck. As Shin pointed out, the support for playing lots of collected cards that does exist usually works better with the doubling effects/ways to draw extra collected cards. Krampian coal also serves as a pretty good way to make sure that you don't run out of collected cards for omen and shadow daggers, and as a common relic does tend to incentivize building smaller collected decks. It lets you get to the generally solid lucky wicks faster, and it removes the major drawback of having a small collected deck (no longer drawing 6 cards a turn once you run out in longer fights).",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482100372967486",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:30:59.557+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I haven't had a run that used lucky wicks once past floor 20",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482177611075604",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:31:17.972+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "once you have 10~ collected cards it'll basically never show up",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482293722259526",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:31:45.655+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and once you hit act 3 you're taking a lot of collected cards because of how good they are",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482409388445786",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:32:13.232+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "repto, darklings trio, nemesis, etc",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1212482589114372217",
+      "type": "Default",
+      "timestamp": "2024-02-29T04:32:56.082+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you might run into darklings twice and it costs 18 to take all of them which you should because spamming nemesis is one of the easiest win conditions especially paired with any doom scaling or power dependent run",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 82
+}

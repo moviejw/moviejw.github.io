@@ -1,0 +1,938 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1175163580505661542",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Triple Strike (Champ card) - Daily Discussion 17 Nov",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:49:26.6658139+09:00",
+  "messages": [
+    {
+      "id": "1175163582351147101",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:00:31.516+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175163583684947988",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:00:31.834+09:00",
+      "timestampEdited": "2023-11-19T05:00:42.35+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nBottled Dupe (potion): 0\nExtra Crispy (Hexaghost card): 0\nTourmaline (Guardian card): 6",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175163586801307718",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:00:32.577+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 394/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Triple Strike",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3atriplestrike",
+          "timestamp": null,
+          "description": "Rare Attack / 2 :energy_champ: / The Champ / Downfall\n\nDeal 6 (9) damage.\nGain 2  (**Upgrade**d) Strikes. They cost 0 and trigger Skill Bonuses. **Exhaust**.",
+          "color": "#223840",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Z6XxZb_Wsr5s-V30z85GJSHF__HAUT3M5K7MbqeQ0bM/https/slay.ocean.lol/downfall/cards/champ-triplestrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Z6XxZb_Wsr5s-V30z85GJSHF__HAUT3M5K7MbqeQ0bM/https/slay.ocean.lol/downfall/cards/champ-triplestrike.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175163926804172800",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:01:53.64+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "9 damage upgrade",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175163969875497030",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:02:03.909+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we love 9 damage upgrades",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175164059352576081",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:02:25.242+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "another <flurry of strikes> moment too",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175164061839806586",
+      "type": "Reply",
+      "timestamp": "2023-11-18T05:02:25.835+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flurry of Strikes",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3abladeflurry",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_champ: / The Champ / Downfall\n\nDeal 6 (9) damage.\nThe next \"Strike\" card you play this turn is played twice.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yOzkjc5gYQQkZQDvknP6usR_8tUpFrDnf139AEomXYY/https/slay.ocean.lol/downfall/cards/champ-bladeflurry.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175164059352576081",
+        "channelId": "1175163580505661542",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1175164364391710741",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:03:37.969+09:00",
+      "timestampEdited": "2023-11-18T05:04:16.547+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this and <devestate> are similar attacks that can be used but have different use cases",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175164366774091896",
+      "type": "Reply",
+      "timestamp": "2023-11-18T05:03:38.537+09:00",
+      "timestampEdited": "2023-11-18T05:04:16.949+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Devastate",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3adevastate",
+          "timestamp": null,
+          "description": "Rare Attack / 5 :energy_champ: / The Champ / Downfall\n\nDeal 6 (9) damage 3 times.\nCosts 1 less :energy_champ: for each Finisher played this combat.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ajXciOUQopM1ULpwgbcXFYPE7kdNmhCgFIFM2nvQg20/https/slay.ocean.lol/downfall/cards/champ-devastate.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<devestate> = devastate, 7.51"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175164364391710741",
+        "channelId": "1175163580505661542",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1175164656545964052",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:04:47.624+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "triple strike has immediate worth and is good into hallways and elites. 27 damage is a lot",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175164954777755749",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:05:58.728+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "devastate, however, doesn't put strikes into your discard pile and dumps vigor and strength 3 times (!!!), and it's a prime target for <enchant crown>, but if you don't have finishers or enchant crown it's useless",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175164958149972079",
+      "type": "Reply",
+      "timestamp": "2023-11-18T05:05:59.532+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Enchant Crown",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aenchantcrown",
+          "timestamp": null,
+          "description": "Rare Skill / 1 (0) :energy_champ: / The Champ / Downfall\n\nChoose a card.\nIt costs 0 this combat.\n**Exhaust**.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_2TuZJoQdt5omgAAnMxmLqcrmeOVmYx1FZn9PfNW1w4/https/slay.ocean.lol/downfall/cards/champ-enchantcrown.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175164954777755749",
+        "channelId": "1175163580505661542",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1175165040513523803",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:06:19.169+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "kinda like this card. not perfect, but I like",
+      "author": {
+        "id": "320646088723791874",
+        "name": "faelyka",
+        "discriminator": "0000",
+        "nickname": "Faely (Spireblight, they)",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/320646088723791874/cac231faa583ee582b5ac1326132e184.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165145174003782",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:06:44.122+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "definitely a wacky champ strike card",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165344466358292",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:07:31.637+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would take this from a boss if I was going into act 2. It's a immolate ish card.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165478650515559",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:08:03.629+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you have <rope-a-dope> to support this, the strikes are not that bad.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165480760254517",
+      "type": "Reply",
+      "timestamp": "2023-11-18T05:08:04.132+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rope-a-dope",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3afalsecounter",
+          "timestamp": null,
+          "description": "Uncommon Skill / 2 :energy_champ: / The Champ / Downfall\n\nGain 12 **Block** :p_block:.\nNext turn, gain :energy_champ:  ( :energy_champ:) and draw 2 cards.\n:finisher:   **Finisher**",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Mb8RIjJuk8L4twKWeixdiwyU_2SFffnHwHqsyDEj39A/https/slay.ocean.lol/downfall/cards/champ-falsecounter.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175165478650515559",
+        "channelId": "1175163580505661542",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1175165597055721624",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:08:31.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is an interesting card",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165653972426853",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:08:45.429+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's good damage, and fine for triggering skill bonuses",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165681042477147",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:08:51.883+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's silly with flurry of strikes",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165703867859014",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:08:57.325+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the skill bonuses are there",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165721295200267",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:09:01.48+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they definitely exist",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165952963387434",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:09:56.714+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "strike champ is a good archetype held together by cards like this,  <flurry of strikes>, <rapid strikes>,  <murder strike>, and <strike of genius>",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175165956989915177",
+      "type": "Reply",
+      "timestamp": "2023-11-18T05:09:57.674+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flurry of Strikes",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3abladeflurry",
+          "timestamp": null,
+          "description": "Common Attack / 1 :energy_champ: / The Champ / Downfall\n\nDeal 6 (9) damage.\nThe next \"Strike\" card you play this turn is played twice.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yOzkjc5gYQQkZQDvknP6usR_8tUpFrDnf139AEomXYY/https/slay.ocean.lol/downfall/cards/champ-bladeflurry.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Rapid Strikes",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3arapidstrikes",
+          "timestamp": null,
+          "description": "Uncommon Attack / 1 :energy_champ: / The Champ / Downfall\n\nDeal 4 (6) damage 2 times.\nA \"Strike\" card in your hand costs 0 this turn.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e2LwSjxd6xv7CWHDntw2AMLC4Eg48-hDn7zXzEAEUho/https/slay.ocean.lol/downfall/cards/champ-rapidstrikes.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Murder Strike",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3amurderstrike",
+          "timestamp": null,
+          "description": "Rare Attack / 2 :energy_champ: / The Champ / Downfall\n\n**Retain**.\nDeal 8 damage.\nWhen you use a Skill, this deals 2 (3) more damage this combat.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nY3QIlcMZSR7ZSUM_kiXLMjyPynward2ZrcmayHxnJc/https/slay.ocean.lol/downfall/cards/champ-murderstrike.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Strike of Genius",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3astrikeofgenius",
+          "timestamp": null,
+          "description": "Rare Power / 2 :energy_champ: / The Champ / Downfall\n\nAt the start of your turn, gain a random  (**Upgrade**d) \"Strike\".\nIt costs 0 until played and gains **Exhaust**.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e6aZ2AvEzpw9C5ICHCJwdeEzCsC2O8Q-nIpaYqZIMPc/https/slay.ocean.lol/downfall/cards/champ-strikeofgenius.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175165952963387434",
+        "channelId": "1175163580505661542",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1175166213203177473",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:10:58.76+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "strikes are a great pivot out of vigor, and the pivot is an important part of winning your champ runs",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175166652325838948",
+      "type": "Default",
+      "timestamp": "2023-11-18T05:12:43.455+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Champ is a very interesting character because you are forced to take cards that don't do the thing you want to naturally do, and strength/strikes are one of the easier pivots.",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175213398619869194",
+      "type": "Default",
+      "timestamp": "2023-11-18T08:18:28.64+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very powerful source of burst damage for short and medium length hallway fights, especially good in act 1 if you can find it that early, and for act 2 to power through the elites. 18 damage for 2 energy doesn't sound that great, but it scales with strength 3 times, which is very easy to scale up on champ. The upgrade is incredibly good, a +9 that also makes sure that the strikes being put into your discard pile are better draws once you reshuffle. Realistically you want to upgrade this ASAP because of how impactful it is, which is very possible considering that you get a campfire at the start of each act in downfall. I don't actually think the \"junking\" aspect of this card matters very much. Sure, strikes aren't amazing, but when they cost 0, trigger skill bonuses, and are usually going to be upgraded, they aren't exactly awful draws. \n\nOne thing to be wary of with triple strike is that it doesn't exactly fill an underserved niche. Champ is already naturally very good at dealing heavy burst damage and ending short and medium length fights. It's quite possible that by the time you see this, you don't really need what it's offering any more, and should instead be picking up scaling and mitigation cards for longer fights to round out your deck. I don't think this card should be taken without major synergies if you've already got your frontloading needs covered (which is usually the case by the end of act 1, or early act 2). The synergies that are most notable here are the strike synergies, and ninja relics. For 2 energy and 1 card, you can guarantee that you proc every ninja relic you have, and get 3 stacks on pen nib, nunchaku, and ink bottle. Rapid strikes can reduce the cost on this down to 0, while flurry of strikes can increase it's burst even further playing it twice. Strength gain in general is great with this card as it benefits 3 times. Do be careful with vigor stacking, since it will all be used up on the initial triple strike.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175238159093747722",
+      "type": "Default",
+      "timestamp": "2023-11-18T09:56:51.997+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is one of the best champ cards that I just don't take that often. Triple strike needs no set up to deal 27 damage for just 2 energy; which is really powerful. But attacks that benefit from setup hit a lot harder and its often more practical to gravitate towards them. Especially the ones that are of a lower rarity. Still this card is good to just add raw power to any champ deck; its just that sometimes you don't acutally need to become stronger in this way.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 28
+}

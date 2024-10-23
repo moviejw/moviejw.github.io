@@ -1,0 +1,719 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1244379589958963261",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Malice (Hermit card) - Daily Discussion 26 May",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:32:52.6299927+09:00",
+  "messages": [
+    {
+      "id": "1244379591326568570",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:00:14.027+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244379591892795498",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:00:14.162+09:00",
+      "timestampEdited": "2024-05-28T05:00:26.508+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nEmbalming Oils (potion): 5\nTracking Shot (Hermit card): 3\nDesperado (Hermit card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244379593734098996",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:00:14.601+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 552/921",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Malice",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3amalice",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :energy_hermit:  / The Hermit / Downfall\n\n**Exhaust** a card.\nDeal 16 (20) damage.\nIf you **Exhaust** a **Curse**, deal 16 (20) damage to ALL enemies instead.",
+          "color": "#99590B",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/HET8DO2FcdTkOx0H4qfRy4eZP_DNPVD5Tm2PQhgGD84/https/slay.ocean.lol/downfall/cards/hermit-malice.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/HET8DO2FcdTkOx0H4qfRy4eZP_DNPVD5Tm2PQhgGD84/https/slay.ocean.lol/downfall/cards/hermit-malice.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244380834094645268",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:05:10.326+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a fine 2 cost attack",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244385335467577344",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:23:03.537+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean... its less efficient than <cleave> while requiring a secondary token as exhaust fodder",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244385336889704542",
+      "type": "Reply",
+      "timestamp": "2024-05-27T05:23:03.876+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cleave",
+          "url": "https://slay-the-spire.fandom.com/wiki/Cleave",
+          "timestamp": null,
+          "description": "Common Attack / 1 :red_energy: / The Ironclad / Slay the Spire\n\nDeal 8 (11) damage to ALL enemies.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZVtR-_ZmRm9SAXQzDtjq3QW-zL6ddd7q1YVMvZDyTDg/https/slay.ocean.lol/slay%2520the%2520spire/cards/cleave.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1244385335467577344",
+        "channelId": "1244379589958963261",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244385406573871234",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:23:20.49+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whilst also worse than <carnage> as single target, with no way to clean itself up when it isnt needed",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244385408364712030",
+      "type": "Reply",
+      "timestamp": "2024-05-27T05:23:20.917+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Carnage",
+          "url": "https://slay-the-spire.fandom.com/wiki/Carnage",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :red_energy: / The Ironclad / Slay the Spire\n\n**Ethereal**.\nDeal 20 (28) damage.",
+          "color": "#BA1A1A",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sAczBQvi1-a3Aru3eiS3hMjB5BJ66oSdVy0bQ3N-TVU/https/slay.ocean.lol/slay%2520the%2520spire/cards/carnage.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1244385406573871234",
+        "channelId": "1244379589958963261",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244385455202631741",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:23:32.084+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its honestly a pretty terrible card",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244385904353611816",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:25:19.17+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And the common argument of cards being a bit less effective than cleave at 2 cost is the total cost is 2|1 (2.6e) versus 2x 1|1 (3.2e), but that isnt the case here, you **Need** a curse for it to even deal AoE damage, so it has the same cost as both cleaves, if not more if you need to draft things that make curses just to set it off.",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244386005641855057",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:25:43.319+09:00",
+      "timestampEdited": "2024-05-27T05:26:06.659+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly dont see a reason for it to not just use carnage numbers, or at the very least something more comparable.",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244386196231028828",
+      "type": "Default",
+      "timestamp": "2024-05-27T05:26:28.759+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would think 18(25) at minimum and if that still felt undercooked just whack it up to carnage",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244397894719770738",
+      "type": "Default",
+      "timestamp": "2024-05-27T06:12:57.896+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "16 damage for 2 energy isn’t an amazing rate, but it does pair well with vulnerable. The AOE component can be guaranteed if you hold on to the memento from old locket, and in most fights, you will only need the AOE once. Manifest, midnight, and fatal desire all put curses directly into your hand, and make it easier to use the AOE component alongside the vulnerable from memento, or can support malice if you boss swapped. A reasonable way to get extra block from the second part of shadow cloak as well. The exhaust can also be used to thin out the deck, removing strikes, defends, damage commons, statuses, or very detrimental curses like pain or normality, and creating a form of scaling over longer boss fights by improving your second cycle through the deck, which is also a great way to trigger the first part of shadow cloak more often. You can also use the exhaust component to rearrange your hand, and land dead-on trigger more easily. Very notable synergy with from beyond as well, as the exhaust both helps it deal more damage, and thins out the deck so that you can draw it more often.\nOverall, malice has an impressive amount of utility available, which really makes it stand out from other damage cards. Sure, it pays for all that extra utility by having lower damage overall, but I think the tradeoff is generally worthwhile. If you can get it pre-upgraded, the +4 is very handy and helps shore up that one weakness. I always take notice of frontloaded damage cards that I’m still interested in picking up even late into the run, because that also means that taking them early in the run can lead to a more streamlined deck with less purely early game focused cards in it later on. It’s definitely notably worse if you boss swapped, and when you do have old locket, there will be times where you either don’t want to exhaust memento, or you needed to use it on an earlier turn. I wouldn’t rely on the AOE component of the it too much, try to include another AOE option in your deck.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244397935291011183",
+      "type": "Default",
+      "timestamp": "2024-05-27T06:13:07.569+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The damage is appreciated throughout acts 1 and 2, and the AOE element is good to cover gremlin gang, slime gang, and tri-sentries early on. The deck thinning can be relevant into lagavulin, but is bad against tri-sentries. The utility elements help to keep it relevant in acts 3 and 4, and the AOE can be handy into reptomancer. Do note that you must exhaust a card if you have one (you can still cast it as the last card in your hand without exhausting anything). This can lead to some awkward sequencing, or simply situations where you would rather not play this, or where you need to play it last. Pretty good with snecko eye, especially since you can remove your weaker cards from the second cycle. Runic pyramid makes it easier to line it up with the cards you most want to exhaust, and to have a curse in hand to enable the AOE component.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244432593156575302",
+      "type": "Default",
+      "timestamp": "2024-05-27T08:30:50.648+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "great card, targeted exhaust is very exploitable on hermit and this is only 1 of 2 cards that can do it for you (the other being adapt). Having a little bit of exhaust greatly improves your scaling by letting you destroy your bad cards mid fight. Having fewer cards makes dead on stronger since your not wasting energy on bad cards to activate dead on and can instead use that energy for combo. It can really help just about any deck though. Malice dealing 16 for 2 is about average for a 2 cost attack on top of that value of exhausting. It also deals its damage as AOE instead if you exhaust a curse; since hermit starts with 2 curses this is a very good act 1 pick up for aoe fights (your main target, sentries have artifact anyways so its fine to just exhaust memento). The only downside malice has is that its 2 cost; which is a bit expensive to manage. However it still is a very flexible card that plays an important role in many runs.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244503479343644694",
+      "type": "Default",
+      "timestamp": "2024-05-27T13:12:31.232+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really low numbers and not that good gimmick. Is -2 draw to play and does very little damage for its cost.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244503579205566484",
+      "type": "Default",
+      "timestamp": "2024-05-27T13:12:55.041+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hermit has <no holds barred>, an infinitely better 2 cost card.",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244503581084614656",
+      "type": "Reply",
+      "timestamp": "2024-05-27T13:12:55.489+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "No Holds Barred",
+          "url": "https://slay.ocean.lol/w/downfall/hermit%3anoholdsbarred",
+          "timestamp": null,
+          "description": "Uncommon Attack / 2 :energy_hermit:  / The Hermit / Downfall\n\nDeal 19 (23) damage and apply 5 (6) **Bruise** :p_bruise: to ALL enemies.\nGain 1 less :energy_hermit:  next turn.",
+          "color": "#99590B",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Y0aUcVc363HqJDUMkHTfg9yTsWV7Bffaq8mLdQmruhk/https/slay.ocean.lol/downfall/cards/hermit-noholdsbarred.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1244503579205566484",
+        "channelId": "1244379589958963261",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1244503694876217385",
+      "type": "Default",
+      "timestamp": "2024-05-27T13:13:22.619+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "more damage and utility with a downside actually negatable by virtue",
+      "author": {
+        "id": "417469040135634944",
+        "name": "nic200",
+        "discriminator": "0000",
+        "nickname": "Nic200",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417469040135634944/c1dc7f54fb565fcc38eaf9e60751fe5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244503971184250931",
+      "type": "Default",
+      "timestamp": "2024-05-27T13:14:28.496+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "probably need a buff",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244504045314637924",
+      "type": "Default",
+      "timestamp": "2024-05-27T13:14:46.17+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "since it ranks 50-60 so basically worst uncommon level",
+      "author": {
+        "id": "286117651728695296",
+        "name": "mwalls",
+        "discriminator": "0000",
+        "nickname": "Mwalls",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "959248034678579283",
+            "name": "Beta Tester",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "978375869313720390",
+            "name": "Translator",
+            "color": "#546E7A",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/286117651728695296/b0ba3e755645c6e731a4093dd4cf655c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1244725085743484938",
+      "type": "Default",
+      "timestamp": "2024-05-28T03:53:06.315+09:00",
+      "timestampEdited": "2024-05-28T03:53:18.105+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ig it didn't cost 2 energy it'd be decent at thinning out your deck, could even be useful in a Dead on deck for the hand manipulation aspect of it bur as a 2 cost card the exhaust mechanic is a lot less appealing",
+      "author": {
+        "id": "206194901438824448",
+        "name": "gangur",
+        "discriminator": "0000",
+        "nickname": "Gangur",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/206194901438824448/c486b84485dc1f18a6e1230ce956c1f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

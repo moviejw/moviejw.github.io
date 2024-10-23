@@ -1,0 +1,712 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1289315697473880075",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Protecting Call (Collector card) - Daily Discussion 27 Sep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:20:12.5154008+09:00",
+  "messages": [
+    {
+      "id": "1289315699612979270",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:00:17.115+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289315700548046960",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:00:17.338+09:00",
+      "timestampEdited": "2024-09-29T05:00:20.298+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nTwist The Knife (Gremlins card): 0\nDarkwillow Kindling (Collector card): 1\nRepurpose (Slime Boss card): 5",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289315703094247507",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:00:17.945+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 676/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Protecting Call",
+          "url": "https://slay.ocean.lol/w/downfall/collector%3aprotectingcall",
+          "timestamp": null,
+          "description": "Rare Power / 2 :energy_collector: / The Collector / Downfall\n\nGain 6 (8) **Temp HP.**\n**Torchhead** gains \"Gain 2 (3) **Block** :p_block:.\"",
+          "color": "#26664D",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/mO8JP_FdbEELgtyGRApmmJwF6h-Xx_gBmImB3V5nuto/https/slay.ocean.lol/downfall/cards/collector-protectingcall.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/mO8JP_FdbEELgtyGRApmmJwF6h-Xx_gBmImB3V5nuto/https/slay.ocean.lol/downfall/cards/collector-protectingcall.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289316083827998824",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:01:48.719+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weird TTTH",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289318464691110008",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:11:16.361+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah its just TTTH with extra steps",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289318938341281833",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:09.288+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rare",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289318954694742128",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:13.187+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More expensive",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319045707075635",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:34.886+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Less synergies (no multi hits)",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319104238587996",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:48.841+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Conditional (temp hp)",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319119115522079",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:52.388+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Probably the best Torchhead card but still pretty bad",
+      "author": {
+        "id": "881622912887562311",
+        "name": "kevin37",
+        "discriminator": "0000",
+        "nickname": "K37",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881622912887562311/1631f4fbaa34bd3d90d5727dfa197336.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319146940530789",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:13:59.022+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still fine I guess",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319274111832106",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:14:29.342+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Collector is easily the best character in the pack so cards like this are fine",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319478072447058",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:15:17.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Torchheads are kind of mid tbh",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319547329056852",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:15:34.482+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you can get enough of them they cook, but like, meh",
+      "author": {
+        "id": "258676126090657793",
+        "name": "sandtag",
+        "discriminator": "0000",
+        "nickname": "SandTag",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/258676126090657793/af80622dcfcd84ea747a9a7b1bed68ea.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319602597134367",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:15:47.659+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "At least this directly helps protect your temp HP, but Collector doesn't tend to go for the kind of attack spam that would make this really useful, and she has a lot of much better rares. I might take this from a hallway fight if I had synergies but it's never great. Better with snecko eye but still just good, not great. And if you have snecko eye on Collector you're winning anyway.",
+      "author": {
+        "id": "881622912887562311",
+        "name": "kevin37",
+        "discriminator": "0000",
+        "nickname": "K37",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881622912887562311/1631f4fbaa34bd3d90d5727dfa197336.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289319645609725973",
+      "type": "Default",
+      "timestamp": "2024-09-28T05:15:57.914+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "With collector Pyre reserve affliction stacking and the collected pile are so good you can put randomish stuff in your deck and be fine",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289363912059392104",
+      "type": "Default",
+      "timestamp": "2024-09-28T08:11:51.858+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really need to upgrade this ASAP, as it lives or dies on whether or not you can use it's own effect to protect itself (and other calls). You can definitely use this to generate 8 (12) block per turn if you have some cheap attacks you can spam, especially alongside shiv generation from jaded jabs. That's pretty solid for a 2 cost power that also frontloads 6 (8) temp hp, but you really do need to protect that temp hp in order to maintain the effect. Alternatively, you can have some really strong block cards in your deck to smooth out your ability to protect this, though at that point, you probably don't need protecting call that much. At it's best when you already have 1-2 other calls, since it can help to protect them, and you can cast them to get this effect back up if you lose it. The torchead collectible is particularly nice to have, since you're likely to draw it later on in a fight, and it can even double up this effect. While difficult to get, protecting call plays very well in multiples for obvious reasons.\n\nIs it a worse version of talk to the hand? Pretty much, but considering how ridiculously powerful that card is, there's plenty of room to be worse than it and still viable. To be fair, it can't be blocked by artifact, and enemies cleansing themselves or entering certain second phases (champ, time eater, awakened one, though none of those appear in downfall mode) don't interfere with it. The big drawbacks are that it's more expensive, at a higher rarity, and can be lost through the temp hp, but it's still a very solid pickup as long as you upgrade it quickly, and can reliably play 3+ attacks per turn. Having access to a useful block engine like this is very handy for collector, and since you're quite good at applying weak, it's easier to keep the effect up. Ninja relics encourage the same style of deckbuilding. Prickly shields can convert the frequent block into even more damage. I think it's in a good place right now, though often outshone by other rares.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289375360231936021",
+      "type": "Default",
+      "timestamp": "2024-09-28T08:57:21.315+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure, but I *think* if you play a torchhead call, then lose the temp HP, then play another one, then you don't continue to get the effect of the first one.",
+      "author": {
+        "id": "881622912887562311",
+        "name": "kevin37",
+        "discriminator": "0000",
+        "nickname": "K37",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881622912887562311/1631f4fbaa34bd3d90d5727dfa197336.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289386295189176393",
+      "type": "Default",
+      "timestamp": "2024-09-28T09:40:48.412+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've not played much downfall as of late, but i'm back to say that I would gladly pay 2 energy for 8 temp HP and NOTHING else",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289386424050913280",
+      "type": "Default",
+      "timestamp": "2024-09-28T09:41:19.135+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so this providing bonus block is pretty good; its typically like 6 a turn unless your focused entirely around doom as your damage source.",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289386590472245348",
+      "type": "Default",
+      "timestamp": "2024-09-28T09:41:58.813+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "needs an upgrade very badly though and it can feel slightly bad to get this card instead of a broken rare",
+      "author": {
+        "id": "826258620513648660",
+        "name": "ahoodedman",
+        "discriminator": "0000",
+        "nickname": "ahoodedman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826258620513648660/54cf424fe819e05bdeb245afa0d88dba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289400308249661521",
+      "type": "Reply",
+      "timestamp": "2024-09-28T10:36:29.386+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To the best of my knowledge, calls can be put back online by regaining temp hp in any way. This makes impeccable pecs incredibly good with calls specifically.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "881622912887562311",
+          "name": "kevin37",
+          "discriminator": "0000",
+          "nickname": "K37",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/881622912887562311/1631f4fbaa34bd3d90d5727dfa197336.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1289375360231936021",
+        "channelId": "1289315697473880075",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1289410067233243138",
+      "type": "Default",
+      "timestamp": "2024-09-28T11:15:16.109+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll have to check that next time I play Collector. I'm pretty sure that I've lost temp HP, gained it again from a different call, and had the tooltip only list the new one. But I've seen other glitches with the torchhead buff, so it might just be a UI issue.",
+      "author": {
+        "id": "881622912887562311",
+        "name": "kevin37",
+        "discriminator": "0000",
+        "nickname": "K37",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/881622912887562311/1631f4fbaa34bd3d90d5727dfa197336.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289424755996229674",
+      "type": "Default",
+      "timestamp": "2024-09-28T12:13:38.183+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<torchhead keyword>",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1289424759011938304",
+      "type": "Reply",
+      "timestamp": "2024-09-28T12:13:38.902+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Torch Head",
+          "url": null,
+          "timestamp": null,
+          "description": "Keyword / Downfall\n\nWhile you have Temporary :p_temp: HP, each Attack you play triggers Torchhead.",
+          "footer": {
+            "text": "<torchhead keyword> = torch head, 32.42"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1289424755996229674",
+        "channelId": "1289315697473880075",
+        "guildId": "669242017427226638"
+      }
+    }
+  ],
+  "messageCount": 25
+}

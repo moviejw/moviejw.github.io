@@ -1,0 +1,472 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1067896672660758599",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Format (Automaton card) - Daily Discussion 25 Jan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-23T00:22:46.1440552+09:00",
+  "messages": [
+    {
+      "id": "1067896673851953192",
+      "type": "Default",
+      "timestamp": "2023-01-26T05:00:07.607+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067896685503709184",
+      "type": "Default",
+      "timestamp": "2023-01-26T05:00:10.385+09:00",
+      "timestampEdited": "2023-01-27T05:00:31.731+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nDefect 2 (boss): 4\nChampion's Crown (Champ relic): 3\nEncircle (Champ card): 0",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067896687793803375",
+      "type": "Default",
+      "timestamp": "2023-01-26T05:00:10.931+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 98/782",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFEF87",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/DcNFgTrFNoAse1zXBeUBOANX1RrLD0X2m55uUaB3eBY/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Format.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/DcNFgTrFNoAse1zXBeUBOANX1RrLD0X2m55uUaB3eBY/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Format.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        },
+        {
+          "title": "Format",
+          "url": "https://sts-downfall.fandom.com/wiki/Format?embnum=0",
+          "timestamp": null,
+          "description": "Rare Skill / X :e_automaton: / The Automaton / Downfall\n\n**Encode** X (+1) copies of Fragment.\nGain :e_automaton: .\n**Exhaust**.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DcNFgTrFNoAse1zXBeUBOANX1RrLD0X2m55uUaB3eBY/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-Format.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067896831771693218",
+      "type": "Default",
+      "timestamp": "2023-01-26T05:00:45.258+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all i see is an X cost miracle without retain",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067898849231904889",
+      "type": "Default",
+      "timestamp": "2023-01-26T05:08:46.258+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "true thats 80% of the time this cards use",
+      "author": {
+        "id": "106068236000329728",
+        "name": "oceanuwu",
+        "discriminator": "0000",
+        "nickname": "ocean",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/106068236000329728/477c4eb1bbe5fa0fb5149f3a52c69e9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067919574407839924",
+      "type": "Default",
+      "timestamp": "2023-01-26T06:31:07.525+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1067919574164586616",
+          "url": "https://cdn.discordapp.com/attachments/1067896672660758599/1067919574164586616/image.png?ex=6718c25b&is=671770db&hm=4fbbef62ebb7d74f81c471cfb53ed8f8a4036b685581bfdc96f80e2b81456721&",
+          "fileName": "image.png",
+          "fileSizeBytes": 677782
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067921426084003850",
+      "type": "Default",
+      "timestamp": "2023-01-26T06:38:28.999+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have never used this card and probably won't even after the art gets added",
+      "author": {
+        "id": "710803246519943169",
+        "name": "thelethargicweirdo",
+        "discriminator": "0000",
+        "nickname": "TheLethargicWeirdo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "782757800677212181",
+            "name": "Contributor",
+            "color": "#9B59B6",
+            "position": 13
+          },
+          {
+            "id": "1283257858372403262",
+            "name": "Artist",
+            "color": "#C27C0E",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710803246519943169/3a777a896fff3af2a31bce8cc2e0302f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067921586784583690",
+      "type": "Reply",
+      "timestamp": "2023-01-26T06:39:07.313+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i mean it has good synergy with <bronze orb>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1067921426084003850",
+        "channelId": "1067896672660758599",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1067921588353245246",
+      "type": "Reply",
+      "timestamp": "2023-01-26T06:39:07.687+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bronze Orb",
+          "url": "https://slay-the-spire.fandom.com/wiki/Bronze_Orb?embnum=0",
+          "timestamp": null,
+          "description": "Boss / 55-55 HP / Slay the Spire",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Oen08Do5rmtKmBmqRdcUs86iJ4KekaUC1iY0LOaNqi0/https/oceanuwu.github.io/slaytabase/extraImages/creatures/Bronze-orb.png",
+            "width": 700,
+            "height": 700
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1067921586784583690",
+        "channelId": "1067896672660758599",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1067921625577697311",
+      "type": "Default",
+      "timestamp": "2023-01-26T06:39:16.562+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<bronze orb power>",
+      "author": {
+        "id": "919544408376999987",
+        "name": "cuboidconsumer",
+        "discriminator": "0000",
+        "nickname": "cuboid consumer",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/919544408376999987/2e7655f424bc28295accf3dcf5f27f26.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1067921627700023397",
+      "type": "Reply",
+      "timestamp": "2023-01-26T06:39:17.068+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Summon Orb",
+          "url": "https://sts-downfall.fandom.com/wiki/Summon_Orb?embnum=0",
+          "timestamp": null,
+          "description": "Rare Power / 2 :e_automaton: / The Automaton / Downfall\n\nWhenever you create or play a Function, gain 4 (6) **Block** :p_block: and deal 4 (6) damage to a random enemy.",
+          "color": "#FFEF87",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/soHMkiZefIYjaJqmmBjzSB3WoSYhsB_iaecOCw6xeIM/https/oceanuwu.github.io/slaytabase/Downfall/cards/The_bronze-SummonOrb.png",
+            "width": 1356,
+            "height": 874
+          },
+          "footer": {
+            "text": "<bronze orb power> = summon orb, 72% sure"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1067921625577697311",
+        "channelId": "1067896672660758599",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1068006485155643433",
+      "type": "Default",
+      "timestamp": "2023-01-26T12:16:28.662+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This can function like seeing red if you want it to, but it's also really useful to help create additional functions for better frontloading and a stronger 2nd cycle through the deck. Even 3 fragments stapled together into a function is still 15 block and 15 damage for 1 energy (costs 3 energy when you are playing the format though), which is extremely efficient. Pretty strong with chem X as well, mostly a tool to help you have a higher density of functions in your decks 2nd cycle. Plays extremely well with strength gain and sentient form.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1068007614715285513",
+      "type": "Default",
+      "timestamp": "2023-01-26T12:20:57.97+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah honestly I've played this card at 0 energy to get 1 additional energy; it is a pretty versatile card. Not amazing but can make some decks pop off",
+      "author": {
+        "id": "91606842047762432",
+        "name": "covertmuffin",
+        "discriminator": "0000",
+        "nickname": "CovertMuffin",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/91606842047762432/adbf3f1ed9511d030113c98a69a08d48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

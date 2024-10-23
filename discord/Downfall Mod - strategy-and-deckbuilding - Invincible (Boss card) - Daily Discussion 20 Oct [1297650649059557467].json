@@ -1,0 +1,743 @@
+{
+  "guild": {
+    "id": "669242017427226638",
+    "name": "Downfall Mod",
+    "iconUrl": "https://cdn.discordapp.com/icons/669242017427226638/127f420e78ec3a04a74bcb520586d84c.png?size=512"
+  },
+  "channel": {
+    "id": "1297650649059557467",
+    "type": "GuildPublicThread",
+    "categoryId": "960646043689713705",
+    "category": "strategy-and-deckbuilding",
+    "name": "Invincible (Boss card) - Daily Discussion 20 Oct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-10-22T23:18:11.3134851+09:00",
+  "messages": [
+    {
+      "id": "1297650650926284841",
+      "type": "Default",
+      "timestamp": "2024-10-21T05:00:24.364+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Previous Daily Discussion: #deleted-channel",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297650652000030902",
+      "type": "Default",
+      "timestamp": "2024-10-21T05:00:24.62+09:00",
+      "timestampEdited": "2024-10-22T05:00:33.061+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Next Daily Discussion: #deleted-channel\n\n__Votes__:\nDarkwillow Kindling (Collector card): 6\n??? Exhaust (Snecko card): 1\nFat Gremlin (Collectible card): 1",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297650654105567242",
+      "type": "Default",
+      "timestamp": "2024-10-21T05:00:25.122+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Daily Discussion 699/947",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Invincible",
+          "url": "https://slay.ocean.lol/w/downfall/expansioncontent%3ainvinciblestrength",
+          "timestamp": null,
+          "description": "Uncommon Power / 2 (1) :energy_champ: / Boss / Downfall\n\nGain 10 **Invincible.**\nIf you already had **Invincible,** it lasts another turn instead.",
+          "color": "#B0385C",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/JmFNqpKN6Bl368PCC4F6s4HkOg7HoV6BPaqn0O9IX4c/https/slay.ocean.lol/downfall/cards/expansioncontent-invinciblestrength.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/JmFNqpKN6Bl368PCC4F6s4HkOg7HoV6BPaqn0O9IX4c/https/slay.ocean.lol/downfall/cards/expansioncontent-invinciblestrength.png",
+              "width": 1356,
+              "height": 874
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297652196367929344",
+      "type": "Default",
+      "timestamp": "2024-10-21T05:06:32.826+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean I'd rather not lose that 10 hp",
+      "author": {
+        "id": "917977898181361744",
+        "name": "targetson.",
+        "discriminator": "0000",
+        "nickname": "targetson.",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917977898181361744/fbf9bb3c881bd42470e64a284d79f655.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678127421587578",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:49:35.271+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "compared to buffer its 10% better because you avoid losing it to chip damage and 75% worse because you need to lose 10 hp to even use it",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678306048610354",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:50:17.859+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its basically slightly better 1 rugged",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678370150154424",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:50:33.142+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or just an incredibly shitty buffer",
+      "author": {
+        "id": "484682433925611542",
+        "name": "dark_brick",
+        "discriminator": "0000",
+        "nickname": "Dark_Brick",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/484682433925611542/a1ce6a4544e638258200f569829dd6ed.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678374659035256",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:50:34.217+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good with pyramid",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678542183731254",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:51:14.158+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "honestly as a colorless uncommon it's decently balanced as long as you don't use it to block 120 damage hits",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297678589831155824",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:51:25.518+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "could block for 30~40 in a boss fight",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297679017868132392",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:53:07.57+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IMO this is basically \"we have <ignore pain> at home\"",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297679020950814720",
+      "type": "Reply",
+      "timestamp": "2024-10-21T06:53:08.305+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "961824443653574687",
+        "name": "Slaytabase",
+        "discriminator": "2770",
+        "nickname": "DownfallBot Jr.",
+        "color": "#F1C40F",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1131771178810363924",
+            "name": "Downfallbot Jr.",
+            "color": "#F1C40F",
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/961824443653574687/87767a8f050faf72120badf69d65e9b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ignore Pain",
+          "url": "https://slay.ocean.lol/w/downfall/champ%3aignorepain",
+          "timestamp": null,
+          "description": "Rare Skill / 2 (1) :energy_champ: / The Champ / Downfall\n\nYour HP cannot be reduced until your next turn.\n**Exhaust**.",
+          "color": "#223840",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rifwx6Sh1aG2J3-D1wS7EB6jK4izf_ZY20gablW4LoM/https/slay.ocean.lol/downfall/cards/champ-ignorepain.png",
+            "width": 1356,
+            "height": 874
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1297679017868132392",
+        "channelId": "1297650649059557467",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1297679065855299665",
+      "type": "Default",
+      "timestamp": "2024-10-21T06:53:19.011+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but shitty ignore pain still not bad at all",
+      "author": {
+        "id": "634010749492264960",
+        "name": "lxixcdxx",
+        "discriminator": "0000",
+        "nickname": "d/dx(6x^70)",
+        "color": "#6F8D90",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "793945427044859945",
+            "name": "Moderator",
+            "color": "#6F8D90",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/634010749492264960/e2410cab87946d8b2db192aaecee3df5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297695880521973852",
+      "type": "Default",
+      "timestamp": "2024-10-21T08:00:07.94+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think I've ever bought this at the store, but there are several times that it's been a good random drop from the sources of boss cards mid-combat (potions, tiny bowler hat, etc). I suppose you could buy it if you had no good answer to the really big hits of late game and needed to play long fights due to insufficeint/weak scaling, but otherwise it's not that exciting. The thing is, you have to take the 10 damage, so using it in hallway/elite fights means guaranteed health loss (if it procs at all). In elite fights, that's probably saving you health overall, but you'd really like to avoid that in hallway fights, so it's sort of a dead card in quite a few shorter fights in the game. Where it can really shine is dangerous boss fights, especially those involving some kind of form shift where they deal way more damage in the second half. Being able to have a turn of relative safety/immunity against an attack for 40+ damage is great, and it's usually easy to keep the invincible up until that turn comes in those sorts of fights. One of the strengths of the cards is that you don't lose the benefit until you actually exceed the invincible number in one turn, so taking some chip damage here or there still lets you keep the buff for later in the fight, as long as you don't go over 10. It's one of those cards that isn't great in most of the fights of the game, but when it is the right fight, it can absolutely save you and help prevent a loss.\n\nAs a shop card, it has a ton of competition from everything else at the shop, especially the relics, potions, and card removal. It would rarely make sense to spend the 89-109 souls to pick this effect up unless it could help you turn around a difficult upcoming boss fight, or if you were very late in the game and weren't worried about the chip damage anymore. Sustain Relics could make this a more reasonable pick.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297697480380780635",
+      "type": "Default",
+      "timestamp": "2024-10-21T08:06:29.376+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely more takeable from sensory stone's offerings, but there are other boss cards that are more generally useful throughout a run. Pyramid can make it easier to apply the effect on the right turn if you are worried about losing the buff early in a fight. Spending 2 energy on this effect can be pretty rough, so getting it pre-upgraded/upgrading it/having 4 energy/having snecko eye/having mummified hand all make it easier to use. I wouldn't put a high priority on upgrading this (just a 1 energy discount once during the fight), but it's definitely a much more useable card at 1 energy, letting you then block to preserve the effect, rather than having it all used up at once as a weaker buffer/rugged. One thing to note is that invincible is one of the few mitigation effects that matches up well against multihits. You cannot take more than 10 damage in the turn, so any subsequent damage is ignored, making it much better against certain late game enemies than a card like buffer or heroic bravado normally would be.",
+      "author": {
+        "id": "303064746129752074",
+        "name": "kiku_katsumi",
+        "discriminator": "0000",
+        "nickname": "Kiku",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297697778352394281",
+      "type": "Reply",
+      "timestamp": "2024-10-21T08:07:40.418+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey kiku can you do a quick evaluation of the boss pool vs the wider colorless options from standard?",
+      "author": {
+        "id": "370020173610090537",
+        "name": "blueguy_",
+        "discriminator": "0000",
+        "nickname": "Blue Guy",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/370020173610090537/46a41aebfad3767f18d0183af8a23d01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "679680827831222310",
+              "name": "alexandrapharmic",
+              "discriminator": "0000",
+              "nickname": "Alexandra Pharmic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "303064746129752074",
+          "name": "kiku_katsumi",
+          "discriminator": "0000",
+          "nickname": "Kiku",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/303064746129752074/52a9271c83d647c231c0cfb10f14cf83.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1297695880521973852",
+        "channelId": "1297650649059557467",
+        "guildId": "669242017427226638"
+      }
+    },
+    {
+      "id": "1297707241201336451",
+      "type": "Default",
+      "timestamp": "2024-10-21T08:45:16.537+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like shitty rugged",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297707328543522908",
+      "type": "Default",
+      "timestamp": "2024-10-21T08:45:37.361+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it has its place like all rugged/buffer type effects",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297707346948132905",
+      "type": "Default",
+      "timestamp": "2024-10-21T08:45:41.749+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but i would never buy it",
+      "author": {
+        "id": "264915911251722242",
+        "name": "shinblitz",
+        "discriminator": "0000",
+        "nickname": "ShinBlitz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264915911251722242/310645e2ab46560a45fe138351cbe578.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297737894991233104",
+      "type": "Default",
+      "timestamp": "2024-10-21T10:47:04.97+09:00",
+      "timestampEdited": "2024-10-21T10:47:17.933+09:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> One of the strengths of the cards is that you don't lose the benefit until you actually exceed the invincible number in one turn, so taking some chip damage here or there still lets you keep the buff for later in the fight, as long as you don't go over 10. \n\nI didn't know that... I've never taken this card because I thought the buff would wear off at the end of your turn regardless of whether the effect procced. x)",
+      "author": {
+        "id": "679680827831222310",
+        "name": "alexandrapharmic",
+        "discriminator": "0000",
+        "nickname": "Alexandra, Basic Card Hater",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/679680827831222310/cd3ecc92887e254a357745cf09e24898.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297783320536416297",
+      "type": "Default",
+      "timestamp": "2024-10-21T13:47:35.264+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Card is unplayable and bad",
+      "author": {
+        "id": "136565810792628224",
+        "name": "shedletsky.",
+        "discriminator": "0000",
+        "nickname": "Shedletsky",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/136565810792628224/949e3da7db447043f953cbf55bbb7bfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297783376199155722",
+      "type": "Default",
+      "timestamp": "2024-10-21T13:47:48.535+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you need it, your deck is already losing",
+      "author": {
+        "id": "136565810792628224",
+        "name": "shedletsky.",
+        "discriminator": "0000",
+        "nickname": "Shedletsky",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/136565810792628224/949e3da7db447043f953cbf55bbb7bfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297783422705729567",
+      "type": "Default",
+      "timestamp": "2024-10-21T13:47:59.623+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You should have done something else earlier in the game",
+      "author": {
+        "id": "136565810792628224",
+        "name": "shedletsky.",
+        "discriminator": "0000",
+        "nickname": "Shedletsky",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/136565810792628224/949e3da7db447043f953cbf55bbb7bfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297783465554608149",
+      "type": "Default",
+      "timestamp": "2024-10-21T13:48:09.839+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Worst boss card maybe",
+      "author": {
+        "id": "136565810792628224",
+        "name": "shedletsky.",
+        "discriminator": "0000",
+        "nickname": "Shedletsky",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/136565810792628224/949e3da7db447043f953cbf55bbb7bfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1297783534743851130",
+      "type": "Default",
+      "timestamp": "2024-10-21T13:48:26.335+09:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Never an interesting choice and should be replaced with something more interesting",
+      "author": {
+        "id": "136565810792628224",
+        "name": "shedletsky.",
+        "discriminator": "0000",
+        "nickname": "Shedletsky",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/136565810792628224/949e3da7db447043f953cbf55bbb7bfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 25
+}

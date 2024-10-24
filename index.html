@@ -210,7 +210,7 @@
                 return 'Image not found';
             }
 
-            const imagesDirectory = char === 'Slime Boss' ? 'SlimeboundImages' : 'images';
+            const imagesDirectory = char === 'Slime Boss' ? 'SlimeboundImages' : ('Guardian' ? 'GuardianImages' : 'images');
 
             let imageUrl = `${downfall}${folder}Resources/${imagesDirectory}/${type}s/${formatName(char, name)}`;
             imageUrl += type === 'card' ? '_p.png' : '.png';

@@ -2,6 +2,8 @@
 <html lang="ko">
 
 <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>다운폴</title>
@@ -48,10 +50,12 @@
             color: gray;
         }
 
-        .discord-icon {
+        i {
             width: 30px;
             height: 30px;
             margin-left: 10px;
+            font-size: 30px; /* 아이콘 크기 */
+            color: #7289DA;  /* 디스코드 색상 */
         }
     </style>
     <script>
@@ -238,9 +242,11 @@
         <input type="text" id="search-input" placeholder="카드명을 정확히 입력하세요" onkeypress="handleKeyPress(event)">
         <button onclick="handleSearch()">검색</button>
         <div class="note">
-            <p>유의사항: 본 페이지는 "다운폴" 카드에 대한 정보와 토론을 제공합니다. 카드 검색 시 정확한 이름을 입력하세요.</p>
-            <a href="https://discord.gg/your-discord-link" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Discord_logo.svg" alt="Discord" class="discord-icon">
+            <p>유의사항: 많은 카드를 자동으로 처리하여 누락된 카드가 있을 수 있습니다. 또한 다운폴 업데이트로 이전과 변경된 효과나 수치가 있을 수 있으니 유의하세요.</p>
+            <br></br>
+            <p>모든 토론은 다운폴 공식 디스코드에서 진행되고 있습니다.</p>
+            <a href="https://discord.gg/GFe2Tr4kh9" target="_blank">
+                <i class="fab fa-discord"></i>
             </a>
         </div>
     </div>

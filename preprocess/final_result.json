@@ -1,0 +1,3518 @@
+{
+    "Adapt": {
+        "eng": "Adapt",
+        "kor": "적응",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Adrenal Armor": {
+        "eng": "Adrenal Armor",
+        "kor": "흉갑",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Aggressive Defense": {
+        "eng": "Aggressive Defense",
+        "kor": "공격적인 수비",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "All Out": {
+        "eng": "All Out",
+        "kor": "총력전",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Amber": {
+        "eng": "Amber",
+        "kor": "호박",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Amethyst": {
+        "eng": "Amethyst",
+        "kor": "자수정",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Ancient Construct": {
+        "eng": "Ancient Construct",
+        "kor": "고대의 구조",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Ancient Factory": {
+        "eng": "Ancient Factory",
+        "kor": "고대의 공장",
+        "type": "event",
+        "char": "Automaton"
+    },
+    "Ancient Power": {
+        "eng": "Ancient Power",
+        "kor": "고대의 파워",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Aquamarine": {
+        "eng": "Aquamarine",
+        "kor": "아쿠아 마린",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Arena Preparation": {
+        "eng": "Arena Preparation",
+        "kor": "아레나 준비",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Arms Theft": {
+        "eng": "Arms Theft",
+        "kor": "소매 치기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Arrogance": {
+        "eng": "Arrogance",
+        "kor": "오만",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Ashen Strike": {
+        "eng": "Ashen Strike",
+        "kor": "잿빛 타격",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Assembly": {
+        "eng": "Assembly",
+        "kor": "어셈블리",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Astound": {
+        "eng": "Astound",
+        "kor": "경외",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Automa-Beam": {
+        "eng": "Automa-Beam",
+        "kor": "자동 광선",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Awaken": {
+        "eng": "Awaken",
+        "kor": "각성",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Baalor's Lordly Plate": {
+        "eng": "Baalor's Lordly Plate",
+        "kor": "뱔로르의 위풍당당한 갑옷",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Backstep": {
+        "eng": "Backstep",
+        "kor": "뒷걸음",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Backtrace": {
+        "eng": "Backtrace",
+        "kor": "역추적",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Backtrack Smack": {
+        "eng": "Backtrack Smack",
+        "kor": "되짚어 치기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Bad Omen": {
+        "eng": "Bad Omen",
+        "kor": "흉조",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Bag of Tricks": {
+        "eng": "Bag of Tricks",
+        "kor": "속임수 가방",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Bauble Burst": {
+        "eng": "Bauble Burst",
+        "kor": "큐빅 폭발",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Berserker Style": {
+        "eng": "Berserker Style",
+        "kor": "광폭화 태세",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Berserker's Shout": {
+        "eng": "Berserker's Shout",
+        "kor": "광폭화 함성",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Black Bindings": {
+        "eng": "Black Bindings",
+        "kor": "암흑의 구속",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Black Heart of Goo": {
+        "eng": "Black Heart of Goo",
+        "kor": "검은 끈끈이 심장",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Black Powder": {
+        "eng": "Black Powder",
+        "kor": "흑색화약",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Black Wind": {
+        "eng": "Black Wind",
+        "kor": "검은 바람",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Blockchain": {
+        "eng": "Blockchain",
+        "kor": "블록체인",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Blocked Chakra": {
+        "eng": "Blocked Chakra",
+        "kor": "막힌 혈",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Blue Slaver": {
+        "eng": "Blue Slaver",
+        "kor": "푸른 노예 상인",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Body Armor": {
+        "eng": "Body Armor",
+        "kor": "방탄복",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Body Crash": {
+        "eng": "Body Crash",
+        "kor": "몸체 충돌",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Boss Potion": {
+        "eng": "Boss Potion",
+        "kor": "보스 포션",
+        "type": "potion",
+        "char": "Misc"
+    },
+    "Bottled Black Hole": {
+        "eng": "Bottled Black Hole",
+        "kor": "병 속의 블랙홀",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Brain Drain": {
+        "eng": "Brain Drain",
+        "kor": "두뇌 흡수",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Bramblespar Kindling": {
+        "eng": "Bramblespar Kindling",
+        "kor": "가시나무서 쏘시개",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Branch": {
+        "eng": "Branch",
+        "kor": "분기",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Brawl": {
+        "eng": "Brawl",
+        "kor": "난투",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Break": {
+        "eng": "Break",
+        "kor": "일시 정지",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Bright Ritual": {
+        "eng": "Bright Ritual",
+        "kor": "눈부신 의식",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Bring It On": {
+        "eng": "Bring It On",
+        "kor": "덤벼라",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Broken Shin": {
+        "eng": "Broken Shin",
+        "kor": "정강이 까기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Bronze Armor": {
+        "eng": "Bronze Armor",
+        "kor": "청동 갑옷",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Bronze Core": {
+        "eng": "Bronze Core",
+        "kor": "청동 핵심",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Bronze Gear": {
+        "eng": "Bronze Gear",
+        "kor": "청동 톱니바퀴",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Bronze Orb": {
+        "eng": "Bronze Orb",
+        "kor": "청동 구체",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Bubble Barrier": {
+        "eng": "Bubble Barrier",
+        "kor": "거품 장벽",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Buggy Mess": {
+        "eng": "Buggy Mess",
+        "kor": "버그 덩어리",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Burly Blow": {
+        "eng": "Burly Blow",
+        "kor": "굵직한 강타",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Burning Question": {
+        "eng": "Burning Question",
+        "kor": "불타는 의문",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Burning Touch": {
+        "eng": "Burning Touch",
+        "kor": "불타는 접촉",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Cable Spool": {
+        "eng": "Cable Spool",
+        "kor": "전선 타래",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Called Shot": {
+        "eng": "Called Shot",
+        "kor": "콜드샷",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Can't Touch This": {
+        "eng": "Can't Touch This",
+        "kor": "손대지 말거라",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Catch Up": {
+        "eng": "Catch Up",
+        "kor": "따라잡기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Chain Lash": {
+        "eng": "Chain Lash",
+        "kor": "쇠사슬 채찍",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Challenge": {
+        "eng": "Challenge",
+        "kor": "도전",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Champion's Crown": {
+        "eng": "Champion's Crown",
+        "kor": "챔피언 왕관",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Charge Core": {
+        "eng": "Charge Core",
+        "kor": "코어 충전",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Charge Up": {
+        "eng": "Charge Up",
+        "kor": "충전 중",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Charged Barrage": {
+        "eng": "Charged Barrage",
+        "kor": "충전된 일제 공격",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Charred Glove": {
+        "eng": "Charred Glove",
+        "kor": "그을린 장갑",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Cheap Shot": {
+        "eng": "Cheap Shot",
+        "kor": "비열한 일격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Cheat": {
+        "eng": "Cheat",
+        "kor": "사기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Chosen": {
+        "eng": "Chosen",
+        "kor": "선택받은 자",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Circumvent": {
+        "eng": "Circumvent",
+        "kor": "우회",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Citrine": {
+        "eng": "Citrine",
+        "kor": "황수정",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Class Default": {
+        "eng": "Class Default",
+        "kor": "기본 클래스",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Clean Code": {
+        "eng": "Clean Code",
+        "kor": "깔끔한 코드",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Cleanse": {
+        "eng": "Cleanse",
+        "kor": "세척",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Clobber": {
+        "eng": "Clobber",
+        "kor": "구타",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Coffin Nail": {
+        "eng": "Coffin Nail",
+        "kor": "수명 흡수",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Combo": {
+        "eng": "Combo",
+        "kor": "연계",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Combo Tackle": {
+        "eng": "Combo Tackle",
+        "kor": "연속 태클",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Compile Package": {
+        "eng": "Compile Package",
+        "kor": "컴파일 패키지",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Condemn": {
+        "eng": "Condemn",
+        "kor": "규탄",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Conga Line": {
+        "eng": "Conga Line",
+        "kor": "콩가 자세",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Construction Form": {
+        "eng": "Construction Form",
+        "kor": "구조물의 형상",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Constructor": {
+        "eng": "Constructor",
+        "kor": "생성자",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Consult Playbook": {
+        "eng": "Consult Playbook",
+        "kor": "전술교본 참조",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Copy Paste": {
+        "eng": "Copy Paste",
+        "kor": "복사 붙여넣기",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Council of Ghosts": {
+        "eng": "Council of Ghosts",
+        "kor": "유령 의회",
+        "type": "event",
+        "char": "Hexaghost"
+    },
+    "Covet": {
+        "eng": "Covet",
+        "kor": "갈망",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Crownarang": {
+        "eng": "Crownarang",
+        "kor": "왕관 부메랑",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Cryo Chamber": {
+        "eng": "Cryo Chamber",
+        "kor": "극저온 용기",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Crystal Ray": {
+        "eng": "Crystal Ray",
+        "kor": "크리스탈 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Cultist Strike": {
+        "eng": "Cultist Strike",
+        "kor": "광신자 타격",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Curl Up": {
+        "eng": "Curl Up",
+        "kor": "웅크리기",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Cursed Wail": {
+        "eng": "Cursed Wail",
+        "kor": "저주받은 통곡",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Cursed Weapon": {
+        "eng": "Cursed Weapon",
+        "kor": "저주받은 무기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Dagger Dance": {
+        "eng": "Dagger Dance",
+        "kor": "단검의 춤",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Dancing Master": {
+        "eng": "Dancing Master",
+        "kor": "춤 전문가",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Danger Noodle": {
+        "eng": "Danger Noodle",
+        "kor": "위험한 머리",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Dark Apotheosis": {
+        "eng": "Dark Apotheosis",
+        "kor": "어둠의 정점",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Dark Lord Form": {
+        "eng": "Dark Lord Form",
+        "kor": "어둠 군주의 형상",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Darklings": {
+        "eng": "Darklings",
+        "kor": "어두미들",
+        "type": "event",
+        "char": "Slime Boss"
+    },
+    "Darkstorm": {
+        "eng": "Darkstorm",
+        "kor": "어둠의 폭풍",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Darkwillow Kindling": {
+        "eng": "Darkwillow Kindling",
+        "kor": "흑버들재 쏘시개",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Dazzle": {
+        "eng": "Dazzle",
+        "kor": "현혹",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Dead Man's Hand": {
+        "eng": "Dead Man's Hand",
+        "kor": "데드 맨즈 핸드",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Deadeye": {
+        "eng": "Deadeye",
+        "kor": "명사수",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Death Blow": {
+        "eng": "Death Blow",
+        "kor": "치명적인 강타",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Defensive Style": {
+        "eng": "Defensive Style",
+        "kor": "수비 태세",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Defensive Thesis": {
+        "eng": "Defensive Thesis",
+        "kor": "수비 논문",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Delayed Guard": {
+        "eng": "Delayed Guard",
+        "kor": "지연된 보호",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Dented Plate": {
+        "eng": "Dented Plate",
+        "kor": "찌그러진 철판",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Desperado": {
+        "eng": "Desperado",
+        "kor": "무법자",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Determination": {
+        "eng": "Determination",
+        "kor": "결의",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Dev Tools": {
+        "eng": "Dev Tools",
+        "kor": "개발자 도구",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Devastate": {
+        "eng": "Devastate",
+        "kor": "완파",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Dice Boulder": {
+        "eng": "Dice Boulder",
+        "kor": "주사위 바위",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Dice Crush": {
+        "eng": "Dice Crush",
+        "kor": "주사위 으깨기",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Digital Carnage": {
+        "eng": "Digital Carnage",
+        "kor": "디지털 대학살",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Dissolve": {
+        "eng": "Dissolve",
+        "kor": "용해",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Dive": {
+        "eng": "Dive",
+        "kor": "급하강",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Dolphin's Style Guide": {
+        "eng": "Dolphin's Style Guide",
+        "kor": "돌핀 식 안내서",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Doomsday": {
+        "eng": "Doomsday",
+        "kor": "최후의 심판",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Double Trouble": {
+        "eng": "Double Trouble",
+        "kor": "더해지는 난제",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Douse in Slime": {
+        "eng": "Douse in Slime",
+        "kor": "점액 적시기",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Dragon's Trove": {
+        "eng": "Dragon's Trove",
+        "kor": "용의 비보",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Drone Factory": {
+        "eng": "Drone Factory",
+        "kor": "무인순찰기 공장",
+        "type": "event",
+        "char": "Automaton"
+    },
+    "Duplicated Form": {
+        "eng": "Duplicated Form",
+        "kor": "복제의 형상",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Edible Armor": {
+        "eng": "Edible Armor",
+        "kor": "식용 갑옷",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Electromagnetic Coil": {
+        "eng": "Electromagnetic Coil",
+        "kor": "전자기 코일",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Emerald": {
+        "eng": "Emerald",
+        "kor": "에메랄드",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Empower": {
+        "eng": "Empower",
+        "kor": "권능",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Empowered Flame": {
+        "eng": "Empowered Flame",
+        "kor": "힘찬 불꽃",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "En Garde": {
+        "eng": "En Garde",
+        "kor": "준비 시작!",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Enchant Shield": {
+        "eng": "Enchant Shield",
+        "kor": "방패 강화",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Encircle": {
+        "eng": "Encircle",
+        "kor": "포위",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Encore": {
+        "eng": "Encore",
+        "kor": "앙코르",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Endgame": {
+        "eng": "Endgame",
+        "kor": "마지막 게임",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Endure": {
+        "eng": "Endure",
+        "kor": "감내",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Enervate": {
+        "eng": "Enervate",
+        "kor": "쇠약",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Enraged Bash": {
+        "eng": "Enraged Bash",
+        "kor": "불타는 맹공격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Enthusiasm": {
+        "eng": "Enthusiasm",
+        "kor": "열광",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Equalize": {
+        "eng": "Equalize",
+        "kor": "균일화",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Erupt": {
+        "eng": "Erupt",
+        "kor": "분출",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Eternal Form": {
+        "eng": "Eternal Form",
+        "kor": "영겁의 형상",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Exacerbate": {
+        "eng": "Exacerbate",
+        "kor": "악화",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Execute": {
+        "eng": "Execute",
+        "kor": "처형",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Exotic Form": {
+        "eng": "Exotic Form",
+        "kor": "외세의 형상",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Exploit Gems": {
+        "eng": "Exploit Gems",
+        "kor": "보석 활용",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Extra Crispy": {
+        "eng": "Extra Crispy",
+        "kor": "바싹 굽기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Eye Of The Storm": {
+        "eng": "Eye Of The Storm",
+        "kor": "태풍의 눈",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Face Slap": {
+        "eng": "Face Slap",
+        "kor": "안면 강타",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Fairy Dust": {
+        "eng": "Fairy Dust",
+        "kor": "요정 가루",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Fatal Desire": {
+        "eng": "Fatal Desire",
+        "kor": "파멸의 욕망",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Feint": {
+        "eng": "Feint",
+        "kor": "속임수",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Fiend Fire": {
+        "eng": "Fiend Fire",
+        "kor": "지옥불",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Fierce Bash": {
+        "eng": "Fierce Bash",
+        "kor": "매서운 강타",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Fifth Seal": {
+        "eng": "Fifth Seal",
+        "kor": "다섯 번째 봉인",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Final Canter": {
+        "eng": "Final Canter",
+        "kor": "최후의 위선",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Finalize": {
+        "eng": "Finalize",
+        "kor": "종결",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Fine Tuning": {
+        "eng": "Fine Tuning",
+        "kor": "미세 조정",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Finger of Death": {
+        "eng": "Finger of Death",
+        "kor": "죽음의 손짓",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Firestarter": {
+        "eng": "Firestarter",
+        "kor": "불쏘시개",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "First Seal": {
+        "eng": "First Seal",
+        "kor": "첫 번째 봉인",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Flames from Beyond": {
+        "eng": "Flames from Beyond",
+        "kor": "저편의 불꽃",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Flash Powder": {
+        "eng": "Flash Powder",
+        "kor": "섬광탄",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Fleeting Embers": {
+        "eng": "Fleeting Embers",
+        "kor": "스치는 불씨",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Flex": {
+        "eng": "Flex",
+        "kor": "몸 풀기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Flip Out": {
+        "eng": "Flip Out",
+        "kor": "자제력 상실",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Float": {
+        "eng": "Float",
+        "kor": "부유",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Floating Orbs": {
+        "eng": "Floating Orbs",
+        "kor": "부유 구체",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Floatwork": {
+        "eng": "Floatwork",
+        "kor": "떠돌기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Flurry": {
+        "eng": "Flurry",
+        "kor": "돌풍",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Flurry of Strikes": {
+        "eng": "Flurry of Strikes",
+        "kor": "타격 돌풍",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Follow Through": {
+        "eng": "Follow Through",
+        "kor": "뒤따르기",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "For Loop": {
+        "eng": "For Loop",
+        "kor": "For 루프",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Force Shield": {
+        "eng": "Force Shield",
+        "kor": "강제 방패",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Forgery": {
+        "eng": "Forgery",
+        "kor": "위조품",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Forked Flame": {
+        "eng": "Forked Flame",
+        "kor": "갈라지는 불꽃",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Format": {
+        "eng": "Format",
+        "kor": "형식",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Fortify": {
+        "eng": "Fortify",
+        "kor": "요새화",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Fragmentation Grenade": {
+        "eng": "Fragmentation Grenade",
+        "kor": "세열수류탄",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "From Beyond": {
+        "eng": "From Beyond",
+        "kor": "저 너머에서",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Fuel the Fire": {
+        "eng": "Fuel the Fire",
+        "kor": "연료 공급",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Full Release": {
+        "eng": "Full Release",
+        "kor": "정식 출시",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Fury": {
+        "eng": "Fury",
+        "kor": "격분",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Future Plans": {
+        "eng": "Future Plans",
+        "kor": "미래 계획",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gambit": {
+        "eng": "Gambit",
+        "kor": "책략",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Garnet": {
+        "eng": "Garnet",
+        "kor": "가넷",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gem Cannon": {
+        "eng": "Gem Cannon",
+        "kor": "보석 대포",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gem Finder": {
+        "eng": "Gem Finder",
+        "kor": "보석 채취",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gem Mine": {
+        "eng": "Gem Mine",
+        "kor": "보석 광산",
+        "type": "event",
+        "char": "Guardian"
+    },
+    "Gestalt": {
+        "eng": "Gestalt",
+        "kor": "게슈탈트",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Get Latest": {
+        "eng": "Get Latest",
+        "kor": "최신 정보",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Ghost Lash": {
+        "eng": "Ghost Lash",
+        "kor": "유령 채찍",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Ghost Shield": {
+        "eng": "Ghost Shield",
+        "kor": "유령 보호",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Ghostly Presence": {
+        "eng": "Ghostly Presence",
+        "kor": "유령적 존재",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Giga Beam": {
+        "eng": "Giga Beam",
+        "kor": "파멸 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gladiator Form": {
+        "eng": "Gladiator Form",
+        "kor": "검투사의 형상",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Gladiators Manual": {
+        "eng": "Gladiators Manual",
+        "kor": "검투사 안내서",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Glare": {
+        "eng": "Glare",
+        "kor": "응시",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Glitter Guard": {
+        "eng": "Glitter Guard",
+        "kor": "희미한 보호",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Glittering Gambit": {
+        "eng": "Glittering Gambit",
+        "kor": "반짝이는 도박수",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Glop Chop": {
+        "eng": "Glop Chop",
+        "kor": "질척거리는 공격",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Gluttony": {
+        "eng": "Gluttony",
+        "kor": "폭식",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Golden Bullet": {
+        "eng": "Golden Bullet",
+        "kor": "금빛 탄환",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Good Clean Fight": {
+        "eng": "Good Clean Fight",
+        "kor": "건투",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Goodbye": {
+        "eng": "Goodbye",
+        "kor": "잘 가거라",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Goop Armor": {
+        "eng": "Goop Armor",
+        "kor": "끈적이 갑옷",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Goop Dweller": {
+        "eng": "Goop Dweller",
+        "kor": "끈적이는 주민",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Goop Spray": {
+        "eng": "Goop Spray",
+        "kor": "끈적이 스프레이",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Goto": {
+        "eng": "Goto",
+        "kor": "Goto",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Greenpyre Locus": {
+        "eng": "Greenpyre Locus",
+        "kor": "머무는 녹색 불꽃",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Gremlin Arms": {
+        "eng": "Gremlin Arms",
+        "kor": "그렘린 무기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Gremlin Dance": {
+        "eng": "Gremlin Dance",
+        "kor": "그렘린의 춤",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Gremlin Gravestone": {
+        "eng": "Gremlin Gravestone",
+        "kor": "그렘린의 묘비",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Gremlin In A Jar": {
+        "eng": "Gremlin In A Jar",
+        "kor": "단지 속의 그렘린",
+        "type": "potion",
+        "char": "Gremlins"
+    },
+    "Gremlin Leader's Voucher": {
+        "eng": "Gremlin Leader's Voucher",
+        "kor": "그렘린 리더의 보증서",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Gremlin Offensive": {
+        "eng": "Gremlin Offensive",
+        "kor": "그렘린 공세",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Gremlin Toss": {
+        "eng": "Gremlin Toss",
+        "kor": "그렘린 던지기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Grim Forge": {
+        "eng": "Grim Forge",
+        "kor": "으스스한 대장간",
+        "type": "event",
+        "char": "Guardian"
+    },
+    "Grow": {
+        "eng": "Grow",
+        "kor": "성장",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Growth Punch": {
+        "eng": "Growth Punch",
+        "kor": "거세지는 주먹질",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Grudge": {
+        "eng": "Grudge",
+        "kor": "원한",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Guardian Gear": {
+        "eng": "Guardian Gear",
+        "kor": "수호자 톱니바퀴",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Guardian Whirl": {
+        "eng": "Guardian Whirl",
+        "kor": "회오리 바람",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Gut Punch": {
+        "eng": "Gut Punch",
+        "kor": "내장 파괴",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Gymnasium": {
+        "eng": "Gymnasium",
+        "kor": "연무장",
+        "type": "event",
+        "char": "Champ"
+    },
+    "Haunted Hand": {
+        "eng": "Haunted Hand",
+        "kor": "귀신들린 손",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Headbutt": {
+        "eng": "Headbutt",
+        "kor": "박치기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Headshot": {
+        "eng": "Headshot",
+        "kor": "헤드샷",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Heart of Goo": {
+        "eng": "Heart of Goo",
+        "kor": "끈끈이 심장",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Heat Crush": {
+        "eng": "Heat Crush",
+        "kor": "열기 충돌",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Heat Metal": {
+        "eng": "Heat Metal",
+        "kor": "열기 금속",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Heat Shield": {
+        "eng": "Heat Shield",
+        "kor": "열기 방패",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Heat Wave": {
+        "eng": "Heat Wave",
+        "kor": "열 파동",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Heckle": {
+        "eng": "Heckle",
+        "kor": "야유",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Here and Now": {
+        "eng": "Here and Now",
+        "kor": "지금 당장",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Heroic Bravado": {
+        "eng": "Heroic Bravado",
+        "kor": "영웅적 객기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Hexaburn": {
+        "eng": "Hexaburn",
+        "kor": "지옥염",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Hexaguard": {
+        "eng": "Hexaguard",
+        "kor": "지옥 방어",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "High Noon": {
+        "eng": "High Noon",
+        "kor": "정오",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "High-Caliber": {
+        "eng": "High-Caliber",
+        "kor": "대구경",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Hoard": {
+        "eng": "Hoard",
+        "kor": "저축",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Hoarder's Strike": {
+        "eng": "Hoarder's Strike",
+        "kor": "저축가의 타격",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Hold Firm": {
+        "eng": "Hold Firm",
+        "kor": "버티기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Hole Up": {
+        "eng": "Hole Up",
+        "kor": "매복",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Horror": {
+        "eng": "Horror",
+        "kor": "참상",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "HYPER BEAM": {
+        "eng": "HYPER BEAM",
+        "kor": "파괴 광선",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Ignore Pain": {
+        "eng": "Ignore Pain",
+        "kor": "고통 감내",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Incorporeal": {
+        "eng": "Incorporeal",
+        "kor": "무체",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Infernal Form": {
+        "eng": "Infernal Form",
+        "kor": "지옥의 형상",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Infinite Beams": {
+        "eng": "Infinite Beams",
+        "kor": "무한 광선",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Infinite Blocks": {
+        "eng": "Infinite Blocks",
+        "kor": "무한의 방어",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Infinite Loop": {
+        "eng": "Infinite Loop",
+        "kor": "무한 반복",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Inflict Agony": {
+        "eng": "Inflict Agony",
+        "kor": "고통의 형벌",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Instant Inferno": {
+        "eng": "Instant Inferno",
+        "kor": "즉발 지옥불",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Invalidate": {
+        "eng": "Invalidate",
+        "kor": "무효화",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Invincible": {
+        "eng": "Invincible",
+        "kor": "천하무적",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Irksome Blow": {
+        "eng": "Irksome Blow",
+        "kor": "짜증나는 강타",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Iron Fang": {
+        "eng": "Iron Fang",
+        "kor": "강철 송곳니",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Iron Fortress": {
+        "eng": "Iron Fortress",
+        "kor": "철의 요새",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Irritability": {
+        "eng": "Irritability",
+        "kor": "조급함",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "It Matters Not": {
+        "eng": "It Matters Not",
+        "kor": "가소롭구나",
+        "type": "card",
+        "char": "Collector"
+    },
+    "It's a Feature": {
+        "eng": "It's a Feature",
+        "kor": "특징",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Itchy Trigger": {
+        "eng": "Itchy Trigger",
+        "kor": "자제 불가",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Iterate": {
+        "eng": "Iterate",
+        "kor": "처리 반복",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Jaded Jabs": {
+        "eng": "Jaded Jabs",
+        "kor": "거절의 찌르기",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Jar of TOBSCo": {
+        "eng": "Jar of TOBSCo",
+        "kor": "탑스코 병",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Jeremiah's Banner": {
+        "eng": "Jeremiah's Banner",
+        "kor": "예레미아의 현수막",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Kindle": {
+        "eng": "Kindle",
+        "kor": "불붙이기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Krampian Coal": {
+        "eng": "Krampian Coal",
+        "kor": "크람피언 석탄",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Lagavulin": {
+        "eng": "Lagavulin",
+        "kor": "라가불린",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Lantern Flare": {
+        "eng": "Lantern Flare",
+        "kor": "등불",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Laser Turret": {
+        "eng": "Laser Turret",
+        "kor": "광선 포탑",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Last Stand": {
+        "eng": "Last Stand",
+        "kor": "최후의 저항",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Leeching Strike": {
+        "eng": "Leeching Strike",
+        "kor": "흡수의 타격",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Library": {
+        "eng": "Library",
+        "kor": "도서관",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Liquid Void": {
+        "eng": "Liquid Void",
+        "kor": "액체 공허",
+        "type": "potion",
+        "char": "Hermit"
+    },
+    "Liquidate": {
+        "eng": "Liquidate",
+        "kor": "청산",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Living Bomb": {
+        "eng": "Living Bomb",
+        "kor": "살아있는 폭탄",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Loaded Die": {
+        "eng": "Loaded Die",
+        "kor": "사기꾼 주사위",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Louse": {
+        "eng": "Louse",
+        "kor": "공벌레",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Low Profile": {
+        "eng": "Low Profile",
+        "kor": "저자세",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Luck of the Draw": {
+        "eng": "Luck of the Draw",
+        "kor": "행운의 뽑기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Lucky Horseshoe": {
+        "eng": "Lucky Horseshoe",
+        "kor": "행운의 편자",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Magic Mallet": {
+        "eng": "Magic Mallet",
+        "kor": "마법 망치",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Magnum": {
+        "eng": "Magnum",
+        "kor": "매그넘",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Maintenance": {
+        "eng": "Maintenance",
+        "kor": "유지보수",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Malice": {
+        "eng": "Malice",
+        "kor": "악의",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Mallet": {
+        "eng": "Mallet",
+        "kor": "망치",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Manifest": {
+        "eng": "Manifest",
+        "kor": "현현",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Mark of the Ether": {
+        "eng": "Mark of the Ether",
+        "kor": "에테르 낙인",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Mass Feed": {
+        "eng": "Mass Feed",
+        "kor": "대량 섭취",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Mass Repurpose": {
+        "eng": "Mass Repurpose",
+        "kor": "대량 재설계",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Master Eye": {
+        "eng": "Master Eye",
+        "kor": "달인의 눈",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Masterful Slash": {
+        "eng": "Masterful Slash",
+        "kor": "숙달된 베기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Memorize": {
+        "eng": "Memorize",
+        "kor": "기억",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Merge Conflict": {
+        "eng": "Merge Conflict",
+        "kor": "충돌 병합",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Midnight": {
+        "eng": "Midnight",
+        "kor": "자정",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Minion Master": {
+        "eng": "Minion Master",
+        "kor": "졸개 대장",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Misdirect": {
+        "eng": "Misdirect",
+        "kor": "방향 상실",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Misfire": {
+        "eng": "Misfire",
+        "kor": "오발",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Mix It Up!": {
+        "eng": "Mix It Up!",
+        "kor": "섞어섞어!",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Mob Leader's Crown": {
+        "eng": "Mob Leader's Crown",
+        "kor": "군단의 지도자 왕관",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Mob Leader's Staff": {
+        "eng": "Mob Leader's Staff",
+        "kor": "군단의 지도자 막대기",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Moment of Truth": {
+        "eng": "Moment of Truth",
+        "kor": "최후의 순간",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Multi-Beam": {
+        "eng": "Multi-Beam",
+        "kor": "다중 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Murder Strike": {
+        "eng": "Murder Strike",
+        "kor": "죽이는 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Mushroom": {
+        "eng": "Mushroom",
+        "kor": "버섯",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Mutator": {
+        "eng": "Mutator",
+        "kor": "돌연변이",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Mystical Octahedron": {
+        "eng": "Mystical Octahedron",
+        "kor": "신비한 8면체",
+        "type": "event",
+        "char": "Snecko"
+    },
+    "Naughty Spirit": {
+        "eng": "Naughty Spirit",
+        "kor": "악랄한 영",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Necromancy": {
+        "eng": "Necromancy",
+        "kor": "주술",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Nemesis": {
+        "eng": "Nemesis",
+        "kor": "네메시스",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Nightmare Guise": {
+        "eng": "Nightmare Guise",
+        "kor": "악몽 가장",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Nightmare Strike": {
+        "eng": "Nightmare Strike",
+        "kor": "악몽 타격",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Nightmare Vision": {
+        "eng": "Nightmare Vision",
+        "kor": "악몽의 환영",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "No Holds Barred": {
+        "eng": "No Holds Barred",
+        "kor": "이판사판",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "NOB": {
+        "eng": "NOB",
+        "kor": "귀족",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Nope": {
+        "eng": "Nope",
+        "kor": "안돼",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Null Pointer": {
+        "eng": "Null Pointer",
+        "kor": "공백 포인터",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Oil Spill": {
+        "eng": "Oil Spill",
+        "kor": "기름 유출",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Olexa's Shield": {
+        "eng": "Olexa's Shield",
+        "kor": "올렉사의 방패",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Omen": {
+        "eng": "Omen",
+        "kor": "징조",
+        "type": "card",
+        "char": "Collector"
+    },
+    "One-Two Combo": {
+        "eng": "One-Two Combo",
+        "kor": "하나둘 얍",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Onyx": {
+        "eng": "Onyx",
+        "kor": "오닉스",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Ooze Bath": {
+        "eng": "Ooze Bath",
+        "kor": "점액 목욕",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Overexert": {
+        "eng": "Overexert",
+        "kor": "과로",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Overheat": {
+        "eng": "Overheat",
+        "kor": "과열",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Overload": {
+        "eng": "Overload",
+        "kor": "과적",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Overwhelming Power": {
+        "eng": "Overwhelming Power",
+        "kor": "압도적인 힘",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Party Stick": {
+        "eng": "Party Stick",
+        "kor": "선봉 막대",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Perfecter Strike": {
+        "eng": "Perfecter Strike",
+        "kor": "완벽해진 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Pet Ghost": {
+        "eng": "Pet Ghost",
+        "kor": "꼬마 유령",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Phantom Fireball": {
+        "eng": "Phantom Fireball",
+        "kor": "혼령의 불덩이",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Philosophize": {
+        "eng": "Philosophize",
+        "kor": "철학",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Pick of Rhapsody": {
+        "eng": "Pick of Rhapsody",
+        "kor": "광시곡의 곡괭이",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Pickpocket": {
+        "eng": "Pickpocket",
+        "kor": "슬쩍하기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Piercing Hide": {
+        "eng": "Piercing Hide",
+        "kor": "가시 외골격",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Pile On!": {
+        "eng": "Pile On!",
+        "kor": "모두 공격!",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Piledriver": {
+        "eng": "Piledriver",
+        "kor": "맹타",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Pilot's Codex": {
+        "eng": "Pilot's Codex",
+        "kor": "조종사의 고문서",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Pin Needle": {
+        "eng": "Pin Needle",
+        "kor": "바늘 핀",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Pinprick": {
+        "eng": "Pinprick",
+        "kor": "성가신 구멍",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Pistol Whip": {
+        "eng": "Pistol Whip",
+        "kor": "권총패기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Planning": {
+        "eng": "Planning",
+        "kor": "계획",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Platinum Core": {
+        "eng": "Platinum Core",
+        "kor": "백금 핵심",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Polish": {
+        "eng": "Polish",
+        "kor": "광택제",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Poltergeist": {
+        "eng": "Poltergeist",
+        "kor": "폴터가이스트",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Poly Beam": {
+        "eng": "Poly Beam",
+        "kor": "다연발 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Pour Salt": {
+        "eng": "Pour Salt",
+        "kor": "소금 치기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Power from Beyond": {
+        "eng": "Power from Beyond",
+        "kor": "저편의 힘",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Precise Thrust": {
+        "eng": "Precise Thrust",
+        "kor": "정확한 찌르기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Preemptive Strike": {
+        "eng": "Preemptive Strike",
+        "kor": "우선 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Premonition": {
+        "eng": "Premonition",
+        "kor": "불길한 예감",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Prepare": {
+        "eng": "Prepare",
+        "kor": "준비 동작",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Prepare Crush": {
+        "eng": "Prepare Crush",
+        "kor": "으깨기 준비",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Preprogram": {
+        "eng": "Preprogram",
+        "kor": "사전 구성",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Press the Attack": {
+        "eng": "Press the Attack",
+        "kor": "계속 공격해",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Pretaliation": {
+        "eng": "Pretaliation",
+        "kor": "선제 공격",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Priming Shot": {
+        "eng": "Priming Shot",
+        "kor": "기폭제",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Prismatic Barrier": {
+        "eng": "Prismatic Barrier",
+        "kor": "프리즘 장벽",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Prismatic Spray": {
+        "eng": "Prismatic Spray",
+        "kor": "프리즘 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Prismatic Torch": {
+        "eng": "Prismatic Torch",
+        "kor": "프리즘 횃불",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Protecting Call": {
+        "eng": "Protecting Call",
+        "kor": "수호의 부름",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Protective Gear": {
+        "eng": "Protective Gear",
+        "kor": "보호구",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Pyromancy": {
+        "eng": "Pyromancy",
+        "kor": "불점",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Quantum Chamber": {
+        "eng": "Quantum Chamber",
+        "kor": "양자 알",
+        "type": "event",
+        "char": "Guardian"
+    },
+    "Quantum Elixir": {
+        "eng": "Quantum Elixir",
+        "kor": "양자 엘릭서",
+        "type": "potion",
+        "char": "Guardian"
+    },
+    "Quickdraw": {
+        "eng": "Quickdraw",
+        "kor": "빠른 대응",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Rage Break": {
+        "eng": "Rage Break",
+        "kor": "고장난 분노",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Raid": {
+        "eng": "Raid",
+        "kor": "습격",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Rain of Dice": {
+        "eng": "Rain of Dice",
+        "kor": "주사위 비",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Rain of Embers": {
+        "eng": "Rain of Embers",
+        "kor": "불씨의 비",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Rain of Goop": {
+        "eng": "Rain of Goop",
+        "kor": "끈적이 비",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Rapid Strikes": {
+        "eng": "Rapid Strikes",
+        "kor": "재빠른 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Rare Booster Box": {
+        "eng": "Rare Booster Box",
+        "kor": "희귀 카드 상자",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Receive Tribute": {
+        "eng": "Receive Tribute",
+        "kor": "공물 징수",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Reckless Strike": {
+        "eng": "Reckless Strike",
+        "kor": "무모한 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Recklessness": {
+        "eng": "Recklessness",
+        "kor": "무모함",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Recollect": {
+        "eng": "Recollect",
+        "kor": "회상",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Recover": {
+        "eng": "Recover",
+        "kor": "복구",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Recursive Strike": {
+        "eng": "Recursive Strike",
+        "kor": "반복 타격",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Recycling": {
+        "eng": "Recycling",
+        "kor": "재수거",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Red Scarf": {
+        "eng": "Red Scarf",
+        "kor": "붉은 스카프",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Refactor": {
+        "eng": "Refactor",
+        "kor": "리팩터",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Reformation": {
+        "eng": "Reformation",
+        "kor": "재형성",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Refracted Beam": {
+        "eng": "Refracted Beam",
+        "kor": "굴절 광선",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Repair": {
+        "eng": "Repair",
+        "kor": "수리",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Replication": {
+        "eng": "Replication",
+        "kor": "자기복제",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Reprieve": {
+        "eng": "Reprieve",
+        "kor": "집행유예",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Reptomancer": {
+        "eng": "Reptomancer",
+        "kor": "파충류 주술사",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Repulsor": {
+        "eng": "Repulsor",
+        "kor": "격퇴",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Repurpose": {
+        "eng": "Repurpose",
+        "kor": "재설계",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Reroute": {
+        "eng": "Reroute",
+        "kor": "재편성",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Resilient Plate": {
+        "eng": "Resilient Plate",
+        "kor": "탄력적인 갑옷",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Return": {
+        "eng": "Return",
+        "kor": "복귀",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Ricochet": {
+        "eng": "Ricochet",
+        "kor": "도탄",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Ring of the Snek": {
+        "eng": "Ring of the Snek",
+        "kor": "스네코 반지",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Roast": {
+        "eng": "Roast",
+        "kor": "굽기",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Robo-Chop": {
+        "eng": "Robo-Chop",
+        "kor": "산업용 기계",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Roll Attack": {
+        "eng": "Roll Attack",
+        "kor": "구르기 공격",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Roll Through": {
+        "eng": "Roll Through",
+        "kor": "구르기",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Rope-a-dope": {
+        "eng": "Rope-a-dope",
+        "kor": "손 풀기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Rotation": {
+        "eng": "Rotation",
+        "kor": "순환",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Roughhouse": {
+        "eng": "Roughhouse",
+        "kor": "난장판",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Roulette": {
+        "eng": "Roulette",
+        "kor": "룰렛",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Roundhouse Kick": {
+        "eng": "Roundhouse Kick",
+        "kor": "돌려차기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Ruby": {
+        "eng": "Ruby",
+        "kor": "루비",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Rye Stalk": {
+        "eng": "Rye Stalk",
+        "kor": "호밀 줄기",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Sack of Gems": {
+        "eng": "Sack of Gems",
+        "kor": "보석 자루",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Safeguard": {
+        "eng": "Safeguard",
+        "kor": "안전보호",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Sampling Lick": {
+        "eng": "Sampling Lick",
+        "kor": "맛보며 핥기",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Sapphire": {
+        "eng": "Sapphire",
+        "kor": "사파이어",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Scatter!": {
+        "eng": "Scatter!",
+        "kor": "튀어어!",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Scavenge": {
+        "eng": "Scavenge",
+        "kor": "청소부",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Schlurp": {
+        "eng": "Schlurp",
+        "kor": "핥짝",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Scorching Ray": {
+        "eng": "Scorching Ray",
+        "kor": "맹렬한 광선",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Seal Chamber": {
+        "eng": "Seal Chamber",
+        "kor": "봉인된 제단",
+        "type": "event",
+        "char": "Hexaghost"
+    },
+    "Seal of Approval": {
+        "eng": "Seal of Approval",
+        "kor": "승인 봉인",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Sear": {
+        "eng": "Sear",
+        "kor": "그을음",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Searing Wound": {
+        "eng": "Searing Wound",
+        "kor": "화끈거리는 상처",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Second Seal": {
+        "eng": "Second Seal",
+        "kor": "두 번째 봉인",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Seed of Doubt": {
+        "eng": "Seed of Doubt",
+        "kor": "의심의 씨앗",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Sentient Form": {
+        "eng": "Sentient Form",
+        "kor": "지각력의 형상",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Sentry": {
+        "eng": "Sentry",
+        "kor": "보초기",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Sentry Blast": {
+        "eng": "Sentry Blast",
+        "kor": "보초기 폭발",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Separator": {
+        "eng": "Separator",
+        "kor": "분리기",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Serve & Protect": {
+        "eng": "Serve & Protect",
+        "kor": "넣기 & 보호",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Set A Trap": {
+        "eng": "Set A Trap",
+        "kor": "함정 설치",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Seventh Eye": {
+        "eng": "Seventh Eye",
+        "kor": "일곱 번째 눈",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Sever Soul": {
+        "eng": "Sever Soul",
+        "kor": "영혼 절단",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Shadow Cloak": {
+        "eng": "Shadow Cloak",
+        "kor": "그림자 망토",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Shadow Daggers": {
+        "eng": "Shadow Daggers",
+        "kor": "그림자 단검",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Shadow Shiv": {
+        "eng": "Shadow Shiv",
+        "kor": "그림자 단도",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Shank Stone": {
+        "eng": "Shank Stone",
+        "kor": "자루석",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Shape of Puddle": {
+        "eng": "Shape of Puddle",
+        "kor": "웅덩이의 형태",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Shaper's Blessing": {
+        "eng": "Shaper's Blessing",
+        "kor": "모양기의 축복",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Sharpen Blades": {
+        "eng": "Sharpen Blades",
+        "kor": "날카로운 검",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Shatter": {
+        "eng": "Shatter",
+        "kor": "산산조각",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Shelled Parasite": {
+        "eng": "Shelled Parasite",
+        "kor": "갑각 기생충",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Shield Charger": {
+        "eng": "Shield Charger",
+        "kor": "보호막 충전기",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Shield Gremlin": {
+        "eng": "Shield Gremlin",
+        "kor": "방패 그렘린",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Shield of Night": {
+        "eng": "Shield of Night",
+        "kor": "밤의 방패",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Shield Spikes": {
+        "eng": "Shield Spikes",
+        "kor": "가시 방패",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Shield Throw": {
+        "eng": "Shield Throw",
+        "kor": "방패 투척",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Shift": {
+        "eng": "Shift",
+        "kor": "변화무쌍",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Ship It": {
+        "eng": "Ship It",
+        "kor": "출하",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Shooting Star": {
+        "eng": "Shooting Star",
+        "kor": "유성",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Short Fuse": {
+        "eng": "Short Fuse",
+        "kor": "급발진",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Shotglass": {
+        "eng": "Shotglass",
+        "kor": "샷잔",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Show of Hands": {
+        "eng": "Show of Hands",
+        "kor": "거수",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Show Stopper": {
+        "eng": "Show Stopper",
+        "kor": "명연기",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Showdown": {
+        "eng": "Showdown",
+        "kor": "결착",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Sigil of Victory": {
+        "eng": "Sigil of Victory",
+        "kor": "승리의 인장",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Signature Finisher": {
+        "eng": "Signature Finisher",
+        "kor": "대표 마무리 기술",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Silver Bullet": {
+        "eng": "Silver Bullet",
+        "kor": "은 탄환",
+        "type": "relic",
+        "char": "Automaton"
+    },
+    "Sixth Seal": {
+        "eng": "Sixth Seal",
+        "kor": "여섯 번째 봉인",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Sleeved Ace": {
+        "eng": "Sleeved Ace",
+        "kor": "소매 속 에이스",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Slimed Tail": {
+        "eng": "Slimed Tail",
+        "kor": "슬라임 꼬리",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Slimy Skull": {
+        "eng": "Slimy Skull",
+        "kor": "점액 투성이 해골",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Slither Strike": {
+        "eng": "Slither Strike",
+        "kor": "미끄럼 타격",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Smoking Barrel": {
+        "eng": "Smoking Barrel",
+        "kor": "달궈진 총구",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Snake Rake": {
+        "eng": "Snake Rake",
+        "kor": "뱀 갈퀴",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Snake Sap": {
+        "eng": "Snake Sap",
+        "kor": "뱀 수액",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Snake-Charmer's Flute": {
+        "eng": "Snake-Charmer's Flute",
+        "kor": "뱀 피리",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Snapshot": {
+        "eng": "Snapshot",
+        "kor": "스냅샷",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Sneaky Teakwood Match": {
+        "eng": "Sneaky Teakwood Match",
+        "kor": "교활하고 단단한 성냥깨비",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Snecko": {
+        "eng": "Snecko",
+        "kor": "스네코",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Snecko Soul": {
+        "eng": "Snecko Soul",
+        "kor": "스네코의 영혼",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Snek Bite": {
+        "eng": "Snek Bite",
+        "kor": "스네코 물기",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Snipe": {
+        "eng": "Snipe",
+        "kor": "저격",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Somber Shield": {
+        "eng": "Somber Shield",
+        "kor": "거무스름한 방패",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Soul Cleanse": {
+        "eng": "Soul Cleanse",
+        "kor": "영혼의 정화",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Soul Exchange": {
+        "eng": "Soul Exchange",
+        "kor": "영혼의 교환",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Soul of Chaos": {
+        "eng": "Soul of Chaos",
+        "kor": "혼돈의 영혼",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Soul Roll": {
+        "eng": "Soul Roll",
+        "kor": "영혼의 도박",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Soul Stone": {
+        "eng": "Soul Stone",
+        "kor": "영혼석",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Soul-lit Lamp": {
+        "eng": "Soul-lit Lamp",
+        "kor": "영혼빛 등불",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Soulforge": {
+        "eng": "Soulforge",
+        "kor": "영혼 구축",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Spaghetti Code": {
+        "eng": "Spaghetti Code",
+        "kor": "스파게티 코드",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Spear Tackle": {
+        "eng": "Spear Tackle",
+        "kor": "허를 찌르는 태클",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Specter's Wail": {
+        "eng": "Specter's Wail",
+        "kor": "망령의 통곡",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Spectre's Hand": {
+        "eng": "Spectre's Hand",
+        "kor": "불안한 귀신의 손",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Speed Boost": {
+        "eng": "Speed Boost",
+        "kor": "속력 가속",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Spheric Shield": {
+        "eng": "Spheric Shield",
+        "kor": "구체 방어",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Spiker Protocol": {
+        "eng": "Spiker Protocol",
+        "kor": "가시 돋친 규약",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Spirit Brand": {
+        "eng": "Spirit Brand",
+        "kor": "영혼 낙인",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "Spite": {
+        "eng": "Spite",
+        "kor": "앙심",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Split": {
+        "eng": "Split",
+        "kor": "분열",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Spray n' Pray": {
+        "eng": "Spray n' Pray",
+        "kor": "마구 쏘기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Spreading Slime": {
+        "eng": "Spreading Slime",
+        "kor": "점액 흩뿌리기",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Spyglass": {
+        "eng": "Spyglass",
+        "kor": "소형 망원경",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Stance Dance": {
+        "eng": "Stance Dance",
+        "kor": "춤 자세",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Stasis Engine": {
+        "eng": "Stasis Engine",
+        "kor": "정지장 엔진",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Stasis Field": {
+        "eng": "Stasis Field",
+        "kor": "정지장 방어막",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Stasis Strike": {
+        "eng": "Stasis Strike",
+        "kor": "정지장 타격",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Steel Edge": {
+        "eng": "Steel Edge",
+        "kor": "강철 칼날",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Step Through": {
+        "eng": "Step Through",
+        "kor": "단계 밟기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Sticky Shield": {
+        "eng": "Sticky Shield",
+        "kor": "끈적이 방패",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Stoke the Fire": {
+        "eng": "Stoke the Fire",
+        "kor": "불 지피기",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Stolen Merchandise": {
+        "eng": "Stolen Merchandise",
+        "kor": "훔친 상품",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Stone of Nomakk": {
+        "eng": "Stone of Nomakk",
+        "kor": "노막의 돌",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Straight Razor": {
+        "eng": "Straight Razor",
+        "kor": "올곧은 면도날",
+        "type": "relic",
+        "char": "Hermit"
+    },
+    "Strike for Strike": {
+        "eng": "Strike for Strike",
+        "kor": "연쇄 타격",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Strike of Genius": {
+        "eng": "Strike of Genius",
+        "kor": "천재적인 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Study the Spire": {
+        "eng": "Study the Spire",
+        "kor": "첨탑 학습",
+        "type": "card",
+        "char": "Boss"
+    },
+    "Sucker Punch": {
+        "eng": "Sucker Punch",
+        "kor": "불의의 일격",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Suffering": {
+        "eng": "Suffering",
+        "kor": "고통 나누기",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Summon Orb": {
+        "eng": "Summon Orb",
+        "kor": "구체 소환",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Sunbloom Kindling": {
+        "eng": "Sunbloom Kindling",
+        "kor": "햇살꽃 쏘시개",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Super Snecko Soul": {
+        "eng": "Super Snecko Soul",
+        "kor": "강력한 스네코의 영혼",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Suspension": {
+        "eng": "Suspension",
+        "kor": "완충장치",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Sword of Night": {
+        "eng": "Sword of Night",
+        "kor": "밤의 검",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Sword Throw": {
+        "eng": "Sword Throw",
+        "kor": "검 투척",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Tackle": {
+        "eng": "Tackle",
+        "kor": "태클",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Tail Whip": {
+        "eng": "Tail Whip",
+        "kor": "꼬리 채찍",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Take Aim": {
+        "eng": "Take Aim",
+        "kor": "겨냥",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Take Cover": {
+        "eng": "Take Cover",
+        "kor": "엄폐",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Tarr Blob": {
+        "eng": "Tarr Blob",
+        "kor": "타르 방울",
+        "type": "relic",
+        "char": "Slime Boss"
+    },
+    "Taskmaster": {
+        "eng": "Taskmaster",
+        "kor": "노예 관리자",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Taunt": {
+        "eng": "Taunt",
+        "kor": "도발",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Teamwork": {
+        "eng": "Teamwork",
+        "kor": "협동 정신",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Technical Jig": {
+        "eng": "Technical Jig",
+        "kor": "현란한 꺾기",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Temporal Shield": {
+        "eng": "Temporal Shield",
+        "kor": "시간차 방패",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Temporal Strike": {
+        "eng": "Temporal Strike",
+        "kor": "시간차 타격",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Terminator": {
+        "eng": "Terminator",
+        "kor": "종료 프로그램",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "The Contract": {
+        "eng": "The Contract",
+        "kor": "계약서",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "The Evil Within": {
+        "eng": "The Evil Within",
+        "kor": "내면의 악",
+        "type": "card",
+        "char": "Boss"
+    },
+    "The Maw": {
+        "eng": "The Maw",
+        "kor": "아귀",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Thimble Helm": {
+        "eng": "Thimble Helm",
+        "kor": "제어 깍지",
+        "type": "relic",
+        "char": "Collector"
+    },
+    "Third Seal": {
+        "eng": "Third Seal",
+        "kor": "세 번째 봉인",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Thorn Whip": {
+        "eng": "Thorn Whip",
+        "kor": "가시 채찍",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Tick": {
+        "eng": "Tick",
+        "kor": "째",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Time Bomb": {
+        "eng": "Time Bomb",
+        "kor": "시한폭탄",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Time Capacitor": {
+        "eng": "Time Capacitor",
+        "kor": "시간 축전기",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Time of Need": {
+        "eng": "Time of Need",
+        "kor": "필요의 때",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Time Sifter": {
+        "eng": "Time Sifter",
+        "kor": "시간 선별기",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Time Warp": {
+        "eng": "Time Warp",
+        "kor": "시간 왜곡",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Tiny Bowler Hat": {
+        "eng": "Tiny Bowler Hat",
+        "kor": "작은 중절모",
+        "type": "relic",
+        "char": "Misc"
+    },
+    "Toe Stub": {
+        "eng": "Toe Stub",
+        "kor": "삐끗",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Tome of Technique": {
+        "eng": "Tome of Technique",
+        "kor": "기술의 고서",
+        "type": "event",
+        "char": "Champ"
+    },
+    "Tongue Lash": {
+        "eng": "Tongue Lash",
+        "kor": "혓바닥 채찍",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Tonic": {
+        "eng": "Tonic",
+        "kor": "토닉",
+        "type": "potion",
+        "char": "Hermit"
+    },
+    "Torch Head": {
+        "eng": "Torch Head",
+        "kor": "횃불 머리",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Torchbearer": {
+        "eng": "Torchbearer",
+        "kor": "횃불 봉송자",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Tornado Punch": {
+        "eng": "Tornado Punch",
+        "kor": "회오리 주먹",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Tourmaline": {
+        "eng": "Tourmaline",
+        "kor": "토르말린",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Transient": {
+        "eng": "Transient",
+        "kor": "과도자",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Transmogrify": {
+        "eng": "Transmogrify",
+        "kor": "탈바꿈",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Trash to Treasure": {
+        "eng": "Trash to Treasure",
+        "kor": "쓰레기 재활용",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Tricksy": {
+        "eng": "Tricksy",
+        "kor": "잔머리",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Triple Strike": {
+        "eng": "Triple Strike",
+        "kor": "삼중 타격",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Turbo": {
+        "eng": "Turbo",
+        "kor": "터보",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Turn It Up": {
+        "eng": "Turn It Up",
+        "kor": "때의 도래",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Twin Slam": {
+        "eng": "Twin Slam",
+        "kor": "두 번 강타",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Ultimate Stance": {
+        "eng": "Ultimate Stance",
+        "kor": "궁극의 자세",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Undervolt": {
+        "eng": "Undervolt",
+        "kor": "저전압",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Unending Supply": {
+        "eng": "Unending Supply",
+        "kor": "영원한 공급",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Unforgiving": {
+        "eng": "Unforgiving",
+        "kor": "지독함",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Unidentified Egg": {
+        "eng": "Unidentified Egg",
+        "kor": "Unknown 알",
+        "type": "relic",
+        "char": "Snecko"
+    },
+    "Unleash Spirits": {
+        "eng": "Unleash Spirits",
+        "kor": "퍼져나가는 영",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Unlimited Power": {
+        "eng": "Unlimited Power",
+        "kor": "무한의 힘",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Vantage": {
+        "eng": "Vantage",
+        "kor": "위치 선점",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Vent Steam": {
+        "eng": "Vent Steam",
+        "kor": "증기 분출",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Vicious Mockery": {
+        "eng": "Vicious Mockery",
+        "kor": "악랄한 조롱",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Vicious Tackle": {
+        "eng": "Vicious Tackle",
+        "kor": "난폭한 태클",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Victorious Crown": {
+        "eng": "Victorious Crown",
+        "kor": "승리의 왕관",
+        "type": "relic",
+        "char": "Champ"
+    },
+    "Virtue": {
+        "eng": "Virtue",
+        "kor": "선행",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Virus": {
+        "eng": "Virus",
+        "kor": "바이러스",
+        "type": "card",
+        "char": "Automaton"
+    },
+    "Volcano Visage": {
+        "eng": "Volcano Visage",
+        "kor": "화산의 얼굴",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Walker Claw": {
+        "eng": "Walker Claw",
+        "kor": "순찰기 할퀴기",
+        "type": "card",
+        "char": "Guardian"
+    },
+    "Wander Bots": {
+        "eng": "Wander Bots",
+        "kor": "헤메는 로봇",
+        "type": "relic",
+        "char": "Guardian"
+    },
+    "Waste Not": {
+        "eng": "Waste Not",
+        "kor": "남기면 안돼",
+        "type": "card",
+        "char": "Slime Boss"
+    },
+    "Whirling Flame": {
+        "eng": "Whirling Flame",
+        "kor": "회오리 불",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Whiz": {
+        "eng": "Whiz",
+        "kor": "마아법",
+        "type": "card",
+        "char": "Gremlins"
+    },
+    "Whomp": {
+        "eng": "Whomp",
+        "kor": "짝",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Wide Open": {
+        "eng": "Wide Open",
+        "kor": "빈틈 노리기",
+        "type": "card",
+        "char": "Hermit"
+    },
+    "Wide Sting": {
+        "eng": "Wide Sting",
+        "kor": "광역 찌르기",
+        "type": "card",
+        "char": "Snecko"
+    },
+    "Wildfire": {
+        "eng": "Wildfire",
+        "kor": "들불",
+        "type": "card",
+        "char": "Collector"
+    },
+    "Wind Up": {
+        "eng": "Wind Up",
+        "kor": "뒤처리",
+        "type": "card",
+        "char": "Champ"
+    },
+    "Wizard Staff": {
+        "eng": "Wizard Staff",
+        "kor": "마법사 지팡이",
+        "type": "relic",
+        "char": "Gremlins"
+    },
+    "Worthy Sacrifice": {
+        "eng": "Worthy Sacrifice",
+        "kor": "대가 지불",
+        "type": "card",
+        "char": "Hexaghost"
+    },
+    "Writhing Mass": {
+        "eng": "Writhing Mass",
+        "kor": "꿈틀대는 덩어리",
+        "type": "card",
+        "char": "Collectible"
+    },
+    "Xanatos' Icy Charm": {
+        "eng": "Xanatos' Icy Charm",
+        "kor": "자나토스의 얼음 부적",
+        "type": "relic",
+        "char": "Hexaghost"
+    },
+    "YOU ARE MINE!": {
+        "eng": "YOU ARE MINE!",
+        "kor": "넌 나의 것이다!",
+        "type": "card",
+        "char": "Boss"
+    },
+    "You Are Mine!": {
+        "eng": "You Are Mine!",
+        "kor": "넌 나의 것이다!",
+        "type": "card",
+        "char": "Collector"
+    }
+}

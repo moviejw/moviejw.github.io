@@ -41,6 +41,18 @@
         .card-info {
             margin-top: 20px;
         }
+
+        .note {
+            margin-top: 30px;
+            font-size: 14px;
+            color: gray;
+        }
+
+        .discord-icon {
+            width: 30px;
+            height: 30px;
+            margin-left: 10px;
+        }
     </style>
     <script>
         function goToMain() {
@@ -225,6 +237,12 @@
         <h1>다운폴 일일토론</h1>
         <input type="text" id="search-input" placeholder="카드명을 정확히 입력하세요" onkeypress="handleKeyPress(event)">
         <button onclick="handleSearch()">검색</button>
+        <div class="note">
+            <p>유의사항: 본 페이지는 "다운폴" 카드에 대한 정보와 토론을 제공합니다. 카드 검색 시 정확한 이름을 입력하세요.</p>
+            <a href="https://discord.gg/your-discord-link" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Discord_logo.svg" alt="Discord" class="discord-icon">
+            </a>
+        </div>
     </div>
 
     <div id="result">

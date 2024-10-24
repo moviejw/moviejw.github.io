@@ -54,8 +54,10 @@
             width: 30px;
             height: 30px;
             margin-left: 10px;
-            font-size: 30px; /* 아이콘 크기 */
-            color: #7289DA;  /* 디스코드 색상 */
+            font-size: 30px;
+            /* 아이콘 크기 */
+            color: #7289DA;
+            /* 디스코드 색상 */
         }
     </style>
     <script>
@@ -75,7 +77,7 @@
                 const files = await response.json();
                 const filteredFiles = files.filter(file => file.startsWith(input));
                 if (filteredFiles.length > 0) {
-                    loadCardDetails(filteredFiles[0], input); 
+                    loadCardDetails(filteredFiles[0], input);
                 } else {
                     alert('검색 결과가 없습니다.');
                 }
@@ -127,7 +129,7 @@
                     content = escapeHtml(content);
                     if (author !== previousAuthor) {
                         if (previousAuthor !== '') {
-                            messageContent += '<br><br>'; 
+                            messageContent += '<br><br>';
                         }
                         previousAuthor = author;
                     }
@@ -177,59 +179,43 @@
         }
 
         function getImage(char, type, name) {
+            const downfall = 'https://raw.githubusercontent.com/mikemayhemdev/DownfallSTS/master/src/main/resources/';
+            const charFolderMap = {
+                'Hermit': 'hermit',
+                'Hexaghost': 'hexamod',
+                'Automaton': 'bronze',
+                'Champ': 'champ',
+                'Guardian': 'guardian',
+                'Gremlins': 'gremlin',
+                'Slime Boss': 'slimebound',
+                'Snecko': 'sneckomod',
+                'Collector': 'collector',
+                'Collectible': 'collector',
+                'Misc': 'expansioncontent',
+                'Curse': 'expansioncontent',
+                'Boss': 'expansioncontent',
+                'Meta': 'expansioncontent'
+            };
+
             function formatName(char, name) {
                 if (char === 'Hermit' || char === 'Gremlins') {
                     return name.toLowerCase().replace(/[' \-]+/g, '_');
+                } else if (char === 'Slime Boss') {
+                    return name.toLowerCase().replace(/[' \-]+/g, '');
                 } else {
                     return name.replace(/[' \-]+/g, '').replace(/\b\w/g, char => char.toUpperCase());
                 }
             }
-            let imageUrl = '';
-            let downfall = 'https://raw.githubusercontent.com/mikemayhemdev/DownfallSTS/master/src/main/resources/';
 
-            switch (char) {
-                case 'Hermit':
-                    imageUrl = downfall + 'hermit' + "Resources/images/";
-                    break;
-                case 'Hexaghost':
-                    imageUrl = downfall + 'hexamod' + "Resources/images/";
-                    break;
-                case 'Automaton':
-                    imageUrl = downfall + 'bronze' + "Resources/images/";
-                    break;
-                case 'Champ':
-                    imageUrl = downfall + 'champ' + "Resources/images/";
-                    break;
-                case 'Guardian':
-                    imageUrl = downfall + 'guardian' + "Resources/images/";
-                    break;
-                case 'Gremlins':
-                    imageUrl = downfall + 'gremlin' + "Resources/images/";
-                    break;
-                case 'Slime Boss':
-                    imageUrl = downfall + 'slimebound' + "Resources/images/";
-                    break;
-                case 'Snecko':
-                    imageUrl = downfall + 'sneckomod' + "Resources/images/";
-                    break;
-                case 'Collector':
-                case 'Collectible': 
-                    imageUrl = downfall + 'collector' + "Resources/images/";
-                    break;
-                case 'Misc':
-                case 'Curse':
-                case 'Boss':
-                case 'Meta':
-                    imageUrl = downfall + 'expansioncontent' + "Resources/images/";
-                    break;
-                default:
-                    imageUrl = 'Image not found';
-                    break;
+            const folder = charFolderMap[char];
+            if (!folder) {
+                return 'Image not found';
             }
 
-            imageUrl += type + 's/' + formatName(char, name);
-            if (type == 'card') imageUrl += '_p.png';
-            else imageUrl += '.png';
+            const imagesDirectory = char === 'Slime Boss' ? 'SlimeboundImages' : 'images';
+
+            let imageUrl = `${downfall}${folder}Resources/${imagesDirectory}/${type}s/${formatName(char, name)}`;
+            imageUrl += type === 'card' ? '_p.png' : '.png';
 
             return imageUrl;
         }
